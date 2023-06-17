@@ -1,0 +1,241 @@
+<h1 align="center">Joy's Genshin Stats</h1>
+<h3 align="center">🕒 Updated at <u>{{ updated_at }}</u> (🤖automated)</h3>
+<br>
+
+<h2>Daily Rewards Genshin</h2>
+<table>
+    <tr>
+        <td>Total Rewards Claimed</td>
+        <td>{{ reward_info.claimed_rewards }}</td>
+    </tr>
+    <tr>
+        <td>Last Claimed Reward</td>
+        <td>{{ reward.amount }} x {{ reward.name }}</td>
+    </tr>
+</table>
+
+<h2>Daily Rewards Honkai Star Rail</h2>
+<table>
+    <tr>
+        <td>Total Rewards Claimed</td>
+        <td>{{ sr_reward_info.claimed_rewards }}</td>
+    </tr>
+    <tr>
+        <td>Last Claimed Reward</td>
+        <td>{{ sr_reward.amount }} x {{ sr_reward.name }}</td>
+    </tr>
+</table>
+
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"> Stats</h2>
+<table>
+    {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
+    <tr>
+        <td>{{ field.title() }}</td>
+        <td>{{ value }}</td>
+    </tr>
+    {%- endfor -%}
+</table>
+
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp", height="20"> Exploration</h2>
+<table>
+    <tr>
+        {%- for exploration in user.explorations -%}
+        <th>{{ exploration.name }}</th>
+        {%- endfor -%}
+    </tr>
+    <tr>
+        {%- for exploration in user.explorations -%}
+        <td>
+            <p align="center"><img src="{{ exploration.icon }}" width="180"></p>
+        </td>
+        {%- endfor -%}
+    </tr>
+    <tr>
+        {%- for exploration in user.explorations -%}
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>
+                        <img
+                        src="https://progress-bar.dev/{{ _int(exploration.explored) }}/"
+                        width=80>
+                    </td>
+                </tr>
+                <tr>
+                    <td>{{ exploration.type }}</td>
+                    <td>{{ exploration.level }}</td>
+                </tr>
+            </table>
+        </td>
+        {%- endfor -%}
+    </tr>
+</table>
+
+{%- if user.teapot -%}
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp", height="20"> Teapot</h2>
+<table>
+    <tr>
+        <td>Level</td>
+        <td>{{ user.teapot.level }}</td>
+    </tr>
+    <tr>
+        <td>Comfort</td>
+        <td>{{ user.teapot.comfort_name }} ({{ user.teapot.comfort }})</td>
+    </tr>
+    <tr>
+        <td>Items</td>
+        <td>{{ user.teapot.items }}</td>
+    </tr>
+    <tr>
+        <td>Visitors</td>
+        <td>{{ user.teapot.visitors }}</td>
+    </tr>
+</table>
+{%- endif -%}
+
+{%- if abyss.floors|length -%}
+<h2><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"> Spiral Abyss</h2>
+<table>
+    <tr>
+        <td>Season</td>
+        <td>{{ abyss.season }}</td>
+    </tr>
+    <tr>
+        <td>Total Battles</td>
+        <td>{{ abyss.total_battles }}</td>
+    </tr>
+    <tr>
+        <td>Total Wins</td>
+        <td>{{ abyss.total_wins }}</td>
+    </tr>
+    <tr>
+        <td>Max Floor</td>
+        <td>{{ abyss.max_floor }}</td>
+    </tr>
+    <tr>
+        <td>Total Stars</td>
+        <td>{{ abyss.total_stars }}</td>
+    </tr>
+    {%- for field, characters in abyss.ranks.as_dict(lang=lang).items() -%}
+    <tr>
+        <td>{{ field }}</td>
+        <td>
+            {%- for character in characters -%}
+            <img src="{{ character.icon }}" , height="18"> {{ character.name }} ({{ character.value }})<br>
+            {%- endfor -%}
+        </td>
+    </tr>
+    {%- endfor -%}
+</table>
+{%- endif -%}
+
+<h2><img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp" height="20"> Diary</h2>
+<table>
+    <tr>
+        <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png", height="18"> Primogems earned</td>
+        <td>{{ diary.data.current_primogems }} (rate {{ diary.data.primogems_rate }})</td>
+    </tr>
+    <tr>
+        <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.webp", height="18"> Mora earned</td>
+        <td>{{ diary.data.current_mora }} (rate {{ diary.data.mora_rate }})</td>
+    </tr>
+    <tr>
+        <td>Categories</td>
+        <td>
+            {%- for category in diary.data.categories -%}
+            {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
+            {%- endfor -%}
+        </td>
+    </tr>
+</table>
+
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="20"> Characters</h2>
+{%- for character in user.characters -%}
+    {%- if user.characters.index(character) == 0 -%}
+        <details open>
+    {%- else -%}
+        <details>
+    {%- endif -%}
+
+    <summary><b>{{ character.name }}</b></summary>
+    <br/>
+    <table>
+        <tr>
+            <th><h3 align="center">{{ character.name }}</h3></th>
+            <th><h3 align="center">{{ character.weapon.name }}</h3></th>
+        </tr>
+        <tr>
+            <td>
+                <p align="center"><img src="{{ character.icon }}"></p>
+            </td>
+            <td>
+                <p align="center"><img src="{{ character.weapon.icon }}"></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td>Rarity</td>
+                        <td>{{ "★" * character.rarity }}</td>
+                    </tr>
+                    <tr>
+                        <td>Element</td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/{{ character.element.lower() }}_35.webp", height="18"></td>
+                    </tr>
+                    <tr>
+                        <td>Level</td>
+                        <td>{{ character.level }}</td>
+                    </tr>
+                    <tr>
+                        <td>Friendship</td>
+                        <td>{{ character.friendship }}</td>
+                    </tr>
+                    <tr>
+                        <td>Constellation</td>
+                        <td>{{ character.constellation }}</td>
+                    </tr>
+                    <tr>
+                        <td>Artifacts<br>
+                        {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list -%}
+                        {%- for name in sets|unique -%}
+                        {{ sets.count(name) }} x {{ name }}<br>
+                        {%- endfor -%}
+                        </td>
+                        <td>
+                            {%- for artifact in character.artifacts -%}
+                            <img src="{{ artifact.icon }}", height="18"> {{ artifact.name }}<br>
+                            {%- endfor -%}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Outfits</td>
+                        <td>{{ character.outfits|join(", ", attribute="name") }}</td>
+                    </tr>
+                </table>
+            </td>
+            <td valign="top">
+                <table>
+                    <tr>
+                        <td>Name</td>
+                        <td>{{ character.weapon.name }}</td>
+                    </tr>
+                    <tr>
+                        <td>Rarity</td>
+                        <td>{{ "★" * character.weapon.rarity }}</td>
+                    </tr>
+                    <tr>
+                        <td>Level</td>
+                        <td>{{ character.weapon.level }}</td>
+                    </tr>
+                    <tr>
+                        <td>Refinement</td>
+                        <td>{{ character.weapon.refinement }}</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</details>
+{%- endfor -%}
