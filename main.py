@@ -43,7 +43,7 @@ async def main():
 
     user = await client.get_full_genshin_user(0, lang=args.lang)
     abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
-    diary = await client.get_diary()
+    diary = await client.get_genshin_diary()
 
     # claim daily reward genshin
     try:
