@@ -1,4 +1,4 @@
-genshin genshin
+genshin
 Jinja2
 python-dotenv
 pytz
