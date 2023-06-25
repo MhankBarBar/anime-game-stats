@@ -33,11 +33,7 @@ jobs:
       - name: Commit and push if changed
         run: |
           git diff
-          git checkout --orphan temp_branch
           git config user.name "MhankBarBar"
           git config user.email "mhankbarbar@pm.me"
-          git add -A
           git commit -asm "Joy's Genshin Impact stats"
-          git branch -D master
-          git branch -m master
           git push -f origin master
