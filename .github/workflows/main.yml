@@ -35,5 +35,5 @@ jobs:
           git diff
           git config user.name "MhankBarBar"
           git config user.email "mhankbarbar@pm.me"
-          git commit -asm "Joy's Genshin Impact stats"
-          git push -f origin master
+          git commit -asm "Joy's Anime Game stats"
+          git push
