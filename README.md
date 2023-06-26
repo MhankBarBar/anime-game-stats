@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 26, 2023 13:27 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 26, 2023 19:38 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -76,117 +76,6 @@
     Characters
   </h2>
   <details open>
-    <summary><b>Clara </b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3>Clara</h3></th>
-        <th><h3>A Secret Vow</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/21381e6efc00b885dc7f2cc33b8386f2.png"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/d1213c34a2d83f349fd1ca7fd73c623e.png"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>80</td>
-            </tr>
-            <tr>
-              <td>Eidolon</td>
-              <td>0</td>
-            </tr>
-            <tr>
-              <td>Relics</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/e566bf8cd0db6236f010f4c7aed884f2.png"
-                  ,
-                  height="18"
-                />
-                Champion's Headgear<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/07b80c624f2d95cca87b5f1226ed9e4b.png"
-                  ,
-                  height="18"
-                />
-                Champion's Heavy Gloves<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/9dabfa8633edb31e9a92298a71f0dc08.png"
-                  ,
-                  height="18"
-                />
-                Champion's Chest Guard<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/866af6a6935c66da3724200dcf52d0be.png"
-                  ,
-                  height="18"
-                />
-                Champion's Fleetfoot Boots<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Planar</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/92a5d08f8f11c0d1b70b71c961c4e8ed.png"
-                  ,
-                  height="18"
-                />
-                Herta's Space Station<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/65560ad65d5cd47729d4f0c77068318a.png"
-                  ,
-                  height="18"
-                />
-                Herta's Wandering Trek<br />
-              </td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>A Secret Vow</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td>Superimpose</td>
-              <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
     <summary><b>Seele </b></summary>
     <br />
     <table>
@@ -298,6 +187,228 @@
     </table>
   </details>
   <details>
+    <summary><b>Clara </b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3>Clara</h3></th>
+        <th><h3>A Secret Vow</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/21381e6efc00b885dc7f2cc33b8386f2.png"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/d1213c34a2d83f349fd1ca7fd73c623e.png"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>80</td>
+            </tr>
+            <tr>
+              <td>Eidolon</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>Relics</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/e566bf8cd0db6236f010f4c7aed884f2.png"
+                  ,
+                  height="18"
+                />
+                Champion's Headgear<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/07b80c624f2d95cca87b5f1226ed9e4b.png"
+                  ,
+                  height="18"
+                />
+                Champion's Heavy Gloves<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/9dabfa8633edb31e9a92298a71f0dc08.png"
+                  ,
+                  height="18"
+                />
+                Champion's Chest Guard<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/866af6a6935c66da3724200dcf52d0be.png"
+                  ,
+                  height="18"
+                />
+                Champion's Fleetfoot Boots<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Planar</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/92a5d08f8f11c0d1b70b71c961c4e8ed.png"
+                  ,
+                  height="18"
+                />
+                Herta's Space Station<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/65560ad65d5cd47729d4f0c77068318a.png"
+                  ,
+                  height="18"
+                />
+                Herta's Wandering Trek<br />
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>A Secret Vow</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>60</td>
+            </tr>
+            <tr>
+              <td>Superimpose</td>
+              <td>1</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
+    <summary><b>Himeko </b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3>Himeko</h3></th>
+        <th><h3>Make the World Clamor</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/8009e37326765807a02f3f0a129273d9.png"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/fdf836c7f5d793268110bff1424996ff.png"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>60</td>
+            </tr>
+            <tr>
+              <td>Eidolon</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>Relics</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/274093c1ba4c523ad35616a09f95796e.png"
+                  ,
+                  height="18"
+                />
+                Firesmith's Obsidian Goggles<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/3c981c23c3801643b0d3bdc42ff69a0e.png"
+                  ,
+                  height="18"
+                />
+                Firesmith's Ring of Flame-Mastery<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/78b4fe467edd437e13b310e05a8fcd37.png"
+                  ,
+                  height="18"
+                />
+                Firesmith's Fireproof Apron<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/eac4c9c73a7fbec36583eb8d76439caa.png"
+                  ,
+                  height="18"
+                />
+                Firesmith's Alloy Leg<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Planar</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/23675188752ce67427e3d7acf243ed20.png"
+                  ,
+                  height="18"
+                />
+                Planet Screwllum's Mechanical Sun<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/f5727c780c62bb9f6bb2738048a2de6e.png"
+                  ,
+                  height="18"
+                />
+                Planet Screwllum's Ring System<br />
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Make the World Clamor</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>60</td>
+            </tr>
+            <tr>
+              <td>Superimpose</td>
+              <td>3</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Trailblazer </b></summary>
     <br />
     <table>
@@ -398,228 +509,6 @@
             <tr>
               <td>Level</td>
               <td>60</td>
-            </tr>
-            <tr>
-              <td>Superimpose</td>
-              <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Jing Yuan </b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3>Jing Yuan</h3></th>
-        <th><h3>The Seriousness of Breakfast</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/fc7f8abc1672ba8d0ed663eb309d0376.png"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/126e73955d844bf81aa9ba6943faa448.png"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>70</td>
-            </tr>
-            <tr>
-              <td>Eidolon</td>
-              <td>0</td>
-            </tr>
-            <tr>
-              <td>Relics</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/768ee1efe03e6ad3fd7300b0af36beab.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Wild Wheat Felt Hat<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/85afd14e4a4434c544eb3851885d8ad0.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Coarse Leather Gloves<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/066b530dd3ec00b66a858c7f598000c1.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Wind-Hunting Shawl<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/7ee92397e6cfcee94a744869fff0c930.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Rivets Riding Boots<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Planar</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/92a5d08f8f11c0d1b70b71c961c4e8ed.png"
-                  ,
-                  height="18"
-                />
-                Herta's Space Station<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/65560ad65d5cd47729d4f0c77068318a.png"
-                  ,
-                  height="18"
-                />
-                Herta's Wandering Trek<br />
-              </td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>The Seriousness of Breakfast</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td>Superimpose</td>
-              <td>2</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Tingyun </b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3>Tingyun</h3></th>
-        <th><h3>Dance! Dance! Dance!</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/828a8c682e5ee753d0a35822d26de087.png"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/2612f4d392b20f24c8fa2373ce0c702d.png"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>70</td>
-            </tr>
-            <tr>
-              <td>Eidolon</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Relics</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/768ee1efe03e6ad3fd7300b0af36beab.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Wild Wheat Felt Hat<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/85afd14e4a4434c544eb3851885d8ad0.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Coarse Leather Gloves<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/066b530dd3ec00b66a858c7f598000c1.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Wind-Hunting Shawl<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/7ee92397e6cfcee94a744869fff0c930.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Rivets Riding Boots<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Planar</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/2cda4b6dd96ba8b3dea5f3165b56ab28.png"
-                  ,
-                  height="18"
-                />
-                The Xianzhou Luofu's Celestial Ark<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/ffefd75333704d9a9a2ed36bb5a2376f.png"
-                  ,
-                  height="18"
-                />
-                The Xianzhou Luofu's Ambrosial Arbor Vines<br />
-              </td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Dance! Dance! Dance!</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>70</td>
             </tr>
             <tr>
               <td>Superimpose</td>
@@ -742,25 +631,136 @@
     </table>
   </details>
   <details>
-    <summary><b>Himeko </b></summary>
+    <summary><b>Tingyun </b></summary>
     <br />
     <table>
       <tr>
-        <th><h3>Himeko</h3></th>
-        <th><h3>Make the World Clamor</h3></th>
+        <th><h3>Tingyun</h3></th>
+        <th><h3>Dance! Dance! Dance!</h3></th>
       </tr>
       <tr>
         <td>
           <p align="center">
             <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/8009e37326765807a02f3f0a129273d9.png"
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/828a8c682e5ee753d0a35822d26de087.png"
             />
           </p>
         </td>
         <td>
           <p align="center">
             <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/fdf836c7f5d793268110bff1424996ff.png"
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/2612f4d392b20f24c8fa2373ce0c702d.png"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>Eidolon</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Relics</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/768ee1efe03e6ad3fd7300b0af36beab.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Wild Wheat Felt Hat<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/85afd14e4a4434c544eb3851885d8ad0.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Coarse Leather Gloves<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/066b530dd3ec00b66a858c7f598000c1.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Wind-Hunting Shawl<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/7ee92397e6cfcee94a744869fff0c930.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Rivets Riding Boots<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Planar</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/2cda4b6dd96ba8b3dea5f3165b56ab28.png"
+                  ,
+                  height="18"
+                />
+                The Xianzhou Luofu's Celestial Ark<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/ffefd75333704d9a9a2ed36bb5a2376f.png"
+                  ,
+                  height="18"
+                />
+                The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Dance! Dance! Dance!</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>Superimpose</td>
+              <td>1</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
+    <summary><b>Jing Yuan </b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3>Jing Yuan</h3></th>
+        <th><h3>The Seriousness of Breakfast</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/fc7f8abc1672ba8d0ed663eb309d0376.png"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/126e73955d844bf81aa9ba6943faa448.png"
             />
           </p>
         </td>
@@ -776,14 +776,14 @@
               <td>Element</td>
               <td>
                 <img
-                  src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                  src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
                   height="18"
                 />
               </td>
             </tr>
             <tr>
               <td>Level</td>
-              <td>60</td>
+              <td>70</td>
             </tr>
             <tr>
               <td>Eidolon</td>
@@ -793,42 +793,42 @@
               <td>Relics</td>
               <td>
                 <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/274093c1ba4c523ad35616a09f95796e.png"
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/768ee1efe03e6ad3fd7300b0af36beab.png"
                   ,
                   height="18"
                 />
-                Firesmith's Obsidian Goggles<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/3c981c23c3801643b0d3bdc42ff69a0e.png"
+                Musketeer's Wild Wheat Felt Hat<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/85afd14e4a4434c544eb3851885d8ad0.png"
                   ,
                   height="18"
                 />
-                Firesmith's Ring of Flame-Mastery<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/78b4fe467edd437e13b310e05a8fcd37.png"
+                Musketeer's Coarse Leather Gloves<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/066b530dd3ec00b66a858c7f598000c1.png"
                   ,
                   height="18"
                 />
-                Firesmith's Fireproof Apron<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/eac4c9c73a7fbec36583eb8d76439caa.png"
+                Musketeer's Wind-Hunting Shawl<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/7ee92397e6cfcee94a744869fff0c930.png"
                   ,
                   height="18"
                 />
-                Firesmith's Alloy Leg<br />
+                Musketeer's Rivets Riding Boots<br />
               </td>
             </tr>
             <tr>
               <td>Planar</td>
               <td>
                 <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/23675188752ce67427e3d7acf243ed20.png"
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/92a5d08f8f11c0d1b70b71c961c4e8ed.png"
                   ,
                   height="18"
                 />
-                Planet Screwllum's Mechanical Sun<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/f5727c780c62bb9f6bb2738048a2de6e.png"
+                Herta's Space Station<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/65560ad65d5cd47729d4f0c77068318a.png"
                   ,
                   height="18"
                 />
-                Planet Screwllum's Ring System<br />
+                Herta's Wandering Trek<br />
               </td>
             </tr>
           </table>
@@ -837,7 +837,7 @@
           <table>
             <tr>
               <td>Name</td>
-              <td>Make the World Clamor</td>
+              <td>The Seriousness of Breakfast</td>
             </tr>
             <tr>
               <td>Level</td>
@@ -845,7 +845,7 @@
             </tr>
             <tr>
               <td>Superimpose</td>
-              <td>3</td>
+              <td>2</td>
             </tr>
           </table>
         </td>
@@ -1947,7 +1947,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>706</td>
+      <td>707</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2255,16 +2255,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-          ,
-          height="18"
-        />
-        Bennett (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
@@ -2274,7 +2264,17 @@
           ,
           height="18"
         />
-        Yelan (12)<br />
+        Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+          ,
+          height="18"
+        />
+        Bennett (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (12)<br />
       </td>
     </tr>
     <tr>
@@ -2349,7 +2349,7 @@
         />
         Primogems earned
       </td>
-      <td>4322 (rate -26)</td>
+      <td>4382 (rate -25)</td>
     </tr>
     <tr>
       <td>
@@ -2360,13 +2360,13 @@
         />
         Mora earned
       </td>
-      <td>3842281 (rate -17)</td>
+      <td>3917823 (rate -16)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1320 (31%)<br />Events: 1200 (28%)<br />Spiral Abyss:
-        1200 (28%)<br />Mail: 360 (8%)<br />Adventure: 191 (4%)<br />Quests: 50
+        Daily Activity: 1380 (32%)<br />Events: 1200 (28%)<br />Spiral Abyss:
+        1200 (27%)<br />Mail: 360 (8%)<br />Adventure: 191 (4%)<br />Quests: 50
         (1%)<br />Other: 1 (0%)<br />
       </td>
     </tr>
@@ -4268,6 +4268,118 @@
     </table>
   </details>
   <details>
+    <summary><b>Xingqiu</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Xingqiu</h3></th>
+        <th><h3 align="center">Sacrificial Sword</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/538c0089ae594f98273db22ef5d303cd.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>80</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>10</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>
+                Artifacts<br />4 x Emblem of Severed Fate<br />1 x Gilded
+                Dreams<br />
+              </td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d565a6c6d7466c605ee3a081adc45d93.png"
+                  height="18"
+                />
+                Magnificent Tsuba<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1887465c9000ef97d836710f3d27d191.png"
+                  height="18"
+                />
+                Sundered Feather<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/03fb8568d271ac4093305018d0c06aa0.png"
+                  height="18"
+                />
+                Storm Cage<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/251c3d5dc46a35001380f7f6775c9a85.png"
+                  height="18"
+                />
+                Scarlet Vessel<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/021f9b3a3dc4e53a07db8fa347a82f21.png"
+                  height="18"
+                />
+                Shadow of the Sand King<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Sacrificial Sword</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>80</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>4</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Ningguang</b></summary>
     <br />
     <table>
@@ -4477,118 +4589,6 @@
             <tr>
               <td>Refinement</td>
               <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Xingqiu</b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3 align="center">Xingqiu</h3></th>
-        <th><h3 align="center">Sacrificial Sword</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
-              heigt="250"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/538c0089ae594f98273db22ef5d303cd.png"
-              height="250"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>80</td>
-            </tr>
-            <tr>
-              <td>Friendship</td>
-              <td>9</td>
-            </tr>
-            <tr>
-              <td>Constellation</td>
-              <td>5</td>
-            </tr>
-            <tr>
-              <td>
-                Artifacts<br />4 x Emblem of Severed Fate<br />1 x Gilded
-                Dreams<br />
-              </td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/d565a6c6d7466c605ee3a081adc45d93.png"
-                  height="18"
-                />
-                Magnificent Tsuba<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1887465c9000ef97d836710f3d27d191.png"
-                  height="18"
-                />
-                Sundered Feather<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/03fb8568d271ac4093305018d0c06aa0.png"
-                  height="18"
-                />
-                Storm Cage<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/251c3d5dc46a35001380f7f6775c9a85.png"
-                  height="18"
-                />
-                Scarlet Vessel<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/021f9b3a3dc4e53a07db8fa347a82f21.png"
-                  height="18"
-                />
-                Shadow of the Sand King<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Outfits</td>
-              <td></td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Sacrificial Sword</td>
-            </tr>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>80</td>
-            </tr>
-            <tr>
-              <td>Refinement</td>
-              <td>4</td>
             </tr>
           </table>
         </td>
@@ -6344,7 +6344,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>6</td>
+              <td>7</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -6977,7 +6977,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>1</td>
+              <td>2</td>
             </tr>
             <tr>
               <td>Constellation</td>
