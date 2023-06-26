@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 26, 2023 08:56 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 26, 2023 13:27 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -76,6 +76,117 @@
     Characters
   </h2>
   <details open>
+    <summary><b>Clara </b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3>Clara</h3></th>
+        <th><h3>A Secret Vow</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/21381e6efc00b885dc7f2cc33b8386f2.png"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/d1213c34a2d83f349fd1ca7fd73c623e.png"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>80</td>
+            </tr>
+            <tr>
+              <td>Eidolon</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>Relics</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/e566bf8cd0db6236f010f4c7aed884f2.png"
+                  ,
+                  height="18"
+                />
+                Champion's Headgear<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/07b80c624f2d95cca87b5f1226ed9e4b.png"
+                  ,
+                  height="18"
+                />
+                Champion's Heavy Gloves<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/9dabfa8633edb31e9a92298a71f0dc08.png"
+                  ,
+                  height="18"
+                />
+                Champion's Chest Guard<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/866af6a6935c66da3724200dcf52d0be.png"
+                  ,
+                  height="18"
+                />
+                Champion's Fleetfoot Boots<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Planar</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/92a5d08f8f11c0d1b70b71c961c4e8ed.png"
+                  ,
+                  height="18"
+                />
+                Herta's Space Station<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/65560ad65d5cd47729d4f0c77068318a.png"
+                  ,
+                  height="18"
+                />
+                Herta's Wandering Trek<br />
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>A Secret Vow</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>60</td>
+            </tr>
+            <tr>
+              <td>Superimpose</td>
+              <td>1</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Seele </b></summary>
     <br />
     <table>
@@ -402,117 +513,6 @@
             <tr>
               <td>Superimpose</td>
               <td>2</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Clara </b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3>Clara</h3></th>
-        <th><h3>A Secret Vow</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/21381e6efc00b885dc7f2cc33b8386f2.png"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/d1213c34a2d83f349fd1ca7fd73c623e.png"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>70</td>
-            </tr>
-            <tr>
-              <td>Eidolon</td>
-              <td>0</td>
-            </tr>
-            <tr>
-              <td>Relics</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/e566bf8cd0db6236f010f4c7aed884f2.png"
-                  ,
-                  height="18"
-                />
-                Champion's Headgear<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/07b80c624f2d95cca87b5f1226ed9e4b.png"
-                  ,
-                  height="18"
-                />
-                Champion's Heavy Gloves<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/9dabfa8633edb31e9a92298a71f0dc08.png"
-                  ,
-                  height="18"
-                />
-                Champion's Chest Guard<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/866af6a6935c66da3724200dcf52d0be.png"
-                  ,
-                  height="18"
-                />
-                Champion's Fleetfoot Boots<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Planar</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/92a5d08f8f11c0d1b70b71c961c4e8ed.png"
-                  ,
-                  height="18"
-                />
-                Herta's Space Station<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/65560ad65d5cd47729d4f0c77068318a.png"
-                  ,
-                  height="18"
-                />
-                Herta's Wandering Trek<br />
-              </td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>A Secret Vow</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td>Superimpose</td>
-              <td>1</td>
             </tr>
           </table>
         </td>
@@ -969,7 +969,7 @@
     <table>
       <tr>
         <th><h3>Pela</h3></th>
-        <th><h3>In the Name of the World</h3></th>
+        <th><h3>Before the Tutorial Mission Starts</h3></th>
       </tr>
       <tr>
         <td>
@@ -982,7 +982,7 @@
         <td>
           <p align="center">
             <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/753ef8605979fd0d855dc002a41a48be.png"
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/29f8c763c70988abba480161d4ac3a8a.png"
             />
           </p>
         </td>
@@ -1059,7 +1059,7 @@
           <table>
             <tr>
               <td>Name</td>
-              <td>In the Name of the World</td>
+              <td>Before the Tutorial Mission Starts</td>
             </tr>
             <tr>
               <td>Level</td>
@@ -1067,7 +1067,7 @@
             </tr>
             <tr>
               <td>Superimpose</td>
-              <td>2</td>
+              <td>5</td>
             </tr>
           </table>
         </td>
@@ -1120,7 +1120,7 @@
             </tr>
             <tr>
               <td>Eidolon</td>
-              <td>1</td>
+              <td>2</td>
             </tr>
             <tr>
               <td>Relics</td>
@@ -2260,16 +2260,16 @@
           height="18"
         />
         Bennett (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          ,
-          height="18"
-        />
-        Yae Miko (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
         Raiden Shogun (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
