@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 26, 2023 19:38 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 27, 2023 01:24 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -26,17 +26,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>26</td>
+      <td>27</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
         2 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
           height="20"
         />
-        Refined Aether
+        Lost Crystal
       </td>
     </tr>
   </table>
@@ -2255,16 +2255,11 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
         />
-        Nahida (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (12)<br /><img
+        Yae Miko (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
           ,
           height="18"
@@ -2274,7 +2269,12 @@
           ,
           height="18"
         />
-        Raiden Shogun (12)<br />
+        Raiden Shogun (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br />
       </td>
     </tr>
     <tr>
