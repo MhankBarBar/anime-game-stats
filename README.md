@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 26, 2023 01:23 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 26, 2023 08:56 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -52,7 +52,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>55</td>
+      <td>56</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -67,73 +67,6 @@
       <td>273</td>
     </tr>
     <tr></tr>
-  </table>
-  <h2>Memory of Chaos</h2>
-  <table>
-    <tr>
-      <td>Season</td>
-      <td>119</td>
-    </tr>
-    <tr>
-      <td>Max Floor</td>
-      <td>Favor of Amber Phase 1</td>
-    </tr>
-    <tr>
-      <td>Total Battles</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Total Stars</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Name</td>
-      <td>Favor of Amber Phase 1</td>
-    </tr>
-    <tr>
-      <td>Floor</td>
-      <td>2 Stars</td>
-    </tr>
-    <tr>
-      <td>Cycles used</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>Party 1</td>
-      <td>
-        <img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/02aa3f606bd9f3c520609665b44f1e47.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/f2032d03f4efd5eafb81fa5178862fab.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/828a8c682e5ee753d0a35822d26de087.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/8d509898ef417321ac7fbf517856f0cf.png"
-          height="18"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td>Party 2</td>
-      <td>
-        <img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/fc7f8abc1672ba8d0ed663eb309d0376.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/451b7d12dd7f1888c3e4236a8acf777f.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/7627299a614b9bb24b9a2cbac65b8247.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_745c4j/88fd449b07a574d8b444a7147cbd6471.png"
-          height="18"
-        />
-      </td>
-    </tr>
   </table>
   <h2>
     <img
@@ -1985,17 +1918,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>25</td>
+      <td>26</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
         3 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
           height="20"
         />
-        Hero's Wit
+        Almond Tofu
       </td>
     </tr>
   </table>
@@ -2322,26 +2255,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          ,
-          height="18"
-        />
-        Yae Miko (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
           ,
           height="18"
         />
         Bennett (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
         />
-        Nahida (12)<br />
+        Yae Miko (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (12)<br />
       </td>
     </tr>
     <tr>
