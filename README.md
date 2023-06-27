@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 27, 2023 13:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 27, 2023 19:39 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -1918,17 +1918,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>26</td>
+      <td>27</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
         3 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           height="20"
         />
-        Almond Tofu
+        Adventurer's Experience
       </td>
     </tr>
   </table>
@@ -2255,26 +2255,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
         Nahida (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+          ,
+          height="18"
+        />
+        Bennett (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
         />
         Yae Miko (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
-        Yelan (12)<br />
+        Raiden Shogun (12)<br />
       </td>
     </tr>
     <tr>
