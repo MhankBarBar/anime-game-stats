@@ -35,10 +35,14 @@
     <table>
         {%- for field, value in hsr.user.stats.dict().items() -%}
         <tr>
-            {%- if field not in ["lang", "abyss_process"] -%}
+        {%- if field not in ["lang", "abyss_process"] -%}
+            {%- if "chest" in field -%}
+            <td>Chest Opened</td>
+            {%- else -%}
             <td>{{ " ".join(field.split("_")[::-1]).replace("num", "total").title() }}</td>
-            <td>{{ value }}</td>
             {%- endif -%}
+            <td>{{ value }}</td>
+        {%- endif -%}
         </tr>
         {%- endfor -%}
     </table>

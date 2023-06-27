@@ -62,20 +62,22 @@ class AnimeGame(genshin.Client):
         cookies = json.loads(_c)
         super().__init__(cookies, debug=False, game=genshin.Game.GENSHIN)
 
+    async def _claim_daily(self, game: typing.Optional[genshin.types.Game] = None):
+        try:
+            await self.claim_daily_reward(game=game, lang=self.args.lang, reward=False)
+        except (genshin.AlreadyClaimed, genshin.GeetestTriggered):
+            pass
+        finally:
+            reward = await self.claimed_rewards(lang=self.args.lang).next()
+            reward_info = await self.get_reward_info()
+        return reward, reward_info
+
     async def get_genshin_res(self):
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
         abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
         diary = await self.get_genshin_diary()
 
-        # claim daily reward genshin, skipping this due hoyolab starting challenge while claiming reward
-        # for now, claim this sh1t manually on hoyolab
-        # try:
-        #    await self.claim_daily_reward(lang=self.args.lang, reward=False)
-        # except genshin.AlreadyClaimed:
-        #   pass
-        # finally:
-        reward = await self.claimed_rewards(lang=self.args.lang).next()
-        reward_info = await self.get_reward_info()
+        reward, reward_info = await self._claim_daily()
 
         return GenshinRes(
             user=user,
@@ -91,22 +93,15 @@ class AnimeGame(genshin.Client):
         forgotten_hall = await self.get_starrail_challenge(previous=True)
         characters = await self.get_starrail_characters()
 
-        # claim daily reward honkai star rail
-        try:
-            await self.claim_daily_reward(lang=self.args.lang, reward=False, game=genshin.types.Game.STARRAIL)
-        except genshin.AlreadyClaimed:
-            pass
-        finally:
-            sr_reward = await self.claimed_rewards(lang=self.args.lang, game=genshin.types.Game.STARRAIL).next()
-            sr_reward_info = await self.get_reward_info(game=genshin.types.Game.STARRAIL)
+        reward, reward_info = await self._claim_daily(game=genshin.Game.STARRAIL)
 
         return HsrRes(
             user=user,
             characters=characters.avatar_list,
             diary=diary,
             forgotten_hall=forgotten_hall,
-            reward=sr_reward,
-            reward_info=sr_reward_info
+            reward=reward,
+            reward_info=reward_info
         )
 
     async def main(self):
