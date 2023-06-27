@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 25, 2023 20:04 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 28, 2023 01:24 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -26,17 +26,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>27</td>
+      <td>28</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        1 x
+        3 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
           height="20"
         />
-        Disposable Kinetic Arm
+        Traveler's Guide
       </td>
     </tr>
   </table>
@@ -1947,7 +1947,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>707</td>
+      <td>708</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2349,7 +2349,7 @@
         />
         Primogems earned
       </td>
-      <td>4382 (rate -25)</td>
+      <td>4442 (rate -23)</td>
     </tr>
     <tr>
       <td>
@@ -2360,12 +2360,12 @@
         />
         Mora earned
       </td>
-      <td>3917823 (rate -16)</td>
+      <td>3982183 (rate -14)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1380 (32%)<br />Events: 1200 (28%)<br />Spiral Abyss:
+        Daily Activity: 1440 (33%)<br />Events: 1200 (27%)<br />Spiral Abyss:
         1200 (27%)<br />Mail: 360 (8%)<br />Adventure: 191 (4%)<br />Quests: 50
         (1%)<br />Other: 1 (0%)<br />
       </td>
