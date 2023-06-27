@@ -68,8 +68,8 @@ class AnimeGame(genshin.Client):
         except (genshin.AlreadyClaimed, genshin.GeetestTriggered):
             pass
         finally:
-            reward = await self.claimed_rewards(lang=self.args.lang).next()
-            reward_info = await self.get_reward_info()
+            reward = await self.claimed_rewards(game=game, lang=self.args.lang).next()
+            reward_info = await self.get_reward_info(game=game, lang=self.args.lang)
         return reward, reward_info
 
     async def get_genshin_res(self):
@@ -89,11 +89,11 @@ class AnimeGame(genshin.Client):
 
     async def get_hsr_res(self):
         user = await self.get_starrail_user()
-        diary = None  # await self.get_starrail_diary() #  skip this sh1t for now bcz error, idk why
+        diary = None  # await self.get_starrail_diary()  # skip this sh1t for now bcz error, idk why
         forgotten_hall = await self.get_starrail_challenge(previous=True)
         characters = await self.get_starrail_characters()
 
-        reward, reward_info = await self._claim_daily(game=genshin.Game.STARRAIL)
+        reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
 
         return HsrRes(
             user=user,
