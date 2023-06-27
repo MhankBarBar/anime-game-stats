@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 27, 2023 20:10 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 25, 2023 20:04 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,12 +31,12 @@
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        3 x
+        1 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
           height="20"
         />
-        Adventurer's Experience
+        Disposable Kinetic Arm
       </td>
     </tr>
   </table>
