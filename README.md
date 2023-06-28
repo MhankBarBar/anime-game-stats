@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 28, 2023 19:40 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 29, 2023 01:24 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -26,17 +26,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>28</td>
+      <td>29</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        3 x
+        5000 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           height="20"
         />
-        Traveler's Guide
+        Credit
       </td>
     </tr>
   </table>
@@ -1947,7 +1947,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>708</td>
+      <td>709</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2260,16 +2260,16 @@
           height="18"
         />
         Bennett (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
         Nahida (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          ,
-          height="18"
-        />
-        Yae Miko (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
@@ -2349,7 +2349,7 @@
         />
         Primogems earned
       </td>
-      <td>4442 (rate -23)</td>
+      <td>4622 (rate -20)</td>
     </tr>
     <tr>
       <td>
@@ -2360,13 +2360,13 @@
         />
         Mora earned
       </td>
-      <td>3982183 (rate -14)</td>
+      <td>4172589 (rate -10)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1440 (33%)<br />Events: 1200 (27%)<br />Spiral Abyss:
-        1200 (27%)<br />Mail: 360 (8%)<br />Adventure: 191 (4%)<br />Quests: 50
+        Daily Activity: 1500 (33%)<br />Events: 1320 (29%)<br />Spiral Abyss:
+        1200 (26%)<br />Mail: 360 (7%)<br />Adventure: 191 (4%)<br />Quests: 50
         (1%)<br />Other: 1 (0%)<br />
       </td>
     </tr>
