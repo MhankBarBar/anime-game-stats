@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 28, 2023 13:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 28, 2023 19:40 +0700</u> (🤖automated)
 </h3>
 <br />
 
