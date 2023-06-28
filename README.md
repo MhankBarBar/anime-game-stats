@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 28, 2023 01:24 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 28, 2023 08:54 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -1918,17 +1918,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>27</td>
+      <td>28</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
         3 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           height="20"
         />
-        Adventurer's Experience
+        Hero's Wit
       </td>
     </tr>
   </table>
@@ -2255,26 +2255,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
           ,
           height="18"
         />
         Bennett (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
         />
         Yae Miko (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
-        Raiden Shogun (12)<br />
+        Yelan (12)<br />
       </td>
     </tr>
     <tr>
@@ -6071,7 +6071,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>8</td>
+              <td>9</td>
             </tr>
             <tr>
               <td>Constellation</td>
