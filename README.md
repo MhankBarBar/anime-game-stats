@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2023 08:49 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 29, 2023 13:26 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -52,7 +52,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>58</td>
+      <td>59</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -1918,17 +1918,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>28</td>
+      <td>29</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        3 x
+        5000 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           height="20"
         />
-        Hero's Wit
+        Mora
       </td>
     </tr>
   </table>
