@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 30, 2023 01:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 30, 2023 08:48 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -1918,7 +1918,7 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>29</td>
+      <td>30</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
@@ -2255,26 +2255,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
-        Nahida (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (12)<br /><img
+        Raiden Shogun (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
           ,
           height="18"
         />
         Bennett (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
-        Raiden Shogun (12)<br />
+        Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          ,
+          height="18"
+        />
+        Yae Miko (12)<br />
       </td>
     </tr>
     <tr>
@@ -3762,7 +3762,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>8</td>
+              <td>9</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -6977,7 +6977,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>2</td>
+              <td>3</td>
             </tr>
             <tr>
               <td>Constellation</td>
