@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 30, 2023 13:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jun 30, 2023 19:38 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -52,7 +52,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>59</td>
+      <td>60</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -853,6 +853,117 @@
     </table>
   </details>
   <details>
+    <summary><b>Pela </b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3>Pela</h3></th>
+        <th><h3>Before the Tutorial Mission Starts</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/46d77a74e02bf47b4b92ac8ea8bf4a6c.png"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/d8a3aadd732fd9fb18d81c01eac7a3fc.png"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>Eidolon</td>
+              <td>4</td>
+            </tr>
+            <tr>
+              <td>Relics</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6eae6cf7561fc0e1ad9e1aa8d4bb793a.png"
+                  ,
+                  height="18"
+                />
+                Hunter's Artaius Hood<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/e724e2621c3e426f496ad1e3f79fa2c2.png"
+                  ,
+                  height="18"
+                />
+                Hunter's Lizard Gloves<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/4d79ace6f17008c4f60421bea9595539.png"
+                  ,
+                  height="18"
+                />
+                Hunter's Ice Dragon Cloak<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/30e44e16805c350f3e7cf448f81870e2.png"
+                  ,
+                  height="18"
+                />
+                Hunter's Soft Elkskin Boots<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Planar</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/dd03b9a173b0c5537166737bbecc73ef.png"
+                  ,
+                  height="18"
+                />
+                Salsotto's Moving City<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6219e5ed2e0c68e1e7bf5673e4b9189e.png"
+                  ,
+                  height="18"
+                />
+                Salsotto's Terminator Line<br />
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Before the Tutorial Mission Starts</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>60</td>
+            </tr>
+            <tr>
+              <td>Superimpose</td>
+              <td>5</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Sushang </b></summary>
     <br />
     <table>
@@ -957,117 +1068,6 @@
             <tr>
               <td>Superimpose</td>
               <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Pela </b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3>Pela</h3></th>
-        <th><h3>Before the Tutorial Mission Starts</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/46d77a74e02bf47b4b92ac8ea8bf4a6c.png"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/d8a3aadd732fd9fb18d81c01eac7a3fc.png"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td>Eidolon</td>
-              <td>4</td>
-            </tr>
-            <tr>
-              <td>Relics</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6eae6cf7561fc0e1ad9e1aa8d4bb793a.png"
-                  ,
-                  height="18"
-                />
-                Hunter's Artaius Hood<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/e724e2621c3e426f496ad1e3f79fa2c2.png"
-                  ,
-                  height="18"
-                />
-                Hunter's Lizard Gloves<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/4d79ace6f17008c4f60421bea9595539.png"
-                  ,
-                  height="18"
-                />
-                Hunter's Ice Dragon Cloak<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/30e44e16805c350f3e7cf448f81870e2.png"
-                  ,
-                  height="18"
-                />
-                Hunter's Soft Elkskin Boots<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Planar</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/dd03b9a173b0c5537166737bbecc73ef.png"
-                  ,
-                  height="18"
-                />
-                Salsotto's Moving City<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6219e5ed2e0c68e1e7bf5673e4b9189e.png"
-                  ,
-                  height="18"
-                />
-                Salsotto's Terminator Line<br />
-              </td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Before the Tutorial Mission Starts</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td>Superimpose</td>
-              <td>5</td>
             </tr>
           </table>
         </td>
@@ -2255,26 +2255,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
-        Bennett (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        Nahida (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
         />
-        Raiden Shogun (12)<br /><img
+        Yae Miko (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
         Yelan (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
-        Nahida (12)<br />
+        Raiden Shogun (12)<br />
       </td>
     </tr>
     <tr>
