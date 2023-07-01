@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 01, 2023 20:22 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jul 01, 2023 20:41 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -2280,16 +2280,16 @@
           height="18"
         />
         Raiden Shogun (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
         />
-        Yae Miko (12)<br />
+        Yae Miko (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (12)<br />
       </td>
     </tr>
     <tr>
@@ -2364,7 +2364,7 @@
         />
         Primogems earned
       </td>
-      <td>0 (rate -100)</td>
+      <td>40 (rate -99)</td>
     </tr>
     <tr>
       <td>
@@ -2375,14 +2375,13 @@
         />
         Mora earned
       </td>
-      <td>0 (rate -100)</td>
+      <td>41800 (rate -99)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-        Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
-        0 (0%)<br />
+        Daily Activity: 40 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
+        0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
       </td>
     </tr>
   </table>
@@ -7467,19 +7466,14 @@
     </table>
   </details>
 </details>
-
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img
-    src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-18_52_09.png"
-  />
+  <img src="images/genshin_card_01_07_2023-19_11_11.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img
-    src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-18_52_19.png"
-  />
+  <img src="images/genshin_card_01_07_2023-19_11_13.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on

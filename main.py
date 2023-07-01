@@ -55,6 +55,18 @@ def format_date(date: datetime) -> str:
     return f"{now.strftime('%b')} {now.strftime('%d')}, {now.strftime('%Y')} {now.strftime('%H:%M %z')}"
 
 
+def _clear_and_save(res):
+    if os.path.exists("images"):
+        for x in os.listdir("images"):
+            os.unlink(os.path.join("images", x))
+    else:
+        os.makedirs("images", exist_ok=True)
+        for x in res:
+            with open(f"images/" + x.split("/")[-1], "wb") as f:
+                f.write(get(x).content)
+    return [os.path.join("images", x.split("/")[-1]) for x in res]
+
+
 class AnimeGame(genshin.Client):
     args: argparse.Namespace
     mbb_api: str = "https://api.mhankbarbar.tech"
@@ -81,7 +93,9 @@ class AnimeGame(genshin.Client):
         else:
             pass  # TODO: add hsr
         if res.status_code == 200:
-            return res.json()["compressed_result"]
+            return _clear_and_save(res.json()["result"])
+        else:
+            return None
 
     async def get_genshin_res(self):
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
