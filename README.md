@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 01, 2023 17:06 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jul 01, 2023 19:35 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>Trailblaze Level</td>
-      <td>60</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Server</td>
@@ -61,7 +61,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>60</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -1072,7 +1072,7 @@
             </tr>
             <tr>
               <td>Level</td>
-              <td>40</td>
+              <td>50</td>
             </tr>
             <tr>
               <td>Superimpose</td>
@@ -1962,7 +1962,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>710</td>
+      <td>711</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -7470,7 +7470,7 @@
 
 <h3 align="center">My Genshin Characters Showcase</h3>
 <img
-  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-15_35_59.png"
+  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-18_05_47.png"
 /><img
-  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-15_36_01.png"
+  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-18_05_48.png"
 />
