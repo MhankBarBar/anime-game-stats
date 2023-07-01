@@ -35,5 +35,6 @@ jobs:
           git diff
           git config user.name "MhankBarBar"
           git config user.email "mhankbarbar@pm.me"
+          git add .
           git commit -asm "Joy's Anime Game stats"
           git push
