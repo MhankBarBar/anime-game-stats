@@ -2,7 +2,8 @@
 <h3 align="center">🕒 Updated at <u>{{ updated_at }}</u> (🤖automated)</h3>
 <br>
 
-<details><summary>Honkai Star Rail Details</summary>
+<details align="center"><summary><img src="https://i.pinimg.com/originals/a3/33/85/a3338541288aa31ff713edaf12c99961.png" height="20"> Honkai Star Rail Details</summary>
+    <img src="https://github.com/Mar-7th/StarRailRes/blob/master/icon/logo/en.png?raw=true">
     <h2>Info</h2>
     <table>
         <tr>
@@ -37,7 +38,7 @@
         <tr>
         {%- if field not in ["lang", "abyss_process"] -%}
             {%- if "chest" in field -%}
-            <td>Chest Opened</td>
+            <td>Chests Opened</td>
             {%- else -%}
             <td>{{ " ".join(field.split("_")[::-1]).replace("num", "total").title() }}</td>
             {%- endif -%}
@@ -182,7 +183,8 @@
 
 
 </details>
-<details><summary>Genshin Impact Details</summary>
+<details align="center"><summary><img src="https://img.icons8.com/?size=20&id=lhMu5buYsjBC&format=png"> Genshin Impact Details</summary>
+    <img src="https://www.freepnglogos.com/uploads/genshin-impact-logo-png/genshin-impact-shadow-logo-by-kurikuo-steamgriddb-4.png">
     <h2>Info</h2>
     <table>
         <tr>
@@ -425,3 +427,8 @@
     </details>
     {%- endfor -%}
 </details>
+
+<h3 align="center">My Genshin Characters Showcase</h3>
+{%- for res in genshin.showcase -%}
+<img src="{{ res }}">
+{%- endfor -%}

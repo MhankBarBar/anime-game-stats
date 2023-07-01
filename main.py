@@ -11,6 +11,7 @@ import genshin
 import jinja2
 import pytz
 from dotenv import load_dotenv
+from requests import get
 
 logger = logging.getLogger()
 load_dotenv()
@@ -23,11 +24,12 @@ parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default
 
 
 class GenshinRes:
-    user: typing.Any
-    abyss: typing.Any
-    diary: typing.Any
-    reward: typing.Any
-    reward_info: typing.Any
+    user: genshin.models.FullGenshinUserStats
+    abyss: genshin.models.SpiralAbyss
+    diary: genshin.models.Diary
+    reward: genshin.models.ClaimedDailyReward
+    reward_info: genshin.models.DailyRewardInfo
+    showcase: list[str]
 
     def __init__(self, **kwargs):
         for k, v in kwargs.items():
@@ -35,12 +37,12 @@ class GenshinRes:
 
 
 class HsrRes:
-    user: typing.Any
-    characters: typing.Any
-    diary: typing.Any
-    forgotten_hall: typing.Any
-    reward: typing.Any
-    reward_info: typing.Any
+    user: genshin.models.StarRailUserStats
+    characters: list[genshin.models.StarRailDetailCharacter]
+    diary: genshin.models.Diary
+    forgotten_hall: genshin.models.StarRailChallenge
+    reward: genshin.models.ClaimedDailyReward
+    reward_info: genshin.models.DailyRewardInfo
 
     def __init__(self, **kwargs):
         for k, v in kwargs.items():
@@ -55,6 +57,7 @@ def format_date(date: datetime) -> str:
 
 class AnimeGame(genshin.Client):
     args: argparse.Namespace
+    mbb_api: str = "https://api.mhankbarbar.tech"
 
     def __init__(self):
         self.args = parser.parse_args()
@@ -72,19 +75,29 @@ class AnimeGame(genshin.Client):
             reward_info = await self.get_reward_info(game=game, lang=self.args.lang)
         return reward, reward_info
 
+    def _get_character_showcase(self, game: str, uid: int):
+        if game == "genshin":
+            res = get(f"{self.mbb_api}/genshin_card?uid={uid}")
+        else:
+            pass  # TODO: add hsr
+        if res.status_code == 200:
+            return res.json()["result"]
+
     async def get_genshin_res(self):
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
         abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
         diary = await self.get_genshin_diary()
 
         reward, reward_info = await self._claim_daily()
+        showcase = self._get_character_showcase("genshin", self.uids.get(genshin.Game.GENSHIN))
 
         return GenshinRes(
             user=user,
             abyss=abyss,
             diary=diary,
             reward=reward,
-            reward_info=reward_info
+            reward_info=reward_info,
+            showcase=showcase
         )
 
     async def get_hsr_res(self):

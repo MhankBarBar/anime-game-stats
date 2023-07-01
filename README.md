@@ -1,11 +1,20 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 01, 2023 08:59 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jul 01, 2023 17:02 +0700</u> (🤖automated)
 </h3>
 <br />
 
-<details>
-  <summary>Honkai Star Rail Details</summary>
+<details align="center">
+  <summary>
+    <img
+      src="https://i.pinimg.com/originals/a3/33/85/a3338541288aa31ff713edaf12c99961.png"
+      height="20"
+    />
+    Honkai Star Rail Details
+  </summary>
+  <img
+    src="https://github.com/Mar-7th/StarRailRes/blob/master/icon/logo/en.png?raw=true"
+  />
   <h2>Info</h2>
   <table>
     <tr>
@@ -63,7 +72,7 @@
       <td>212</td>
     </tr>
     <tr>
-      <td>Chest Opened</td>
+      <td>Chests Opened</td>
       <td>273</td>
     </tr>
     <tr></tr>
@@ -1896,8 +1905,14 @@
     </table>
   </details>
 </details>
-<details>
-  <summary>Genshin Impact Details</summary>
+<details align="center">
+  <summary>
+    <img src="https://img.icons8.com/?size=20&id=lhMu5buYsjBC&format=png" />
+    Genshin Impact Details
+  </summary>
+  <img
+    src="https://www.freepnglogos.com/uploads/genshin-impact-logo-png/genshin-impact-shadow-logo-by-kurikuo-steamgriddb-4.png"
+  />
   <h2>Info</h2>
   <table>
     <tr>
@@ -2255,11 +2270,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
           ,
           height="18"
@@ -2274,7 +2284,12 @@
           ,
           height="18"
         />
-        Nahida (12)<br />
+        Nahida (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          ,
+          height="18"
+        />
+        Yae Miko (12)<br />
       </td>
     </tr>
     <tr>
@@ -7452,3 +7467,10 @@
     </table>
   </details>
 </details>
+
+<h3 align="center">My Genshin Characters Showcase</h3>
+<img
+  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-15_32_02.png"
+/><img
+  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-15_32_04.png"
+/>
