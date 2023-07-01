@@ -1,7 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">
-  🕒 Updated at <u>Jul 02, 2023 01:22 +0700</u> (🤖automated)
-</h3>
+<h3 align="center">🕒 Updated at <u>Jul 02, 2023 03:14 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2270,21 +2268,21 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          ,
-          height="18"
-        />
-        Yae Miko (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
         Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          ,
+          height="18"
+        />
+        Yae Miko (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
@@ -7470,11 +7468,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/genshin_card_01_07_2023-23_52_28.png" />
+  <img src="images\genshin_card_02_07_2023-03_13_37.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/genshin_card_01_07_2023-23_52_30.png" />
+  <img src="images\genshin_card_02_07_2023-03_13_39.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
