@@ -81,7 +81,7 @@ class AnimeGame(genshin.Client):
         else:
             pass  # TODO: add hsr
         if res.status_code == 200:
-            return res.json()["result"]
+            return res.json()["compressed_result"]
 
     async def get_genshin_res(self):
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
@@ -127,6 +127,7 @@ class AnimeGame(genshin.Client):
             genshin=_genshin,
             hsr=_hsr,
             _int=int,
+            _enumerate=enumerate,
             updated_at=format_date(_hsr.reward.time)
         )
         self.args.output.write_text(rendered)

@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 01, 2023 17:06 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jul 01, 2023 20:22 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>Trailblaze Level</td>
-      <td>60</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Server</td>
@@ -61,7 +61,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>60</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -1072,7 +1072,7 @@
             </tr>
             <tr>
               <td>Level</td>
-              <td>40</td>
+              <td>50</td>
             </tr>
             <tr>
               <td>Superimpose</td>
@@ -1962,7 +1962,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>710</td>
+      <td>711</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -7468,9 +7468,20 @@
   </details>
 </details>
 
-<h3 align="center">My Genshin Characters Showcase</h3>
-<img
-  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-15_35_59.png"
-/><img
-  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-15_36_01.png"
-/>
+<h2 align="center">My Genshin Characters Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img
+    src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-18_52_09.png"
+  />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img
+    src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-18_52_19.png"
+  />
+</details>
+<h2 align="center">
+  You can also check my characters showcase/builds on
+  <a href="https://enka.network/u/joydazo">Enka.Network</a>
+</h2>
