@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 02, 2023 03:24 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 02, 2023 03:29 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -7468,11 +7468,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/genshin_card_02_07_2023-03_23_52.png" />
+  <img src="images/genshin_card_02_07_2023-03_28_48.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/genshin_card_02_07_2023-03_23_54.png" />
+  <img src="images/genshin_card_02_07_2023-03_28_50.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
