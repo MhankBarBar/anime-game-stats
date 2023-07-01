@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 01, 2023 20:41 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jul 02, 2023 01:22 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -35,17 +35,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        2 x
+        1 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           height="20"
         />
-        Adventure Log
+        Condensed Aether
       </td>
     </tr>
   </table>
@@ -1666,7 +1666,7 @@
             </tr>
             <tr>
               <td>Eidolon</td>
-              <td>0</td>
+              <td>1</td>
             </tr>
             <tr>
               <td>Relics</td>
@@ -2248,11 +2248,11 @@
   <table>
     <tr>
       <td>Season</td>
-      <td>72</td>
+      <td>73</td>
     </tr>
     <tr>
       <td>Total Battles</td>
-      <td>12</td>
+      <td>13</td>
     </tr>
     <tr>
       <td>Total Wins</td>
@@ -2270,26 +2270,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-          ,
-          height="18"
-        />
-        Bennett (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
         />
         Yae Miko (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
-        Yelan (12)<br />
+        Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (12)<br />
       </td>
     </tr>
     <tr>
@@ -2300,7 +2300,7 @@
           ,
           height="18"
         />
-        Nahida (30)<br />
+        Nahida (43)<br />
       </td>
     </tr>
     <tr>
@@ -2311,18 +2311,18 @@
           ,
           height="18"
         />
-        Raiden Shogun (95921)<br />
+        Raiden Shogun (71736)<br />
       </td>
     </tr>
     <tr>
       <td>Most Damage Taken</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
           ,
           height="18"
         />
-        Wanderer (79378)<br />
+        Hu Tao (73297)<br />
       </td>
     </tr>
     <tr>
@@ -2333,7 +2333,7 @@
           ,
           height="18"
         />
-        Bennett (19)<br />
+        Bennett (17)<br />
       </td>
     </tr>
     <tr>
@@ -2344,7 +2344,7 @@
           ,
           height="18"
         />
-        Yae Miko (86)<br />
+        Yae Miko (95)<br />
       </td>
     </tr>
   </table>
@@ -2364,7 +2364,7 @@
         />
         Primogems earned
       </td>
-      <td>40 (rate -99)</td>
+      <td>660 (rate -85)</td>
     </tr>
     <tr>
       <td>
@@ -2375,13 +2375,14 @@
         />
         Mora earned
       </td>
-      <td>41800 (rate -99)</td>
+      <td>664436 (rate -84)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 40 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
-        0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+        Spiral Abyss: 600 (91%)<br />Daily Activity: 60 (9%)<br />Events: 0
+        (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+        0 (0%)<br />
       </td>
     </tr>
   </table>
@@ -7469,11 +7470,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/genshin_card_01_07_2023-19_11_11.png" />
+  <img src="images/genshin_card_01_07_2023-23_52_28.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/genshin_card_01_07_2023-19_11_13.png" />
+  <img src="images/genshin_card_01_07_2023-23_52_30.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
