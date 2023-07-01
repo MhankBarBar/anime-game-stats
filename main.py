@@ -62,7 +62,7 @@ def _clear_and_save(res):
     else:
         os.makedirs("images", exist_ok=True)
     for x in res:
-        with open(f"images/" + x.split("/")[-1], "wb") as f:
+        with open("images/" + x.split("/")[-1], "wb") as f:
             f.write(get(x).content)
     return [os.path.join("images", x.split("/")[-1]) for x in res]
 
