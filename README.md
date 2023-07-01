@@ -1,10 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-<<<<<<< HEAD
-  🕒 Updated at <u>Jul 01, 2023 17:02 +0700</u> (🤖automated)
-=======
-  🕒 Updated at <u>Jul 01, 2023 13:23 +0700</u> (🤖automated)
->>>>>>> ec706bba59251d94689a4ac4a54d7d5eddf15c3c
+  🕒 Updated at <u>Jul 01, 2023 17:06 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -7474,7 +7470,7 @@
 
 <h3 align="center">My Genshin Characters Showcase</h3>
 <img
-  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-15_32_02.png"
+  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-15_35_59.png"
 /><img
-  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-15_32_04.png"
+  src="https://api.mhankbarbar.tech/result/genshin_card_01_07_2023-15_36_01.png"
 />
