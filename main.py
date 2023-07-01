@@ -61,9 +61,9 @@ def _clear_and_save(res):
             os.unlink(os.path.join("images", x))
     else:
         os.makedirs("images", exist_ok=True)
-        for x in res:
-            with open(f"images/" + x.split("/")[-1], "wb") as f:
-                f.write(get(x).content)
+    for x in res:
+        with open(f"images/" + x.split("/")[-1], "wb") as f:
+            f.write(get(x).content)
     return [os.path.join("images", x.split("/")[-1]) for x in res]
 
 
