@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 01, 2023 08:57 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jul 01, 2023 08:59 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -2255,26 +2255,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
-        Nahida (12)<br /><img
+        Yelan (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
           ,
           height="18"
         />
         Bennett (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
-        Yae Miko (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        Raiden Shogun (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
-        Yelan (12)<br />
+        Nahida (12)<br />
       </td>
     </tr>
     <tr>
