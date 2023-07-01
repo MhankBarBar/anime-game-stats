@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jun 30, 2023 19:38 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jul 01, 2023 08:57 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -26,17 +26,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>30</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        5000 x
+        2 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           height="20"
         />
-        Credit
+        Adventure Log
       </td>
     </tr>
   </table>
@@ -1918,17 +1918,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>30</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        5000 x
+        3 x
         <img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           height="20"
         />
-        Mora
+        Adventurer's Experience
       </td>
     </tr>
   </table>
@@ -2260,6 +2260,11 @@
           height="18"
         />
         Nahida (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+          ,
+          height="18"
+        />
+        Bennett (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
@@ -2269,12 +2274,7 @@
           ,
           height="18"
         />
-        Yelan (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (12)<br />
+        Yelan (12)<br />
       </td>
     </tr>
     <tr>
@@ -2349,7 +2349,7 @@
         />
         Primogems earned
       </td>
-      <td>4682 (rate -19)</td>
+      <td>0 (rate -100)</td>
     </tr>
     <tr>
       <td>
@@ -2360,14 +2360,14 @@
         />
         Mora earned
       </td>
-      <td>4245188 (rate -9)</td>
+      <td>0 (rate -100)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1560 (34%)<br />Events: 1320 (29%)<br />Spiral Abyss:
-        1200 (25%)<br />Mail: 360 (7%)<br />Adventure: 191 (4%)<br />Quests: 50
-        (1%)<br />Other: 1 (0%)<br />
+        Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
+        Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+        0 (0%)<br />
       </td>
     </tr>
   </table>
