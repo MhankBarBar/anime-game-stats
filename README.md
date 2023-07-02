@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 02, 2023 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 03, 2023 01:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        1 x
+        5000 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           height="20"
         />
-        Condensed Aether
+        Credit
       </td>
     </tr>
   </table>
@@ -1931,17 +1931,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
         3 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           height="20"
         />
-        Adventurer's Experience
+        Fine Enhancement Ore
       </td>
     </tr>
   </table>
@@ -1960,7 +1960,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>711</td>
+      <td>712</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2268,21 +2268,21 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          ,
-          height="18"
-        />
-        Yae Miko (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
         Raiden Shogun (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          ,
+          height="18"
+        />
+        Yae Miko (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
@@ -2362,7 +2362,7 @@
         />
         Primogems earned
       </td>
-      <td>660 (rate -85)</td>
+      <td>720 (rate -84)</td>
     </tr>
     <tr>
       <td>
@@ -2373,12 +2373,12 @@
         />
         Mora earned
       </td>
-      <td>664436 (rate -84)</td>
+      <td>728146 (rate -82)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Spiral Abyss: 600 (91%)<br />Daily Activity: 60 (9%)<br />Events: 0
+        Spiral Abyss: 600 (84%)<br />Daily Activity: 120 (16%)<br />Events: 0
         (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
         0 (0%)<br />
       </td>
@@ -7468,11 +7468,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/genshin_card_02_07_2023-19_36_11.png" />
+  <img src="images/genshin_card_03_07_2023-01_22_28.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/genshin_card_02_07_2023-19_36_12.png" />
+  <img src="images/genshin_card_03_07_2023-01_22_30.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
