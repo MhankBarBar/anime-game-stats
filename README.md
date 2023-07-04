@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 03, 2023 01:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 04, 2023 16:25 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -29,21 +29,21 @@
     </tr>
   </table>
 
-  <h2>Daily Rewards</h2>
+  <h2><img src="images/icons/hsr_check_in.png" height="20" /> Daily Rewards</h2>
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>3</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        5000 x
+        1 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
           height="20"
         />
-        Credit
+        Canned Soda
       </td>
     </tr>
   </table>
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>62</td>
+      <td>64</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -67,13 +67,109 @@
     </tr>
     <tr>
       <td>Total Achievement</td>
-      <td>212</td>
+      <td>213</td>
     </tr>
     <tr>
       <td>Chests Opened</td>
       <td>273</td>
     </tr>
     <tr></tr>
+  </table>
+
+  <h2><img src="images/icons/hsr_diary.png" height="20" /> Diary</h2>
+  <table>
+    <tr>
+      <td>
+        <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
+        earned
+      </td>
+      <td>810 (rate -89)</td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Item_Star_Rail_Special_Pass.png"
+          height="18"
+        />
+        Pass & Special Pass earned
+      </td>
+      <td>11 (rate -72)</td>
+    </tr>
+    <tr>
+      <td>Categories</td>
+      <td>
+        Simulated Universe: 315 (38%)<br />Daily Activity: 240 (29%)<br />Event:
+        240 (29%)<br />Other: 0 (3%)<br />Adventure Rewards: 15 (1%)<br />Forgotten
+        Hall: 0 (0%)<br />Mail: 0 (0%)<br />
+      </td>
+    </tr>
+  </table>
+  <h2>Memory of Chaos</h2>
+  <table>
+    <tr>
+      <td>Season</td>
+      <td>111</td>
+    </tr>
+    <tr>
+      <td>Max Floor</td>
+      <td>Hyperborean Search for Warmth Stage 1</td>
+    </tr>
+    <tr>
+      <td>Total Battles</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Total Stars</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Name</td>
+      <td>Hyperborean Search for Warmth Stage 1</td>
+    </tr>
+    <tr>
+      <td>Floor</td>
+      <td>2 Stars</td>
+    </tr>
+    <tr>
+      <td>Cycles used</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td>Party 1</td>
+      <td>
+        <img
+          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/814b0cd18902bf7b2878148abba232b0.png"
+          height="18"
+        /><img
+          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/9d6402a6e9b7b4408133a964a2260325.png"
+          height="18"
+        /><img
+          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/46d77a74e02bf47b4b92ac8ea8bf4a6c.png"
+          height="18"
+        /><img
+          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6101a639b5dee4529fc08dfd87abaa20.png"
+          height="18"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td>Party 2</td>
+      <td>
+        <img
+          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/006c328b9c39e9e1fc349205675ad62e.png"
+          height="18"
+        /><img
+          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/b1047b09771c04cea001193b6a8f6049.png"
+          height="18"
+        /><img
+          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/67745e72fef291a597e2ab930af56ad7.png"
+          height="18"
+        /><img
+          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/4e1f3662a2fbacbbe2bb080eb3379642.png"
+          height="18"
+        />
+      </td>
+    </tr>
   </table>
   <h2>
     <img
@@ -971,6 +1067,117 @@
     </table>
   </details>
   <details>
+    <summary><b>Asta </b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3>Asta</h3></th>
+        <th><h3>Memories of the Past</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3acc4d710afb05428fa7dd26b61f58c2.png"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/b39c9e4d26922ce5ef935d3f73b35c17.png"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>Eidolon</td>
+              <td>2</td>
+            </tr>
+            <tr>
+              <td>Relics</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/8c37df206983a3de0e8a8e26ab263f29.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Wild Wheat Felt Hat<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/ff6b77c207664e0fcf5b8ef5c47c7125.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Coarse Leather Gloves<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6c94858252ec89332cc104bc0de28ef4.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Wind-Hunting Shawl<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6054886e1709ec7353e79fa6256c6df5.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Rivets Riding Boots<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Planar</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/8c029905f72b25e74d06c917affe460c.png"
+                  ,
+                  height="18"
+                />
+                The Xianzhou Luofu's Celestial Ark<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/d3226abd0107cfa4ab0cd984298d3250.png"
+                  ,
+                  height="18"
+                />
+                Planet Screwllum's Ring System<br />
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Memories of the Past</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>60</td>
+            </tr>
+            <tr>
+              <td>Superimpose</td>
+              <td>3</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Sushang </b></summary>
     <br />
     <table>
@@ -1176,117 +1383,6 @@
             <tr>
               <td>Superimpose</td>
               <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Asta </b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3>Asta</h3></th>
-        <th><h3>Memories of the Past</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3acc4d710afb05428fa7dd26b61f58c2.png"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/b39c9e4d26922ce5ef935d3f73b35c17.png"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td>Eidolon</td>
-              <td>2</td>
-            </tr>
-            <tr>
-              <td>Relics</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/8c37df206983a3de0e8a8e26ab263f29.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Wild Wheat Felt Hat<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/ff6b77c207664e0fcf5b8ef5c47c7125.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Coarse Leather Gloves<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6c94858252ec89332cc104bc0de28ef4.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Wind-Hunting Shawl<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6054886e1709ec7353e79fa6256c6df5.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Rivets Riding Boots<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Planar</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/8c029905f72b25e74d06c917affe460c.png"
-                  ,
-                  height="18"
-                />
-                The Xianzhou Luofu's Celestial Ark<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/d3226abd0107cfa4ab0cd984298d3250.png"
-                  ,
-                  height="18"
-                />
-                Planet Screwllum's Ring System<br />
-              </td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Memories of the Past</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td>Superimpose</td>
-              <td>3</td>
             </tr>
           </table>
         </td>
@@ -1927,21 +2023,23 @@
     </tr>
   </table>
 
-  <h2>Daily Rewards</h2>
+  <h2>
+    <img src="images/icons/genshin_check_in.png" height="20" /> Daily Rewards
+  </h2>
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>2</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        3 x
+        20 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           height="20"
         />
-        Fine Enhancement Ore
+        Primogem
       </td>
     </tr>
   </table>
@@ -1960,7 +2058,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>712</td>
+      <td>713</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2273,6 +2371,11 @@
           height="18"
         />
         Raiden Shogun (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
@@ -2282,12 +2385,7 @@
           ,
           height="18"
         />
-        Nahida (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (12)<br />
+        Nahida (12)<br />
       </td>
     </tr>
     <tr>
@@ -2346,13 +2444,7 @@
       </td>
     </tr>
   </table>
-  <h2>
-    <img
-      src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-      height="20"
-    />
-    Diary
-  </h2>
+  <h2><img src="images/icons/genshin_diary.png" height="20" /> Diary</h2>
   <table>
     <tr>
       <td>
@@ -2362,23 +2454,22 @@
         />
         Primogems earned
       </td>
-      <td>720 (rate -84)</td>
+      <td>780 (rate -83)</td>
     </tr>
     <tr>
       <td>
         <img
           src="https://genshin.honeyhunterworld.com/img/i_2001_35.webp"
-          ,
           height="18"
         />
         Mora earned
       </td>
-      <td>728146 (rate -82)</td>
+      <td>787621 (rate -81)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Spiral Abyss: 600 (84%)<br />Daily Activity: 120 (16%)<br />Events: 0
+        Spiral Abyss: 600 (77%)<br />Daily Activity: 180 (23%)<br />Events: 0
         (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
         0 (0%)<br />
       </td>
@@ -7468,11 +7559,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/genshin_card_03_07_2023-01_22_28.png" />
+  <img src="images/showcase\genshin_card_04_07_2023-16_25_13.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/genshin_card_03_07_2023-01_22_30.png" />
+  <img src="images/showcase\genshin_card_04_07_2023-16_25_15.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on

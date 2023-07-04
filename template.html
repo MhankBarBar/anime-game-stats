@@ -20,7 +20,7 @@
         </tr>
     </table>
 
-    <h2>Daily Rewards</h2>
+    <h2><img src="images/icons/hsr_check_in.png" height="20"> Daily Rewards</h2>
     <table>
         <tr>
             <td>Total Rewards Claimed</td>
@@ -46,6 +46,26 @@
         {%- endif -%}
         </tr>
         {%- endfor -%}
+    </table>
+
+    <h2><img src="images/icons/hsr_diary.png" height="20"> Diary</h2>
+    <table>
+        <tr>
+            <td><img src="images/icons/stellar_jade.png" height="18"> Stellar Jade earned</td>
+            <td>{{ hsr.diary.data.current_hcoin }} (rate {{ hsr.diary.data.hcoin_rate }})</td>
+        </tr>
+        <tr>
+            <td><img src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Item_Star_Rail_Special_Pass.png" height="18"> Pass & Special Pass earned</td>
+            <td>{{ hsr.diary.data.current_rails_pass }} (rate {{ hsr.diary.data.rails_rate }})</td>
+        </tr>
+        <tr>
+            <td>Categories</td>
+            <td>
+                {%- for category in hsr.diary.data.categories -%}
+                {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
+                {%- endfor -%}
+            </td>
+        </tr>
     </table>
 
     {%- if hsr.forgotten_hall.floors|length -%}
@@ -201,7 +221,7 @@
         </tr>
     </table>
 
-    <h2>Daily Rewards</h2>
+    <h2><img src="images/icons/genshin_check_in.png" height="20"> Daily Rewards</h2>
     <table>
         <tr>
             <td>Total Rewards Claimed</td>
@@ -317,14 +337,14 @@
     </table>
     {%- endif -%}
 
-    <h2><img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp" height="20"> Diary</h2>
+    <h2><img src="images/icons/genshin_diary.png" height="20"> Diary</h2>
     <table>
         <tr>
             <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png" height="18"> Primogems earned</td>
             <td>{{ genshin.diary.data.current_primogems }} (rate {{ genshin.diary.data.primogems_rate }})</td>
         </tr>
         <tr>
-            <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.webp", height="18"> Mora earned</td>
+            <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.webp" height="18"> Mora earned</td>
             <td>{{ genshin.diary.data.current_mora }} (rate {{ genshin.diary.data.mora_rate }})</td>
         </tr>
         <tr>

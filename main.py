@@ -6,6 +6,8 @@ import os
 import pathlib
 from datetime import datetime
 from typing import List, Optional, Tuple
+from time import sleep
+from lib.codes import GetCodes
 
 import genshin
 import jinja2
@@ -55,15 +57,15 @@ def format_date(date: datetime) -> str:
 
 
 def clear_and_save_images(urls: List[str]) -> List[str]:
-    if os.path.exists("images"):
-        for filename in os.listdir("images"):
-            os.unlink(os.path.join("images", filename))
-    os.makedirs("images", exist_ok=True)
+    if os.path.exists("images/showcase"):
+        for filename in os.listdir("images/showcase"):
+            os.unlink(os.path.join("images/showcase", filename))
+    os.makedirs("images/showcase", exist_ok=True)
     saved_files = []
     for url in urls:
         response = requests.get(url)
         if response.status_code == 200:
-            filename = os.path.join("images", url.split("/")[-1])
+            filename = os.path.join("images/showcase", url.split("/")[-1])
             with open(filename, "wb") as f:
                 f.write(response.content)
             saved_files.append(filename)
@@ -72,13 +74,14 @@ def clear_and_save_images(urls: List[str]) -> List[str]:
 
 class AnimeGame(genshin.Client):
 
-    def __init__(self, args: argparse.Namespace):
+    def __init__(self, args: argparse.Namespace, codes: GetCodes):
         self.args = args
+        self.codes = codes
         _c = self.args.cookies or os.getenv("COOKIES")
         cookies = json.loads(_c)
         super().__init__(cookies, debug=False, game=genshin.Game.GENSHIN)
 
-    async def _claim_daily(self, game: Optional[genshin.types.Game] = None) -> Tuple[
+    async def _claim_daily(self, game: Optional[genshin.Game] = None) -> Tuple[
         genshin.models.ClaimedDailyReward, genshin.models.DailyRewardInfo
     ]:
         """Claim the daily reward and retrieve reward information."""
@@ -106,6 +109,10 @@ class AnimeGame(genshin.Client):
         diary = await self.get_genshin_diary()
         reward, reward_info = await self._claim_daily()
         showcase = self._get_character_showcase("genshin", self.uids.get(genshin.Game.GENSHIN))
+        codes = self.codes.get_codes()
+        for code in codes:
+            await self.codes.redeem_code(self, code)
+            sleep(6)
         return GenshinRes(
             user=user,
             abyss=abyss,
@@ -117,10 +124,14 @@ class AnimeGame(genshin.Client):
 
     async def get_hsr_res(self) -> HsrRes:
         user = await self.get_starrail_user()
-        diary = None  # await self.get_starrail_diary()  # Skip for now due to error
-        forgotten_hall = await self.get_starrail_challenge(previous=True)
+        diary = await self.get_starrail_diary()
+        forgotten_hall = await self.get_starrail_challenge()
         characters = await self.get_starrail_characters()
         reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
+        codes = self.codes.get_codes(genshin.Game.STARRAIL)
+        for code in codes:
+            await self.codes.redeem_code(self, code, genshin.Game.STARRAIL)
+            sleep(6)
         return HsrRes(
             user=user,
             characters=characters.avatar_list,
@@ -158,4 +169,4 @@ def parse_arguments() -> argparse.Namespace:
 
 if __name__ == "__main__":
     args = parse_arguments()
-    asyncio.run(AnimeGame(args).main())
+    asyncio.run(AnimeGame(args, GetCodes()).main())
