@@ -36,6 +36,14 @@ After that, make it cookie into json format, for example
 
 ![image](https://github.com/MhankBarBar/anime-game-stats/assets/55822959/08b7aa56-f60c-482c-9425-4db52b199e97)
 
-For now the cookie is just supported for genshin and hsr at the same account
+For now the cookie is just supported for genshin and hsr at the same account.
 
 And you're set! From now on the repo will claim any new codes and redeem the daily check-in rewards at Hoyolab for you every 6 hours!
+
+## Costumization
+HTML Template: You can customize the HTML template (`template.html`) to change the look and feel of the generated report. Modify the template file according to your requirements, including placeholders for the data
+
+## Acknowledgments
+- [genshin.py](https://github.com/thesadru/genshin.py) library by thesadru for Genshin Impact, HSR and Honkai Impact 3rd API integration.
+
+Feel free to modify the README file according to your needs, adding more details or instructions if necessary.
