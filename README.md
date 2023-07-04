@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 04, 2023 19:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 05, 2023 01:26 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>4</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        1 x
+        20 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           height="20"
         />
-        Canned Soda
+        Stellar Jade
       </td>
     </tr>
   </table>
@@ -2054,11 +2054,11 @@
   <table>
     <tr>
       <td>Achievements</td>
-      <td>754</td>
+      <td>756</td>
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>713</td>
+      <td>714</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2086,23 +2086,23 @@
     </tr>
     <tr>
       <td>Common Chests Opened</td>
-      <td>2300</td>
+      <td>2304</td>
     </tr>
     <tr>
       <td>Exquisite Chests Opened</td>
-      <td>1402</td>
+      <td>1404</td>
     </tr>
     <tr>
       <td>Precious Chests Opened</td>
-      <td>435</td>
+      <td>436</td>
     </tr>
     <tr>
       <td>Luxurious Chests Opened</td>
-      <td>165</td>
+      <td>167</td>
     </tr>
     <tr>
       <td>Remarkable Chests Opened</td>
-      <td>156</td>
+      <td>157</td>
     </tr>
     <tr>
       <td>Domains Unlocked</td>
@@ -2366,26 +2366,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
         Nahida (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
         />
-        Yae Miko (12)<br />
+        Yae Miko (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (12)<br />
       </td>
     </tr>
     <tr>
@@ -2454,7 +2454,7 @@
         />
         Primogems earned
       </td>
-      <td>893 (rate -80)</td>
+      <td>923 (rate -80)</td>
     </tr>
     <tr>
       <td>
@@ -2464,13 +2464,13 @@
         />
         Mora earned
       </td>
-      <td>862593 (rate -79)</td>
+      <td>890527 (rate -79)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Spiral Abyss: 600 (68%)<br />Daily Activity: 220 (25%)<br />Adventure:
-        53 (5%)<br />Mail: 20 (2%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+        Spiral Abyss: 600 (66%)<br />Daily Activity: 240 (26%)<br />Adventure:
+        63 (6%)<br />Mail: 20 (2%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
         0 (0%)<br />
       </td>
     </tr>
@@ -7559,11 +7559,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_04_07_2023-19_41_12.png" />
+  <img src="images/showcase/genshin_card_05_07_2023-01_25_49.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_04_07_2023-19_41_14.png" />
+  <img src="images/showcase/genshin_card_05_07_2023-01_25_51.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
