@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 04, 2023 08:55 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 04, 2023 13:27 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>63</td>
+      <td>64</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -971,6 +971,117 @@
     </table>
   </details>
   <details>
+    <summary><b>Asta </b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3>Asta</h3></th>
+        <th><h3>Memories of the Past</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3acc4d710afb05428fa7dd26b61f58c2.png"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/b39c9e4d26922ce5ef935d3f73b35c17.png"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>Eidolon</td>
+              <td>2</td>
+            </tr>
+            <tr>
+              <td>Relics</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/8c37df206983a3de0e8a8e26ab263f29.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Wild Wheat Felt Hat<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/ff6b77c207664e0fcf5b8ef5c47c7125.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Coarse Leather Gloves<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6c94858252ec89332cc104bc0de28ef4.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Wind-Hunting Shawl<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6054886e1709ec7353e79fa6256c6df5.png"
+                  ,
+                  height="18"
+                />
+                Musketeer's Rivets Riding Boots<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Planar</td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/8c029905f72b25e74d06c917affe460c.png"
+                  ,
+                  height="18"
+                />
+                The Xianzhou Luofu's Celestial Ark<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/d3226abd0107cfa4ab0cd984298d3250.png"
+                  ,
+                  height="18"
+                />
+                Planet Screwllum's Ring System<br />
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Memories of the Past</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>60</td>
+            </tr>
+            <tr>
+              <td>Superimpose</td>
+              <td>3</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Sushang </b></summary>
     <br />
     <table>
@@ -1176,117 +1287,6 @@
             <tr>
               <td>Superimpose</td>
               <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Asta </b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3>Asta</h3></th>
-        <th><h3>Memories of the Past</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/3acc4d710afb05428fa7dd26b61f58c2.png"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/b39c9e4d26922ce5ef935d3f73b35c17.png"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td>Eidolon</td>
-              <td>2</td>
-            </tr>
-            <tr>
-              <td>Relics</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/8c37df206983a3de0e8a8e26ab263f29.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Wild Wheat Felt Hat<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/ff6b77c207664e0fcf5b8ef5c47c7125.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Coarse Leather Gloves<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6c94858252ec89332cc104bc0de28ef4.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Wind-Hunting Shawl<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6054886e1709ec7353e79fa6256c6df5.png"
-                  ,
-                  height="18"
-                />
-                Musketeer's Rivets Riding Boots<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Planar</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/8c029905f72b25e74d06c917affe460c.png"
-                  ,
-                  height="18"
-                />
-                The Xianzhou Luofu's Celestial Ark<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/d3226abd0107cfa4ab0cd984298d3250.png"
-                  ,
-                  height="18"
-                />
-                Planet Screwllum's Ring System<br />
-              </td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Memories of the Past</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td>Superimpose</td>
-              <td>3</td>
             </tr>
           </table>
         </td>
@@ -7468,11 +7468,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/genshin_card_04_07_2023-08_55_12.png" />
+  <img src="images/genshin_card_04_07_2023-13_26_45.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/genshin_card_04_07_2023-08_55_13.png" />
+  <img src="images/genshin_card_04_07_2023-13_26_47.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
