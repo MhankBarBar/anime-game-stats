@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 05, 2023 09:46 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 05, 2023 13:27 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2054,15 +2054,15 @@
   <table>
     <tr>
       <td>Achievements</td>
-      <td>760</td>
+      <td>761</td>
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>714</td>
+      <td>715</td>
     </tr>
     <tr>
       <td>Characters</td>
-      <td>50</td>
+      <td>51</td>
     </tr>
     <tr>
       <td>Waypoints Unlocked</td>
@@ -2454,7 +2454,7 @@
         />
         Primogems earned
       </td>
-      <td>1121 (rate -76)</td>
+      <td>1936 (rate -58)</td>
     </tr>
     <tr>
       <td>
@@ -2464,14 +2464,14 @@
         />
         Mora earned
       </td>
-      <td>1006731 (rate -76)</td>
+      <td>1107838 (rate -73)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Spiral Abyss: 600 (54%)<br />Daily Activity: 240 (22%)<br />Adventure:
-        131 (12%)<br />Events: 100 (9%)<br />Quests: 30 (2%)<br />Mail: 20
-        (1%)<br />Other: 0 (0%)<br />
+        Mail: 620 (33%)<br />Spiral Abyss: 600 (31%)<br />Daily Activity: 300
+        (15%)<br />Adventure: 194 (10%)<br />Events: 162 (8%)<br />Quests: 60
+        (3%)<br />Other: 0 (0%)<br />
       </td>
     </tr>
   </table>
