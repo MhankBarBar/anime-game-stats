@@ -36,6 +36,17 @@ After that, make it cookie into json format, for example
 
 For now the cookie is just supported for genshin and hsr at the same account.
 
+### Give Action Write Permissoion
+
+![image](https://github.com/MhankBarBar/anime-game-stats/assets/55822959/152ee424-6db1-4933-9fa9-26fe0327eac7)
+
+![image](https://github.com/MhankBarBar/anime-game-stats/assets/55822959/6ee01665-903d-4337-9b47-591a5dc693d5)
+
+### Run the action manually
+
+![image](https://github.com/MhankBarBar/anime-game-stats/assets/55822959/dae0ea7f-3386-467a-9fd5-fb12d5878022)
+
+
 And you're set! From now on the repo will claim any new codes and redeem the daily check-in rewards at Hoyolab for you every 6 hours!
 
 ## Costumization
