@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 06, 2023 19:43 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 07, 2023 01:25 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>6</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        2 x
+        1 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           height="20"
         />
-        Adventure Log
+        Condensed Aether
       </td>
     </tr>
   </table>
@@ -2454,7 +2454,7 @@
         />
         Primogems earned
       </td>
-      <td>2008 (rate -57)</td>
+      <td>2068 (rate -55)</td>
     </tr>
     <tr>
       <td>
@@ -2464,13 +2464,13 @@
         />
         Mora earned
       </td>
-      <td>1155477 (rate -72)</td>
+      <td>1217952 (rate -71)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Mail: 680 (34%)<br />Spiral Abyss: 600 (30%)<br />Daily Activity: 300
-        (15%)<br />Adventure: 206 (11%)<br />Events: 162 (8%)<br />Quests: 60
+        Mail: 680 (33%)<br />Spiral Abyss: 600 (30%)<br />Daily Activity: 360
+        (18%)<br />Adventure: 206 (10%)<br />Events: 162 (7%)<br />Quests: 60
         (2%)<br />Other: 0 (0%)<br />
       </td>
     </tr>
@@ -7646,11 +7646,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_06_07_2023-19_42_21.png" />
+  <img src="images/showcase/genshin_card_07_07_2023-01_24_05.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_06_07_2023-19_42_23.png" />
+  <img src="images/showcase/genshin_card_07_07_2023-01_24_07.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
