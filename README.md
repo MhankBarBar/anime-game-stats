@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 06, 2023 01:26 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 06, 2023 08:57 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2366,16 +2366,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
@@ -2385,7 +2375,17 @@
           ,
           height="18"
         />
-        Yelan (12)<br />
+        Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br />
       </td>
     </tr>
     <tr>
@@ -2454,7 +2454,7 @@
         />
         Primogems earned
       </td>
-      <td>1936 (rate -58)</td>
+      <td>2008 (rate -57)</td>
     </tr>
     <tr>
       <td>
@@ -2464,14 +2464,14 @@
         />
         Mora earned
       </td>
-      <td>1107838 (rate -73)</td>
+      <td>1155477 (rate -72)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Mail: 620 (33%)<br />Spiral Abyss: 600 (31%)<br />Daily Activity: 300
-        (15%)<br />Adventure: 194 (10%)<br />Events: 162 (8%)<br />Quests: 60
-        (3%)<br />Other: 0 (0%)<br />
+        Mail: 680 (34%)<br />Spiral Abyss: 600 (30%)<br />Daily Activity: 300
+        (15%)<br />Adventure: 206 (11%)<br />Events: 162 (8%)<br />Quests: 60
+        (2%)<br />Other: 0 (0%)<br />
       </td>
     </tr>
   </table>
@@ -5350,7 +5350,7 @@
             </tr>
             <tr>
               <td>Constellation</td>
-              <td>2</td>
+              <td>3</td>
             </tr>
             <tr>
               <td>Artifacts<br />1 x Noblesse Oblige<br /></td>
@@ -7121,6 +7121,180 @@
     </table>
   </details>
   <details>
+    <summary><b>Mika</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Mika</h3></th>
+        <th><h3 align="center">Beginner's Protector</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Mika_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/34efed7cb28d106be618246381135f65.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>20</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>2</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <td>Artifacts<br /></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Beginner's Protector</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>1</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
+    <summary><b>Kaveh</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Kaveh</h3></th>
+        <th><h3 align="center">Waster Greatsword</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kaveh_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/e8aab63740d736e862c092ce52abb65a.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>20</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>2</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Artifacts<br /></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Waster Greatsword</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>1</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Dehya</b></summary>
     <br />
     <table>
@@ -7259,7 +7433,7 @@
             </tr>
             <tr>
               <td>Constellation</td>
-              <td>0</td>
+              <td>1</td>
             </tr>
             <tr>
               <td>Artifacts<br /></td>
@@ -7468,189 +7642,15 @@
       </tr>
     </table>
   </details>
-  <details>
-    <summary><b>Mika</b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3 align="center">Mika</h3></th>
-        <th><h3 align="center">Beginner's Protector</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Mika_Card.png"
-              heigt="250"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/34efed7cb28d106be618246381135f65.png"
-              height="250"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>20</td>
-            </tr>
-            <tr>
-              <td>Friendship</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Constellation</td>
-              <td>2</td>
-            </tr>
-            <tr>
-              <td>Artifacts<br /></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>Outfits</td>
-              <td></td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Beginner's Protector</td>
-            </tr>
-            <tr>
-              <td>Rarity</td>
-              <td>★</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Refinement</td>
-              <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Kaveh</b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3 align="center">Kaveh</h3></th>
-        <th><h3 align="center">Waster Greatsword</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kaveh_Card.png"
-              heigt="250"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/e8aab63740d736e862c092ce52abb65a.png"
-              height="250"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>20</td>
-            </tr>
-            <tr>
-              <td>Friendship</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Constellation</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Artifacts<br /></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>Outfits</td>
-              <td></td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Waster Greatsword</td>
-            </tr>
-            <tr>
-              <td>Rarity</td>
-              <td>★</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Refinement</td>
-              <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
 </details>
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_06_07_2023-01_25_38.png" />
+  <img src="images/showcase/genshin_card_06_07_2023-08_56_19.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_06_07_2023-01_25_39.png" />
+  <img src="images/showcase/genshin_card_06_07_2023-08_56_21.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
