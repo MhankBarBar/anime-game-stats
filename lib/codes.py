@@ -50,8 +50,11 @@ class GetCodes:
         return soup.find("div", {"class": "entry-content"})
 
     def _extract_codes(self, soup: bs4.BeautifulSoup, game: str) -> List[bs4.element.Tag]:
+        codes = []
         if game == "genshin":
-            codes = soup.find_all("ul")[1].find_all("strong")
+            for _ in soup.find_all("ul")[1:][:2]:
+                codes.extend(_.find_all("strong"))
         else:
-            codes = soup.find("ul").find_all("strong")
+            for _ in soup.find_all("ul")[:2]:
+                codes.extend(_.find_all("strong"))
         return codes
