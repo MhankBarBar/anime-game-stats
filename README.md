@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 08, 2023 20:18 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 09, 2023 01:24 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>8</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        1 x
+        5000 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           height="20"
         />
-        Lost Gold Fragment
+        Credit
       </td>
     </tr>
   </table>
@@ -2058,7 +2058,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>717</td>
+      <td>718</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2327,7 +2327,7 @@
     </tr>
     <tr>
       <td>Items</td>
-      <td>1206</td>
+      <td>1208</td>
     </tr>
     <tr>
       <td>Visitors</td>
@@ -2454,7 +2454,7 @@
         />
         Primogems earned
       </td>
-      <td>2133 (rate -54)</td>
+      <td>2193 (rate -53)</td>
     </tr>
     <tr>
       <td>
@@ -2464,13 +2464,13 @@
         />
         Mora earned
       </td>
-      <td>1290133 (rate -69)</td>
+      <td>1356769 (rate -68)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Mail: 680 (32%)<br />Spiral Abyss: 600 (29%)<br />Daily Activity: 420
-        (20%)<br />Adventure: 211 (10%)<br />Events: 162 (7%)<br />Quests: 60
+        Mail: 680 (32%)<br />Spiral Abyss: 600 (28%)<br />Daily Activity: 480
+        (22%)<br />Adventure: 211 (9%)<br />Events: 162 (7%)<br />Quests: 60
         (2%)<br />Other: 0 (0%)<br />
       </td>
     </tr>
@@ -7646,11 +7646,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_08_07_2023-20_16_53.png" />
+  <img src="images/showcase/genshin_card_09_07_2023-01_23_00.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_08_07_2023-20_16_55.png" />
+  <img src="images/showcase/genshin_card_09_07_2023-01_23_02.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
