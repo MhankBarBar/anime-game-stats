@@ -54,3 +54,8 @@ You can customize the `template.html` file to modify the appearance and layout o
 
 ## Acknowledgments
 - [genshin](https://github.com/thesadru/genshin.py) library by thesadru for Genshin Impact, HSR and Honkai Impact 3rd API integration.
+
+## Credits
+This repository is the clone of [genshin-stats](https://github.com/thesadru/genshin-stats) and [kiizuha-genshin](https://github.com/rushkii/kiizuha-genshin).
+
+Mine just add some changes, many thanks for them.
