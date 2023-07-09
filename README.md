@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 09, 2023 19:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 10, 2023 01:24 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>9</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        5000 x
+        3 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           height="20"
         />
-        Credit
+        Adventure Log
       </td>
     </tr>
   </table>
@@ -2058,7 +2058,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>718</td>
+      <td>719</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2366,16 +2366,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          ,
-          height="18"
-        />
-        Yae Miko (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
@@ -2385,7 +2375,17 @@
           ,
           height="18"
         />
-        Nahida (12)<br />
+        Nahida (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          ,
+          height="18"
+        />
+        Yae Miko (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (12)<br />
       </td>
     </tr>
     <tr>
@@ -2454,7 +2454,7 @@
         />
         Primogems earned
       </td>
-      <td>2193 (rate -53)</td>
+      <td>2253 (rate -51)</td>
     </tr>
     <tr>
       <td>
@@ -2464,13 +2464,13 @@
         />
         Mora earned
       </td>
-      <td>1356769 (rate -68)</td>
+      <td>1423061 (rate -66)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Mail: 680 (32%)<br />Spiral Abyss: 600 (28%)<br />Daily Activity: 480
-        (22%)<br />Adventure: 211 (9%)<br />Events: 162 (7%)<br />Quests: 60
+        Mail: 680 (31%)<br />Spiral Abyss: 600 (27%)<br />Daily Activity: 540
+        (24%)<br />Adventure: 211 (9%)<br />Events: 162 (7%)<br />Quests: 60
         (2%)<br />Other: 0 (0%)<br />
       </td>
     </tr>
@@ -7646,11 +7646,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_09_07_2023-19_36_15.png" />
+  <img src="images/showcase/genshin_card_10_07_2023-01_23_28.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_09_07_2023-19_36_16.png" />
+  <img src="images/showcase/genshin_card_10_07_2023-01_23_30.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
