@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 09, 2023 01:24 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 09, 2023 09:04 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2029,17 +2029,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>8</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
         3 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           height="20"
         />
-        Adventurer's Experience
+        Fine Enhancement Ore
       </td>
     </tr>
   </table>
@@ -2366,11 +2366,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          ,
-          height="18"
-        />
-        Yae Miko (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
@@ -2385,7 +2380,12 @@
           ,
           height="18"
         />
-        Nahida (12)<br />
+        Nahida (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          ,
+          height="18"
+        />
+        Yae Miko (12)<br />
       </td>
     </tr>
     <tr>
@@ -7646,11 +7646,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_09_07_2023-01_23_00.png" />
+  <img src="images/showcase/genshin_card_09_07_2023-09_02_54.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_09_07_2023-01_23_02.png" />
+  <img src="images/showcase/genshin_card_09_07_2023-09_02_56.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
