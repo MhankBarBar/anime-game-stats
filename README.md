@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 10, 2023 08:56 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 10, 2023 13:27 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -1991,7 +1991,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>719</td>
+      <td>720</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2304,11 +2304,6 @@
           height="18"
         />
         Raiden Shogun (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
@@ -2318,7 +2313,12 @@
           ,
           height="18"
         />
-        Yelan (12)<br />
+        Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br />
       </td>
     </tr>
     <tr>
@@ -2387,7 +2387,7 @@
         />
         Primogems earned
       </td>
-      <td>2253 (rate -51)</td>
+      <td>2330 (rate -50)</td>
     </tr>
     <tr>
       <td>
@@ -2397,13 +2397,13 @@
         />
         Mora earned
       </td>
-      <td>1423061 (rate -66)</td>
+      <td>1471057 (rate -65)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Mail: 680 (31%)<br />Spiral Abyss: 600 (27%)<br />Daily Activity: 540
-        (24%)<br />Adventure: 211 (9%)<br />Events: 162 (7%)<br />Quests: 60
+        Mail: 680 (30%)<br />Spiral Abyss: 600 (26%)<br />Daily Activity: 580
+        (25%)<br />Adventure: 248 (11%)<br />Events: 162 (6%)<br />Quests: 60
         (2%)<br />Other: 0 (0%)<br />
       </td>
     </tr>
@@ -7579,11 +7579,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_10_07_2023-08_55_17.png" />
+  <img src="images/showcase/genshin_card_10_07_2023-13_26_28.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_10_07_2023-08_55_18.png" />
+  <img src="images/showcase/genshin_card_10_07_2023-13_26_29.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
