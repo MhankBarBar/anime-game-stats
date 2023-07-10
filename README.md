@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 10, 2023 01:24 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 10, 2023 08:56 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -101,73 +101,6 @@
         Daily Activity: 540 (35%)<br />Event: 320 (20%)<br />Simulated Universe:
         315 (20%)<br />Mail: 320 (20%)<br />Other: 0 (4%)<br />Adventure
         Rewards: 30 (1%)<br />Forgotten Hall: 0 (0%)<br />
-      </td>
-    </tr>
-  </table>
-  <h2>Memory of Chaos</h2>
-  <table>
-    <tr>
-      <td>Season</td>
-      <td>111</td>
-    </tr>
-    <tr>
-      <td>Max Floor</td>
-      <td>Hyperborean Search for Warmth Stage 1</td>
-    </tr>
-    <tr>
-      <td>Total Battles</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Total Stars</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Name</td>
-      <td>Hyperborean Search for Warmth Stage 1</td>
-    </tr>
-    <tr>
-      <td>Floor</td>
-      <td>2 Stars</td>
-    </tr>
-    <tr>
-      <td>Cycles used</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>Party 1</td>
-      <td>
-        <img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/814b0cd18902bf7b2878148abba232b0.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/9d6402a6e9b7b4408133a964a2260325.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/46d77a74e02bf47b4b92ac8ea8bf4a6c.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/6101a639b5dee4529fc08dfd87abaa20.png"
-          height="18"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td>Party 2</td>
-      <td>
-        <img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/006c328b9c39e9e1fc349205675ad62e.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/b1047b09771c04cea001193b6a8f6049.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/67745e72fef291a597e2ab930af56ad7.png"
-          height="18"
-        /><img
-          src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/4e1f3662a2fbacbbe2bb080eb3379642.png"
-          height="18"
-        />
       </td>
     </tr>
   </table>
@@ -7646,11 +7579,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_10_07_2023-01_23_28.png" />
+  <img src="images/showcase/genshin_card_10_07_2023-08_55_17.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_10_07_2023-01_23_30.png" />
+  <img src="images/showcase/genshin_card_10_07_2023-08_55_18.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
