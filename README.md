@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 11, 2023 13:27 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 11, 2023 19:41 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>70</td>
+      <td>71</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>1585 (rate -78)</td>
+      <td>1805 (rate -75)</td>
     </tr>
     <tr>
       <td>
@@ -93,14 +93,14 @@
         />
         Pass & Special Pass earned
       </td>
-      <td>12 (rate -70)</td>
+      <td>13 (rate -67)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 600 (37%)<br />Event: 320 (20%)<br />Mail: 320 (20%)<br />Simulated
-        Universe: 315 (19%)<br />Other: 0 (3%)<br />Adventure Rewards: 30
-        (1%)<br />Forgotten Hall: 0 (0%)<br />
+        Daily Activity: 660 (36%)<br />Simulated Universe: 475 (26%)<br />Event:
+        320 (17%)<br />Mail: 320 (17%)<br />Other: 0 (3%)<br />Adventure
+        Rewards: 30 (1%)<br />Forgotten Hall: 0 (0%)<br />
       </td>
     </tr>
   </table>
@@ -749,11 +749,11 @@
                   height="18"
                 />
                 The Xianzhou Luofu's Celestial Ark<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/bd1010bc77d119a24a3d8bb6b5c2eb75.png"
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/d3226abd0107cfa4ab0cd984298d3250.png"
                   ,
                   height="18"
                 />
-                The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                Planet Screwllum's Ring System<br />
               </td>
             </tr>
           </table>
@@ -1082,11 +1082,11 @@
                   height="18"
                 />
                 The Xianzhou Luofu's Celestial Ark<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/d3226abd0107cfa4ab0cd984298d3250.png"
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_76512l/bd1010bc77d119a24a3d8bb6b5c2eb75.png"
                   ,
                   height="18"
                 />
-                Planet Screwllum's Ring System<br />
+                The Xianzhou Luofu's Ambrosial Arbor Vines<br />
               </td>
             </tr>
           </table>
@@ -1962,17 +1962,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>9</td>
+      <td>11</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        3 x
+        20 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           height="20"
         />
-        Fine Enhancement Ore
+        Primogem
       </td>
     </tr>
   </table>
@@ -1991,7 +1991,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>720</td>
+      <td>721</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2019,19 +2019,19 @@
     </tr>
     <tr>
       <td>Common Chests Opened</td>
-      <td>2321</td>
+      <td>2322</td>
     </tr>
     <tr>
       <td>Exquisite Chests Opened</td>
-      <td>1408</td>
+      <td>1415</td>
     </tr>
     <tr>
       <td>Precious Chests Opened</td>
-      <td>436</td>
+      <td>437</td>
     </tr>
     <tr>
       <td>Luxurious Chests Opened</td>
-      <td>167</td>
+      <td>169</td>
     </tr>
     <tr>
       <td>Remarkable Chests Opened</td>
@@ -2260,7 +2260,7 @@
     </tr>
     <tr>
       <td>Items</td>
-      <td>1208</td>
+      <td>1211</td>
     </tr>
     <tr>
       <td>Visitors</td>
@@ -2299,6 +2299,11 @@
       <td>Most Played Characters</td>
       <td>
         <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
@@ -2309,11 +2314,6 @@
           height="18"
         />
         Raiden Shogun (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
@@ -2387,7 +2387,7 @@
         />
         Primogems earned
       </td>
-      <td>3023 (rate -35)</td>
+      <td>3860 (rate -17)</td>
     </tr>
     <tr>
       <td>
@@ -2397,14 +2397,14 @@
         />
         Mora earned
       </td>
-      <td>1852071 (rate -56)</td>
+      <td>2944837 (rate -30)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Adventure: 707 (24%)<br />Mail: 680 (23%)<br />Spiral Abyss: 600
-        (20%)<br />Daily Activity: 580 (19%)<br />Events: 396 (13%)<br />Quests:
-        60 (1%)<br />Other: 0 (0%)<br />
+        Events: 1036 (27%)<br />Adventure: 824 (22%)<br />Mail: 700 (19%)<br />Daily
+        Activity: 640 (16%)<br />Spiral Abyss: 600 (15%)<br />Quests: 60 (1%)<br />Other:
+        0 (0%)<br />
       </td>
     </tr>
   </table>
@@ -7576,16 +7576,3 @@
     </table>
   </details>
 </details>
-<h2 align="center">My Genshin Characters Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_11_07_2023-13_25_54.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_11_07_2023-13_25_56.png" />
-</details>
-<h2 align="center">
-  You can also check my characters showcase/builds on
-  <a href="https://enka.network/u/joydazo">Enka.Network</a>
-</h2>
