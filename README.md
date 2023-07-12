@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 12, 2023 19:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 13, 2023 01:25 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>12</td>
+      <td>13</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        2 x
+        20 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           height="20"
         />
-        Condensed Aether
+        Stellar Jade
       </td>
     </tr>
   </table>
@@ -2299,26 +2299,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
         Raiden Shogun (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
         />
-        Yae Miko (12)<br />
+        Yae Miko (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br />
       </td>
     </tr>
     <tr>
@@ -7579,11 +7579,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_12_07_2023-19_41_42.png" />
+  <img src="images/showcase/genshin_card_13_07_2023-01_24_46.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_12_07_2023-19_41_44.png" />
+  <img src="images/showcase/genshin_card_13_07_2023-01_24_47.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
