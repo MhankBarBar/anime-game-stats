@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 12, 2023 01:26 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 12, 2023 08:55 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -1987,11 +1987,11 @@
   <table>
     <tr>
       <td>Achievements</td>
-      <td>762</td>
+      <td>763</td>
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>721</td>
+      <td>722</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2019,11 +2019,11 @@
     </tr>
     <tr>
       <td>Common Chests Opened</td>
-      <td>2322</td>
+      <td>2323</td>
     </tr>
     <tr>
       <td>Exquisite Chests Opened</td>
-      <td>1415</td>
+      <td>1416</td>
     </tr>
     <tr>
       <td>Precious Chests Opened</td>
@@ -2031,7 +2031,7 @@
     </tr>
     <tr>
       <td>Luxurious Chests Opened</td>
-      <td>169</td>
+      <td>170</td>
     </tr>
     <tr>
       <td>Remarkable Chests Opened</td>
@@ -2299,16 +2299,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          ,
-          height="18"
-        />
-        Yae Miko (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
@@ -2318,7 +2308,17 @@
           ,
           height="18"
         />
-        Yelan (12)<br />
+        Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          ,
+          height="18"
+        />
+        Yae Miko (12)<br />
       </td>
     </tr>
     <tr>
@@ -7579,11 +7579,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_12_07_2023-01_24_50.png" />
+  <img src="images/showcase/genshin_card_12_07_2023-08_54_40.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_12_07_2023-01_24_52.png" />
+  <img src="images/showcase/genshin_card_12_07_2023-08_54_42.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
