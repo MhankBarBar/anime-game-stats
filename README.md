@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 13, 2023 08:57 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 13, 2023 13:27 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2299,26 +2299,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          ,
-          height="18"
-        />
-        Yae Miko (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
         Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
         Raiden Shogun (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
         />
-        Nahida (12)<br />
+        Yae Miko (12)<br />
       </td>
     </tr>
     <tr>
@@ -2387,7 +2387,7 @@
         />
         Primogems earned
       </td>
-      <td>4352 (rate -7)</td>
+      <td>4412 (rate -5)</td>
     </tr>
     <tr>
       <td>
@@ -2397,13 +2397,13 @@
         />
         Mora earned
       </td>
-      <td>3427207 (rate -19)</td>
+      <td>3482010 (rate -17)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 1146 (27%)<br />Adventure: 1146 (27%)<br />Daily Activity: 700
-        (16%)<br />Mail: 700 (16%)<br />Spiral Abyss: 600 (13%)<br />Quests: 60
+        Events: 1146 (26%)<br />Adventure: 1146 (26%)<br />Daily Activity: 760
+        (18%)<br />Mail: 700 (16%)<br />Spiral Abyss: 600 (13%)<br />Quests: 60
         (1%)<br />Other: 0 (0%)<br />
       </td>
     </tr>
@@ -6288,7 +6288,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>3</td>
+              <td>4</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -7579,11 +7579,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_13_07_2023-08_56_41.png" />
+  <img src="images/showcase/genshin_card_13_07_2023-13_26_34.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_13_07_2023-08_56_43.png" />
+  <img src="images/showcase/genshin_card_13_07_2023-13_26_36.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
