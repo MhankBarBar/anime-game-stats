@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 14, 2023 08:57 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 14, 2023 13:27 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2299,11 +2299,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
@@ -2318,7 +2313,12 @@
           ,
           height="18"
         />
-        Yelan (12)<br />
+        Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (12)<br />
       </td>
     </tr>
     <tr>
@@ -7579,11 +7579,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_14_07_2023-08_56_30.png" />
+  <img src="images/showcase/genshin_card_14_07_2023-13_26_19.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_14_07_2023-08_56_31.png" />
+  <img src="images/showcase/genshin_card_14_07_2023-13_26_21.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
