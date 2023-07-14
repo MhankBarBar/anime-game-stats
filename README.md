@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 14, 2023 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 15, 2023 01:25 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>14</td>
+      <td>15</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        5000 x
+        1 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
           height="20"
         />
-        Credit
+        Energy Drink (sugar-free)
       </td>
     </tr>
   </table>
@@ -2299,21 +2299,21 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
           ,
           height="18"
         />
         Yae Miko (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
@@ -6381,7 +6381,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>8</td>
+              <td>9</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -7101,7 +7101,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>2</td>
+              <td>3</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -7579,11 +7579,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_14_07_2023-19_39_45.png" />
+  <img src="images/showcase/genshin_card_15_07_2023-01_24_06.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_14_07_2023-19_39_47.png" />
+  <img src="images/showcase/genshin_card_15_07_2023-01_24_07.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
