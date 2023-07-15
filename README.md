@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 15, 2023 19:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 16, 2023 01:24 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>15</td>
+      <td>16</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        1 x
+        3 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           height="20"
         />
-        Energy Drink (sugar-free)
+        Adventure Log
       </td>
     </tr>
   </table>
@@ -1962,17 +1962,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>14</td>
+      <td>16</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        8000 x
+        5 x
         <img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           height="20"
         />
-        Mora
+        Fine Enhancement Ore
       </td>
     </tr>
   </table>
@@ -1987,11 +1987,11 @@
   <table>
     <tr>
       <td>Achievements</td>
-      <td>764</td>
+      <td>771</td>
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>724</td>
+      <td>725</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2019,7 +2019,7 @@
     </tr>
     <tr>
       <td>Common Chests Opened</td>
-      <td>2323</td>
+      <td>2325</td>
     </tr>
     <tr>
       <td>Exquisite Chests Opened</td>
@@ -2260,7 +2260,7 @@
     </tr>
     <tr>
       <td>Items</td>
-      <td>1211</td>
+      <td>1213</td>
     </tr>
     <tr>
       <td>Visitors</td>
@@ -2309,16 +2309,16 @@
           height="18"
         />
         Yae Miko (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (12)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
-        Yelan (12)<br />
+        Yelan (12)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (12)<br />
       </td>
     </tr>
     <tr>
@@ -2397,7 +2397,7 @@
         />
         Mora earned
       </td>
-      <td>3738432 (rate -11)</td>
+      <td>3775932 (rate -11)</td>
     </tr>
     <tr>
       <td>Categories</td>
@@ -7579,11 +7579,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_15_07_2023-19_36_01.png" />
+  <img src="images/showcase/genshin_card_16_07_2023-01_22_44.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_15_07_2023-19_36_02.png" />
+  <img src="images/showcase/genshin_card_16_07_2023-01_22_46.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
