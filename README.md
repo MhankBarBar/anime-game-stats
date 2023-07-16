@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 16, 2023 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 17, 2023 01:24 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>16</td>
+      <td>17</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        3 x
+        2 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           height="20"
         />
-        Adventure Log
+        Condensed Aether
       </td>
     </tr>
   </table>
@@ -2297,27 +2297,84 @@
     </tr>
     <tr>
       <td>Most Played Characters</td>
-      <td></td>
+      <td>
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          ,
+          height="18"
+        />
+        Kaedehara Kazuha (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (13)<br />
+      </td>
     </tr>
     <tr>
       <td>Most Defeats</td>
-      <td></td>
+      <td>
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (56)<br />
+      </td>
     </tr>
     <tr>
       <td>Strongest Single Strike</td>
-      <td></td>
+      <td>
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (78262)<br />
+      </td>
     </tr>
     <tr>
       <td>Most Damage Taken</td>
-      <td></td>
+      <td>
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (45979)<br />
+      </td>
     </tr>
     <tr>
       <td>Elemental Bursts Unleashed</td>
-      <td></td>
+      <td>
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          ,
+          height="18"
+        />
+        Kaedehara Kazuha (20)<br />
+      </td>
     </tr>
     <tr>
       <td>Elemental Skills Cast</td>
-      <td></td>
+      <td>
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+          ,
+          height="18"
+        />
+        Yae Miko (69)<br />
+      </td>
     </tr>
   </table>
   <h2><img src="images/icons/genshin_diary.png" height="20" /> Diary</h2>
@@ -7522,11 +7579,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_16_07_2023-19_35_43.png" />
+  <img src="images/showcase/genshin_card_17_07_2023-01_22_50.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_16_07_2023-19_35_44.png" />
+  <img src="images/showcase/genshin_card_17_07_2023-01_22_51.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
