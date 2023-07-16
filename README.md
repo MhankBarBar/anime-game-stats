@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 16, 2023 13:25 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 16, 2023 19:36 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td>Trailblaze Level</td>
-      <td>62</td>
+      <td>63</td>
     </tr>
     <tr>
       <td>Server</td>
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>75</td>
+      <td>76</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>2065 (rate -72)</td>
+      <td>2125 (rate -71)</td>
     </tr>
     <tr>
       <td>
@@ -98,9 +98,9 @@
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 900 (43%)<br />Simulated Universe: 475 (23%)<br />Mail:
-        340 (16%)<br />Event: 320 (15%)<br />Other: 0 (2%)<br />Adventure
-        Rewards: 30 (1%)<br />Forgotten Hall: 0 (0%)<br />
+        Daily Activity: 960 (45%)<br />Simulated Universe: 475 (22%)<br />Mail:
+        340 (16%)<br />Event: 320 (15%)<br />Adventure Rewards: 30 (1%)<br />Other:
+        0 (1%)<br />Forgotten Hall: 0 (0%)<br />
       </td>
     </tr>
   </table>
@@ -1991,7 +1991,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>725</td>
+      <td>726</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2277,7 +2277,7 @@
   <table>
     <tr>
       <td>Season</td>
-      <td>73</td>
+      <td>74</td>
     </tr>
     <tr>
       <td>Total Battles</td>
@@ -2285,7 +2285,7 @@
     </tr>
     <tr>
       <td>Total Wins</td>
-      <td>12</td>
+      <td>13</td>
     </tr>
     <tr>
       <td>Max Floor</td>
@@ -2297,84 +2297,27 @@
     </tr>
     <tr>
       <td>Most Played Characters</td>
-      <td>
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          ,
-          height="18"
-        />
-        Yae Miko (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (12)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (12)<br />
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Most Defeats</td>
-      <td>
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (43)<br />
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Strongest Single Strike</td>
-      <td>
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (71736)<br />
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Most Damage Taken</td>
-      <td>
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-          ,
-          height="18"
-        />
-        Hu Tao (73297)<br />
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Elemental Bursts Unleashed</td>
-      <td>
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-          ,
-          height="18"
-        />
-        Bennett (17)<br />
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Elemental Skills Cast</td>
-      <td>
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-          ,
-          height="18"
-        />
-        Yae Miko (95)<br />
-      </td>
+      <td></td>
     </tr>
   </table>
   <h2><img src="images/icons/genshin_diary.png" height="20" /> Diary</h2>
@@ -2387,7 +2330,7 @@
         />
         Primogems earned
       </td>
-      <td>4854 (rate 3)</td>
+      <td>5514 (rate 17)</td>
     </tr>
     <tr>
       <td>
@@ -2397,14 +2340,14 @@
         />
         Mora earned
       </td>
-      <td>3800905 (rate -10)</td>
+      <td>4444867 (rate 4)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 1326 (28%)<br />Adventure: 1248 (26%)<br />Daily Activity: 880
-        (19%)<br />Mail: 700 (14%)<br />Spiral Abyss: 600 (12%)<br />Quests: 60
-        (1%)<br />Other: 40 (0%)<br />
+        Events: 1326 (25%)<br />Adventure: 1248 (23%)<br />Spiral Abyss: 1200
+        (22%)<br />Daily Activity: 940 (17%)<br />Mail: 700 (12%)<br />Quests:
+        60 (1%)<br />Other: 40 (0%)<br />
       </td>
     </tr>
   </table>
@@ -7579,11 +7522,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_16_07_2023-13_24_03.png" />
+  <img src="images/showcase/genshin_card_16_07_2023-19_35_43.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_16_07_2023-13_24_04.png" />
+  <img src="images/showcase/genshin_card_16_07_2023-19_35_44.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
