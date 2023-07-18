@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 18, 2023 09:05 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 18, 2023 13:25 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -1987,11 +1987,11 @@
   <table>
     <tr>
       <td>Achievements</td>
-      <td>771</td>
+      <td>773</td>
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>727</td>
+      <td>728</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2387,7 +2387,7 @@
         />
         Primogems earned
       </td>
-      <td>5574 (rate 19)</td>
+      <td>5739 (rate 22)</td>
     </tr>
     <tr>
       <td>
@@ -2397,13 +2397,13 @@
         />
         Mora earned
       </td>
-      <td>4556530 (rate 7)</td>
+      <td>4621361 (rate 8)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 1326 (24%)<br />Adventure: 1248 (23%)<br />Spiral Abyss: 1200
-        (22%)<br />Daily Activity: 1000 (18%)<br />Mail: 700 (12%)<br />Quests:
+        Events: 1386 (25%)<br />Adventure: 1273 (23%)<br />Spiral Abyss: 1200
+        (21%)<br />Daily Activity: 1060 (18%)<br />Mail: 720 (12%)<br />Quests:
         60 (1%)<br />Other: 40 (0%)<br />
       </td>
     </tr>
@@ -7579,11 +7579,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_18_07_2023-09_04_17.png" />
+  <img src="images/showcase/genshin_card_18_07_2023-13_23_59.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_18_07_2023-09_04_19.png" />
+  <img src="images/showcase/genshin_card_18_07_2023-13_24_00.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
