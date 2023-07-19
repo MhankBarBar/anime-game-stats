@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 19, 2023 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 20, 2023 01:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>19</td>
+      <td>20</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        8000 x
+        20 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           height="20"
         />
-        Credit
+        Stellar Jade
       </td>
     </tr>
   </table>
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>Total Achievement</td>
-      <td>218</td>
+      <td>220</td>
     </tr>
     <tr>
       <td>Chests Opened</td>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>4405 (rate -40)</td>
+      <td>4506 (rate -39)</td>
     </tr>
     <tr>
       <td>
@@ -98,9 +98,9 @@
     <tr>
       <td>Categories</td>
       <td>
-        Mail: 1170 (26%)<br />Daily Activity: 1140 (25%)<br />Simulated
-        Universe: 670 (15%)<br />Event: 560 (12%)<br />Forgotten Hall: 400
-        (9%)<br />Adventure Rewards: 325 (7%)<br />Other: 140 (6%)<br />
+        Daily Activity: 1140 (25%)<br />Mail: 1170 (25%)<br />Simulated
+        Universe: 670 (14%)<br />Event: 560 (12%)<br />Adventure Rewards: 425
+        (9%)<br />Forgotten Hall: 400 (8%)<br />Other: 141 (7%)<br />
       </td>
     </tr>
   </table>
@@ -1701,45 +1701,7 @@
             </tr>
             <tr>
               <td>Relics</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/94cd8e3fb05399da30bfa92ed666a6ad.png"
-                  ,
-                  height="18"
-                />
-                Eagle's Beaked Helmet<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/964666c3a13da31c8cee2218ed977d8e.png"
-                  ,
-                  height="18"
-                />
-                Eagle's Soaring Ring<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/cb0d12c608854c4668b63dd5a7baea7b.png"
-                  ,
-                  height="18"
-                />
-                Eagle's Winged Suit Harness<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c35e64187a59fa95ea0da41a492ca25.png"
-                  ,
-                  height="18"
-                />
-                Eagle's Quilted Puttees<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Planar</td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/b7a9e9c4be8c9c9fbd14284bcdcea827.png"
-                  ,
-                  height="18"
-                />
-                Herta's Space Station<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/1878d84b758742d660994656c2e9d176.png"
-                  ,
-                  height="18"
-                />
-                Herta's Wandering Trek<br />
-              </td>
+              <td></td>
             </tr>
           </table>
         </td>
@@ -2102,7 +2064,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>728</td>
+      <td>729</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2410,6 +2372,11 @@
       <td>Most Played Characters</td>
       <td>
         <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          ,
+          height="18"
+        />
+        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
@@ -2420,11 +2387,6 @@
           height="18"
         />
         Nahida (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-          ,
-          height="18"
-        />
-        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
@@ -2498,7 +2460,7 @@
         />
         Primogems earned
       </td>
-      <td>5854 (rate 25)</td>
+      <td>5914 (rate 26)</td>
     </tr>
     <tr>
       <td>
@@ -2508,13 +2470,13 @@
         />
         Mora earned
       </td>
-      <td>4720361 (rate 11)</td>
+      <td>4787573 (rate 12)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
         Events: 1446 (25%)<br />Adventure: 1328 (23%)<br />Spiral Abyss: 1200
-        (21%)<br />Daily Activity: 1060 (18%)<br />Mail: 720 (12%)<br />Quests:
+        (21%)<br />Daily Activity: 1120 (18%)<br />Mail: 720 (12%)<br />Quests:
         60 (1%)<br />Other: 40 (0%)<br />
       </td>
     </tr>
@@ -6259,6 +6221,99 @@
     </table>
   </details>
   <details>
+    <summary><b>Kaeya</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Kaeya</h3></th>
+        <th><h3 align="center">Amenoma Kageuchi</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kaeya_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c2c841c9b5d3ccb4c7c7447c77ea5179.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>50</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>Artifacts<br />1 x Gladiator's Finale<br /></td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/182f1fecb9f1929738543a88b98250ba.png"
+                  height="18"
+                />
+                Gladiator's Nostalgia<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td>Sailwind Shadow</td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Amenoma Kageuchi</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>20</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>1</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Chongyun</b></summary>
     <br />
     <table>
@@ -6333,99 +6388,6 @@
             <tr>
               <td>Name</td>
               <td>Snow-Tombed Starsilver</td>
-            </tr>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>20</td>
-            </tr>
-            <tr>
-              <td>Refinement</td>
-              <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Kaeya</b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3 align="center">Kaeya</h3></th>
-        <th><h3 align="center">Amenoma Kageuchi</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kaeya_Card.png"
-              heigt="250"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c2c841c9b5d3ccb4c7c7447c77ea5179.png"
-              height="250"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>50</td>
-            </tr>
-            <tr>
-              <td>Friendship</td>
-              <td>4</td>
-            </tr>
-            <tr>
-              <td>Constellation</td>
-              <td>0</td>
-            </tr>
-            <tr>
-              <td>Artifacts<br />1 x Gladiator's Finale<br /></td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/182f1fecb9f1929738543a88b98250ba.png"
-                  height="18"
-                />
-                Gladiator's Nostalgia<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Outfits</td>
-              <td>Sailwind Shadow</td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Amenoma Kageuchi</td>
             </tr>
             <tr>
               <td>Rarity</td>
@@ -7690,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_19_07_2023-19_35_01.png" />
+  <img src="images/showcase/genshin_card_20_07_2023-01_21_50.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_19_07_2023-19_35_02.png" />
+  <img src="images/showcase/genshin_card_20_07_2023-01_21_51.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
