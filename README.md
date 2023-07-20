@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 20, 2023 01:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 20, 2023 08:36 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>79</td>
+      <td>80</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -71,7 +71,7 @@
     </tr>
     <tr>
       <td>Chests Opened</td>
-      <td>284</td>
+      <td>290</td>
     </tr>
     <tr></tr>
   </table>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>4506 (rate -39)</td>
+      <td>4626 (rate -37)</td>
     </tr>
     <tr>
       <td>
@@ -98,9 +98,9 @@
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1140 (25%)<br />Mail: 1170 (25%)<br />Simulated
-        Universe: 670 (14%)<br />Event: 560 (12%)<br />Adventure Rewards: 425
-        (9%)<br />Forgotten Hall: 400 (8%)<br />Other: 141 (7%)<br />
+        Mail: 1170 (25%)<br />Daily Activity: 1140 (24%)<br />Simulated
+        Universe: 670 (14%)<br />Event: 560 (12%)<br />Adventure Rewards: 545
+        (11%)<br />Forgotten Hall: 400 (8%)<br />Other: 141 (6%)<br />
       </td>
     </tr>
   </table>
@@ -2035,17 +2035,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>19</td>
+      <td>20</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
         3 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           height="20"
         />
-        Fisherman's Toast
+        Adventurer's Experience
       </td>
     </tr>
   </table>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_20_07_2023-01_21_50.png" />
+  <img src="images/showcase/genshin_card_20_07_2023-08_35_09.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_20_07_2023-01_21_51.png" />
+  <img src="images/showcase/genshin_card_20_07_2023-08_35_11.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
