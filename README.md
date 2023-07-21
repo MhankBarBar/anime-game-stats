@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 21, 2023 08:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 21, 2023 13:23 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>80</td>
+      <td>81</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>Total Achievement</td>
-      <td>223</td>
+      <td>224</td>
     </tr>
     <tr>
       <td>Chests Opened</td>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>5087 (rate -31)</td>
+      <td>5157 (rate -30)</td>
     </tr>
     <tr>
       <td>
@@ -93,14 +93,14 @@
         />
         Pass & Special Pass earned
       </td>
-      <td>19 (rate -52)</td>
+      <td>21 (rate -47)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1200 (23%)<br />Mail: 1220 (23%)<br />Adventure Rewards:
-        895 (17%)<br />Simulated Universe: 670 (13%)<br />Event: 560 (11%)<br />Forgotten
-        Hall: 400 (7%)<br />Other: 142 (6%)<br />
+        Daily Activity: 1260 (24%)<br />Mail: 1220 (23%)<br />Adventure Rewards:
+        905 (17%)<br />Simulated Universe: 670 (12%)<br />Event: 560 (10%)<br />Forgotten
+        Hall: 400 (7%)<br />Other: 142 (7%)<br />
       </td>
     </tr>
   </table>
@@ -829,42 +829,42 @@
               <td>Relics</td>
               <td>
                 <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/8b49454320a0103f45d4b63396259cc2.png"
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c51ebed783bd023e202970649430dfd.png"
                   ,
                   height="18"
                 />
-                Musketeer's Wild Wheat Felt Hat<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/951d4dce278ccd7883bd25fab118491b.png"
+                Thief's Myriad-Faced Mask<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/93fdbae84d062e67a92e4eca203d19c6.png"
                   ,
                   height="18"
                 />
-                Musketeer's Coarse Leather Gloves<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/f1f9f642c4f0c3b97c6ab6e7ebc5e6a5.png"
+                Thief's Gloves With Prints<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/406723d129219e78ce61017b596b450c.png"
                   ,
                   height="18"
                 />
-                Musketeer's Wind-Hunting Shawl<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/ae3c71d7126843d72dd37301f1e62b12.png"
+                Thief's Steel Grappling Hook<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/7bca405261c40102d0409743e5d71dfe.png"
                   ,
                   height="18"
                 />
-                Musketeer's Rivets Riding Boots<br />
+                Thief's Meteor Boots<br />
               </td>
             </tr>
             <tr>
               <td>Planar</td>
               <td>
                 <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/b7a9e9c4be8c9c9fbd14284bcdcea827.png"
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2273361aa1d6c87f939571d7dfb8fc1e.png"
                   ,
                   height="18"
                 />
-                Herta's Space Station<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/1878d84b758742d660994656c2e9d176.png"
+                Salsotto's Moving City<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/95f218d515e7e4d95bba8117fea34a5c.png"
                   ,
                   height="18"
                 />
-                Herta's Wandering Trek<br />
+                Salsotto's Terminator Line<br />
               </td>
             </tr>
           </table>
@@ -2372,26 +2372,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
         Nahida (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
         />
         Kaedehara Kazuha (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
-        Raiden Shogun (13)<br />
+        Yelan (13)<br />
       </td>
     </tr>
     <tr>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_21_07_2023-08_36_57.png" />
+  <img src="images/showcase/genshin_card_21_07_2023-13_22_45.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_21_07_2023-08_36_58.png" />
+  <img src="images/showcase/genshin_card_21_07_2023-13_22_46.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
