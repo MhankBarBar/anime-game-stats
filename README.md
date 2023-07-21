@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 21, 2023 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 22, 2023 05:12 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>21</td>
+      <td>22</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        3 x
+        2 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           height="20"
         />
-        Adventure Log
+        Condensed Aether
       </td>
     </tr>
   </table>
@@ -2064,7 +2064,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>730</td>
+      <td>731</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2372,16 +2372,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
@@ -2391,7 +2381,17 @@
           ,
           height="18"
         />
-        Kaedehara Kazuha (13)<br />
+        Kaedehara Kazuha (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (13)<br />
       </td>
     </tr>
     <tr>
@@ -2460,7 +2460,7 @@
         />
         Primogems earned
       </td>
-      <td>6064 (rate 29)</td>
+      <td>6214 (rate 32)</td>
     </tr>
     <tr>
       <td>
@@ -2470,14 +2470,14 @@
         />
         Mora earned
       </td>
-      <td>4902611 (rate 15)</td>
+      <td>5060936 (rate 19)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 1536 (26%)<br />Adventure: 1328 (22%)<br />Spiral Abyss: 1200
-        (20%)<br />Daily Activity: 1180 (20%)<br />Mail: 720 (12%)<br />Quests:
-        60 (0%)<br />Other: 40 (0%)<br />
+        Events: 1626 (27%)<br />Adventure: 1328 (22%)<br />Daily Activity: 1240
+        (20%)<br />Spiral Abyss: 1200 (20%)<br />Mail: 720 (11%)<br />Quests: 60
+        (0%)<br />Other: 40 (0%)<br />
       </td>
     </tr>
   </table>
@@ -4210,22 +4210,22 @@
             </tr>
             <tr>
               <td>
-                Artifacts<br />3 x Maiden Beloved<br />2 x Ocean-Hued Clam<br />
+                Artifacts<br />4 x Ocean-Hued Clam<br />1 x Blizzard Strayer<br />
               </td>
               <td>
                 <img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/a44f368ca2fa455ecbd98c2570688396.png"
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/3cbe40cacc1ee0a1e6bff9dd9f7615fe.png"
                   height="18"
                 />
-                Maiden's Distant Love<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/18f3915af2a40e6dd3fce4c6fffd8e45.png"
+                Sea-Dyed Blossom<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d96522f02b101db567722d737cca1663.png"
                   height="18"
                 />
-                Maiden's Heart-Stricken Infatuation<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/8e50640a09477b69d2066b3bceb56fb5.png"
+                Deep Palace's Plume<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ab2973bf99d3bd18e93bda744839a988.png"
                   height="18"
                 />
-                Maiden's Passing Youth<br /><img
+                Frozen Homeland's Demise<br /><img
                   src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/68f1c633471541b5b1c3fe2557aca6f5.png"
                   height="18"
                 />
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_21_07_2023-19_34_13.png" />
+  <img src="images/showcase/genshin_card_22_07_2023-05_11_44.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_21_07_2023-19_34_14.png" />
+  <img src="images/showcase/genshin_card_22_07_2023-05_11_45.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
