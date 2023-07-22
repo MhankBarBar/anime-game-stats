@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 22, 2023 05:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 22, 2023 08:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2035,17 +2035,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>21</td>
+      <td>22</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        8000 x
+        5 x
         <img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           height="20"
         />
-        Mora
+        Adventurer's Experience
       </td>
     </tr>
   </table>
@@ -2377,11 +2377,6 @@
           height="18"
         />
         Nahida (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-          ,
-          height="18"
-        />
-        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
@@ -2391,7 +2386,12 @@
           ,
           height="18"
         />
-        Raiden Shogun (13)<br />
+        Raiden Shogun (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          ,
+          height="18"
+        />
+        Kaedehara Kazuha (13)<br />
       </td>
     </tr>
     <tr>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_22_07_2023-05_11_44.png" />
+  <img src="images/showcase/genshin_card_22_07_2023-08_34_51.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_22_07_2023-05_11_45.png" />
+  <img src="images/showcase/genshin_card_22_07_2023-08_34_53.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
