@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 22, 2023 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 23, 2023 01:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>22</td>
+      <td>23</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
         2 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           height="20"
         />
-        Condensed Aether
+        Lost Gold Fragment
       </td>
     </tr>
   </table>
@@ -2377,21 +2377,21 @@
           height="18"
         />
         Yelan (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
-        Kaedehara Kazuha (13)<br /><img
+        Raiden Shogun (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
         Nahida (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
         />
-        Raiden Shogun (13)<br />
+        Kaedehara Kazuha (13)<br />
       </td>
     </tr>
     <tr>
@@ -2460,7 +2460,7 @@
         />
         Primogems earned
       </td>
-      <td>6214 (rate 32)</td>
+      <td>6274 (rate 34)</td>
     </tr>
     <tr>
       <td>
@@ -2470,13 +2470,13 @@
         />
         Mora earned
       </td>
-      <td>5060936 (rate 19)</td>
+      <td>5127286 (rate 20)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 1626 (27%)<br />Adventure: 1328 (22%)<br />Daily Activity: 1240
-        (20%)<br />Spiral Abyss: 1200 (20%)<br />Mail: 720 (11%)<br />Quests: 60
+        Events: 1626 (26%)<br />Adventure: 1328 (22%)<br />Daily Activity: 1300
+        (21%)<br />Spiral Abyss: 1200 (20%)<br />Mail: 720 (11%)<br />Quests: 60
         (0%)<br />Other: 40 (0%)<br />
       </td>
     </tr>
@@ -7087,7 +7087,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>6</td>
+              <td>7</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -7174,7 +7174,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>4</td>
+              <td>5</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -7261,7 +7261,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>2</td>
+              <td>3</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -7348,7 +7348,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>2</td>
+              <td>3</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -7369,6 +7369,93 @@
             <tr>
               <td>Name</td>
               <td>Waster Greatsword</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>1</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
+    <summary><b>Gorou</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Gorou</h3></th>
+        <th><h3 align="center">Hunter's Bow</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Gorou_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ec3e0f3ffef01187a0ff6d3e91d3c5a3.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>20</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>2</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <td>Artifacts<br /></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Hunter's Bow</td>
             </tr>
             <tr>
               <td>Rarity</td>
@@ -7561,91 +7648,17 @@
       </tr>
     </table>
   </details>
-  <details>
-    <summary><b>Gorou</b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3 align="center">Gorou</h3></th>
-        <th><h3 align="center">Hunter's Bow</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Gorou_Card.png"
-              heigt="250"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ec3e0f3ffef01187a0ff6d3e91d3c5a3.png"
-              height="250"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>20</td>
-            </tr>
-            <tr>
-              <td>Friendship</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Constellation</td>
-              <td>3</td>
-            </tr>
-            <tr>
-              <td>Artifacts<br /></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>Outfits</td>
-              <td></td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Hunter's Bow</td>
-            </tr>
-            <tr>
-              <td>Rarity</td>
-              <td>★</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Refinement</td>
-              <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
 </details>
+<h2 align="center">My Genshin Characters Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="images/showcase/genshin_card_23_07_2023-01_20_24.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="images/showcase/genshin_card_23_07_2023-01_20_25.png" />
+</details>
+<h2 align="center">
+  You can also check my characters showcase/builds on
+  <a href="https://enka.network/u/joydazo">Enka.Network</a>
+</h2>
