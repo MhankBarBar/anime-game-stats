@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 23, 2023 08:43 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 23, 2023 13:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td>Trailblaze Level</td>
-      <td>63</td>
+      <td>64</td>
     </tr>
     <tr>
       <td>Server</td>
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>82</td>
+      <td>83</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>5288 (rate -29)</td>
+      <td>5348 (rate -28)</td>
     </tr>
     <tr>
       <td>
@@ -93,12 +93,12 @@
         />
         Pass & Special Pass earned
       </td>
-      <td>23 (rate -42)</td>
+      <td>24 (rate -40)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1320 (24%)<br />Mail: 1220 (23%)<br />Adventure Rewards:
+        Daily Activity: 1380 (25%)<br />Mail: 1220 (22%)<br />Adventure Rewards:
         975 (18%)<br />Simulated Universe: 670 (12%)<br />Event: 560 (10%)<br />Forgotten
         Hall: 400 (7%)<br />Other: 143 (6%)<br />
       </td>
@@ -2372,11 +2372,11 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
         />
-        Nahida (13)<br /><img
+        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
@@ -2387,11 +2387,11 @@
           height="18"
         />
         Yelan (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
-        Kaedehara Kazuha (13)<br />
+        Nahida (13)<br />
       </td>
     </tr>
     <tr>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_23_07_2023-08_41_58.png" />
+  <img src="images/showcase/genshin_card_23_07_2023-13_21_43.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_23_07_2023-08_41_59.png" />
+  <img src="images/showcase/genshin_card_23_07_2023-13_21_44.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
