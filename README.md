@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 23, 2023 13:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 23, 2023 19:32 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -67,11 +67,11 @@
     </tr>
     <tr>
       <td>Total Achievement</td>
-      <td>225</td>
+      <td>226</td>
     </tr>
     <tr>
       <td>Chests Opened</td>
-      <td>297</td>
+      <td>303</td>
     </tr>
     <tr></tr>
   </table>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>5348 (rate -28)</td>
+      <td>5533 (rate -25)</td>
     </tr>
     <tr>
       <td>
@@ -93,14 +93,14 @@
         />
         Pass & Special Pass earned
       </td>
-      <td>24 (rate -40)</td>
+      <td>25 (rate -37)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1380 (25%)<br />Mail: 1220 (22%)<br />Adventure Rewards:
-        975 (18%)<br />Simulated Universe: 670 (12%)<br />Event: 560 (10%)<br />Forgotten
-        Hall: 400 (7%)<br />Other: 143 (6%)<br />
+        Daily Activity: 1380 (24%)<br />Mail: 1220 (22%)<br />Adventure Rewards:
+        1160 (20%)<br />Simulated Universe: 670 (12%)<br />Event: 560 (10%)<br />Forgotten
+        Hall: 400 (7%)<br />Other: 143 (5%)<br />
       </td>
     </tr>
   </table>
@@ -2035,17 +2035,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>22</td>
+      <td>23</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
         5 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           height="20"
         />
-        Adventurer's Experience
+        Fine Enhancement Ore
       </td>
     </tr>
   </table>
@@ -2372,16 +2372,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-          ,
-          height="18"
-        />
-        Kaedehara Kazuha (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
@@ -2391,7 +2381,17 @@
           ,
           height="18"
         />
-        Nahida (13)<br />
+        Nahida (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          ,
+          height="18"
+        />
+        Kaedehara Kazuha (13)<br />
       </td>
     </tr>
     <tr>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_23_07_2023-13_21_43.png" />
+  <img src="images/showcase/genshin_card_23_07_2023-19_31_44.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_23_07_2023-13_21_44.png" />
+  <img src="images/showcase/genshin_card_23_07_2023-19_31_46.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
