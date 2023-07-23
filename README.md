@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 23, 2023 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 24, 2023 01:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>23</td>
+      <td>24</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        2 x
+        8000 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           height="20"
         />
-        Lost Gold Fragment
+        Credit
       </td>
     </tr>
   </table>
@@ -2064,7 +2064,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>732</td>
+      <td>733</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2372,26 +2372,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
         />
-        Yelan (13)<br /><img
+        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
         Nahida (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
-        Raiden Shogun (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-          ,
-          height="18"
-        />
-        Kaedehara Kazuha (13)<br />
+        Raiden Shogun (13)<br />
       </td>
     </tr>
     <tr>
@@ -2460,7 +2460,7 @@
         />
         Primogems earned
       </td>
-      <td>6274 (rate 34)</td>
+      <td>6534 (rate 39)</td>
     </tr>
     <tr>
       <td>
@@ -2470,14 +2470,14 @@
         />
         Mora earned
       </td>
-      <td>5127286 (rate 20)</td>
+      <td>5356511 (rate 26)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 1626 (26%)<br />Adventure: 1328 (22%)<br />Daily Activity: 1300
-        (21%)<br />Spiral Abyss: 1200 (20%)<br />Mail: 720 (11%)<br />Quests: 60
-        (0%)<br />Other: 40 (0%)<br />
+        Events: 1806 (28%)<br />Daily Activity: 1360 (21%)<br />Adventure: 1328
+        (21%)<br />Spiral Abyss: 1200 (19%)<br />Mail: 720 (11%)<br />Quests: 60
+        (0%)<br />Other: 60 (0%)<br />
       </td>
     </tr>
   </table>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_23_07_2023-19_31_44.png" />
+  <img src="images/showcase/genshin_card_24_07_2023-01_20_27.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_23_07_2023-19_31_46.png" />
+  <img src="images/showcase/genshin_card_24_07_2023-01_20_29.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
