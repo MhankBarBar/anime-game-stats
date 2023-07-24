@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 24, 2023 13:25 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 24, 2023 19:36 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>5753 (rate -22)</td>
+      <td>5913 (rate -20)</td>
     </tr>
     <tr>
       <td>
@@ -93,13 +93,13 @@
         />
         Pass & Special Pass earned
       </td>
-      <td>26 (rate -35)</td>
+      <td>27 (rate -32)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1380 (23%)<br />Mail: 1220 (21%)<br />Adventure Rewards:
-        1160 (20%)<br />Simulated Universe: 890 (15%)<br />Event: 560 (9%)<br />Forgotten
+        Daily Activity: 1440 (24%)<br />Mail: 1220 (20%)<br />Adventure Rewards:
+        1165 (19%)<br />Simulated Universe: 985 (16%)<br />Event: 560 (9%)<br />Forgotten
         Hall: 400 (6%)<br />Other: 143 (6%)<br />
       </td>
     </tr>
@@ -2035,17 +2035,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>23</td>
+      <td>24</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        5 x
+        5000 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           height="20"
         />
-        Fine Enhancement Ore
+        Mora
       </td>
     </tr>
   </table>
@@ -2372,6 +2372,11 @@
       <td>Most Played Characters</td>
       <td>
         <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
@@ -2382,11 +2387,6 @@
           height="18"
         />
         Yelan (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
@@ -2460,7 +2460,7 @@
         />
         Primogems earned
       </td>
-      <td>6534 (rate 39)</td>
+      <td>6594 (rate 40)</td>
     </tr>
     <tr>
       <td>
@@ -2470,13 +2470,13 @@
         />
         Mora earned
       </td>
-      <td>5356511 (rate 26)</td>
+      <td>5411323 (rate 27)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 1806 (28%)<br />Daily Activity: 1360 (21%)<br />Adventure: 1328
-        (21%)<br />Spiral Abyss: 1200 (19%)<br />Mail: 720 (11%)<br />Quests: 60
+        Events: 1806 (28%)<br />Daily Activity: 1420 (22%)<br />Adventure: 1328
+        (21%)<br />Spiral Abyss: 1200 (19%)<br />Mail: 720 (10%)<br />Quests: 60
         (0%)<br />Other: 60 (0%)<br />
       </td>
     </tr>
@@ -3551,8 +3551,8 @@
             </tr>
             <tr>
               <td>
-                Artifacts<br />2 x Desert Pavilion Chronicle<br />1 x Noblesse
-                Oblige<br />1 x Gladiator's Finale<br />1 x Wanderer's Troupe<br />
+                Artifacts<br />2 x Desert Pavilion Chronicle<br />2 x
+                Gladiator's Finale<br />1 x Wanderer's Troupe<br />
               </td>
               <td>
                 <img
@@ -3564,10 +3564,10 @@
                   height="18"
                 />
                 End of the Golden Realm<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/861439e0e2245f4633cc86b44dc65833.png"
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/01ee5a3e1658fa9b4741b2a6570b2cd5.png"
                   height="18"
                 />
-                Royal Pocket Watch<br /><img
+                Gladiator's Longing<br /><img
                   src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/4f34aa23bb0ef4e26bb13302d50e5d4b.png"
                   height="18"
                 />
@@ -4160,7 +4160,7 @@
     <table>
       <tr>
         <th><h3 align="center">Barbara</h3></th>
-        <th><h3 align="center">Oathsworn Eye</h3></th>
+        <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
       </tr>
       <tr>
         <td>
@@ -4174,7 +4174,7 @@
         <td>
           <p align="center">
             <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ffa2f1fd65c92bef6f3e23b4b4ca2164.png"
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f2259d611a852ef827bb5265244bc3b8.png"
               height="250"
             />
           </p>
@@ -4246,15 +4246,15 @@
           <table>
             <tr>
               <td>Name</td>
-              <td>Oathsworn Eye</td>
+              <td>Thrilling Tales of Dragon Slayers</td>
             </tr>
             <tr>
               <td>Rarity</td>
-              <td>★★★★</td>
+              <td>★★★</td>
             </tr>
             <tr>
               <td>Level</td>
-              <td>1</td>
+              <td>80</td>
             </tr>
             <tr>
               <td>Refinement</td>
@@ -6939,6 +6939,93 @@
     </table>
   </details>
   <details>
+    <summary><b>Aloy</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Aloy</h3></th>
+        <th><h3 align="center">Hunter's Bow</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Aloy_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ec3e0f3ffef01187a0ff6d3e91d3c5a3.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>21</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>7</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>Artifacts<br /></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Hunter's Bow</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>1</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Yun Jin</b></summary>
     <br />
     <table>
@@ -7025,93 +7112,6 @@
             <tr>
               <td>Rarity</td>
               <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Refinement</td>
-              <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Aloy</b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3 align="center">Aloy</h3></th>
-        <th><h3 align="center">Hunter's Bow</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Aloy_Card.png"
-              heigt="250"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ec3e0f3ffef01187a0ff6d3e91d3c5a3.png"
-              height="250"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>20</td>
-            </tr>
-            <tr>
-              <td>Friendship</td>
-              <td>7</td>
-            </tr>
-            <tr>
-              <td>Constellation</td>
-              <td>0</td>
-            </tr>
-            <tr>
-              <td>Artifacts<br /></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>Outfits</td>
-              <td></td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Hunter's Bow</td>
-            </tr>
-            <tr>
-              <td>Rarity</td>
-              <td>★</td>
             </tr>
             <tr>
               <td>Level</td>
@@ -7649,3 +7649,16 @@
     </table>
   </details>
 </details>
+<h2 align="center">My Genshin Characters Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="images/showcase/genshin_card_24_07_2023-19_35_47.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="images/showcase/genshin_card_24_07_2023-19_35_49.png" />
+</details>
+<h2 align="center">
+  You can also check my characters showcase/builds on
+  <a href="https://enka.network/u/joydazo">Enka.Network</a>
+</h2>
