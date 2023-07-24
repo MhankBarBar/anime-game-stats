@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 24, 2023 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 25, 2023 01:24 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>24</td>
+      <td>25</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        8000 x
+        1 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
           height="20"
         />
-        Credit
+        Disposable Kinetic Arm
       </td>
     </tr>
   </table>
@@ -2064,7 +2064,7 @@
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>733</td>
+      <td>734</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2100,7 +2100,7 @@
     </tr>
     <tr>
       <td>Precious Chests Opened</td>
-      <td>437</td>
+      <td>438</td>
     </tr>
     <tr>
       <td>Luxurious Chests Opened</td>
@@ -2372,11 +2372,11 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
         />
-        Nahida (13)<br /><img
+        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
@@ -2387,11 +2387,11 @@
           height="18"
         />
         Yelan (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
-        Kaedehara Kazuha (13)<br />
+        Nahida (13)<br />
       </td>
     </tr>
     <tr>
@@ -2460,7 +2460,7 @@
         />
         Primogems earned
       </td>
-      <td>6594 (rate 40)</td>
+      <td>6664 (rate 42)</td>
     </tr>
     <tr>
       <td>
@@ -2470,13 +2470,13 @@
         />
         Mora earned
       </td>
-      <td>5411323 (rate 27)</td>
+      <td>5486155 (rate 29)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 1806 (28%)<br />Daily Activity: 1420 (22%)<br />Adventure: 1328
-        (21%)<br />Spiral Abyss: 1200 (19%)<br />Mail: 720 (10%)<br />Quests: 60
+        Events: 1866 (29%)<br />Daily Activity: 1420 (22%)<br />Adventure: 1338
+        (21%)<br />Spiral Abyss: 1200 (18%)<br />Mail: 720 (10%)<br />Quests: 60
         (0%)<br />Other: 60 (0%)<br />
       </td>
     </tr>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_24_07_2023-19_35_47.png" />
+  <img src="images/showcase/genshin_card_25_07_2023-01_23_48.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_24_07_2023-19_35_49.png" />
+  <img src="images/showcase/genshin_card_25_07_2023-01_23_49.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
