@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 25, 2023 08:47 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 25, 2023 13:24 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>84</td>
+      <td>85</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>Total Achievement</td>
-      <td>227</td>
+      <td>228</td>
     </tr>
     <tr>
       <td>Chests Opened</td>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>5913 (rate -20)</td>
+      <td>6485 (rate -13)</td>
     </tr>
     <tr>
       <td>
@@ -93,14 +93,14 @@
         />
         Pass & Special Pass earned
       </td>
-      <td>27 (rate -32)</td>
+      <td>30 (rate -25)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1440 (24%)<br />Mail: 1220 (20%)<br />Adventure Rewards:
-        1165 (19%)<br />Simulated Universe: 985 (16%)<br />Event: 560 (9%)<br />Forgotten
-        Hall: 400 (6%)<br />Other: 143 (6%)<br />
+        Daily Activity: 1500 (23%)<br />Adventure Rewards: 1265 (19%)<br />Mail:
+        1220 (18%)<br />Simulated Universe: 985 (15%)<br />Event: 970 (14%)<br />Forgotten
+        Hall: 400 (6%)<br />Other: 145 (5%)<br />
       </td>
     </tr>
   </table>
@@ -2372,11 +2372,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-          ,
-          height="18"
-        />
-        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
@@ -2387,6 +2382,11 @@
           height="18"
         />
         Yelan (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          ,
+          height="18"
+        />
+        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_07_2023-08_46_26.png" />
+  <img src="images/showcase/genshin_card_25_07_2023-13_23_06.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_07_2023-08_46_27.png" />
+  <img src="images/showcase/genshin_card_25_07_2023-13_23_08.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
