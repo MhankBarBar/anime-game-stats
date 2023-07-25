@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 25, 2023 01:24 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 25, 2023 08:47 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2377,21 +2377,21 @@
           height="18"
         />
         Kaedehara Kazuha (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
-        Raiden Shogun (13)<br /><img
+        Nahida (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
         Yelan (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
-        Nahida (13)<br />
+        Raiden Shogun (13)<br />
       </td>
     </tr>
     <tr>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_07_2023-01_23_48.png" />
+  <img src="images/showcase/genshin_card_25_07_2023-08_46_26.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_07_2023-01_23_49.png" />
+  <img src="images/showcase/genshin_card_25_07_2023-08_46_27.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
