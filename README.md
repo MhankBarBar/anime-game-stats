@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 25, 2023 13:24 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 25, 2023 19:38 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2372,16 +2372,16 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
         Yelan (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
@@ -2460,7 +2460,7 @@
         />
         Primogems earned
       </td>
-      <td>6664 (rate 42)</td>
+      <td>6874 (rate 46)</td>
     </tr>
     <tr>
       <td>
@@ -2470,13 +2470,13 @@
         />
         Mora earned
       </td>
-      <td>5486155 (rate 29)</td>
+      <td>5616354 (rate 32)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 1866 (29%)<br />Daily Activity: 1420 (22%)<br />Adventure: 1338
-        (21%)<br />Spiral Abyss: 1200 (18%)<br />Mail: 720 (10%)<br />Quests: 60
+        Events: 1986 (29%)<br />Daily Activity: 1480 (22%)<br />Adventure: 1368
+        (20%)<br />Spiral Abyss: 1200 (18%)<br />Mail: 720 (11%)<br />Quests: 60
         (0%)<br />Other: 60 (0%)<br />
       </td>
     </tr>
@@ -3600,7 +3600,7 @@
             </tr>
             <tr>
               <td>Refinement</td>
-              <td>3</td>
+              <td>4</td>
             </tr>
           </table>
         </td>
@@ -4035,6 +4035,115 @@
             <tr>
               <td>Refinement</td>
               <td>1</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
+    <summary><b>Mona</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Mona</h3></th>
+        <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Mona_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f2259d611a852ef827bb5265244bc3b8.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>80</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>10</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Artifacts<br />5 x Instructor<br /></td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/56e962d31b127b46b785dee9e21a8d96.png"
+                  height="18"
+                />
+                Instructor's Brooch<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/a10924f507ab7ecbdb2ee7aec54325a9.png"
+                  height="18"
+                />
+                Instructor's Feather Accessory<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74e526ef612897a66a1458fc02e4fbe3.png"
+                  height="18"
+                />
+                Instructor's Pocket Watch<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/482361fb5ff2f68fbfcdf64d3e8f3814.png"
+                  height="18"
+                />
+                Instructor's Tea Cup<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/833505ec3e5ba23e2c547d338d6a44b3.png"
+                  height="18"
+                />
+                Instructor's Cap<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td>Pact of Stars and Moon</td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Thrilling Tales of Dragon Slayers</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>5</td>
             </tr>
           </table>
         </td>
@@ -4897,115 +5006,6 @@
     </table>
   </details>
   <details>
-    <summary><b>Mona</b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3 align="center">Mona</h3></th>
-        <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Mona_Card.png"
-              heigt="250"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f2259d611a852ef827bb5265244bc3b8.png"
-              height="250"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>70</td>
-            </tr>
-            <tr>
-              <td>Friendship</td>
-              <td>10</td>
-            </tr>
-            <tr>
-              <td>Constellation</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Artifacts<br />5 x Instructor<br /></td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/56e962d31b127b46b785dee9e21a8d96.png"
-                  height="18"
-                />
-                Instructor's Brooch<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/a10924f507ab7ecbdb2ee7aec54325a9.png"
-                  height="18"
-                />
-                Instructor's Feather Accessory<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74e526ef612897a66a1458fc02e4fbe3.png"
-                  height="18"
-                />
-                Instructor's Pocket Watch<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/482361fb5ff2f68fbfcdf64d3e8f3814.png"
-                  height="18"
-                />
-                Instructor's Tea Cup<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/833505ec3e5ba23e2c547d338d6a44b3.png"
-                  height="18"
-                />
-                Instructor's Cap<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Outfits</td>
-              <td>Pact of Stars and Moon</td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Thrilling Tales of Dragon Slayers</td>
-            </tr>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>1</td>
-            </tr>
-            <tr>
-              <td>Refinement</td>
-              <td>5</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
     <summary><b>Fischl</b></summary>
     <br />
     <table>
@@ -5356,7 +5356,7 @@
             </tr>
             <tr>
               <td>Constellation</td>
-              <td>3</td>
+              <td>4</td>
             </tr>
             <tr>
               <td>Artifacts<br />1 x Noblesse Oblige<br /></td>
@@ -6268,7 +6268,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>5</td>
+              <td>6</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_07_2023-13_23_06.png" />
+  <img src="images/showcase/genshin_card_25_07_2023-19_37_01.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_07_2023-13_23_08.png" />
+  <img src="images/showcase/genshin_card_25_07_2023-19_37_03.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
