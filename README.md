@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 25, 2023 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 26, 2023 01:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>25</td>
+      <td>26</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        1 x
+        2 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
           height="20"
         />
-        Disposable Kinetic Arm
+        Refined Aether
       </td>
     </tr>
   </table>
@@ -2060,11 +2060,11 @@
   <table>
     <tr>
       <td>Achievements</td>
-      <td>780</td>
+      <td>783</td>
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>734</td>
+      <td>735</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2372,26 +2372,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
-        Yelan (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (13)<br /><img
+        Raiden Shogun (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
         />
         Kaedehara Kazuha (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
-        Raiden Shogun (13)<br />
+        Nahida (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (13)<br />
       </td>
     </tr>
     <tr>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_07_2023-19_37_01.png" />
+  <img src="images/showcase/genshin_card_26_07_2023-01_21_10.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_07_2023-19_37_03.png" />
+  <img src="images/showcase/genshin_card_26_07_2023-01_21_12.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
