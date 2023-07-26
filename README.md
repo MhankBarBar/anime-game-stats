@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 26, 2023 08:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 26, 2023 13:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>85</td>
+      <td>86</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>Total Achievement</td>
-      <td>228</td>
+      <td>229</td>
     </tr>
     <tr>
       <td>Chests Opened</td>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>6485 (rate -13)</td>
+      <td>6550 (rate -12)</td>
     </tr>
     <tr>
       <td>
@@ -93,12 +93,12 @@
         />
         Pass & Special Pass earned
       </td>
-      <td>30 (rate -25)</td>
+      <td>31 (rate -22)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1500 (23%)<br />Adventure Rewards: 1265 (19%)<br />Mail:
+        Daily Activity: 1560 (23%)<br />Adventure Rewards: 1270 (19%)<br />Mail:
         1220 (18%)<br />Simulated Universe: 985 (15%)<br />Event: 970 (14%)<br />Forgotten
         Hall: 400 (6%)<br />Other: 145 (5%)<br />
       </td>
@@ -2372,16 +2372,16 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
         />
         Kaedehara Kazuha (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_26_07_2023-08_37_44.png" />
+  <img src="images/showcase/genshin_card_26_07_2023-13_21_42.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_26_07_2023-08_37_46.png" />
+  <img src="images/showcase/genshin_card_26_07_2023-13_21_43.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
