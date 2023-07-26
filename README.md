@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 26, 2023 13:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 26, 2023 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2372,26 +2372,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
-        Kaedehara Kazuha (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (13)<br /><img
+        Yelan (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
         Nahida (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
-        Yelan (13)<br />
+        Raiden Shogun (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          ,
+          height="18"
+        />
+        Kaedehara Kazuha (13)<br />
       </td>
     </tr>
     <tr>
@@ -2460,7 +2460,7 @@
         />
         Primogems earned
       </td>
-      <td>6874 (rate 46)</td>
+      <td>7003 (rate 49)</td>
     </tr>
     <tr>
       <td>
@@ -2470,12 +2470,12 @@
         />
         Mora earned
       </td>
-      <td>5616354 (rate 32)</td>
+      <td>5709618 (rate 34)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 1986 (29%)<br />Daily Activity: 1480 (22%)<br />Adventure: 1368
+        Events: 2026 (29%)<br />Daily Activity: 1540 (22%)<br />Adventure: 1397
         (20%)<br />Spiral Abyss: 1200 (18%)<br />Mail: 720 (11%)<br />Quests: 60
         (0%)<br />Other: 60 (0%)<br />
       </td>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_26_07_2023-13_21_42.png" />
+  <img src="images/showcase/genshin_card_26_07_2023-19_34_40.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_26_07_2023-13_21_43.png" />
+  <img src="images/showcase/genshin_card_26_07_2023-19_34_41.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
