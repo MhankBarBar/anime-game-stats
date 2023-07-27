@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 27, 2023 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 28, 2023 01:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>27</td>
+      <td>28</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        2 x
+        3 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
           height="20"
         />
-        Lost Crystal
+        Traveler's Guide
       </td>
     </tr>
   </table>
@@ -2060,11 +2060,11 @@
   <table>
     <tr>
       <td>Achievements</td>
-      <td>785</td>
+      <td>787</td>
     </tr>
     <tr>
       <td>Days Active</td>
-      <td>736</td>
+      <td>737</td>
     </tr>
     <tr>
       <td>Characters</td>
@@ -2092,11 +2092,11 @@
     </tr>
     <tr>
       <td>Common Chests Opened</td>
-      <td>2327</td>
+      <td>2331</td>
     </tr>
     <tr>
       <td>Exquisite Chests Opened</td>
-      <td>1417</td>
+      <td>1419</td>
     </tr>
     <tr>
       <td>Precious Chests Opened</td>
@@ -2333,7 +2333,7 @@
     </tr>
     <tr>
       <td>Items</td>
-      <td>1215</td>
+      <td>1216</td>
     </tr>
     <tr>
       <td>Visitors</td>
@@ -2372,26 +2372,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
         />
-        Yelan (13)<br /><img
+        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
         />
         Nahida (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
-        Raiden Shogun (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-          ,
-          height="18"
-        />
-        Kaedehara Kazuha (13)<br />
+        Raiden Shogun (13)<br />
       </td>
     </tr>
     <tr>
@@ -2460,7 +2460,7 @@
         />
         Primogems earned
       </td>
-      <td>7003 (rate 49)</td>
+      <td>7292 (rate 55)</td>
     </tr>
     <tr>
       <td>
@@ -2470,13 +2470,13 @@
         />
         Mora earned
       </td>
-      <td>5709618 (rate 34)</td>
+      <td>5815063 (rate 36)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 2026 (29%)<br />Daily Activity: 1540 (22%)<br />Adventure: 1397
-        (20%)<br />Spiral Abyss: 1200 (18%)<br />Mail: 720 (11%)<br />Quests: 60
+        Events: 2226 (31%)<br />Daily Activity: 1600 (22%)<br />Adventure: 1426
+        (20%)<br />Spiral Abyss: 1200 (17%)<br />Mail: 720 (10%)<br />Quests: 60
         (0%)<br />Other: 60 (0%)<br />
       </td>
     </tr>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_27_07_2023-19_35_00.png" />
+  <img src="images/showcase/genshin_card_28_07_2023-01_21_11.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_27_07_2023-19_35_01.png" />
+  <img src="images/showcase/genshin_card_28_07_2023-01_21_12.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
