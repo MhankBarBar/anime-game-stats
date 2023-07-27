@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 27, 2023 08:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 27, 2023 13:23 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>86</td>
+      <td>87</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -829,16 +829,16 @@
               <td>Relics</td>
               <td>
                 <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c51ebed783bd023e202970649430dfd.png"
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/06196200794f087e158aaf0b01fc7194.png"
                   ,
                   height="18"
                 />
-                Thief's Myriad-Faced Mask<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/93fdbae84d062e67a92e4eca203d19c6.png"
+                Band's Polarized Sunglasses<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/5db9896e59b38e73a00a7a5a7797c3be.png"
                   ,
                   height="18"
                 />
-                Thief's Gloves With Prints<br /><img
+                Band's Touring Bracelet<br /><img
                   src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/406723d129219e78ce61017b596b450c.png"
                   ,
                   height="18"
@@ -855,16 +855,16 @@
               <td>Planar</td>
               <td>
                 <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2273361aa1d6c87f939571d7dfb8fc1e.png"
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/b7a9e9c4be8c9c9fbd14284bcdcea827.png"
                   ,
                   height="18"
                 />
-                Salsotto's Moving City<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/95f218d515e7e4d95bba8117fea34a5c.png"
+                Herta's Space Station<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/1878d84b758742d660994656c2e9d176.png"
                   ,
                   height="18"
                 />
-                Salsotto's Terminator Line<br />
+                Herta's Wandering Trek<br />
               </td>
             </tr>
           </table>
@@ -7652,11 +7652,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_27_07_2023-08_20_48.png" />
+  <img src="images/showcase/genshin_card_27_07_2023-13_22_26.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_27_07_2023-08_20_49.png" />
+  <img src="images/showcase/genshin_card_27_07_2023-13_22_27.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
