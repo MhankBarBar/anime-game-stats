@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 28, 2023 01:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 28, 2023 08:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -2372,11 +2372,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-          ,
-          height="18"
-        />
-        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
@@ -2387,6 +2382,11 @@
           height="18"
         />
         Yelan (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          ,
+          height="18"
+        />
+        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
@@ -4712,7 +4712,7 @@
     <table>
       <tr>
         <th><h3 align="center">Rosaria</h3></th>
-        <th><h3 align="center">Dragonspine Spear</h3></th>
+        <th><h3 align="center">Favonius Lance</h3></th>
       </tr>
       <tr>
         <td>
@@ -4726,7 +4726,7 @@
         <td>
           <p align="center">
             <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/58de24cf6c65741ddc12dba04b043c48.png"
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/1ff500f1453366c786388cd402d729fc.png"
               height="250"
             />
           </p>
@@ -4762,8 +4762,7 @@
             </tr>
             <tr>
               <td>
-                Artifacts<br />2 x Emblem of Severed Fate<br />1 x Blizzard
-                Strayer<br />1 x Lavawalker<br />
+                Artifacts<br />4 x Emblem of Severed Fate<br />1 x Lavawalker<br />
               </td>
               <td>
                 <img
@@ -4771,14 +4770,18 @@
                   height="18"
                 />
                 Magnificent Tsuba<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d1c89bb06dece2c9b18a9db3bdbaaa7a.png"
+                  height="18"
+                />
+                Sundered Feather<br /><img
                   src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74d8d7455747e0a8f862930a29925cbc.png"
                   height="18"
                 />
                 Storm Cage<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/baef1cc3dc183a6345d140fa0a22a19b.png"
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/bfcf2caf7cb1c9323e10f63ac6be3acf.png"
                   height="18"
                 />
-                Frost-Weaved Dignity<br /><img
+                Scarlet Vessel<br /><img
                   src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ddce932545028d82eb9af8ac34d75d67.png"
                   height="18"
                 />
@@ -4795,7 +4798,7 @@
           <table>
             <tr>
               <td>Name</td>
-              <td>Dragonspine Spear</td>
+              <td>Favonius Lance</td>
             </tr>
             <tr>
               <td>Rarity</td>
@@ -4803,11 +4806,11 @@
             </tr>
             <tr>
               <td>Level</td>
-              <td>80</td>
+              <td>70</td>
             </tr>
             <tr>
               <td>Refinement</td>
-              <td>1</td>
+              <td>4</td>
             </tr>
           </table>
         </td>
@@ -4862,7 +4865,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>8</td>
+              <td>9</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -5305,6 +5308,118 @@
     </table>
   </details>
   <details>
+    <summary><b>Sucrose</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Sucrose</h3></th>
+        <th><h3 align="center">Sacrificial Fragments</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/463b226ec97e453c9f58ed35735eeec8.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>10</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>6</td>
+            </tr>
+            <tr>
+              <td>
+                Artifacts<br />3 x Viridescent Venerer<br />1 x Heart of
+                Depth<br />1 x Maiden Beloved<br />
+              </td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/a3bcfc4eaf10d0906b5d9448f83f1dae.png"
+                  height="18"
+                />
+                In Remembrance of Viridescent Fields<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/227de6d1625aef47a024ed131462b050.png"
+                  height="18"
+                />
+                Viridescent Arrow Feather<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/32c99b2e86b1ac33910763c2514434df.png"
+                  height="18"
+                />
+                Copper Compass<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/2dfe43a54da0545f6e44c5db81135bbb.png"
+                  height="18"
+                />
+                Maiden's Fleeting Leisure<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/722a8f4d6ff88e474c9ce003ec499d97.png"
+                  height="18"
+                />
+                Viridescent Venerer's Diadem<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Sacrificial Fragments</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>80</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>4</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Faruzan</b></summary>
     <br />
     <table>
@@ -5615,118 +5730,6 @@
             <tr>
               <td>Refinement</td>
               <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Sucrose</b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3 align="center">Sucrose</h3></th>
-        <th><h3 align="center">Sacrificial Fragments</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sucrose_Card.png"
-              heigt="250"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/463b226ec97e453c9f58ed35735eeec8.png"
-              height="250"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td>Friendship</td>
-              <td>10</td>
-            </tr>
-            <tr>
-              <td>Constellation</td>
-              <td>6</td>
-            </tr>
-            <tr>
-              <td>
-                Artifacts<br />3 x Viridescent Venerer<br />1 x Heart of
-                Depth<br />1 x Maiden Beloved<br />
-              </td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/a3bcfc4eaf10d0906b5d9448f83f1dae.png"
-                  height="18"
-                />
-                In Remembrance of Viridescent Fields<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/227de6d1625aef47a024ed131462b050.png"
-                  height="18"
-                />
-                Viridescent Arrow Feather<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/32c99b2e86b1ac33910763c2514434df.png"
-                  height="18"
-                />
-                Copper Compass<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/2dfe43a54da0545f6e44c5db81135bbb.png"
-                  height="18"
-                />
-                Maiden's Fleeting Leisure<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/722a8f4d6ff88e474c9ce003ec499d97.png"
-                  height="18"
-                />
-                Viridescent Venerer's Diadem<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Outfits</td>
-              <td></td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Sacrificial Fragments</td>
-            </tr>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>80</td>
-            </tr>
-            <tr>
-              <td>Refinement</td>
-              <td>4</td>
             </tr>
           </table>
         </td>
@@ -7174,7 +7177,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>5</td>
+              <td>6</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -7567,7 +7570,7 @@
     <table>
       <tr>
         <th><h3 align="center">Thoma</h3></th>
-        <th><h3 align="center">Favonius Lance</h3></th>
+        <th><h3 align="center">Lithic Spear</h3></th>
       </tr>
       <tr>
         <td>
@@ -7581,7 +7584,7 @@
         <td>
           <p align="center">
             <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/1ff500f1453366c786388cd402d729fc.png"
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/aa52edeeeb0bcd29fce18daf42db711c.png"
               height="250"
             />
           </p>
@@ -7629,7 +7632,7 @@
           <table>
             <tr>
               <td>Name</td>
-              <td>Favonius Lance</td>
+              <td>Lithic Spear</td>
             </tr>
             <tr>
               <td>Rarity</td>
@@ -7641,7 +7644,7 @@
             </tr>
             <tr>
               <td>Refinement</td>
-              <td>4</td>
+              <td>1</td>
             </tr>
           </table>
         </td>
@@ -7652,11 +7655,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_28_07_2023-01_21_11.png" />
+  <img src="images/showcase/genshin_card_28_07_2023-08_21_36.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_28_07_2023-01_21_12.png" />
+  <img src="images/showcase/genshin_card_28_07_2023-08_21_38.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
