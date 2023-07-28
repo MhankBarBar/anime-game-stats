@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 28, 2023 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 29, 2023 01:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,17 +33,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>28</td>
+      <td>29</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
-        3 x
+        5000 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           height="20"
         />
-        Traveler's Guide
+        Credit
       </td>
     </tr>
   </table>
@@ -2372,16 +2372,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
@@ -2391,7 +2381,17 @@
           ,
           height="18"
         />
-        Raiden Shogun (13)<br />
+        Raiden Shogun (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (13)<br />
       </td>
     </tr>
     <tr>
@@ -2470,7 +2470,7 @@
         />
         Mora earned
       </td>
-      <td>5895916 (rate 38)</td>
+      <td>5903916 (rate 39)</td>
     </tr>
     <tr>
       <td>Categories</td>
@@ -3937,6 +3937,117 @@
     </table>
   </details>
   <details>
+    <summary><b>Sangonomiya Kokomi</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Sangonomiya Kokomi</h3></th>
+        <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f2259d611a852ef827bb5265244bc3b8.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>90</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>
+                Artifacts<br />4 x Ocean-Hued Clam<br />1 x Heart of Depth<br />
+              </td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/3cbe40cacc1ee0a1e6bff9dd9f7615fe.png"
+                  height="18"
+                />
+                Sea-Dyed Blossom<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d96522f02b101db567722d737cca1663.png"
+                  height="18"
+                />
+                Deep Palace's Plume<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/32c99b2e86b1ac33910763c2514434df.png"
+                  height="18"
+                />
+                Copper Compass<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/68f1c633471541b5b1c3fe2557aca6f5.png"
+                  height="18"
+                />
+                Pearl Cage<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/900d5f8fe6dd3b2fcb2af5f61adcd370.png"
+                  height="18"
+                />
+                Crown of Watatsumi<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Thrilling Tales of Dragon Slayers</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>80</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>5</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Qiqi</b></summary>
     <br />
     <table>
@@ -4269,7 +4380,7 @@
     <table>
       <tr>
         <th><h3 align="center">Barbara</h3></th>
-        <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
+        <th><h3 align="center">Oathsworn Eye</h3></th>
       </tr>
       <tr>
         <td>
@@ -4283,7 +4394,7 @@
         <td>
           <p align="center">
             <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/f2259d611a852ef827bb5265244bc3b8.png"
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ffa2f1fd65c92bef6f3e23b4b4ca2164.png"
               height="250"
             />
           </p>
@@ -4319,26 +4430,14 @@
             </tr>
             <tr>
               <td>
-                Artifacts<br />4 x Ocean-Hued Clam<br />1 x Blizzard Strayer<br />
+                Artifacts<br />1 x Blizzard Strayer<br />1 x Ocean-Hued Clam<br />
               </td>
               <td>
                 <img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/3cbe40cacc1ee0a1e6bff9dd9f7615fe.png"
-                  height="18"
-                />
-                Sea-Dyed Blossom<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/d96522f02b101db567722d737cca1663.png"
-                  height="18"
-                />
-                Deep Palace's Plume<br /><img
                   src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ab2973bf99d3bd18e93bda744839a988.png"
                   height="18"
                 />
                 Frozen Homeland's Demise<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/68f1c633471541b5b1c3fe2557aca6f5.png"
-                  height="18"
-                />
-                Pearl Cage<br /><img
                   src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/900d5f8fe6dd3b2fcb2af5f61adcd370.png"
                   height="18"
                 />
@@ -4355,15 +4454,15 @@
           <table>
             <tr>
               <td>Name</td>
-              <td>Thrilling Tales of Dragon Slayers</td>
+              <td>Oathsworn Eye</td>
             </tr>
             <tr>
               <td>Rarity</td>
-              <td>★★★</td>
+              <td>★★★★</td>
             </tr>
             <tr>
               <td>Level</td>
-              <td>80</td>
+              <td>1</td>
             </tr>
             <tr>
               <td>Refinement</td>
@@ -6989,7 +7088,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>7</td>
+              <td>8</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -7655,11 +7754,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_28_07_2023-19_34_26.png" />
+  <img src="images/showcase/genshin_card_29_07_2023-01_20_08.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_28_07_2023-19_34_28.png" />
+  <img src="images/showcase/genshin_card_29_07_2023-01_20_10.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
