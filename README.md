@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 29, 2023 19:31 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 30, 2023 01:20 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -33,7 +33,7 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>29</td>
+      <td>30</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
@@ -7821,11 +7821,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_29_07_2023-19_30_44.png" />
+  <img src="images/showcase/genshin_card_30_07_2023-01_19_14.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_29_07_2023-19_30_45.png" />
+  <img src="images/showcase/genshin_card_30_07_2023-01_19_15.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
