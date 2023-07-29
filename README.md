@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 29, 2023 08:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 29, 2023 13:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>88</td>
+      <td>89</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>6740 (rate -9)</td>
+      <td>6990 (rate -6)</td>
     </tr>
     <tr>
       <td>
@@ -98,8 +98,8 @@
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1680 (24%)<br />Adventure Rewards: 1270 (18%)<br />Mail:
-        1220 (18%)<br />Event: 1040 (15%)<br />Simulated Universe: 985 (14%)<br />Other:
+        Daily Activity: 1740 (24%)<br />Adventure Rewards: 1270 (18%)<br />Mail:
+        1220 (17%)<br />Event: 1110 (15%)<br />Simulated Universe: 1105 (15%)<br />Other:
         145 (6%)<br />Forgotten Hall: 400 (5%)<br />
       </td>
     </tr>
@@ -544,7 +544,7 @@
             </tr>
             <tr>
               <td>Level</td>
-              <td>60</td>
+              <td>70</td>
             </tr>
             <tr>
               <td>Superimpose</td>
@@ -819,7 +819,7 @@
             </tr>
             <tr>
               <td>Level</td>
-              <td>70</td>
+              <td>80</td>
             </tr>
             <tr>
               <td>Eidolon</td>
@@ -839,16 +839,16 @@
                   height="18"
                 />
                 Band's Touring Bracelet<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/406723d129219e78ce61017b596b450c.png"
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/1e20a5032a9c8f53fa15b8101f862a73.png"
                   ,
                   height="18"
                 />
-                Thief's Steel Grappling Hook<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/7bca405261c40102d0409743e5d71dfe.png"
+                Band's Leather Jacket With Studs<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/cd2bf75e9fcc444ff1edd2bd5b866fdc.png"
                   ,
                   height="18"
                 />
-                Thief's Meteor Boots<br />
+                Band's Ankle Boots With Rivets<br />
               </td>
             </tr>
             <tr>
@@ -2382,16 +2382,16 @@
           height="18"
         />
         Kaedehara Kazuha (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
-        Yelan (13)<br />
+        Yelan (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (13)<br />
       </td>
     </tr>
     <tr>
@@ -7754,11 +7754,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_29_07_2023-08_21_47.png" />
+  <img src="images/showcase/genshin_card_29_07_2023-13_20_10.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_29_07_2023-08_21_49.png" />
+  <img src="images/showcase/genshin_card_29_07_2023-13_20_12.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
