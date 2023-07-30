@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 30, 2023 01:20 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 30, 2023 13:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>89</td>
+      <td>90</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>Total Achievement</td>
-      <td>229</td>
+      <td>231</td>
     </tr>
     <tr>
       <td>Chests Opened</td>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>7050 (rate -5)</td>
+      <td>7461 (rate 0)</td>
     </tr>
     <tr>
       <td>
@@ -98,9 +98,9 @@
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1740 (24%)<br />Adventure Rewards: 1270 (18%)<br />Mail:
-        1220 (17%)<br />Event: 1110 (15%)<br />Simulated Universe: 1105 (15%)<br />Forgotten
-        Hall: 460 (6%)<br />Other: 145 (5%)<br />
+        Daily Activity: 1800 (24%)<br />Adventure Rewards: 1550 (20%)<br />Mail:
+        1220 (16%)<br />Event: 1180 (15%)<br />Simulated Universe: 1105 (14%)<br />Forgotten
+        Hall: 460 (6%)<br />Other: 146 (5%)<br />
       </td>
     </tr>
   </table>
@@ -1451,16 +1451,16 @@
               <td>Relics</td>
               <td>
                 <img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/2c51ebed783bd023e202970649430dfd.png"
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/06196200794f087e158aaf0b01fc7194.png"
                   ,
                   height="18"
                 />
-                Thief's Myriad-Faced Mask<br /><img
-                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/951d4dce278ccd7883bd25fab118491b.png"
+                Band's Polarized Sunglasses<br /><img
+                  src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_79bf3p/5db9896e59b38e73a00a7a5a7797c3be.png"
                   ,
                   height="18"
                 />
-                Musketeer's Coarse Leather Gloves<br />
+                Band's Touring Bracelet<br />
               </td>
             </tr>
             <tr>
@@ -2439,21 +2439,21 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-          ,
-          height="18"
-        />
-        Yelan (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-          ,
-          height="18"
-        />
-        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
         Raiden Shogun (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          ,
+          height="18"
+        />
+        Kaedehara Kazuha (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          ,
+          height="18"
+        />
+        Yelan (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
           ,
           height="18"
@@ -7821,11 +7821,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_30_07_2023-01_19_14.png" />
+  <img src="images/showcase/genshin_card_30_07_2023-13_20_34.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_30_07_2023-01_19_15.png" />
+  <img src="images/showcase/genshin_card_30_07_2023-13_20_36.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
