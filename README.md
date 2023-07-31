@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 31, 2023 01:20 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 31, 2023 08:26 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>90</td>
+      <td>91</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -2444,16 +2444,16 @@
           height="18"
         />
         Yelan (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
         Raiden Shogun (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
           ,
           height="18"
@@ -4051,7 +4051,7 @@
             </tr>
             <tr>
               <td>Friendship</td>
-              <td>1</td>
+              <td>2</td>
             </tr>
             <tr>
               <td>Constellation</td>
@@ -5586,6 +5586,118 @@
     </table>
   </details>
   <details>
+    <summary><b>Kuki Shinobu</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Kuki Shinobu</h3></th>
+        <th><h3 align="center">Iron Sting</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shinobu_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/270492694b7c28e3c47702d3b44665ed.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>10</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>2</td>
+            </tr>
+            <tr>
+              <td>
+                Artifacts<br />4 x Gilded Dreams<br />1 x Emblem of Severed
+                Fate<br />
+              </td>
+              <td>
+                <img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/7cfbd81a3a27b9bc7068726280a07823.png"
+                  height="18"
+                />
+                Dreaming Steelbloom<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ee351a7c9d80e9250aa3946952f31298.png"
+                  height="18"
+                />
+                Feather of Judgment<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74d8d7455747e0a8f862930a29925cbc.png"
+                  height="18"
+                />
+                Storm Cage<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/358d6d16b7c325c5b88e790069df7c94.png"
+                  height="18"
+                />
+                Honeyed Final Feast<br /><img
+                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c1041651b3a40e8fdf737e30cd392d13.png"
+                  height="18"
+                />
+                Shadow of the Sand King<br />
+              </td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Iron Sting</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>80</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>1</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Faruzan</b></summary>
     <br />
     <table>
@@ -5672,118 +5784,6 @@
             <tr>
               <td>Refinement</td>
               <td>5</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Kuki Shinobu</b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3 align="center">Kuki Shinobu</h3></th>
-        <th><h3 align="center">Iron Sting</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shinobu_Card.png"
-              heigt="250"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/270492694b7c28e3c47702d3b44665ed.png"
-              height="250"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>69</td>
-            </tr>
-            <tr>
-              <td>Friendship</td>
-              <td>10</td>
-            </tr>
-            <tr>
-              <td>Constellation</td>
-              <td>2</td>
-            </tr>
-            <tr>
-              <td>
-                Artifacts<br />4 x Gilded Dreams<br />1 x Emblem of Severed
-                Fate<br />
-              </td>
-              <td>
-                <img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/7cfbd81a3a27b9bc7068726280a07823.png"
-                  height="18"
-                />
-                Dreaming Steelbloom<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ee351a7c9d80e9250aa3946952f31298.png"
-                  height="18"
-                />
-                Feather of Judgment<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74d8d7455747e0a8f862930a29925cbc.png"
-                  height="18"
-                />
-                Storm Cage<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/358d6d16b7c325c5b88e790069df7c94.png"
-                  height="18"
-                />
-                Honeyed Final Feast<br /><img
-                  src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c1041651b3a40e8fdf737e30cd392d13.png"
-                  height="18"
-                />
-                Shadow of the Sand King<br />
-              </td>
-            </tr>
-            <tr>
-              <td>Outfits</td>
-              <td></td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Iron Sting</td>
-            </tr>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>80</td>
-            </tr>
-            <tr>
-              <td>Refinement</td>
-              <td>1</td>
             </tr>
           </table>
         </td>
@@ -7195,6 +7195,93 @@
     </table>
   </details>
   <details>
+    <summary><b>Dehya</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Dehya</h3></th>
+        <th><h3 align="center">Sacrificial Greatsword</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Dehya_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/9610791e0e80cb1af9bc9960aea44be8.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>21</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>6</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>Artifacts<br /></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Sacrificial Greatsword</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>50</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>5</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Yun Jin</b></summary>
     <br />
     <table>
@@ -7289,93 +7376,6 @@
             <tr>
               <td>Refinement</td>
               <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Dehya</b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3 align="center">Dehya</h3></th>
-        <th><h3 align="center">Sacrificial Greatsword</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Dehya_Card.png"
-              heigt="250"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/9610791e0e80cb1af9bc9960aea44be8.png"
-              height="250"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>20</td>
-            </tr>
-            <tr>
-              <td>Friendship</td>
-              <td>6</td>
-            </tr>
-            <tr>
-              <td>Constellation</td>
-              <td>0</td>
-            </tr>
-            <tr>
-              <td>Artifacts<br /></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>Outfits</td>
-              <td></td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Sacrificial Greatsword</td>
-            </tr>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>50</td>
-            </tr>
-            <tr>
-              <td>Refinement</td>
-              <td>5</td>
             </tr>
           </table>
         </td>
@@ -7821,11 +7821,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_31_07_2023-01_19_52.png" />
+  <img src="images/showcase/genshin_card_31_07_2023-08_25_53.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_31_07_2023-01_19_53.png" />
+  <img src="images/showcase/genshin_card_31_07_2023-08_25_55.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
