@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 01, 2023 01:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 01, 2023 08:41 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -59,7 +59,7 @@
     <tr></tr>
     <tr>
       <td>Days Active</td>
-      <td>91</td>
+      <td>92</td>
     </tr>
     <tr>
       <td>Total Avatar</td>
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>Total Achievement</td>
-      <td>233</td>
+      <td>234</td>
     </tr>
     <tr>
       <td>Chests Opened</td>
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>8022 (rate 7)</td>
+      <td>0 (rate -100)</td>
     </tr>
     <tr>
       <td>
@@ -93,14 +93,14 @@
         />
         Pass & Special Pass earned
       </td>
-      <td>36 (rate -10)</td>
+      <td>0 (rate -100)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 1860 (23%)<br />Adventure Rewards: 1785 (22%)<br />Simulated
-        Universe: 1300 (16%)<br />Event: 1250 (15%)<br />Mail: 1220 (15%)<br />Forgotten
-        Hall: 460 (5%)<br />Other: 147 (4%)<br />
+        Daily Activity: 0 (0%)<br />Event: 0 (0%)<br />Adventure Rewards: 0
+        (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
+        0 (0%)<br />Other: 0 (0%)<br />
       </td>
     </tr>
   </table>
@@ -664,7 +664,7 @@
             </tr>
             <tr>
               <td>Level</td>
-              <td>70</td>
+              <td>80</td>
             </tr>
             <tr>
               <td>Eidolon</td>
@@ -775,7 +775,7 @@
             </tr>
             <tr>
               <td>Level</td>
-              <td>70</td>
+              <td>80</td>
             </tr>
             <tr>
               <td>Eidolon</td>
@@ -2102,17 +2102,17 @@
   <table>
     <tr>
       <td>Total Rewards Claimed</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Last Claimed Reward</td>
       <td>
         3 x
         <img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           height="20"
         />
-        Almond Tofu
+        Adventurer's Experience
       </td>
     </tr>
   </table>
@@ -2439,26 +2439,26 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          ,
-          height="18"
-        />
-        Nahida (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-          ,
-          height="18"
-        />
-        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
           ,
           height="18"
         />
         Raiden Shogun (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          ,
+          height="18"
+        />
+        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
         />
-        Yelan (13)<br />
+        Yelan (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          ,
+          height="18"
+        />
+        Nahida (13)<br />
       </td>
     </tr>
     <tr>
@@ -2527,7 +2527,7 @@
         />
         Primogems earned
       </td>
-      <td>7939 (rate 69)</td>
+      <td>0 (rate -100)</td>
     </tr>
     <tr>
       <td>
@@ -2537,14 +2537,14 @@
         />
         Mora earned
       </td>
-      <td>6160664 (rate 45)</td>
+      <td>0 (rate -100)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Events: 2566 (33%)<br />Daily Activity: 1840 (24%)<br />Adventure: 1453
-        (19%)<br />Spiral Abyss: 1200 (15%)<br />Mail: 760 (9%)<br />Quests: 60
-        (0%)<br />Other: 60 (0%)<br />
+        Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
+        Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+        0 (0%)<br />
       </td>
     </tr>
   </table>
@@ -4271,7 +4271,7 @@
             </tr>
             <tr>
               <td>Constellation</td>
-              <td>1</td>
+              <td>2</td>
             </tr>
             <tr>
               <td>Artifacts<br />5 x Instructor<br /></td>
@@ -6129,6 +6129,93 @@
     </table>
   </details>
   <details>
+    <summary><b>Arataki Itto</b></summary>
+    <br />
+    <table>
+      <tr>
+        <th><h3 align="center">Arataki Itto</h3></th>
+        <th><h3 align="center">Whiteblind</h3></th>
+      </tr>
+      <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Itto_Card.png"
+              heigt="250"
+            />
+          </p>
+        </td>
+        <td>
+          <p align="center">
+            <img
+              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/03adaf7c27e758920764265554dc7df8.png"
+              height="250"
+            />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★★</td>
+            </tr>
+            <tr>
+              <td>Element</td>
+              <td>
+                <img
+                  src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                  height="18"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>50</td>
+            </tr>
+            <tr>
+              <td>Friendship</td>
+              <td>10</td>
+            </tr>
+            <tr>
+              <td>Constellation</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>Artifacts<br /></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Outfits</td>
+              <td></td>
+            </tr>
+          </table>
+        </td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>Name</td>
+              <td>Whiteblind</td>
+            </tr>
+            <tr>
+              <td>Rarity</td>
+              <td>★★★★</td>
+            </tr>
+            <tr>
+              <td>Level</td>
+              <td>80</td>
+            </tr>
+            <tr>
+              <td>Refinement</td>
+              <td>1</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <details>
     <summary><b>Lisa</b></summary>
     <br />
     <table>
@@ -6565,93 +6652,6 @@
             <tr>
               <td>Level</td>
               <td>20</td>
-            </tr>
-            <tr>
-              <td>Refinement</td>
-              <td>1</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </details>
-  <details>
-    <summary><b>Arataki Itto</b></summary>
-    <br />
-    <table>
-      <tr>
-        <th><h3 align="center">Arataki Itto</h3></th>
-        <th><h3 align="center">Whiteblind</h3></th>
-      </tr>
-      <tr>
-        <td>
-          <p align="center">
-            <img
-              src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Itto_Card.png"
-              heigt="250"
-            />
-          </p>
-        </td>
-        <td>
-          <p align="center">
-            <img
-              src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/03adaf7c27e758920764265554dc7df8.png"
-              height="250"
-            />
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <table>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★★</td>
-            </tr>
-            <tr>
-              <td>Element</td>
-              <td>
-                <img
-                  src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-                  height="18"
-                />
-              </td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>40</td>
-            </tr>
-            <tr>
-              <td>Friendship</td>
-              <td>10</td>
-            </tr>
-            <tr>
-              <td>Constellation</td>
-              <td>0</td>
-            </tr>
-            <tr>
-              <td>Artifacts<br /></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>Outfits</td>
-              <td></td>
-            </tr>
-          </table>
-        </td>
-        <td valign="top">
-          <table>
-            <tr>
-              <td>Name</td>
-              <td>Whiteblind</td>
-            </tr>
-            <tr>
-              <td>Rarity</td>
-              <td>★★★★</td>
-            </tr>
-            <tr>
-              <td>Level</td>
-              <td>80</td>
             </tr>
             <tr>
               <td>Refinement</td>
@@ -7821,11 +7821,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_01_08_2023-01_21_27.png" />
+  <img src="images/showcase/genshin_card_01_08_2023-08_40_09.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_01_08_2023-01_21_28.png" />
+  <img src="images/showcase/genshin_card_01_08_2023-08_40_10.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
