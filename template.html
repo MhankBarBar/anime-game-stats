@@ -3,449 +3,476 @@
 <br>
 
 <details align="center"><summary><img src="https://i.pinimg.com/originals/a3/33/85/a3338541288aa31ff713edaf12c99961.png" height="20"> Honkai Star Rail Details</summary>
-    <img src="https://github.com/Mar-7th/StarRailRes/blob/master/icon/logo/en.png?raw=true">
-    <h2>Info</h2>
-    <table>
-        <tr>
-            <td>Nickname</td>
-            <td>{{ hsr.user.info.nickname }}</td>
-        </tr>
-        <tr>
-            <td>Trailblaze Level</td>
-            <td>{{ hsr.user.info.level }}</td>
-        </tr>
-        <tr>
-            <td>Server</td>
-            <td>{{ hsr.user.info.server.replace("prod_official_", "").title() }}</td>
-        </tr>
-    </table>
-
-    <h2><img src="images/icons/hsr_check_in.png" height="20"> Daily Rewards</h2>
-    <table>
-        <tr>
-            <td>Total Rewards Claimed</td>
-            <td>{{ hsr.reward_info.claimed_rewards }}</td>
-        </tr>
-        <tr>
-            <td>Last Claimed Reward</td>
-            <td>{{ hsr.reward.amount }} x <img src="{{ hsr.reward.icon }}" height="20"> {{ hsr.reward.name }}</td>
-        </tr>
-    </table>
-
-    <h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats</h2>
-    <table>
-        {%- for field, value in hsr.user.stats.dict().items() -%}
-        <tr>
-        {%- if field not in ["lang", "abyss_process"] -%}
-            {%- if "chest" in field -%}
-            <td>Chests Opened</td>
-            {%- else -%}
-            <td>{{ " ".join(field.split("_")[::-1]).replace("num", "total").title() }}</td>
-            {%- endif -%}
-            <td>{{ value }}</td>
-        {%- endif -%}
-        </tr>
-        {%- endfor -%}
-    </table>
-
-    <h2><img src="images/icons/hsr_diary.png" height="20"> Diary</h2>
-    <table>
-        <tr>
-            <td><img src="images/icons/stellar_jade.png" height="18"> Stellar Jade earned</td>
-            <td>{{ hsr.diary.data.current_hcoin }} (rate {{ hsr.diary.data.hcoin_rate }})</td>
-        </tr>
-        <tr>
-            <td><img src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Item_Star_Rail_Special_Pass.png" height="18"> Pass & Special Pass earned</td>
-            <td>{{ hsr.diary.data.current_rails_pass }} (rate {{ hsr.diary.data.rails_rate }})</td>
-        </tr>
-        <tr>
-            <td>Categories</td>
-            <td>
-                {%- for category in hsr.diary.data.categories -%}
-                {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
-                {%- endfor -%}
-            </td>
-        </tr>
-    </table>
-
-    {%- if hsr.forgotten_hall.floors|length -%}
-    <h2>Memory of Chaos</h2>
-    <table>
-        <tr>
-            <td>Season</td>
-            <td>{{ hsr.forgotten_hall.season }}</td>
-        </tr>
-        <tr>
-            <td>Max Floor</td>
-            <td>{{ hsr.forgotten_hall.max_floor }}</td>
-        </tr>
-        <tr>
-            <td>Total Battles</td>
-            <td>{{ hsr.forgotten_hall.total_battles }}</td>
-        </tr>
-        <tr>
-            <td>Total Stars</td>
-            <td>{{ hsr.forgotten_hall.total_stars }}</td>
-        </tr>
-        {%- for floor in hsr.forgotten_hall.floors -%}
-        <tr>
-            <td>Name</td>
-            <td>{{ floor.name }}</td>
-        </tr>
-        <tr>
-            <td>Floor {{ floor.floor }}</td>
-            <td>{{ floor.star_num }} Stars</td>
-        </tr>
-        <tr>
-            <td>Cycles used</td>
-            <td>{{ floor.round_num }}</td>
-        </tr>
-        <tr>
-            <td>Party 1</td>
-            <td>
-                {%- for avatar in floor.node_1.avatars -%}
-                <img src="{{ avatar.icon }}" height="18">
-                {%- endfor -%}
-            </td>
-        </tr>
-        <tr>
-            <td>Party 2</td>
-            <td>
-                {%- for avatar in floor.node_2.avatars -%}
-                <img src="{{ avatar.icon }}" height="18">
-                {%- endfor -%}
-        </tr>
-        {%- endfor -%}
-    </table>
-    {%- endif -%}
-
-    <h2><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> Characters</h2>
-    {%- for character in hsr.characters -%}
-        {%- if hsr.characters.index(character) == 0 -%}
-        <details open>
-        {%- else -%}
-        <details>
-        {%- endif -%}
-        <summary><b>{{ character.name}} </b></summary>
-        <br/>
+    <div align="center">
+        <img src="https://github.com/Mar-7th/StarRailRes/blob/master/icon/logo/en.png?raw=true">
+        <h2>Info</h2>
         <table>
             <tr>
-                <th><h3>{{ character.name }}</h3></th>
-                <th><h3>{{ character.equip.name }}</h3></th>
+                <td>Nickname</td>
+                <td>{{ hsr.user.info.nickname }}</td>
             </tr>
             <tr>
-                <td>
-                    <p align="center"><img src="{{ character.icon }}"></p>
-                </td>
-                <td>
-                    <p align="center"><img src="{{ character.equip.icon }}"></p>
-                </td>
+                <td>Trailblaze Level</td>
+                <td>{{ hsr.user.info.level }}</td>
             </tr>
             <tr>
+                <td>Server</td>
+                <td>{{ hsr.user.info.server.replace("prod_official_", "").title() }}</td>
+            </tr>
+        </table>
+    </div>
+
+    <div align="center">
+        <h2><img src="images/icons/hsr_check_in.png" height="20"> Daily Rewards</h2>
+        <table>
+            <tr>
+                <td>Total Rewards Claimed</td>
+                <td>{{ hsr.reward_info.claimed_rewards }}</td>
+            </tr>
+            <tr>
+                <td>Last Claimed Reward</td>
+                <td>{{ hsr.reward.amount }} x <img src="{{ hsr.reward.icon }}" height="20"> {{ hsr.reward.name }}</td>
+            </tr>
+        </table>
+    </div>
+
+    <div align="center">
+        <h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats</h2>
+        <table>
+            {%- for field, value in hsr.user.stats.dict().items() -%}
+            {%- if field not in ["lang", "abyss_process"] -%}
+            <tr>
+                {%- if "chest" in field -%}
+                <td>Chests Opened</td>
+                {%- else -%}
+                <td>{{ " ".join(field.split("_")[::-1]).replace("num", "total").title() }}</td>
+                {%- endif -%}
+                <td>{{ value }}</td>
+            </tr>
+            {%- endif -%}
+            {%- endfor -%}
+        </table>
+    </div>
+
+    <div align="center">
+        <h2><img src="images/icons/hsr_diary.png" height="20"> Diary</h2>
+        <table>
+            <tr>
+                <td><img src="images/icons/stellar_jade.png" height="18"> Stellar Jade earned</td>
+                <td>{{ hsr.diary.data.current_hcoin }} (rate {{ hsr.diary.data.hcoin_rate }})</td>
+            </tr>
+            <tr>
+                <td><img src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Item_Star_Rail_Special_Pass.png" height="18"> Pass & Special Pass earned</td>
+                <td>{{ hsr.diary.data.current_rails_pass }} (rate {{ hsr.diary.data.rails_rate }})</td>
+            </tr>
+            <tr>
+                <td>Categories</td>
                 <td>
-                    <table>
-                        <tr>
-                            <td>Rarity</td>
-                            <td>{{ "★" * character.rarity }}</td>
-                        </tr>
-                        <tr>
-                            <td>Element</td>
-                            <td><img src="https://hsr.honeyhunterworld.com/img/damage_type/{{ character.element }}-damage_type_icon_50.webp" height="18"></td>
-                        </tr>
-                        <tr>
-                            <td>Level</td>
-                            <td>{{ character.level }}</td>
-                        </tr>
-                        <tr>
-                            <td>Eidolon</td>
-                            <td>{{ character.rank }}</td>
-                        </tr>
-                        <tr>
-                            <td>Relics</td>
-                            <td>
-                                {%- for relic in character.relics -%}
-                                <img src="{{ relic.icon }}", height="18"> {{ relic.name }}<br>
-                                {%- endfor -%}
-                            </td>
-                        </tr>
-                        {%- if character.ornaments -%}
-                        <tr>
-                            <td>Planar</td>
-                            <td>
-                                {%- for planar in character.ornaments -%}
-                                <img src="{{ planar.icon }}", height="18"> {{ planar.name }}<br>
-                                {%- endfor -%}
-                            </td>
-                        </tr>
-                        {%- endif -%}
-                    </table>
-                </td>
-                <td valign="top">
-                    <table>
-                        <tr>
-                            <td>Name</td>
-                            <td>{{ character.equip.name }}</td>
-                        </tr>
-                        <tr>
-                            <td>Level</td>
-                            <td>{{ character.equip.level }}</td>
-                        </tr>
-                        <tr>
-                            <td>Superimpose</td>
-                            <td>{{ character.equip.rank }}</td>
-                        </tr>
-                    </table>
+                    {%- for category in hsr.diary.data.categories -%}
+                    {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
+                    {%- endfor -%}
                 </td>
             </tr>
         </table>
-    </details>
-    {%- endfor -%}
+    </div>
 
+    {%- if hsr.forgotten_hall.floors|length -%}
+    <div align="center">
+        <h2>Memory of Chaos</h2>
+        <table>
+            <tr>
+                <td>Season</td>
+                <td>{{ hsr.forgotten_hall.season }}</td>
+            </tr>
+            <tr>
+                <td>Max Floor</td>
+                <td>{{ hsr.forgotten_hall.max_floor }}</td>
+            </tr>
+            <tr>
+                <td>Total Battles</td>
+                <td>{{ hsr.forgotten_hall.total_battles }}</td>
+            </tr>
+            <tr>
+                <td>Total Stars</td>
+                <td>{{ hsr.forgotten_hall.total_stars }}</td>
+            </tr>
+            {%- for floor in hsr.forgotten_hall.floors -%}
+            <tr>
+                <td>Name</td>
+                <td>{{ floor.name }}</td>
+            </tr>
+            <tr>
+                <td>Floor {{ floor.floor }}</td>
+                <td>{{ floor.star_num }} Stars</td>
+            </tr>
+            <tr>
+                <td>Cycles used</td>
+                <td>{{ floor.round_num }}</td>
+            </tr>
+            <tr>
+                <td>Party 1</td>
+                <td>
+                    {%- for avatar in floor.node_1.avatars -%}
+                    <img src="{{ avatar.icon }}" height="18">
+                    {%- endfor -%}
+                </td>
+            </tr>
+            <tr>
+                <td>Party 2</td>
+                <td>
+                    {%- for avatar in floor.node_2.avatars -%}
+                    <img src="{{ avatar.icon }}" height="18">
+                    {%- endfor -%}
+            </tr>
+            {%- endfor -%}
+        </table>
+    </div>
+    {%- endif -%}
+
+    <div align="center">
+        <h2><img src="https://hsr.honeyhunterworld.com/img/menu/char.webp" height="20"> Characters</h2>
+        {%- for character in hsr.characters -%}
+            {%- if hsr.characters.index(character) == 0 -%}
+            <details open>
+            {%- else -%}
+            <details>
+            {%- endif -%}
+            <summary><b>{{ character.name}} </b></summary>
+            <br/>
+            <table>
+                <tr>
+                    <th><h3>{{ character.name }}</h3></th>
+                    <th><h3>{{ character.equip.name }}</h3></th>
+                </tr>
+                <tr>
+                    <td>
+                        <p align="center"><img src="{{ character.icon }}"></p>
+                    </td>
+                    <td>
+                        <p align="center"><img src="{{ character.equip.icon }}"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table>
+                            <tr>
+                                <td>Rarity</td>
+                                <td>{{ "★" * character.rarity }}</td>
+                            </tr>
+                            <tr>
+                                <td>Element</td>
+                                <td><img src="https://hsr.honeyhunterworld.com/img/damage_type/{{ character.element }}-damage_type_icon_50.webp" height="18"></td>
+                            </tr>
+                            <tr>
+                                <td>Level</td>
+                                <td>{{ character.level }}</td>
+                            </tr>
+                            <tr>
+                                <td>Eidolon</td>
+                                <td>{{ character.rank }}</td>
+                            </tr>
+                            <tr>
+                                <td>Relics</td>
+                                <td>
+                                    {%- for relic in character.relics -%}
+                                    <img src="{{ relic.icon }}", height="18"> {{ relic.name }}<br>
+                                    {%- endfor -%}
+                                </td>
+                            </tr>
+                            {%- if character.ornaments -%}
+                            <tr>
+                                <td>Planar</td>
+                                <td>
+                                    {%- for planar in character.ornaments -%}
+                                    <img src="{{ planar.icon }}", height="18"> {{ planar.name }}<br>
+                                    {%- endfor -%}
+                                </td>
+                            </tr>
+                            {%- endif -%}
+                        </table>
+                    </td>
+                    <td valign="top">
+                        <table>
+                            <tr>
+                                <td>Name</td>
+                                <td>{{ character.equip.name }}</td>
+                            </tr>
+                            <tr>
+                                <td>Level</td>
+                                <td>{{ character.equip.level }}</td>
+                            </tr>
+                            <tr>
+                                <td>Superimpose</td>
+                                <td>{{ character.equip.rank }}</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </details>
+        {%- endfor -%}
+    </div>
 
 </details>
 <details align="center"><summary><img src="https://img.icons8.com/?size=20&id=lhMu5buYsjBC&format=png"> Genshin Impact Details</summary>
-    <img src="https://www.freepnglogos.com/uploads/genshin-impact-logo-png/genshin-impact-shadow-logo-by-kurikuo-steamgriddb-4.png">
-    <h2>Info</h2>
-    <table>
-        <tr>
-            <td>Nickname</td>
-            <td>{{ genshin.user.info.nickname }}</td>
-        </tr>
-        <tr>
-            <td>Adventure Rank</td>
-            <td>{{ genshin.user.info.level }}</td>
-        </tr>
-        <tr>
-            <td>Server</td>
-            <td>{{ genshin.user.info.server.replace("os_", "").title() }}</td>
-        </tr>
-    </table>
+    <div align="center">
+        <img src="https://www.freepnglogos.com/uploads/genshin-impact-logo-png/genshin-impact-shadow-logo-by-kurikuo-steamgriddb-4.png">
+        <h2>Info</h2>
+        <table>
+            <tr>
+                <td>Nickname</td>
+                <td>{{ genshin.user.info.nickname }}</td>
+            </tr>
+            <tr>
+                <td>Adventure Rank</td>
+                <td>{{ genshin.user.info.level }}</td>
+            </tr>
+            <tr>
+                <td>Server</td>
+                <td>{{ genshin.user.info.server.replace("os_", "").title() }}</td>
+            </tr>
+        </table>
+    </div>
 
-    <h2><img src="images/icons/genshin_check_in.png" height="20"> Daily Rewards</h2>
-    <table>
-        <tr>
-            <td>Total Rewards Claimed</td>
-            <td>{{ genshin.reward_info.claimed_rewards }}</td>
-        </tr>
-        <tr>
-            <td>Last Claimed Reward</td>
-            <td>{{ genshin.reward.amount }} x <img src="{{ genshin.reward.icon }}" height="20"> {{ genshin.reward.name }}</td>
-        </tr>
-    </table>
+    <div align="center">
+        <h2><img src="images/icons/genshin_check_in.png" height="20"> Daily Rewards</h2>
+        <table>
+            <tr>
+                <td>Total Rewards Claimed</td>
+                <td>{{ genshin.reward_info.claimed_rewards }}</td>
+            </tr>
+            <tr>
+                <td>Last Claimed Reward</td>
+                <td>{{ genshin.reward.amount }} x <img src="{{ genshin.reward.icon }}" height="20"> {{ genshin.reward.name }}</td>
+            </tr>
+        </table>
+    </div>
 
-    <h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats</h2>
-    <table>
-        {%- for field, value in genshin.user.stats.as_dict(lang=lang).items() -%}
-        <tr>
-            <td>{{ field.title() }}</td>
-            <td>{{ value }}</td>
-        </tr>
-        {%- endfor -%}
-    </table>
+    <div align="center">
+        <h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats</h2>
+        <table>
+            {%- for field, value in genshin.user.stats.as_dict(lang=lang).items() -%}
+            <tr>
+                <td>{{ field.title() }}</td>
+                <td>{{ value }}</td>
+            </tr>
+            {%- endfor -%}
+        </table>
+    </div>
 
-    <h2><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp" height="20"> Exploration</h2>
-    <table>
-        <tr>
-            {%- for exploration in genshin.user.explorations -%}
-            <th>{{ exploration.name }}</th>
-            {%- endfor -%}
-        </tr>
-        <tr>
-            {%- for exploration in genshin.user.explorations -%}
-            <td>
-                <p align="center"><img src="{{ exploration.icon }}" width="180"></p>
-            </td>
-            {%- endfor -%}
-        </tr>
-        <tr>
-            {%- for exploration in genshin.user.explorations -%}
-            <td>
-                <table>
-                    <tr>
-                        <td>Explored</td>
-                        <td>
-                            <img
-                            src="https://progress-bar.dev/{{ _int(exploration.explored) }}/"
-                            width=80>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>{{ exploration.type }}</td>
-                        <td>{{ exploration.level }}</td>
-                    </tr>
-                </table>
-            </td>
-            {%- endfor -%}
-        </tr>
-    </table>
+    <div align="center">
+        <h2><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp" height="20"> Exploration</h2>
+        <table>
+            <tr>
+                {%- for exploration in genshin.user.explorations -%}
+                <th>{{ exploration.name }}</th>
+                {%- endfor -%}
+            </tr>
+            <tr>
+                {%- for exploration in genshin.user.explorations -%}
+                <td>
+                    <p align="center"><img src="{{ exploration.icon }}" width="180"></p>
+                </td>
+                {%- endfor -%}
+            </tr>
+            <tr>
+                {%- for exploration in genshin.user.explorations -%}
+                <td>
+                    <table>
+                        <tr>
+                            <td>Explored</td>
+                            <td>
+                                <img
+                                src="https://progress-bar.dev/{{ _int(exploration.explored) }}/"
+                                width=80>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>{{ exploration.type }}</td>
+                            <td>{{ exploration.level }}</td>
+                        </tr>
+                    </table>
+                </td>
+                {%- endfor -%}
+            </tr>
+        </table>
+    </div>
 
     {%- if genshin.user.teapot -%}
-    <h2><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp" height="20"> Teapot</h2>
-    <table>
-        <tr>
-            <td>Level</td>
-            <td>{{ genshin.user.teapot.level }}</td>
-        </tr>
-        <tr>
-            <td>Comfort</td>
-            <td>{{ genshin.user.teapot.comfort_name }} ({{ genshin.user.teapot.comfort }})</td>
-        </tr>
-        <tr>
-            <td>Items</td>
-            <td>{{ genshin.user.teapot.items }}</td>
-        </tr>
-        <tr>
-            <td>Visitors</td>
-            <td>{{ genshin.user.teapot.visitors }}</td>
-        </tr>
-    </table>
+    <div align="center">
+        <h2><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp" height="20"> Teapot</h2>
+        <table>
+            <tr>
+                <td>Level</td>
+                <td>{{ genshin.user.teapot.level }}</td>
+            </tr>
+            <tr>
+                <td>Comfort</td>
+                <td>{{ genshin.user.teapot.comfort_name }} ({{ genshin.user.teapot.comfort }})</td>
+            </tr>
+            <tr>
+                <td>Items</td>
+                <td>{{ genshin.user.teapot.items }}</td>
+            </tr>
+            <tr>
+                <td>Visitors</td>
+                <td>{{ genshin.user.teapot.visitors }}</td>
+            </tr>
+        </table>
+    </div>
     {%- endif -%}
 
     {%- if genshin.abyss.floors|length -%}
-    <h2><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png" height="20"> Spiral Abyss</h2>
-    <table>
-        <tr>
-            <td>Season</td>
-            <td>{{ genshin.abyss.season }}</td>
-        </tr>
-        <tr>
-            <td>Total Battles</td>
-            <td>{{ genshin.abyss.total_battles }}</td>
-        </tr>
-        <tr>
-            <td>Total Wins</td>
-            <td>{{ genshin.abyss.total_wins }}</td>
-        </tr>
-        <tr>
-            <td>Max Floor</td>
-            <td>{{ genshin.abyss.max_floor }}</td>
-        </tr>
-        <tr>
-            <td>Total Stars</td>
-            <td>{{ genshin.abyss.total_stars }}</td>
-        </tr>
-        {%- for field, characters in genshin.abyss.ranks.as_dict(lang=lang).items() -%}
-        <tr>
-            <td>{{ field }}</td>
-            <td>
-                {%- for character in characters -%}
-                <img src="{{ character.icon }}" , height="18"> {{ character.name }} ({{ character.value }})<br>
-                {%- endfor -%}
-            </td>
-        </tr>
-        {%- endfor -%}
-    </table>
-    {%- endif -%}
-
-    <h2><img src="images/icons/genshin_diary.png" height="20"> Diary</h2>
-    <table>
-        <tr>
-            <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png" height="18"> Primogems earned</td>
-            <td>{{ genshin.diary.data.current_primogems }} (rate {{ genshin.diary.data.primogems_rate }})</td>
-        </tr>
-        <tr>
-            <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.webp" height="18"> Mora earned</td>
-            <td>{{ genshin.diary.data.current_mora }} (rate {{ genshin.diary.data.mora_rate }})</td>
-        </tr>
-        <tr>
-            <td>Categories</td>
-            <td>
-                {%- for category in genshin.diary.data.categories -%}
-                {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
-                {%- endfor -%}
-            </td>
-        </tr>
-    </table>
-
-    <h2><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp" height="20"> Characters</h2>
-    {%- for character in genshin.user.characters -%}
-        {%- if genshin.user.characters.index(character) == 0 -%}
-            <details open>
-        {%- else -%}
-            <details>
-        {%- endif -%}
-
-        <summary><b>{{ character.name }}</b></summary>
-        <br/>
+    <div align="center">
+        <h2><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png" height="20"> Spiral Abyss</h2>
         <table>
             <tr>
-                <th><h3 align="center">{{ character.name }}</h3></th>
-                <th><h3 align="center">{{ character.weapon.name }}</h3></th>
+                <td>Season</td>
+                <td>{{ genshin.abyss.season }}</td>
             </tr>
             <tr>
-                <td>
-                    <p align="center"><img src="{{ character.card_icon }}" heigt="250"></p>
-                </td>
-                <td>
-                    <p align="center"><img src="{{ character.weapon.icon }}" height="250"></p>
-                </td>
+                <td>Total Battles</td>
+                <td>{{ genshin.abyss.total_battles }}</td>
             </tr>
             <tr>
+                <td>Total Wins</td>
+                <td>{{ genshin.abyss.total_wins }}</td>
+            </tr>
+            <tr>
+                <td>Max Floor</td>
+                <td>{{ genshin.abyss.max_floor }}</td>
+            </tr>
+            <tr>
+                <td>Total Stars</td>
+                <td>{{ genshin.abyss.total_stars }}</td>
+            </tr>
+            {%- for field, characters in genshin.abyss.ranks.as_dict(lang=lang).items() -%}
+            <tr>
+                <td>{{ field }}</td>
                 <td>
-                    <table>
-                        <tr>
-                            <td>Rarity</td>
-                            <td>{{ "★" * character.rarity }}</td>
-                        </tr>
-                        <tr>
-                            <td>Element</td>
-                            <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/{{ character.element.lower() }}_35.webp" height="18"></td>
-                        </tr>
-                        <tr>
-                            <td>Level</td>
-                            <td>{{ character.level }}</td>
-                        </tr>
-                        <tr>
-                            <td>Friendship</td>
-                            <td>{{ character.friendship }}</td>
-                        </tr>
-                        <tr>
-                            <td>Constellation</td>
-                            <td>{{ character.constellation }}</td>
-                        </tr>
-                        <tr>
-                            <td>Artifacts<br>
-                            {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list -%}
-                            {%- for name in sets|unique -%}
-                            {{ sets.count(name) }} x {{ name }}<br>
-                            {%- endfor -%}
-                            </td>
-                            <td>
-                                {%- for artifact in character.artifacts -%}
-                                <img src="{{ artifact.icon }}" height="18"> {{ artifact.name }}<br>
-                                {%- endfor -%}
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>Outfits</td>
-                            <td>{{ character.outfits|join(", ", attribute="name") }}</td>
-                        </tr>
-                    </table>
+                    {%- for character in characters -%}
+                    <img src="{{ character.icon }}" , height="18"> {{ character.name }} ({{ character.value }})<br>
+                    {%- endfor -%}
                 </td>
-                <td valign="top">
-                    <table>
-                        <tr>
-                            <td>Name</td>
-                            <td>{{ character.weapon.name }}</td>
-                        </tr>
-                        <tr>
-                            <td>Rarity</td>
-                            <td>{{ "★" * character.weapon.rarity }}</td>
-                        </tr>
-                        <tr>
-                            <td>Level</td>
-                            <td>{{ character.weapon.level }}</td>
-                        </tr>
-                        <tr>
-                            <td>Refinement</td>
-                            <td>{{ character.weapon.refinement }}</td>
-                        </tr>
-                    </table>
+            </tr>
+            {%- endfor -%}
+        </table>
+    </div>
+    {%- endif -%}
+
+    <div align="center">
+        <h2><img src="images/icons/genshin_diary.png" height="20"> Diary</h2>
+        <table>
+            <tr>
+                <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png" height="18"> Primogems earned</td>
+                <td>{{ genshin.diary.data.current_primogems }} (rate {{ genshin.diary.data.primogems_rate }})</td>
+            </tr>
+            <tr>
+                <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.webp" height="18"> Mora earned</td>
+                <td>{{ genshin.diary.data.current_mora }} (rate {{ genshin.diary.data.mora_rate }})</td>
+            </tr>
+            <tr>
+                <td>Categories</td>
+                <td>
+                    {%- for category in genshin.diary.data.categories -%}
+                    {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
+                    {%- endfor -%}
                 </td>
             </tr>
         </table>
-    </details>
-    {%- endfor -%}
+    </div>
+
+    <div align="center">
+        <h2><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp" height="20"> Characters</h2>
+        {%- for character in genshin.user.characters -%}
+            {%- if genshin.user.characters.index(character) == 0 -%}
+                <details open>
+            {%- else -%}
+                <details>
+            {%- endif -%}
+
+            <summary><b>{{ character.name }}</b></summary>
+            <br/>
+            <table>
+                <tr>
+                    <th><h3 align="center">{{ character.name }}</h3></th>
+                    <th><h3 align="center">{{ character.weapon.name }}</h3></th>
+                </tr>
+                <tr>
+                    <td>
+                        <p align="center"><img src="{{ character.card_icon }}" heigt="250"></p>
+                    </td>
+                    <td>
+                        <p align="center"><img src="{{ character.weapon.icon }}" height="250"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table>
+                            <tr>
+                                <td>Rarity</td>
+                                <td>{{ "★" * character.rarity }}</td>
+                            </tr>
+                            <tr>
+                                <td>Element</td>
+                                <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/{{ character.element.lower() }}_35.webp" height="18"></td>
+                            </tr>
+                            <tr>
+                                <td>Level</td>
+                                <td>{{ character.level }}</td>
+                            </tr>
+                            <tr>
+                                <td>Friendship</td>
+                                <td>{{ character.friendship }}</td>
+                            </tr>
+                            <tr>
+                                <td>Constellation</td>
+                                <td>{{ character.constellation }}</td>
+                            </tr>
+                            <tr>
+                                <td>Artifacts<br>
+                                {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list -%}
+                                {%- for name in sets|unique -%}
+                                {{ sets.count(name) }} x {{ name }}<br>
+                                {%- endfor -%}
+                                </td>
+                                <td>
+                                    {%- for artifact in character.artifacts -%}
+                                    <img src="{{ artifact.icon }}" height="18"> {{ artifact.name }}<br>
+                                    {%- endfor -%}
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Outfits</td>
+                                <td>{{ character.outfits|join(", ", attribute="name") }}</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td valign="top">
+                        <table>
+                            <tr>
+                                <td>Name</td>
+                                <td>{{ character.weapon.name }}</td>
+                            </tr>
+                            <tr>
+                                <td>Rarity</td>
+                                <td>{{ "★" * character.weapon.rarity }}</td>
+                            </tr>
+                            <tr>
+                                <td>Level</td>
+                                <td>{{ character.weapon.level }}</td>
+                            </tr>
+                            <tr>
+                                <td>Refinement</td>
+                                <td>{{ character.weapon.refinement }}</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </details>
+        {%- endfor -%}
+    </div>
 </details>
 
 {%- if genshin.showcase -%}

@@ -1,3 +1,4 @@
+from time import sleep
 from typing import List
 
 import bs4
@@ -22,16 +23,23 @@ class GetCodes:
         active_codes = [code.text.strip() for code in parsed_codes]
         return active_codes
 
-    async def redeem_code(self, client: genshin.Client, code: str, game: genshin.Game = "genshin") -> None:
+    def check_codes(self, codes: List[str], game: str = "genshin") -> List[str]:
+        file = f"files/redeemed_codes_{game}.txt"
+        with open(file, "r") as f:
+            codes_redeemed = f.read().splitlines()
+        return [x for x in codes if x not in codes_redeemed]
+
+    async def redeem_codes(self, client: genshin.Client, codes: List[str], game: genshin.Game = "genshin") -> None:
         try:
+            active_codes = self.check_codes(codes, game)
             file = f"files/redeemed_codes_{game}.txt"
-            with open(file, "r") as f:
-                codes = f.read().splitlines()
-            if code not in codes:
+            for code in active_codes:
                 await client.redeem_code(code, game=game)
                 with open(file, "a") as f:
                     f.write(f"{code}\n")
-        except (genshin.RedemptionClaimed, genshin.RedemptionInvalid, genshin.RedemptionException):
+                sleep(6)
+        except (genshin.RedemptionClaimed, genshin.RedemptionInvalid,
+                genshin.RedemptionException, genshin.InvalidCookies):
             pass
 
     def _build_url(self, game: str) -> str:
@@ -51,10 +59,8 @@ class GetCodes:
 
     def _extract_codes(self, soup: bs4.BeautifulSoup, game: str) -> List[bs4.element.Tag]:
         codes = []
-        if game == "genshin":
-            for _ in soup.find_all("ul")[1:][:2]:
-                codes.extend(_.find_all("strong"))
-        else:
-            for _ in soup.find_all("ul")[:2]:
-                codes.extend(_.find_all("strong"))
+        _soup = soup.find_all("ul")
+        parsed = _soup[1:][:2] if game == "genshin" else _soup[:2]
+        for _ in parsed:
+            codes.extend(_.find_all("strong"))
         return codes

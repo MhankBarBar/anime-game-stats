@@ -6,14 +6,14 @@ import os
 import pathlib
 from datetime import datetime
 from typing import List, Optional, Tuple
-from time import sleep
-from lib.codes import GetCodes
 
 import genshin
 import jinja2
 import pytz
 import requests
 from dotenv import load_dotenv
+
+from lib.codes import GetCodes
 
 logger = logging.getLogger()
 load_dotenv()
@@ -110,9 +110,7 @@ class AnimeGame(genshin.Client):
         reward, reward_info = await self._claim_daily()
         showcase = self._get_character_showcase("genshin", self.uids.get(genshin.Game.GENSHIN))
         codes = self.codes.get_codes()
-        for code in codes:
-            await self.codes.redeem_code(self, code)
-            sleep(6)
+        await self.codes.redeem_codes(self, codes)
         return GenshinRes(
             user=user,
             abyss=abyss,
@@ -129,9 +127,7 @@ class AnimeGame(genshin.Client):
         characters = await self.get_starrail_characters()
         reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
         codes = self.codes.get_codes(genshin.Game.STARRAIL)
-        for code in codes:
-            await self.codes.redeem_code(self, code, genshin.Game.STARRAIL)
-            sleep(6)
+        await self.codes.redeem_codes(self, codes)
         return HsrRes(
             user=user,
             characters=characters.avatar_list,
