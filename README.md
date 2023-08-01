@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 01, 2023 08:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 01, 2023 13:24 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -83,7 +83,7 @@
         <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
         earned
       </td>
-      <td>0 (rate -100)</td>
+      <td>150 (rate -98)</td>
     </tr>
     <tr>
       <td>
@@ -93,14 +93,14 @@
         />
         Pass & Special Pass earned
       </td>
-      <td>0 (rate -100)</td>
+      <td>10 (rate -72)</td>
     </tr>
     <tr>
       <td>Categories</td>
       <td>
-        Daily Activity: 0 (0%)<br />Event: 0 (0%)<br />Adventure Rewards: 0
-        (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
-        0 (0%)<br />Other: 0 (0%)<br />
+        Event: 70 (46%)<br />Daily Activity: 60 (40%)<br />Adventure Rewards: 20
+        (13%)<br />Other: 0 (1%)<br />Simulated Universe: 0 (0%)<br />Forgotten
+        Hall: 0 (0%)<br />Mail: 0 (0%)<br />
       </td>
     </tr>
   </table>
@@ -2439,16 +2439,6 @@
       <td>Most Played Characters</td>
       <td>
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          ,
-          height="18"
-        />
-        Raiden Shogun (13)<br /><img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-          ,
-          height="18"
-        />
-        Kaedehara Kazuha (13)<br /><img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
           ,
           height="18"
@@ -2458,7 +2448,17 @@
           ,
           height="18"
         />
-        Nahida (13)<br />
+        Nahida (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          ,
+          height="18"
+        />
+        Raiden Shogun (13)<br /><img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+          ,
+          height="18"
+        />
+        Kaedehara Kazuha (13)<br />
       </td>
     </tr>
     <tr>
@@ -7821,11 +7821,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_01_08_2023-08_40_09.png" />
+  <img src="images/showcase/genshin_card_01_08_2023-13_23_54.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_01_08_2023-08_40_10.png" />
+  <img src="images/showcase/genshin_card_01_08_2023-13_23_56.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
