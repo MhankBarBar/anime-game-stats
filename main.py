@@ -31,6 +31,7 @@ class GenshinRes:
     reward: genshin.models.ClaimedDailyReward
     reward_info: genshin.models.DailyRewardInfo
     showcase: List[str]
+    profile: str
 
     def __init__(self, **kwargs):
         for k, v in kwargs.items():
@@ -56,16 +57,20 @@ def format_date(date: datetime) -> str:
     return f"{now.strftime('%b')} {now.strftime('%d')}, {now.strftime('%Y')} {now.strftime('%H:%M %z')}"
 
 
-def clear_and_save_images(urls: List[str]) -> List[str]:
-    if os.path.exists("images/showcase"):
-        for filename in os.listdir("images/showcase"):
-            os.unlink(os.path.join("images/showcase", filename))
-    os.makedirs("images/showcase", exist_ok=True)
+def clear_and_save_images(urls: List[str] | str, _type: str="showcase") -> List[str]:
+    if _type not in ("showcase", "profile"):
+        raise ValueError("_type must be either showcase or profile")
+    path = f"images/{_type}"
+    if os.path.exists(path):
+        for filename in os.listdir(path):
+            os.unlink(os.path.join(path, filename))
+    os.makedirs(path, exist_ok=True)
     saved_files = []
+    urls = [urls] if isinstance(urls, str) else urls
     for url in urls:
         response = requests.get(url)
         if response.status_code == 200:
-            filename = os.path.join("images/showcase", url.split("/")[-1])
+            filename = os.path.join(path, url.split("/")[-1])
             with open(filename, "wb") as f:
                 f.write(response.content)
             saved_files.append(filename)
@@ -103,12 +108,19 @@ class AnimeGame(genshin.Client):
             return clear_and_save_images(res.json()["result"])
         return None
 
+    def _get_user_profile(self, uid: int) -> Optional[List[str]]:
+        res = requests.get(f"{MBB_API}/genshin_profile?uid={uid}")
+        if res.status_code == 200:
+            return clear_and_save_images(res.json()["result"], _type="profile")
+        return None
+
     async def get_genshin_res(self) -> GenshinRes:
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
         abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
         diary = await self.get_genshin_diary()
         reward, reward_info = await self._claim_daily()
         showcase = self._get_character_showcase("genshin", self.uids.get(genshin.Game.GENSHIN))
+        profile = self._get_user_profile(self.uids.get(genshin.Game.GENSHIN))
         codes = self.codes.get_codes()
         await self.codes.redeem_codes(self, codes)
         return GenshinRes(
@@ -117,7 +129,8 @@ class AnimeGame(genshin.Client):
             diary=diary,
             reward=reward,
             reward_info=reward_info,
-            showcase=showcase
+            showcase=showcase,
+            profile=profile[0]
         )
 
     async def get_hsr_res(self) -> HsrRes:

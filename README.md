@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 01, 2023 17:06 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 02, 2023 17:40 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -38,17 +38,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -65,7 +65,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>92</td>
+        <td>93</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>234</td>
+        <td>235</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -90,7 +90,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>150 (rate -98)</td>
+        <td>210 (rate -97)</td>
       </tr>
       <tr>
         <td>
@@ -105,8 +105,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 70 (46%)<br />Daily Activity: 60 (40%)<br />Adventure Rewards:
-          20 (13%)<br />Other: 0 (1%)<br />Simulated Universe: 0 (0%)<br />Forgotten
+          Daily Activity: 120 (57%)<br />Event: 70 (33%)<br />Adventure Rewards:
+          20 (9%)<br />Other: 0 (1%)<br />Simulated Universe: 0 (0%)<br />Forgotten
           Hall: 0 (0%)<br />Mail: 0 (0%)<br />
         </td>
       </tr>
@@ -2090,24 +2090,7 @@
     Genshin Impact Details
   </summary>
   <div align="center">
-    <img
-      src="https://www.freepnglogos.com/uploads/genshin-impact-logo-png/genshin-impact-shadow-logo-by-kurikuo-steamgriddb-4.png"
-    />
-    <h2>Info</h2>
-    <table>
-      <tr>
-        <td>Nickname</td>
-        <td>Joy</td>
-      </tr>
-      <tr>
-        <td>Adventure Rank</td>
-        <td>60</td>
-      </tr>
-      <tr>
-        <td>Server</td>
-        <td>Asia</td>
-      </tr>
-    </table>
+    <img src="images/profile\genshin_profile_02_08_2023-17_40_19.png" />
   </div>
 
   <div align="center">
@@ -2117,17 +2100,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -2144,11 +2127,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>788</td>
+        <td>789</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>741</td>
+        <td>743</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2440,15 +2423,15 @@
     <table>
       <tr>
         <td>Season</td>
-        <td>74</td>
+        <td>75</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>13</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Total Wins</td>
-        <td>13</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Max Floor</td>
@@ -2462,37 +2445,37 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (13)<br /><img
+          Yae Miko (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Yelan (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          Yelan (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
             ,
             height="18"
           />
-          Nahida (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+          Shenhe (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Raiden Shogun (13)<br />
+          Kaedehara Kazuha (12)<br />
         </td>
       </tr>
       <tr>
         <td>Most Defeats</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
-          Nahida (56)<br />
+          Kamisato Ayaka (54)<br />
         </td>
       </tr>
       <tr>
@@ -2503,18 +2486,18 @@
             ,
             height="18"
           />
-          Raiden Shogun (78262)<br />
+          Raiden Shogun (86926)<br />
         </td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
-          Yelan (45979)<br />
+          Kamisato Ayaka (66891)<br />
         </td>
       </tr>
       <tr>
@@ -2525,7 +2508,7 @@
             ,
             height="18"
           />
-          Kaedehara Kazuha (20)<br />
+          Kaedehara Kazuha (17)<br />
         </td>
       </tr>
       <tr>
@@ -2536,7 +2519,7 @@
             ,
             height="18"
           />
-          Yae Miko (69)<br />
+          Yae Miko (82)<br />
         </td>
       </tr>
     </table>
@@ -2552,7 +2535,7 @@
           />
           Primogems earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>665 (rate -91)</td>
       </tr>
       <tr>
         <td>
@@ -2562,13 +2545,13 @@
           />
           Mora earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>671475 (rate -89)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-          Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+          Spiral Abyss: 600 (91%)<br />Daily Activity: 60 (9%)<br />Adventure: 5
+          (0%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
           0 (0%)<br />
         </td>
       </tr>
@@ -3302,7 +3285,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -5006,7 +4989,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -7272,7 +7255,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>6</td>
+                <td>7</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -7587,6 +7570,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Razor</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Razor</h3></th>
+          <th><h3 align="center">Waster Greatsword</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Razor_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/80ce3341d469b4401071a54a868afb42.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Waster Greatsword</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Gorou</b></summary>
       <br />
       <table>
@@ -7655,93 +7725,6 @@
               <tr>
                 <td>Name</td>
                 <td>Hunter's Bow</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Razor</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Razor</h3></th>
-          <th><h3 align="center">Waster Greatsword</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Razor_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/80ce3341d469b4401071a54a868afb42.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Waster Greatsword</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -7852,11 +7835,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase\genshin_card_01_08_2023-17_05_57.png" />
+  <img src="images/showcase\genshin_card_02_08_2023-17_39_32.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase\genshin_card_01_08_2023-17_05_58.png" />
+  <img src="images/showcase\genshin_card_02_08_2023-17_39_34.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
