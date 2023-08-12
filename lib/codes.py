@@ -23,24 +23,25 @@ class GetCodes:
         active_codes = [code.text.strip() for code in parsed_codes]
         return active_codes
 
-    def check_codes(self, codes: List[str], game: str = "genshin") -> List[str]:
+    def _check_codes(self, codes: List[str], game: str = "genshin") -> List[str]:
         file = f"files/redeemed_codes_{game}.txt"
         with open(file, "r") as f:
             codes_redeemed = f.read().splitlines()
         return [x for x in codes if x not in codes_redeemed]
 
     async def redeem_codes(self, client: genshin.Client, codes: List[str], game: genshin.Game = "genshin") -> None:
-        try:
-            active_codes = self.check_codes(codes, game)
-            file = f"files/redeemed_codes_{game}.txt"
-            for code in active_codes:
+        active_codes = self._check_codes(codes, game)
+        file = f"files/redeemed_codes_{game}.txt"
+        for code in active_codes:
+            try:
                 await client.redeem_code(code, game=game)
+            except (genshin.RedemptionClaimed, genshin.RedemptionInvalid,
+                    genshin.RedemptionException, genshin.InvalidCookies):
+                pass
+            finally:
                 with open(file, "a") as f:
                     f.write(f"{code}\n")
-                sleep(6)
-        except (genshin.RedemptionClaimed, genshin.RedemptionInvalid,
-                genshin.RedemptionException, genshin.InvalidCookies):
-            pass
+            sleep(6)
 
     def _build_url(self, game: str) -> str:
         game_slug = self.GAME_CODES.get(game, "")

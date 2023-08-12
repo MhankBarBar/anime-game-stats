@@ -57,7 +57,7 @@ def format_date(date: datetime) -> str:
     return f"{now.strftime('%b')} {now.strftime('%d')}, {now.strftime('%Y')} {now.strftime('%H:%M %z')}"
 
 
-def clear_and_save_images(urls: List[str] | str, _type: str="showcase") -> List[str]:
+def clear_and_save_images(urls: List[str] | str, _type: str="showcase") -> List[str] | str:
     if _type not in ("showcase", "profile"):
         raise ValueError("_type must be either showcase or profile")
     path = f"images/{_type}"
@@ -74,7 +74,7 @@ def clear_and_save_images(urls: List[str] | str, _type: str="showcase") -> List[
             with open(filename, "wb") as f:
                 f.write(response.content)
             saved_files.append(filename)
-    return saved_files
+    return saved_files if _type == "showcase" else saved_files[0]
 
 
 class AnimeGame(genshin.Client):
@@ -108,7 +108,7 @@ class AnimeGame(genshin.Client):
             return clear_and_save_images(res.json()["result"])
         return None
 
-    def _get_user_profile(self, uid: int) -> Optional[List[str]]:
+    def _get_user_profile(self, uid: int) -> Optional[str]:
         res = requests.get(f"{MBB_API}/genshin_profile?uid={uid}")
         if res.status_code == 200:
             return clear_and_save_images(res.json()["result"], _type="profile")
@@ -130,7 +130,7 @@ class AnimeGame(genshin.Client):
             reward=reward,
             reward_info=reward_info,
             showcase=showcase,
-            profile=profile[0]
+            profile=profile
         )
 
     async def get_hsr_res(self) -> HsrRes:
@@ -140,7 +140,7 @@ class AnimeGame(genshin.Client):
         characters = await self.get_starrail_characters()
         reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
         codes = self.codes.get_codes(genshin.Game.STARRAIL)
-        await self.codes.redeem_codes(self, codes)
+        await self.codes.redeem_codes(self, codes, genshin.Game.STARRAIL)
         return HsrRes(
             user=user,
             characters=characters.avatar_list,
