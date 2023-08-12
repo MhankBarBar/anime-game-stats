@@ -96,35 +96,6 @@
                 <td>Total Stars</td>
                 <td>{{ hsr.forgotten_hall.total_stars }}</td>
             </tr>
-            {%- for floor in hsr.forgotten_hall.floors -%}
-            <tr>
-                <td>Name</td>
-                <td>{{ floor.name }}</td>
-            </tr>
-            <tr>
-                <td>Floor {{ floor.floor }}</td>
-                <td>{{ floor.star_num }} Stars</td>
-            </tr>
-            <tr>
-                <td>Cycles used</td>
-                <td>{{ floor.round_num }}</td>
-            </tr>
-            <tr>
-                <td>Party 1</td>
-                <td>
-                    {%- for avatar in floor.node_1.avatars -%}
-                    <img src="{{ avatar.icon }}" height="18">
-                    {%- endfor -%}
-                </td>
-            </tr>
-            <tr>
-                <td>Party 2</td>
-                <td>
-                    {%- for avatar in floor.node_2.avatars -%}
-                    <img src="{{ avatar.icon }}" height="18">
-                    {%- endfor -%}
-            </tr>
-            {%- endfor -%}
         </table>
     </div>
     {%- endif -%}

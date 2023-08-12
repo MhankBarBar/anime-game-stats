@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 12, 2023 19:04 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 12, 2023 19:15 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -130,250 +130,6 @@
       <tr>
         <td>Total Stars</td>
         <td>15</td>
-      </tr>
-      <tr>
-        <td>Name</td>
-        <td>Raintear Strife Stage 5</td>
-      </tr>
-      <tr>
-        <td>Floor</td>
-        <td>3 Stars</td>
-      </tr>
-      <tr>
-        <td>Cycles used</td>
-        <td>8</td>
-      </tr>
-      <tr>
-        <td>Party 1</td>
-        <td>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b453e6f91ffad74f403454925b82178c.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/59855c1f0b95319eacc0a6e4cb66b7a2.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ba9ad5803c496d392c858c9d3cec70ac.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/feac0b84ef470b491588f7d2020e19da.png"
-            height="18"
-          />
-        </td>
-      </tr>
-      <tr>
-        <td>Party 2</td>
-        <td>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/94df3fa19617caf9d70d5dc7f6639127.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6a4514f414c5219d19ecd339aa568b48.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/1ae7be363b0c79af68b5891a3b6103d9.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b4cdb02ae9599f4da1bf1b2df6b38bc3.png"
-            height="18"
-          />
-        </td>
-      </tr>
-
-      <tr>
-        <td>Name</td>
-        <td>Raintear Strife Stage 4</td>
-      </tr>
-      <tr>
-        <td>Floor</td>
-        <td>3 Stars</td>
-      </tr>
-      <tr>
-        <td>Cycles used</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>Party 1</td>
-        <td>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b453e6f91ffad74f403454925b82178c.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/5a4f4a1c71ab1263c150acb0ce25fd39.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6a4514f414c5219d19ecd339aa568b48.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/1ae7be363b0c79af68b5891a3b6103d9.png"
-            height="18"
-          />
-        </td>
-      </tr>
-      <tr>
-        <td>Party 2</td>
-        <td>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/94df3fa19617caf9d70d5dc7f6639127.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/59855c1f0b95319eacc0a6e4cb66b7a2.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ba9ad5803c496d392c858c9d3cec70ac.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b4cdb02ae9599f4da1bf1b2df6b38bc3.png"
-            height="18"
-          />
-        </td>
-      </tr>
-
-      <tr>
-        <td>Name</td>
-        <td>Raintear Strife Stage 3</td>
-      </tr>
-      <tr>
-        <td>Floor</td>
-        <td>3 Stars</td>
-      </tr>
-      <tr>
-        <td>Cycles used</td>
-        <td>8</td>
-      </tr>
-      <tr>
-        <td>Party 1</td>
-        <td>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b453e6f91ffad74f403454925b82178c.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ba9ad5803c496d392c858c9d3cec70ac.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/1ae7be363b0c79af68b5891a3b6103d9.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/feac0b84ef470b491588f7d2020e19da.png"
-            height="18"
-          />
-        </td>
-      </tr>
-      <tr>
-        <td>Party 2</td>
-        <td>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/94df3fa19617caf9d70d5dc7f6639127.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/59855c1f0b95319eacc0a6e4cb66b7a2.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/5a4f4a1c71ab1263c150acb0ce25fd39.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b4cdb02ae9599f4da1bf1b2df6b38bc3.png"
-            height="18"
-          />
-        </td>
-      </tr>
-
-      <tr>
-        <td>Name</td>
-        <td>Raintear Strife Stage 2</td>
-      </tr>
-      <tr>
-        <td>Floor</td>
-        <td>3 Stars</td>
-      </tr>
-      <tr>
-        <td>Cycles used</td>
-        <td>6</td>
-      </tr>
-      <tr>
-        <td>Party 1</td>
-        <td>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b453e6f91ffad74f403454925b82178c.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/1546081a87980f35391d7bcba17922e6.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/5a4f4a1c71ab1263c150acb0ce25fd39.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/1ae7be363b0c79af68b5891a3b6103d9.png"
-            height="18"
-          />
-        </td>
-      </tr>
-      <tr>
-        <td>Party 2</td>
-        <td>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/94df3fa19617caf9d70d5dc7f6639127.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/59855c1f0b95319eacc0a6e4cb66b7a2.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ba9ad5803c496d392c858c9d3cec70ac.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b4cdb02ae9599f4da1bf1b2df6b38bc3.png"
-            height="18"
-          />
-        </td>
-      </tr>
-
-      <tr>
-        <td>Name</td>
-        <td>Raintear Strife Stage 1</td>
-      </tr>
-      <tr>
-        <td>Floor</td>
-        <td>3 Stars</td>
-      </tr>
-      <tr>
-        <td>Cycles used</td>
-        <td>10</td>
-      </tr>
-      <tr>
-        <td>Party 1</td>
-        <td>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b92b9b15018f9a73be26deec9fe7c045.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/ba9ad5803c496d392c858c9d3cec70ac.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/1ae7be363b0c79af68b5891a3b6103d9.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/feac0b84ef470b491588f7d2020e19da.png"
-            height="18"
-          />
-        </td>
-      </tr>
-      <tr>
-        <td>Party 2</td>
-        <td>
-          <img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/59855c1f0b95319eacc0a6e4cb66b7a2.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/94df3fa19617caf9d70d5dc7f6639127.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/6a4514f414c5219d19ecd339aa568b48.png"
-            height="18"
-          /><img
-            src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_770efr/b4cdb02ae9599f4da1bf1b2df6b38bc3.png"
-            height="18"
-          />
-        </td>
       </tr>
     </table>
   </div>
@@ -2475,7 +2231,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_12_08_2023-19_04_25.png" />
+    <img src="images/profile\genshin_profile_12_08_2023-19_15_44.png" />
   </div>
   <div align="center">
     <h2>
@@ -8238,11 +7994,11 @@
 <h2 align="center">My Genshin Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_12_08_2023-19_03_47.png" />
+  <img src="images/showcase\genshin_card_12_08_2023-19_15_17.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_12_08_2023-19_03_48.png" />
+  <img src="images/showcase\genshin_card_12_08_2023-19_15_18.png" />
 </details>
 <h2 align="center">
   You can also check my characters showcase/builds on
