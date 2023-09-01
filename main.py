@@ -4,6 +4,7 @@ import json
 import logging
 import os
 import pathlib
+import shutil
 from datetime import datetime
 from typing import List, Optional, Tuple
 
@@ -30,6 +31,7 @@ class GenshinRes:
     diary: genshin.models.Diary
     reward: genshin.models.ClaimedDailyReward
     reward_info: genshin.models.DailyRewardInfo
+    notes: genshin.models.Notes
     showcase: List[str]
     profile: str
 
@@ -45,6 +47,10 @@ class HsrRes:
     forgotten_hall: genshin.models.StarRailChallenge
     reward: genshin.models.ClaimedDailyReward
     reward_info: genshin.models.DailyRewardInfo
+    notes: genshin.models.StarRailNote
+    showcase: List[str]
+    showcase_names: List[str]
+    profile: str
 
     def __init__(self, **kwargs):
         for k, v in kwargs.items():
@@ -57,13 +63,16 @@ def format_date(date: datetime) -> str:
     return f"{now.strftime('%b')} {now.strftime('%d')}, {now.strftime('%Y')} {now.strftime('%H:%M %z')}"
 
 
-def clear_and_save_images(urls: List[str] | str, _type: str="showcase") -> List[str] | str:
+def clear_images() -> None:
+    for x in ("showcase", "profile"):
+        if os.path.exists(f"images/{x}"):
+            shutil.rmtree(f"images/{x}")
+
+
+def save_images(urls: List[str] | str, _type: str = "showcase") -> List[str] | str:
     if _type not in ("showcase", "profile"):
         raise ValueError("_type must be either showcase or profile")
     path = f"images/{_type}"
-    if os.path.exists(path):
-        for filename in os.listdir(path):
-            os.unlink(os.path.join(path, filename))
     os.makedirs(path, exist_ok=True)
     saved_files = []
     urls = [urls] if isinstance(urls, str) else urls
@@ -84,7 +93,7 @@ class AnimeGame(genshin.Client):
         self.codes = codes
         _c = self.args.cookies or os.getenv("COOKIES")
         cookies = json.loads(_c)
-        super().__init__(cookies, debug=False, game=genshin.Game.GENSHIN)
+        super().__init__(cookies, debug=False, game=genshin.Game.GENSHIN, lang=self.args.lang)
 
     async def _claim_daily(self, game: Optional[genshin.Game] = None) -> Tuple[
         genshin.models.ClaimedDailyReward, genshin.models.DailyRewardInfo
@@ -100,18 +109,17 @@ class AnimeGame(genshin.Client):
         return reward, reward_info
 
     def _get_character_showcase(self, game: str, uid: int) -> Optional[List[str]]:
-        if game == "genshin":
-            res = requests.get(f"{MBB_API}/genshin_card?uid={uid}")
-        else:
-            return None  # TODO: add HSR implementation
+        url = f"{MBB_API}/genshin_card?uid={uid}" if game == "genshin" else f"{MBB_API}/hsr_card?uid={uid}"
+        res = requests.get(url)
         if res.status_code == 200:
-            return clear_and_save_images(res.json()["result"])
+            return save_images(res.json()["result"])
         return None
 
-    def _get_user_profile(self, uid: int) -> Optional[str]:
-        res = requests.get(f"{MBB_API}/genshin_profile?uid={uid}")
+    def _get_user_profile(self, game: str, uid: int) -> Optional[str]:
+        url = f"{MBB_API}/genshin_profile?uid={uid}" if game == "genshin" else f"{MBB_API}/hsr_profile?uid={uid}"
+        res = requests.get(url)
         if res.status_code == 200:
-            return clear_and_save_images(res.json()["result"], _type="profile")
+            return save_images(res.json()["result"], _type="profile")
         return None
 
     async def get_genshin_res(self) -> GenshinRes:
@@ -119,8 +127,12 @@ class AnimeGame(genshin.Client):
         abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
         diary = await self.get_genshin_diary()
         reward, reward_info = await self._claim_daily()
-        showcase = self._get_character_showcase("genshin", self.uids.get(genshin.Game.GENSHIN))
-        profile = self._get_user_profile(self.uids.get(genshin.Game.GENSHIN))
+        notes = await self.get_genshin_notes()
+        showcase = None
+        profile = None
+        if not self.args.skip_images:
+            showcase = self._get_character_showcase("genshin", self.uids.get(genshin.Game.GENSHIN))
+            profile = self._get_user_profile("genshin", self.uids.get(genshin.Game.GENSHIN))
         codes = self.codes.get_codes()
         await self.codes.redeem_codes(self, codes)
         return GenshinRes(
@@ -130,7 +142,8 @@ class AnimeGame(genshin.Client):
             reward=reward,
             reward_info=reward_info,
             showcase=showcase,
-            profile=profile
+            profile=profile,
+            notes=notes
         )
 
     async def get_hsr_res(self) -> HsrRes:
@@ -139,6 +152,19 @@ class AnimeGame(genshin.Client):
         forgotten_hall = await self.get_starrail_challenge()
         characters = await self.get_starrail_characters()
         reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
+        notes = await self.get_starrail_notes()
+        showcase = None
+        profile = None
+        showcase_names = []
+        if not self.args.skip_images:
+            showcase = self._get_character_showcase("hsr", self.uids.get(genshin.Game.STARRAIL))
+            profile = self._get_user_profile("hsr", self.uids.get(genshin.Game.STARRAIL))
+            for s in showcase:
+                showcase_names.append(
+                    " ".join("".join(
+                        [i for i in s.split("/")[-1] if not i.isdigit()]
+                    ).split("_")).split(".")[0]
+                )
         codes = self.codes.get_codes(genshin.Game.STARRAIL)
         await self.codes.redeem_codes(self, codes, genshin.Game.STARRAIL)
         return HsrRes(
@@ -147,7 +173,11 @@ class AnimeGame(genshin.Client):
             diary=diary,
             forgotten_hall=forgotten_hall,
             reward=reward,
-            reward_info=reward_info
+            reward_info=reward_info,
+            showcase=showcase,
+            profile=profile,
+            notes=notes,
+            showcase_names=showcase_names
         )
 
     async def main(self):
@@ -161,6 +191,7 @@ class AnimeGame(genshin.Client):
             hsr=_hsr,
             _int=int,
             _enumerate=enumerate,
+            _zip=zip,
             updated_at=format_date(_hsr.reward.time)
         )
         self.args.output.write_text(rendered)
@@ -173,9 +204,11 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument("-o", "--output", default=DEFAULT_OUTPUT_PATH, type=pathlib.Path)
     parser.add_argument("-c", "--cookies", default=None)
     parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
+    parser.add_argument("-si", "--skip-images", default=False)
     return parser.parse_args()
 
 
 if __name__ == "__main__":
+    clear_images()
     args = parse_arguments()
     asyncio.run(AnimeGame(args, GetCodes()).main())

@@ -3,24 +3,12 @@
 <br>
 
 <details align="center"><summary><img src="https://i.pinimg.com/originals/a3/33/85/a3338541288aa31ff713edaf12c99961.png" height="20"> Honkai Star Rail Details</summary>
+    {%- if hsr.profile -%}
     <div align="center">
-        <img src="https://github.com/Mar-7th/StarRailRes/blob/master/icon/logo/en.png?raw=true">
-        <h2>Info</h2>
-        <table>
-            <tr>
-                <td>Nickname</td>
-                <td>{{ hsr.user.info.nickname }}</td>
-            </tr>
-            <tr>
-                <td>Trailblaze Level</td>
-                <td>{{ hsr.user.info.level }}</td>
-            </tr>
-            <tr>
-                <td>Server</td>
-                <td>{{ hsr.user.info.server.replace("prod_official_", "").title() }}</td>
-            </tr>
-        </table>
+        <h2>Profile</h2>
+        <img src="{{ hsr.profile }}">
     </div>
+    {%- endif -%}
 
     <div align="center">
         <h2><img src="images/icons/hsr_check_in.png" height="20"> Daily Rewards</h2>
@@ -435,12 +423,25 @@
 </details>
 
 {%- if genshin.showcase -%}
-<h2 align="center">My Genshin Characters Showcase</h2>
+<h2 align="center">My Genshin Impact Characters Showcase</h2>
 {%- for index, res in _enumerate(genshin.showcase, 1) -%}
     <details align="center">
         <summary>Showcase {{ index }}</summary>
         <img src="{{ res }}">
     </details>
 {%- endfor -%}
-<h2 align="center">You can also check my characters showcase/builds on <a href="https://enka.network/u/joydazo">Enka.Network</a></h2>
+{%- endif -%}
+
+{%- if hsr.showcase -%}
+<h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
+{%- for res, name in _zip(hsr.showcase, hsr.showcase_names) -%}
+    <details align="center">
+        <summary>{{ name }}</summary>
+        <img src="{{ res }}">
+    </details>
+{%- endfor -%}
+{%- endif -%}
+
+{%- if genshin.builds -%}
+<h2 align="center">You can also check my Genshin Impact characters showcase/builds on <a href="https://enka.network/u/joydazo">Enka.Network</a></h2>
 {%- endif -%}
