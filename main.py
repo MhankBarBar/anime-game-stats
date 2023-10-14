@@ -4,6 +4,7 @@ import json
 import logging
 import os
 import pathlib
+import re
 import shutil
 from datetime import datetime
 from typing import List, Optional, Tuple
@@ -93,7 +94,7 @@ class AnimeGame(genshin.Client):
         self.codes = codes
         _c = self.args.cookies or os.getenv("COOKIES")
         cookies = json.loads(_c)
-        super().__init__(cookies, debug=False, game=genshin.Game.GENSHIN, lang=self.args.lang)
+        super().__init__(cookies, debug=False, game="genshin", lang=self.args.lang)
 
     async def _claim_daily(self, game: Optional[genshin.Game] = None) -> Tuple[
         genshin.models.ClaimedDailyReward, genshin.models.DailyRewardInfo
@@ -131,8 +132,8 @@ class AnimeGame(genshin.Client):
         showcase = None
         profile = None
         if not self.args.skip_images:
-            showcase = self._get_character_showcase("genshin", self.uids.get(genshin.Game.GENSHIN))
-            profile = self._get_user_profile("genshin", self.uids.get(genshin.Game.GENSHIN))
+            showcase = self._get_character_showcase("genshin", self.uids.get("genshin"))
+            profile = self._get_user_profile("genshin", self.uids.get("genshin"))
         codes = self.codes.get_codes()
         await self.codes.redeem_codes(self, codes)
         return GenshinRes(
@@ -151,22 +152,20 @@ class AnimeGame(genshin.Client):
         diary = await self.get_starrail_diary()
         forgotten_hall = await self.get_starrail_challenge()
         characters = await self.get_starrail_characters()
-        reward, reward_info = await self._claim_daily(genshin.Game.STARRAIL)
+        reward, reward_info = await self._claim_daily("hkrpg")
         notes = await self.get_starrail_notes()
         showcase = None
         profile = None
         showcase_names = []
         if not self.args.skip_images:
-            showcase = self._get_character_showcase("hsr", self.uids.get(genshin.Game.STARRAIL))
-            profile = self._get_user_profile("hsr", self.uids.get(genshin.Game.STARRAIL))
+            showcase = self._get_character_showcase("hsr", self.uids.get("hkrpg"))
+            profile = self._get_user_profile("hsr", self.uids.get("hkrpg"))
             for s in showcase:
                 showcase_names.append(
-                    " ".join("".join(
-                        [i for i in s.split("/")[-1] if not i.isdigit()]
-                    ).split("_")).split(".")[0]
+                    re.sub(r"[^a-zA-Z]", "", s.split("/")[-1].split(".")[0])
                 )
-        codes = self.codes.get_codes(genshin.Game.STARRAIL)
-        await self.codes.redeem_codes(self, codes, genshin.Game.STARRAIL)
+        codes = self.codes.get_codes("hkrpg")
+        await self.codes.redeem_codes(self, codes, "hkrpg")
         return HsrRes(
             user=user,
             characters=characters.avatar_list,
