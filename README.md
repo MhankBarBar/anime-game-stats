@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 15, 2023 01:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 15, 2023 08:19 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_15_10_2023-01_22_44.png" />
+    <img src="images/profile/Joy_15_10_2023-08_19_49.png" />
   </div>
   <div align="center">
     <h2>
@@ -2759,7 +2759,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_15_10_2023-01_21_58.png" />
+    <img src="images/profile/genshin_profile_15_10_2023-08_19_13.png" />
   </div>
   <div align="center">
     <h2>
@@ -3140,16 +3140,16 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
           Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
@@ -3230,7 +3230,7 @@
           />
           Primogems earned
         </td>
-        <td>2504 (rate -56)</td>
+        <td>2564 (rate -55)</td>
       </tr>
       <tr>
         <td>
@@ -3240,13 +3240,13 @@
           />
           Mora earned
         </td>
-        <td>1812802 (rate -54)</td>
+        <td>1905007 (rate -51)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 840 (34%)<br />Spiral Abyss: 600 (24%)<br />Mail: 460 (19%)<br />Adventure:
-          315 (12%)<br />Daily Activity: 240 (9%)<br />Quests: 40 (1%)<br />Other:
+          Events: 840 (33%)<br />Spiral Abyss: 600 (24%)<br />Mail: 460 (18%)<br />Adventure:
+          315 (12%)<br />Daily Activity: 300 (11%)<br />Quests: 40 (1%)<br />Other:
           9 (1%)<br />
         </td>
       </tr>
@@ -8197,6 +8197,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Kaveh</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Kaveh</h3></th>
+          <th><h3 align="center">Waster Greatsword</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kaveh_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/667b5b6ff6df1941aecffeece1c4ce1e.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>7</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Waster Greatsword</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Gorou</b></summary>
       <br />
       <table>
@@ -8371,18 +8458,18 @@
       </table>
     </details>
     <details>
-      <summary><b>Kaveh</b></summary>
+      <summary><b>Razor</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Kaveh</h3></th>
+          <th><h3 align="center">Razor</h3></th>
           <th><h3 align="center">Waster Greatsword</h3></th>
         </tr>
         <tr>
           <td>
             <p align="center">
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kaveh_Card.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Razor_Card.png"
                 heigt="250"
               />
             </p>
@@ -8407,7 +8494,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
                     height="18"
                   />
                 </td>
@@ -8418,7 +8505,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>6</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -8545,93 +8632,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Razor</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Razor</h3></th>
-          <th><h3 align="center">Waster Greatsword</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Razor_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u96d7e/667b5b6ff6df1941aecffeece1c4ce1e.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>4</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Waster Greatsword</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Thoma</b></summary>
       <br />
       <table>
@@ -8723,28 +8723,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_15_10_2023-01_21_33.png" />
+  <img src="images/showcase/genshin_card_15_10_2023-08_18_48.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_15_10_2023-01_21_34.png" />
+  <img src="images/showcase/genshin_card_15_10_2023-08_18_49.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_15_10_2023-01_22_28.png" />
+  <img src="images/showcase/Jingliu_15_10_2023-08_19_30.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_15_10_2023-01_22_28.png" />
+  <img src="images/showcase/Kafka_15_10_2023-08_19_31.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_15_10_2023-01_22_29.png" />
+  <img src="images/showcase/Bronya_15_10_2023-08_19_31.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_15_10_2023-01_22_29.png" />
+  <img src="images/showcase/Seele_15_10_2023-08_19_32.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
