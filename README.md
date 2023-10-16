@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 16, 2023 01:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 16, 2023 08:16 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_16_10_2023-01_21_55.png" />
+    <img src="images/profile/Joy_16_10_2023-08_16_24.png" />
   </div>
   <div align="center">
     <h2>
@@ -92,27 +92,6 @@
           Activity: 900 (14%)<br />Mail: 690 (11%)<br />Simulated Universe: 450
           (7%)<br />Forgotten Hall: 480 (7%)<br />Other: 3 (5%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1003</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>Mara and Null Stage 8</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>11</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>24</td>
       </tr>
     </table>
   </div>
@@ -2759,7 +2738,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_16_10_2023-01_21_20.png" />
+    <img src="images/profile/genshin_profile_16_10_2023-08_15_51.png" />
   </div>
   <div align="center">
     <h2>
@@ -3145,6 +3124,11 @@
             height="18"
           />
           Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+            ,
+            height="18"
+          />
+          Bennett (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
@@ -3154,23 +3138,18 @@
             ,
             height="18"
           />
-          Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-            ,
-            height="18"
-          />
-          Bennett (12)<br />
+          Yelan (12)<br />
         </td>
       </tr>
       <tr>
         <td>Most Defeats</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
-          Nahida (23)<br />
+          Kamisato Ayaka (23)<br />
         </td>
       </tr>
       <tr>
@@ -8723,28 +8702,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_16_10_2023-01_20_56.png" />
+  <img src="images/showcase/genshin_card_16_10_2023-08_15_28.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_16_10_2023-01_20_57.png" />
+  <img src="images/showcase/genshin_card_16_10_2023-08_15_29.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_16_10_2023-01_21_38.png" />
+  <img src="images/showcase/Jingliu_16_10_2023-08_16_08.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_16_10_2023-01_21_38.png" />
+  <img src="images/showcase/Kafka_16_10_2023-08_16_09.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_16_10_2023-01_21_39.png" />
+  <img src="images/showcase/Bronya_16_10_2023-08_16_09.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_16_10_2023-01_21_39.png" />
+  <img src="images/showcase/Seele_16_10_2023-08_16_10.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
