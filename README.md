@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 16, 2023 08:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 16, 2023 13:25 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_16_10_2023-08_16_24.png" />
+    <img src="images/profile/Joy_16_10_2023-13_25_45.png" />
   </div>
   <div align="center">
     <h2>
@@ -2738,7 +2738,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_16_10_2023-08_15_51.png" />
+    <img src="images/profile/genshin_profile_16_10_2023-13_25_02.png" />
   </div>
   <div align="center">
     <h2>
@@ -3119,26 +3119,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-            ,
-            height="18"
-          />
-          Bennett (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
           Nahida (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+            ,
+            height="18"
+          />
+          Bennett (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Yelan (12)<br />
+          Yelan (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br />
         </td>
       </tr>
       <tr>
@@ -8702,28 +8702,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_16_10_2023-08_15_28.png" />
+  <img src="images/showcase/genshin_card_16_10_2023-13_24_38.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_16_10_2023-08_15_29.png" />
+  <img src="images/showcase/genshin_card_16_10_2023-13_24_39.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_16_10_2023-08_16_08.png" />
+  <img src="images/showcase/Jingliu_16_10_2023-13_25_21.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_16_10_2023-08_16_09.png" />
+  <img src="images/showcase/Kafka_16_10_2023-13_25_22.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_16_10_2023-08_16_09.png" />
+  <img src="images/showcase/Bronya_16_10_2023-13_25_22.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_16_10_2023-08_16_10.png" />
+  <img src="images/showcase/Seele_16_10_2023-13_25_23.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
