@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 16, 2023 13:25 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 16, 2023 19:36 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_16_10_2023-13_25_45.png" />
+    <img src="images/profile/Joy_16_10_2023-19_36_23.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>167</td>
+        <td>168</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>306</td>
+        <td>307</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>6003 (rate -38)</td>
+        <td>6348 (rate -34)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>22 (rate -52)</td>
+        <td>25 (rate -45)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1800 (29%)<br />Adventure Rewards: 1680 (27%)<br />Daily
-          Activity: 900 (14%)<br />Mail: 690 (11%)<br />Simulated Universe: 450
-          (7%)<br />Forgotten Hall: 480 (7%)<br />Other: 3 (5%)<br />
+          Event: 1800 (28%)<br />Adventure Rewards: 1690 (26%)<br />Daily
+          Activity: 960 (15%)<br />Simulated Universe: 725 (11%)<br />Mail: 690
+          (10%)<br />Forgotten Hall: 480 (7%)<br />Other: 3 (3%)<br />
         </td>
       </tr>
     </table>
@@ -425,7 +425,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>30</td>
+                <td>44</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -992,6 +992,117 @@
       </table>
     </details>
     <details>
+      <summary><b>Gepard </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Gepard</h3></th>
+          <th><h3>Landau's Choice</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b47d6a3fc73eb0e793a416bd227de6f4.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/279fd1ad23b5312341ab3c9813c347a6.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a5e6713084c378f6f9d622ef08309909.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Forgiving Casque<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1d70e2157486cda37c93fa53bc696c6b.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Silent Oath Ring<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4f29e53fcddf70cec20b3808a946fe13.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Solemn Breastplate<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/bed9e7435755032e24ff929d2e619054.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Iron Boots of Order<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/c3f9b88027b63fb4ac0c3c387b48ffef.png"
+                    ,
+                    height="18"
+                  />
+                  Insumousu's Whalefall Ship<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/eb673d42bf9203bc68cc737377bb6477.png"
+                    ,
+                    height="18"
+                  />
+                  Insumousu's Frayed Hawser<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Landau's Choice</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Bronya </b></summary>
       <br />
       <table>
@@ -1425,117 +1536,6 @@
               <tr>
                 <td>Level</td>
                 <td>40</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Gepard </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Gepard</h3></th>
-          <th><h3>Landau's Choice</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b47d6a3fc73eb0e793a416bd227de6f4.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/279fd1ad23b5312341ab3c9813c347a6.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a5e6713084c378f6f9d622ef08309909.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Forgiving Casque<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1d70e2157486cda37c93fa53bc696c6b.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Silent Oath Ring<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4f29e53fcddf70cec20b3808a946fe13.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Solemn Breastplate<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/bed9e7435755032e24ff929d2e619054.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Iron Boots of Order<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/c3f9b88027b63fb4ac0c3c387b48ffef.png"
-                    ,
-                    height="18"
-                  />
-                  Insumousu's Whalefall Ship<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/eb673d42bf9203bc68cc737377bb6477.png"
-                    ,
-                    height="18"
-                  />
-                  Insumousu's Frayed Hawser<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Landau's Choice</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2738,7 +2738,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_16_10_2023-13_25_02.png" />
+    <img src="images/profile/genshin_profile_16_10_2023-19_35_48.png" />
   </div>
   <div align="center">
     <h2>
@@ -3119,11 +3119,11 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Nahida (12)<br /><img
+          Kaedehara Kazuha (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
@@ -8702,28 +8702,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_16_10_2023-13_24_38.png" />
+  <img src="images/showcase/genshin_card_16_10_2023-19_35_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_16_10_2023-13_24_39.png" />
+  <img src="images/showcase/genshin_card_16_10_2023-19_35_25.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_16_10_2023-13_25_21.png" />
+  <img src="images/showcase/Jingliu_16_10_2023-19_36_08.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_16_10_2023-13_25_22.png" />
+  <img src="images/showcase/Kafka_16_10_2023-19_36_08.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_16_10_2023-13_25_22.png" />
+  <img src="images/showcase/Bronya_16_10_2023-19_36_09.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_16_10_2023-13_25_23.png" />
+  <img src="images/showcase/Seele_16_10_2023-19_36_09.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
