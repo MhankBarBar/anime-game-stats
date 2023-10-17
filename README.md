@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 17, 2023 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 18, 2023 01:24 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_17_10_2023-19_35_16.png" />
+    <img src="images/profile/Joy_18_10_2023-01_24_33.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -2758,23 +2758,27 @@
     Genshin Impact Details
   </summary>
   <div align="center">
+    <h2>Profile</h2>
+    <img src="images/profile/genshin_profile_18_10_2023-01_24_01.png" />
+  </div>
+  <div align="center">
     <h2>
       <img src="images/icons/genshin_check_in.png" height="20" /> Daily Rewards
     </h2>
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -3141,16 +3145,16 @@
             height="18"
           />
           Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+            ,
+            height="18"
+          />
+          Bennett (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
           Nahida (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
@@ -8716,22 +8720,31 @@
     </details>
   </div>
 </details>
+<h2 align="center">My Genshin Impact Characters Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="images/showcase/genshin_card_18_10_2023-01_23_39.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="images/showcase/genshin_card_18_10_2023-01_23_40.png" />
+</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_17_10_2023-19_34_57.png" />
+  <img src="images/showcase/Jingliu_18_10_2023-01_24_18.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_17_10_2023-19_34_57.png" />
+  <img src="images/showcase/Kafka_18_10_2023-01_24_19.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_17_10_2023-19_34_58.png" />
+  <img src="images/showcase/Bronya_18_10_2023-01_24_19.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_17_10_2023-19_34_58.png" />
+  <img src="images/showcase/Seele_18_10_2023-01_24_20.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
