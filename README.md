@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 19, 2023 01:24 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 19, 2023 08:14 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_19_10_2023-01_24_24.png" />
+    <img src="images/profile/Joy_19_10_2023-08_14_31.png" />
   </div>
   <div align="center">
     <h2>
@@ -2758,10 +2758,6 @@
     Genshin Impact Details
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_19_10_2023-01_23_46.png" />
-  </div>
-  <div align="center">
     <h2>
       <img src="images/icons/genshin_check_in.png" height="20" /> Daily Rewards
     </h2>
@@ -3140,11 +3136,11 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
-          Yelan (12)<br /><img
+          Bennett (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
@@ -3155,22 +3151,22 @@
             height="18"
           />
           Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Bennett (12)<br />
+          Yelan (12)<br />
         </td>
       </tr>
       <tr>
         <td>Most Defeats</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
-          Nahida (23)<br />
+          Kamisato Ayaka (23)<br />
         </td>
       </tr>
       <tr>
@@ -8720,31 +8716,22 @@
     </details>
   </div>
 </details>
-<h2 align="center">My Genshin Impact Characters Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_19_10_2023-01_23_20.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_19_10_2023-01_23_21.png" />
-</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_19_10_2023-01_24_05.png" />
+  <img src="images/showcase/Jingliu_19_10_2023-08_14_11.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_19_10_2023-01_24_06.png" />
+  <img src="images/showcase/Kafka_19_10_2023-08_14_11.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_19_10_2023-01_24_06.png" />
+  <img src="images/showcase/Bronya_19_10_2023-08_14_12.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_19_10_2023-01_24_06.png" />
+  <img src="images/showcase/Seele_19_10_2023-08_14_12.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
