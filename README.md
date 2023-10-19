@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 19, 2023 13:25 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 19, 2023 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_19_10_2023-13_25_35.png" />
+    <img src="images/profile/Joy_19_10_2023-19_35_39.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>170</td>
+        <td>171</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>6988 (rate -28)</td>
+        <td>7048 (rate -27)</td>
       </tr>
       <tr>
         <td>
@@ -88,8 +88,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1800 (25%)<br />Adventure Rewards: 1690 (24%)<br />Daily
-          Activity: 1080 (15%)<br />Forgotten Hall: 960 (13%)<br />Simulated
+          Event: 1800 (25%)<br />Adventure Rewards: 1690 (23%)<br />Daily
+          Activity: 1140 (16%)<br />Forgotten Hall: 960 (13%)<br />Simulated
           Universe: 765 (10%)<br />Mail: 690 (9%)<br />Other: 3 (4%)<br />
         </td>
       </tr>
@@ -1291,32 +1291,32 @@
                     height="18"
                   />
                   Band's Polarized Sunglasses<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d9ad04ac51bf76ec91c71ed8997ec568.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/56efca6c97c906d8e0fe507f874354e4.png"
                     ,
                     height="18"
                   />
-                  Band's Touring Bracelet<br /><img
+                  Musketeer's Coarse Leather Gloves<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d504df7a35c26306264815ddc0ed6f4a.png"
                     ,
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/58e5b576d5de26cfe995c7a226b166ef.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
                     ,
                     height="18"
                   />
-                  Wastelander's Powered Greaves<br />
+                  Musketeer's Rivets Riding Boots<br />
                 </td>
               </tr>
               <tr>
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/c3f9b88027b63fb4ac0c3c387b48ffef.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
                     ,
                     height="18"
                   />
-                  Insumousu's Whalefall Ship<br /><img
+                  The Xianzhou Luofu's Celestial Ark<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
                     ,
                     height="18"
@@ -1730,32 +1730,37 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/56efca6c97c906d8e0fe507f874354e4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/0210ee229d5a0608380ba148175a49d2.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
+                  Wastelander's Breathing Mask<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d9ad04ac51bf76ec91c71ed8997ec568.png"
+                    ,
+                    height="18"
+                  />
+                  Band's Touring Bracelet<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d504df7a35c26306264815ddc0ed6f4a.png"
                     ,
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/58e5b576d5de26cfe995c7a226b166ef.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  Wastelander's Powered Greaves<br />
                 </td>
               </tr>
               <tr>
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/c3f9b88027b63fb4ac0c3c387b48ffef.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
+                  Insumousu's Whalefall Ship<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
                     ,
                     height="18"
@@ -2759,7 +2764,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_19_10_2023-13_24_58.png" />
+    <img src="images/profile/genshin_profile_19_10_2023-19_35_02.png" />
   </div>
   <div align="center">
     <h2>
@@ -8723,28 +8728,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_19_10_2023-13_24_33.png" />
+  <img src="images/showcase/genshin_card_19_10_2023-19_34_37.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_19_10_2023-13_24_34.png" />
+  <img src="images/showcase/genshin_card_19_10_2023-19_34_38.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_19_10_2023-13_25_17.png" />
+  <img src="images/showcase/Jingliu_19_10_2023-19_35_20.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_19_10_2023-13_25_18.png" />
+  <img src="images/showcase/Kafka_19_10_2023-19_35_21.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_19_10_2023-13_25_18.png" />
+  <img src="images/showcase/Bronya_19_10_2023-19_35_21.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_19_10_2023-13_25_19.png" />
+  <img src="images/showcase/Seele_19_10_2023-19_35_21.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
