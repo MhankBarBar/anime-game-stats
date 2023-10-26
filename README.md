@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 26, 2023 08:13 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 26, 2023 19:34 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_26_10_2023-08_13_08.png" />
+    <img src="images/profile/Joy_26_10_2023-19_34_26.png" />
   </div>
   <div align="center">
     <h2>
@@ -2764,7 +2764,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_26_10_2023-08_12_32.png" />
+    <img src="images/profile/genshin_profile_26_10_2023-19_33_50.png" />
   </div>
   <div align="center">
     <h2>
@@ -3160,11 +3160,11 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (9)<br />
+          Yae Miko (9)<br />
         </td>
       </tr>
       <tr>
@@ -8728,28 +8728,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_26_10_2023-08_12_11.png" />
+  <img src="images/showcase/genshin_card_26_10_2023-19_33_21.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_26_10_2023-08_12_12.png" />
+  <img src="images/showcase/genshin_card_26_10_2023-19_33_22.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_26_10_2023-08_12_50.png" />
+  <img src="images/showcase/Jingliu_26_10_2023-19_34_09.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_26_10_2023-08_12_50.png" />
+  <img src="images/showcase/Kafka_26_10_2023-19_34_10.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_26_10_2023-08_12_51.png" />
+  <img src="images/showcase/Bronya_26_10_2023-19_34_10.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_26_10_2023-08_12_51.png" />
+  <img src="images/showcase/Seele_26_10_2023-19_34_11.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
