@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 27, 2023 13:23 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 27, 2023 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_27_10_2023-13_23_42.png" />
+    <img src="images/profile/Joy_27_10_2023-19_33_42.png" />
   </div>
   <div align="center">
     <h2>
@@ -52,11 +52,11 @@
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>309</td>
+        <td>310</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>7813 (rate -19)</td>
+        <td>8403 (rate -13)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>31 (rate -32)</td>
+        <td>34 (rate -26)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1800 (23%)<br />Adventure Rewards: 1700 (21%)<br />Daily
-          Activity: 1500 (19%)<br />Simulated Universe: 1080 (13%)<br />Forgotten
-          Hall: 960 (12%)<br />Mail: 770 (9%)<br />Other: 3 (3%)<br />
+          Event: 1975 (23%)<br />Adventure Rewards: 2005 (23%)<br />Daily
+          Activity: 1560 (18%)<br />Simulated Universe: 1080 (12%)<br />Forgotten
+          Hall: 960 (11%)<br />Mail: 820 (9%)<br />Other: 3 (4%)<br />
         </td>
       </tr>
     </table>
@@ -509,11 +509,6 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2411630d1e0f843e4d31bfebe57abacf.png"
-                    ,
-                    height="18"
-                  />
-                  Firesmith's Obsidian Goggles<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/9dd43c4f649202963a16ecd8d6a9c516.png"
                     ,
                     height="18"
@@ -1296,11 +1291,11 @@
                     height="18"
                   />
                   Musketeer's Coarse Leather Gloves<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2662abe678da33ebfe8ebe788e438656.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/6508213e4858138caae09679df769bb2.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wind-Hunting Shawl<br /><img
+                  Firesmith's Fireproof Apron<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/4500a00ef37c484a01fa55121c578e17.png"
                     ,
                     height="18"
@@ -1557,6 +1552,117 @@
               <tr>
                 <td>Level</td>
                 <td>50</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Guinaifen </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Guinaifen</h3></th>
+          <th><h3>Good Night and Sleep Well</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d4a037ca678aee04015859808dddab45.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/8589ccf249e72a91bddbe8f6dc937b04.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2411630d1e0f843e4d31bfebe57abacf.png"
+                    ,
+                    height="18"
+                  />
+                  Firesmith's Obsidian Goggles<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/9dd43c4f649202963a16ecd8d6a9c516.png"
+                    ,
+                    height="18"
+                  />
+                  Firesmith's Ring of Flame-Mastery<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2662abe678da33ebfe8ebe788e438656.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wind-Hunting Shawl<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/4500a00ef37c484a01fa55121c578e17.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Rivets Riding Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a1d6bb273f845ca07a8d96216afb29ed.png"
+                    ,
+                    height="18"
+                  />
+                  Herta's Space Station<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/0a8ca951ba49277c8c4002c090c98937.png"
+                    ,
+                    height="18"
+                  />
+                  Herta's Wandering Trek<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Good Night and Sleep Well</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>30</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2335,7 +2441,7 @@
       <table>
         <tr>
           <th><h3>Luka</h3></th>
-          <th><h3>Good Night and Sleep Well</h3></th>
+          <th><h3>Fermata</h3></th>
         </tr>
         <tr>
           <td>
@@ -2348,7 +2454,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/8589ccf249e72a91bddbe8f6dc937b04.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a4800e1089cf5dbc9f964c72120adb80.png"
               />
             </p>
           </td>
@@ -2375,7 +2481,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -2387,7 +2493,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Good Night and Sleep Well</td>
+                <td>Fermata</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2764,7 +2870,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_27_10_2023-13_23_07.png" />
+    <img src="images/profile/genshin_profile_27_10_2023-19_33_06.png" />
   </div>
   <div align="center">
     <h2>
@@ -3145,11 +3251,6 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
@@ -3160,6 +3261,11 @@
             height="18"
           />
           Yelan (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
@@ -8728,28 +8834,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_27_10_2023-13_22_45.png" />
+  <img src="images/showcase/genshin_card_27_10_2023-19_32_41.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_27_10_2023-13_22_46.png" />
+  <img src="images/showcase/genshin_card_27_10_2023-19_32_42.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_27_10_2023-13_23_26.png" />
+  <img src="images/showcase/Jingliu_27_10_2023-19_33_24.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_27_10_2023-13_23_26.png" />
+  <img src="images/showcase/Kafka_27_10_2023-19_33_25.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_27_10_2023-13_23_27.png" />
+  <img src="images/showcase/Bronya_27_10_2023-19_33_25.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_27_10_2023-13_23_27.png" />
+  <img src="images/showcase/Seele_27_10_2023-19_33_25.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
