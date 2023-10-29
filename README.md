@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 29, 2023 13:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 29, 2023 19:32 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_29_10_2023-13_21_26.png" />
+    <img src="images/profile/Joy_29_10_2023-19_32_29.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>179</td>
+        <td>180</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>310</td>
+        <td>311</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>8468 (rate -12)</td>
+        <td>8793 (rate -9)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1975 (23%)<br />Adventure Rewards: 2010 (23%)<br />Daily
-          Activity: 1620 (19%)<br />Simulated Universe: 1080 (12%)<br />Forgotten
-          Hall: 960 (11%)<br />Mail: 820 (9%)<br />Other: 3 (3%)<br />
+          Event: 2220 (25%)<br />Adventure Rewards: 2030 (23%)<br />Daily
+          Activity: 1680 (19%)<br />Simulated Universe: 1080 (12%)<br />Forgotten
+          Hall: 960 (10%)<br />Mail: 820 (9%)<br />Other: 3 (2%)<br />
         </td>
       </tr>
     </table>
@@ -1662,7 +1662,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2869,6 +2869,10 @@
     Genshin Impact Details
   </summary>
   <div align="center">
+    <h2>Profile</h2>
+    <img src="images/profile/genshin_profile_29_10_2023-19_30_52.png" />
+  </div>
+  <div align="center">
     <h2>
       <img src="images/icons/genshin_check_in.png" height="20" /> Daily Rewards
     </h2>
@@ -2906,7 +2910,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>796</td>
+        <td>797</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -3252,21 +3256,21 @@
             height="18"
           />
           Nahida (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Yae Miko (9)<br />
+          Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (9)<br />
         </td>
       </tr>
       <tr>
@@ -3337,7 +3341,7 @@
           />
           Primogems earned
         </td>
-        <td>4510 (rate -21)</td>
+        <td>4990 (rate -12)</td>
       </tr>
       <tr>
         <td>
@@ -3347,13 +3351,13 @@
           />
           Mora earned
         </td>
-        <td>4106396 (rate 3)</td>
+        <td>4551871 (rate 14)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 1750 (39%)<br />Spiral Abyss: 1200 (27%)<br />Mail: 610
-          (14%)<br />Daily Activity: 420 (10%)<br />Adventure: 359 (7%)<br />Quests:
+          Events: 2170 (44%)<br />Spiral Abyss: 1200 (25%)<br />Mail: 610
+          (12%)<br />Daily Activity: 480 (9%)<br />Adventure: 359 (7%)<br />Quests:
           40 (1%)<br />Other: 131 (2%)<br />
         </td>
       </tr>
@@ -8827,22 +8831,31 @@
     </details>
   </div>
 </details>
+<h2 align="center">My Genshin Impact Characters Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="images/showcase/genshin_card_29_10_2023-19_29_55.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="images/showcase/genshin_card_29_10_2023-19_29_56.png" />
+</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_29_10_2023-13_21_05.png" />
+  <img src="images/showcase/Jingliu_29_10_2023-19_31_16.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_29_10_2023-13_21_06.png" />
+  <img src="images/showcase/Kafka_29_10_2023-19_31_16.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_29_10_2023-13_21_06.png" />
+  <img src="images/showcase/Bronya_29_10_2023-19_31_17.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_29_10_2023-13_21_07.png" />
+  <img src="images/showcase/Seele_29_10_2023-19_31_17.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
