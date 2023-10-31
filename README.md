@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 30, 2023 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 31, 2023 08:13 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_30_10_2023-19_33_21.png" />
+    <img src="images/profile/Joy_31_10_2023-08_13_40.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,7 +21,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>180</td>
+        <td>181</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>8793 (rate -9)</td>
+        <td>8853 (rate -8)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>34 (rate -26)</td>
+        <td>35 (rate -23)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 2220 (25%)<br />Adventure Rewards: 2030 (23%)<br />Daily
-          Activity: 1680 (19%)<br />Simulated Universe: 1080 (12%)<br />Forgotten
-          Hall: 960 (10%)<br />Mail: 820 (9%)<br />Other: 3 (2%)<br />
+          Event: 2220 (25%)<br />Adventure Rewards: 2030 (22%)<br />Daily
+          Activity: 1740 (19%)<br />Simulated Universe: 1080 (12%)<br />Forgotten
+          Hall: 960 (10%)<br />Mail: 820 (9%)<br />Other: 3 (3%)<br />
         </td>
       </tr>
     </table>
@@ -659,7 +659,7 @@
       <table>
         <tr>
           <th><h3>Dan Heng • Imbibitor Lunae</h3></th>
-          <th><h3>Under the Blue Sky</h3></th>
+          <th><h3>On the Fall of an Aeon</h3></th>
         </tr>
         <tr>
           <td>
@@ -672,7 +672,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/f5dea09d5a1783605c5b36d8c3ddfb2f.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/044165bb4dff8851198bb1ba82b97fc5.png"
               />
             </p>
           </td>
@@ -749,15 +749,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Under the Blue Sky</td>
+                <td>On the Fall of an Aeon</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -770,7 +770,7 @@
       <table>
         <tr>
           <th><h3>Jingliu</h3></th>
-          <th><h3>On the Fall of an Aeon</h3></th>
+          <th><h3>Under the Blue Sky</h3></th>
         </tr>
         <tr>
           <td>
@@ -783,7 +783,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/044165bb4dff8851198bb1ba82b97fc5.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/f5dea09d5a1783605c5b36d8c3ddfb2f.png"
               />
             </p>
           </td>
@@ -860,15 +860,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>On the Fall of an Aeon</td>
+                <td>Under the Blue Sky</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -2849,7 +2849,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_30_10_2023-19_34_08.png" />
+    <img src="images/profile/genshin_profile_31_10_2023-08_13_07.png" />
   </div>
   <div align="center">
     <h2>
@@ -2858,7 +2858,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -3230,26 +3230,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
           Nahida (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (9)<br />
+          Yelan (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+            ,
+            height="18"
+          />
+          Yae Miko (9)<br />
         </td>
       </tr>
       <tr>
@@ -8813,28 +8813,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_30_10_2023-19_33_47.png" />
+  <img src="images/showcase/genshin_card_31_10_2023-08_12_44.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_30_10_2023-19_33_48.png" />
+  <img src="images/showcase/genshin_card_31_10_2023-08_12_45.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_30_10_2023-19_32_59.png" />
+  <img src="images/showcase/Jingliu_31_10_2023-08_13_26.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_30_10_2023-19_32_59.png" />
+  <img src="images/showcase/Kafka_31_10_2023-08_13_26.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_30_10_2023-19_33_00.png" />
+  <img src="images/showcase/Bronya_31_10_2023-08_13_26.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_30_10_2023-19_33_00.png" />
+  <img src="images/showcase/Seele_31_10_2023-08_13_27.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
