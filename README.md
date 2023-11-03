@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 03, 2023 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 03, 2023 20:02 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_03_11_2023-19_34_28.png" />
+    <img src="images/profile/Joy_03_11_2023-20_02_09.png" />
   </div>
   <div align="center">
     <h2>
@@ -2849,7 +2849,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_03_11_2023-19_33_49.png" />
+    <img src="images/profile/genshin_profile_03_11_2023-20_01_06.png" />
   </div>
   <div align="center">
     <h2>
@@ -8813,28 +8813,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_03_11_2023-19_33_25.png" />
+  <img src="images/showcase/genshin_card_03_11_2023-20_00_42.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_03_11_2023-19_33_26.png" />
+  <img src="images/showcase/genshin_card_03_11_2023-20_00_42.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_03_11_2023-19_34_14.png" />
+  <img src="images/showcase/Jingliu_03_11_2023-20_01_53.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_03_11_2023-19_34_14.png" />
+  <img src="images/showcase/Kafka_03_11_2023-20_01_53.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_03_11_2023-19_34_15.png" />
+  <img src="images/showcase/Bronya_03_11_2023-20_01_54.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_03_11_2023-19_34_15.png" />
+  <img src="images/showcase/Seele_03_11_2023-20_01_54.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
