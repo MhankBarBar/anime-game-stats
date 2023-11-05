@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 05, 2023 08:18 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 05, 2023 19:31 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_05_11_2023-08_18_13.png" />
+    <img src="images/profile/Joy_05_11_2023-19_31_01.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>186</td>
+        <td>187</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>835 (rate -90)</td>
+        <td>1215 (rate -86)</td>
       </tr>
       <tr>
         <td>
@@ -83,15 +83,36 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>9 (rate -74)</td>
+        <td>10 (rate -71)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 340 (40%)<br />Simulated Universe: 255 (30%)<br />Daily
-          Activity: 240 (28%)<br />Other: 0 (2%)<br />Event: 0 (0%)<br />Adventure
-          Rewards: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
+          Mail: 360 (29%)<br />Daily Activity: 300 (24%)<br />Forgotten Hall:
+          300 (24%)<br />Simulated Universe: 255 (20%)<br />Other: 0 (3%)<br />Event:
+          0 (0%)<br />Adventure Rewards: 0 (0%)<br />
         </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
+    <h2>Memory of Chaos</h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>1005</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>Ambrosial Arbor's Arrival Stage 5</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>15</td>
       </tr>
     </table>
   </div>
@@ -1608,27 +1629,27 @@
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/4500a00ef37c484a01fa55121c578e17.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/f48f90bac45da2ee34ec3068f8c91026.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  Genius's Gravity Walker<br />
                 </td>
               </tr>
               <tr>
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a1d6bb273f845ca07a8d96216afb29ed.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d61049a3ac349ef7a67eba6531cfeaf9.png"
                     ,
                     height="18"
                   />
-                  Herta's Space Station<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/0a8ca951ba49277c8c4002c090c98937.png"
+                  The Xianzhou Luofu's Celestial Ark<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/fd0e5533b6c12eaea2bf34be2cc77ed6.png"
                     ,
                     height="18"
                   />
-                  Herta's Wandering Trek<br />
+                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
                 </td>
               </tr>
             </table>
@@ -2063,16 +2084,16 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d61049a3ac349ef7a67eba6531cfeaf9.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a1d6bb273f845ca07a8d96216afb29ed.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/fd0e5533b6c12eaea2bf34be2cc77ed6.png"
+                  Herta's Space Station<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/0a8ca951ba49277c8c4002c090c98937.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                  Herta's Wandering Trek<br />
                 </td>
               </tr>
             </table>
@@ -2460,7 +2481,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -2849,7 +2870,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_05_11_2023-08_17_39.png" />
+    <img src="images/profile/genshin_profile_05_11_2023-19_30_15.png" />
   </div>
   <div align="center">
     <h2>
@@ -8813,28 +8834,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_05_11_2023-08_17_15.png" />
+  <img src="images/showcase/genshin_card_05_11_2023-19_29_52.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_05_11_2023-08_17_16.png" />
+  <img src="images/showcase/genshin_card_05_11_2023-19_29_53.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_05_11_2023-08_17_57.png" />
+  <img src="images/showcase/Jingliu_05_11_2023-19_30_36.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_05_11_2023-08_17_57.png" />
+  <img src="images/showcase/Kafka_05_11_2023-19_30_37.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_05_11_2023-08_17_58.png" />
+  <img src="images/showcase/Bronya_05_11_2023-19_30_37.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_05_11_2023-08_17_58.png" />
+  <img src="images/showcase/Seele_05_11_2023-19_30_38.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
