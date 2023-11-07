@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 06, 2023 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 07, 2023 08:15 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_06_11_2023-19_35_44.png" />
+    <img src="images/profile/Joy_07_11_2023-08_15_14.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1215 (rate -86)</td>
+        <td>1295 (rate -85)</td>
       </tr>
       <tr>
         <td>
@@ -88,8 +88,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 360 (29%)<br />Daily Activity: 300 (24%)<br />Forgotten Hall:
-          300 (24%)<br />Simulated Universe: 255 (20%)<br />Other: 0 (3%)<br />Event:
+          Mail: 380 (29%)<br />Daily Activity: 360 (27%)<br />Forgotten Hall:
+          300 (23%)<br />Simulated Universe: 255 (19%)<br />Other: 0 (2%)<br />Event:
           0 (0%)<br />Adventure Rewards: 0 (0%)<br />
         </td>
       </tr>
@@ -2870,7 +2870,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_06_11_2023-19_35_07.png" />
+    <img src="images/profile/genshin_profile_07_11_2023-08_14_39.png" />
   </div>
   <div align="center">
     <h2>
@@ -2879,17 +2879,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
@@ -3229,7 +3229,7 @@
     <table>
       <tr>
         <td>Season</td>
-        <td>80</td>
+        <td>81</td>
       </tr>
       <tr>
         <td>Total Battles</td>
@@ -3249,84 +3249,27 @@
       </tr>
       <tr>
         <td>Most Played Characters</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (9)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Most Defeats</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (26)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Strongest Single Strike</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (115010)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-            ,
-            height="18"
-          />
-          Kamisato Ayaka (74976)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Elemental Bursts Unleashed</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (21)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Elemental Skills Cast</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-            ,
-            height="18"
-          />
-          Yae Miko (52)<br />
-        </td>
+        <td></td>
       </tr>
     </table>
   </div>
@@ -3341,7 +3284,7 @@
           />
           Primogems earned
         </td>
-        <td>848 (rate -83)</td>
+        <td>2126 (rate -58)</td>
       </tr>
       <tr>
         <td>
@@ -3351,14 +3294,14 @@
           />
           Mora earned
         </td>
-        <td>1043308 (rate -78)</td>
+        <td>2158767 (rate -55)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 557 (66%)<br />Quests: 140 (16%)<br />Daily Activity: 120
-          (14%)<br />Mail: 30 (3%)<br />Events: 0 (0%)<br />Spiral Abyss: 0
-          (0%)<br />Other: 1 (1%)<br />
+          Adventure: 675 (32%)<br />Spiral Abyss: 600 (28%)<br />Mail: 350
+          (16%)<br />Quests: 320 (15%)<br />Daily Activity: 180 (8%)<br />Events:
+          0 (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
     </table>
@@ -8834,28 +8777,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_06_11_2023-19_34_42.png" />
+  <img src="images/showcase/genshin_card_07_11_2023-08_14_15.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_06_11_2023-19_34_43.png" />
+  <img src="images/showcase/genshin_card_07_11_2023-08_14_16.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_06_11_2023-19_35_28.png" />
+  <img src="images/showcase/Jingliu_07_11_2023-08_14_57.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_06_11_2023-19_35_28.png" />
+  <img src="images/showcase/Kafka_07_11_2023-08_14_58.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_06_11_2023-19_35_29.png" />
+  <img src="images/showcase/Bronya_07_11_2023-08_14_58.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_06_11_2023-19_35_29.png" />
+  <img src="images/showcase/Seele_07_11_2023-08_14_59.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
