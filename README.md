@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 07, 2023 08:15 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 07, 2023 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_07_11_2023-08_15_14.png" />
+    <img src="images/profile/Joy_07_11_2023-19_32_41.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>188</td>
+        <td>189</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1295 (rate -85)</td>
+        <td>1355 (rate -84)</td>
       </tr>
       <tr>
         <td>
@@ -88,8 +88,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 380 (29%)<br />Daily Activity: 360 (27%)<br />Forgotten Hall:
-          300 (23%)<br />Simulated Universe: 255 (19%)<br />Other: 0 (2%)<br />Event:
+          Daily Activity: 420 (30%)<br />Mail: 380 (28%)<br />Forgotten Hall:
+          300 (22%)<br />Simulated Universe: 255 (18%)<br />Other: 0 (2%)<br />Event:
           0 (0%)<br />Adventure Rewards: 0 (0%)<br />
         </td>
       </tr>
@@ -2870,7 +2870,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_07_11_2023-08_14_39.png" />
+    <img src="images/profile/genshin_profile_07_11_2023-19_33_19.png" />
   </div>
   <div align="center">
     <h2>
@@ -2906,11 +2906,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>878</td>
+        <td>882</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>800</td>
+        <td>801</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2942,11 +2942,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2418</td>
+        <td>2422</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1655</td>
+        <td>1660</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -2954,11 +2954,11 @@
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>196</td>
+        <td>198</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>187</td>
+        <td>192</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -3067,12 +3067,12 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/55/" width="80" />
+                <img src="https://progress-bar.dev/57/" width="80" />
               </td>
             </tr>
             <tr>
               <td>Reputation</td>
-              <td>9</td>
+              <td>10</td>
             </tr>
           </table>
         </td>
@@ -3249,27 +3249,84 @@
       </tr>
       <tr>
         <td>Most Played Characters</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            ,
+            height="18"
+          />
+          Yelan (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            ,
+            height="18"
+          />
+          Sangonomiya Kokomi (9)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Defeats</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (25)<br />
+        </td>
       </tr>
       <tr>
         <td>Strongest Single Strike</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (160063)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (44526)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Bursts Unleashed</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            ,
+            height="18"
+          />
+          Yelan (27)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Skills Cast</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+            ,
+            height="18"
+          />
+          Xingqiu (45)<br />
+        </td>
       </tr>
     </table>
   </div>
@@ -8777,28 +8834,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_07_11_2023-08_14_15.png" />
+  <img src="images/showcase/genshin_card_07_11_2023-19_33_00.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_07_11_2023-08_14_16.png" />
+  <img src="images/showcase/genshin_card_07_11_2023-19_33_01.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_07_11_2023-08_14_57.png" />
+  <img src="images/showcase/Jingliu_07_11_2023-19_32_23.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_07_11_2023-08_14_58.png" />
+  <img src="images/showcase/Kafka_07_11_2023-19_32_23.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_07_11_2023-08_14_58.png" />
+  <img src="images/showcase/Bronya_07_11_2023-19_32_24.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_07_11_2023-08_14_59.png" />
+  <img src="images/showcase/Seele_07_11_2023-19_32_24.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
