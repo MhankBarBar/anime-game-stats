@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 07, 2023 19:33 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 08, 2023 08:13 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_07_11_2023-19_32_41.png" />
+    <img src="images/profile/Joy_08_11_2023-08_13_29.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -2869,27 +2869,23 @@
     Genshin Impact Details
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_07_11_2023-19_33_19.png" />
-  </div>
-  <div align="center">
     <h2>
       <img src="images/icons/genshin_check_in.png" height="20" /> Daily Rewards
     </h2>
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -3251,11 +3247,6 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
@@ -3266,11 +3257,16 @@
             height="18"
           />
           Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Sangonomiya Kokomi (9)<br />
+          Yelan (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (9)<br />
         </td>
       </tr>
       <tr>
@@ -8831,31 +8827,22 @@
     </details>
   </div>
 </details>
-<h2 align="center">My Genshin Impact Characters Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_07_11_2023-19_33_00.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_07_11_2023-19_33_01.png" />
-</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_07_11_2023-19_32_23.png" />
+  <img src="images/showcase/Jingliu_08_11_2023-08_13_10.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_07_11_2023-19_32_23.png" />
+  <img src="images/showcase/Kafka_08_11_2023-08_13_11.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_07_11_2023-19_32_24.png" />
+  <img src="images/showcase/Bronya_08_11_2023-08_13_11.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_07_11_2023-19_32_24.png" />
+  <img src="images/showcase/Seele_08_11_2023-08_13_12.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
