@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 11, 2023 09:13 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 11, 2023 19:30 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_11_11_2023-09_13_13.png" />
+    <img src="images/profile/Joy_11_11_2023-19_30_44.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>191</td>
+        <td>192</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>311</td>
+        <td>312</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1590 (rate -82)</td>
+        <td>1825 (rate -79)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>12 (rate -65)</td>
+        <td>13 (rate -62)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 540 (33%)<br />Simulated Universe: 370 (23%)<br />Mail:
-          380 (23%)<br />Forgotten Hall: 300 (18%)<br />Other: 0 (3%)<br />Event:
-          0 (0%)<br />Adventure Rewards: 0 (0%)<br />
+          Daily Activity: 600 (32%)<br />Simulated Universe: 480 (26%)<br />Mail:
+          380 (20%)<br />Forgotten Hall: 360 (19%)<br />Other: 0 (3%)<br />Event:
+          0 (0%)<br />Adventure Rewards: 5 (0%)<br />
         </td>
       </tr>
     </table>
@@ -104,15 +104,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>Ambrosial Arbor's Arrival Stage 5</td>
+        <td>Ambrosial Arbor's Arrival Stage 6</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>5</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>15</td>
+        <td>18</td>
       </tr>
     </table>
   </div>
@@ -1508,21 +1508,21 @@
                     height="18"
                   />
                   Messenger's Holovisor<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5411cfe73a6143cc371a39748f6860d3.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/4b6cacdd05a0a4913e02318a4613b40c.png"
                     ,
                     height="18"
                   />
-                  Passerby's Roaming Dragon Bracer<br /><img
+                  Messenger's Transformative Arm<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/7dbde2f8cce58a9a32aa950b352b31bd.png"
                     ,
                     height="18"
                   />
                   Messenger's Secret Satchel<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c83a5287503ad258c5ffe12f2ebded1c.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/73ece7261aabe8f7739ea8c61ccbc280.png"
                     ,
                     height="18"
                   />
-                  Passerby's Stygian Hiking Boots<br />
+                  Messenger's Par-kool Sneakers<br />
                 </td>
               </tr>
               <tr>
@@ -2870,7 +2870,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_11_11_2023-09_13_54.png" />
+    <img src="images/profile/genshin_profile_11_11_2023-19_30_10.png" />
   </div>
   <div align="center">
     <h2>
@@ -2910,7 +2910,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>804</td>
+        <td>805</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -3251,26 +3251,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
           Yelan (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
           Kaedehara Kazuha (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
-          Sangonomiya Kokomi (9)<br />
+          Kamisato Ayaka (9)<br />
         </td>
       </tr>
       <tr>
@@ -3341,7 +3341,7 @@
           />
           Primogems earned
         </td>
-        <td>3269 (rate -36)</td>
+        <td>3329 (rate -34)</td>
       </tr>
       <tr>
         <td>
@@ -3351,13 +3351,13 @@
           />
           Mora earned
         </td>
-        <td>2765994 (rate -43)</td>
+        <td>2909919 (rate -40)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1110 (34%)<br />Adventure: 794 (25%)<br />Spiral Abyss: 600
-          (18%)<br />Quests: 420 (12%)<br />Daily Activity: 320 (9%)<br />Events:
+          Mail: 1130 (34%)<br />Adventure: 794 (24%)<br />Spiral Abyss: 600
+          (18%)<br />Quests: 420 (12%)<br />Daily Activity: 360 (10%)<br />Events:
           20 (1%)<br />Other: 5 (1%)<br />
         </td>
       </tr>
@@ -4595,7 +4595,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -5550,7 +5550,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -7062,7 +7062,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -8847,7 +8847,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>3</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -9033,28 +9033,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_11_11_2023-09_13_34.png" />
+  <img src="images/showcase/genshin_card_11_11_2023-19_29_44.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_11_11_2023-09_13_35.png" />
+  <img src="images/showcase/genshin_card_11_11_2023-19_29_45.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_11_11_2023-09_12_52.png" />
+  <img src="images/showcase/Jingliu_11_11_2023-19_30_29.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_11_11_2023-09_12_53.png" />
+  <img src="images/showcase/Kafka_11_11_2023-19_30_30.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_11_11_2023-09_12_53.png" />
+  <img src="images/showcase/Bronya_11_11_2023-19_30_30.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_11_11_2023-09_12_54.png" />
+  <img src="images/showcase/Seele_11_11_2023-19_30_31.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
