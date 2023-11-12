@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 11, 2023 19:30 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 12, 2023 08:19 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_11_11_2023-19_30_44.png" />
+    <img src="images/profile/Joy_12_11_2023-08_19_13.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Lost Gold Fragment
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -2870,7 +2870,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_11_11_2023-19_30_10.png" />
+    <img src="images/profile/genshin_profile_12_11_2023-08_18_40.png" />
   </div>
   <div align="center">
     <h2>
@@ -2879,17 +2879,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
             height="20"
           />
-          Primogem
+          Fried Radish Balls
         </td>
       </tr>
     </table>
@@ -2906,7 +2906,7 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>884</td>
+        <td>887</td>
       </tr>
       <tr>
         <td>Days Active</td>
@@ -2950,7 +2950,7 @@
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>507</td>
+        <td>508</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
@@ -3256,16 +3256,16 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
           Kaedehara Kazuha (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
@@ -3341,7 +3341,7 @@
           />
           Primogems earned
         </td>
-        <td>3329 (rate -34)</td>
+        <td>3559 (rate -30)</td>
       </tr>
       <tr>
         <td>
@@ -3351,13 +3351,13 @@
           />
           Mora earned
         </td>
-        <td>2909919 (rate -40)</td>
+        <td>3388939 (rate -30)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1130 (34%)<br />Adventure: 794 (24%)<br />Spiral Abyss: 600
-          (18%)<br />Quests: 420 (12%)<br />Daily Activity: 360 (10%)<br />Events:
+          Mail: 1130 (32%)<br />Adventure: 844 (24%)<br />Spiral Abyss: 600
+          (16%)<br />Quests: 600 (16%)<br />Daily Activity: 360 (10%)<br />Events:
           20 (1%)<br />Other: 5 (1%)<br />
         </td>
       </tr>
@@ -5941,7 +5941,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>
@@ -8406,6 +8406,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Freminet</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Freminet</h3></th>
+          <th><h3 align="center">The Bell</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Freminet_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>21</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>The Bell</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Yun Jin</b></summary>
       <br />
       <table>
@@ -8768,93 +8855,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Freminet</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Freminet</h3></th>
-          <th><h3 align="center">The Bell</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Freminet_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>The Bell</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Razor</b></summary>
       <br />
       <table>
@@ -9033,28 +9033,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_11_11_2023-19_29_44.png" />
+  <img src="images/showcase/genshin_card_12_11_2023-08_18_15.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_11_11_2023-19_29_45.png" />
+  <img src="images/showcase/genshin_card_12_11_2023-08_18_16.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_11_11_2023-19_30_29.png" />
+  <img src="images/showcase/Jingliu_12_11_2023-08_18_56.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_11_11_2023-19_30_30.png" />
+  <img src="images/showcase/Kafka_12_11_2023-08_18_57.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_11_11_2023-19_30_30.png" />
+  <img src="images/showcase/Bronya_12_11_2023-08_18_57.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_11_11_2023-19_30_31.png" />
+  <img src="images/showcase/Seele_12_11_2023-08_18_58.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
