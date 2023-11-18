@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 18, 2023 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 18, 2023 19:31 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_18_11_2023-08_17_07.png" />
+    <img src="images/profile/Joy_18_11_2023-19_31_10.png" />
   </div>
   <div align="center">
     <h2>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4950 (rate -44)</td>
+        <td>5440 (rate -38)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>21 (rate -40)</td>
+        <td>22 (rate -37)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1160 (23%)<br />Simulated Universe: 1005 (20%)<br />Daily
-          Activity: 960 (19%)<br />Forgotten Hall: 840 (16%)<br />Adventure
-          Rewards: 680 (13%)<br />Event: 300 (6%)<br />Other: 5 (3%)<br />
+          Mail: 1160 (21%)<br />Daily Activity: 1020 (18%)<br />Simulated
+          Universe: 1005 (18%)<br />Forgotten Hall: 840 (15%)<br />Adventure
+          Rewards: 730 (13%)<br />Event: 680 (12%)<br />Other: 5 (3%)<br />
         </td>
       </tr>
     </table>
@@ -3245,27 +3245,84 @@
       </tr>
       <tr>
         <td>Most Played Characters</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+            ,
+            height="18"
+          />
+          Yae Miko (13)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+            ,
+            height="18"
+          />
+          Furina (13)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (13)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            ,
+            height="18"
+          />
+          Yelan (10)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Defeats</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+            ,
+            height="18"
+          />
+          Furina (36)<br />
+        </td>
       </tr>
       <tr>
         <td>Strongest Single Strike</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (145247)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (43442)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Bursts Unleashed</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+            ,
+            height="18"
+          />
+          Furina (21)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Skills Cast</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+            ,
+            height="18"
+          />
+          Yae Miko (140)<br />
+        </td>
       </tr>
     </table>
   </div>
@@ -3280,7 +3337,7 @@
           />
           Primogems earned
         </td>
-        <td>6255 (rate 22)</td>
+        <td>6325 (rate 23)</td>
       </tr>
       <tr>
         <td>
@@ -3290,13 +3347,13 @@
           />
           Mora earned
         </td>
-        <td>6008523 (rate 23)</td>
+        <td>6184984 (rate 26)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1742 (28%)<br />Spiral Abyss: 1200 (20%)<br />Mail: 1230
-          (19%)<br />Quests: 880 (14%)<br />Daily Activity: 660 (10%)<br />Events:
+          Adventure: 1782 (29%)<br />Mail: 1230 (20%)<br />Spiral Abyss: 1200
+          (18%)<br />Quests: 910 (14%)<br />Daily Activity: 660 (10%)<br />Events:
           520 (8%)<br />Other: 23 (1%)<br />
         </td>
       </tr>
@@ -4926,8 +4983,8 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Vourukasha's Glow<br />1 x Golden Troupe<br />1
-                  x Emblem of Severed Fate<br />1 x Flower of Paradise Lost<br />
+                  Artifacts<br />2 x Vourukasha's Glow<br />2 x Golden Troupe<br />1
+                  x Emblem of Severed Fate<br />
                 </td>
                 <td>
                   <img
@@ -4947,10 +5004,10 @@
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/2ff9f186f91d8cf3a0d273a5e6229ac2.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/2f69d44e2e79a05adbe0c9fe6391ea33.png"
                     height="18"
                   />
-                  Amethyst Crown<br />
+                  Golden Troupe's Reward<br />
                 </td>
               </tr>
               <tr>
@@ -5992,7 +6049,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>
@@ -8533,6 +8590,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Mika</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Mika</h3></th>
+          <th><h3 align="center">Beginner's Protector</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Mika_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/506f14a662366fcf491b83bde85eecca.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>8</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>3</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Beginner's Protector</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Kaveh</b></summary>
       <br />
       <table>
@@ -8601,93 +8745,6 @@
               <tr>
                 <td>Name</td>
                 <td>Waster Greatsword</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Mika</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Mika</h3></th>
-          <th><h3 align="center">Beginner's Protector</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Mika_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/506f14a662366fcf491b83bde85eecca.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>7</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>3</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Beginner's Protector</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -8969,22 +9026,31 @@
     </details>
   </div>
 </details>
+<h2 align="center">My Genshin Impact Characters Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="images/showcase/genshin_card_18_11_2023-19_30_16.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="images/showcase/genshin_card_18_11_2023-19_30_17.png" />
+</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_18_11_2023-08_16_36.png" />
+  <img src="images/showcase/Jingliu_18_11_2023-19_30_53.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_18_11_2023-08_16_37.png" />
+  <img src="images/showcase/Kafka_18_11_2023-19_30_54.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_18_11_2023-08_16_37.png" />
+  <img src="images/showcase/Bronya_18_11_2023-19_30_54.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_18_11_2023-08_16_38.png" />
+  <img src="images/showcase/Seele_18_11_2023-19_30_55.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
