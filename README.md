@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 17, 2023 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 18, 2023 08:17 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_17_11_2023-19_34_21.png" />
+    <img src="images/profile/Joy_18_11_2023-08_17_07.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>198</td>
+        <td>199</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>317</td>
+        <td>319</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -2834,7 +2834,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -2869,27 +2869,23 @@
     Genshin Impact Details
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_17_11_2023-19_33_37.png" />
-  </div>
-  <div align="center">
     <h2>
       <img src="images/icons/genshin_check_in.png" height="20" /> Daily Rewards
     </h2>
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -2906,11 +2902,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>902</td>
+        <td>904</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>810</td>
+        <td>812</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2938,11 +2934,11 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>196</td>
+        <td>201</td>
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2448</td>
+        <td>2449</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
@@ -2950,15 +2946,15 @@
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>523</td>
+        <td>524</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>203</td>
+        <td>204</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>199</td>
+        <td>201</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -3067,7 +3063,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/71/" width="80" />
+                <img src="https://progress-bar.dev/73/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3229,15 +3225,15 @@
     <table>
       <tr>
         <td>Season</td>
-        <td>81</td>
+        <td>82</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>12</td>
+        <td>14</td>
       </tr>
       <tr>
         <td>Total Wins</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Max Floor</td>
@@ -3249,84 +3245,27 @@
       </tr>
       <tr>
         <td>Most Played Characters</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-            ,
-            height="18"
-          />
-          Kamisato Ayaka (9)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Most Defeats</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (25)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Strongest Single Strike</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (160063)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (44526)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Elemental Bursts Unleashed</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (27)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Elemental Skills Cast</td>
-        <td>
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-            ,
-            height="18"
-          />
-          Xingqiu (45)<br />
-        </td>
+        <td></td>
       </tr>
     </table>
   </div>
@@ -3341,7 +3280,7 @@
           />
           Primogems earned
         </td>
-        <td>4944 (rate -3)</td>
+        <td>6255 (rate 22)</td>
       </tr>
       <tr>
         <td>
@@ -3351,14 +3290,14 @@
           />
           Mora earned
         </td>
-        <td>5036385 (rate 3)</td>
+        <td>6008523 (rate 23)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1712 (35%)<br />Mail: 1130 (23%)<br />Quests: 840 (16%)<br />Daily
-          Activity: 600 (12%)<br />Spiral Abyss: 600 (12%)<br />Events: 40
-          (1%)<br />Other: 22 (1%)<br />
+          Adventure: 1742 (28%)<br />Spiral Abyss: 1200 (20%)<br />Mail: 1230
+          (19%)<br />Quests: 880 (14%)<br />Daily Activity: 660 (10%)<br />Events:
+          520 (8%)<br />Other: 23 (1%)<br />
         </td>
       </tr>
     </table>
@@ -9030,31 +8969,22 @@
     </details>
   </div>
 </details>
-<h2 align="center">My Genshin Impact Characters Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_17_11_2023-19_33_14.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_17_11_2023-19_33_15.png" />
-</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_17_11_2023-19_34_04.png" />
+  <img src="images/showcase/Jingliu_18_11_2023-08_16_36.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_17_11_2023-19_34_04.png" />
+  <img src="images/showcase/Kafka_18_11_2023-08_16_37.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_17_11_2023-19_34_05.png" />
+  <img src="images/showcase/Bronya_18_11_2023-08_16_37.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_17_11_2023-19_34_05.png" />
+  <img src="images/showcase/Seele_18_11_2023-08_16_38.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
