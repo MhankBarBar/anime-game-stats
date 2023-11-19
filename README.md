@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 18, 2023 19:31 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 19, 2023 08:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_18_11_2023-19_31_10.png" />
+    <img src="images/profile/Joy_19_11_2023-08_20_47.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>199</td>
+        <td>200</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,11 +56,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>319</td>
+        <td>323</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>377</td>
+        <td>379</td>
       </tr>
     </table>
   </div>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5440 (rate -38)</td>
+        <td>5775 (rate -35)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>22 (rate -37)</td>
+        <td>23 (rate -34)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1160 (21%)<br />Daily Activity: 1020 (18%)<br />Simulated
-          Universe: 1005 (18%)<br />Forgotten Hall: 840 (15%)<br />Adventure
-          Rewards: 730 (13%)<br />Event: 680 (12%)<br />Other: 5 (3%)<br />
+          Mail: 1160 (20%)<br />Daily Activity: 1080 (18%)<br />Simulated
+          Universe: 1045 (18%)<br />Event: 830 (14%)<br />Adventure Rewards: 815
+          (14%)<br />Forgotten Hall: 840 (14%)<br />Other: 5 (2%)<br />
         </td>
       </tr>
     </table>
@@ -125,6 +125,117 @@
       Characters
     </h2>
     <details open>
+      <summary><b>Jingliu </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Jingliu</h3></th>
+          <th><h3>On the Fall of an Aeon</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/4dafdce91ff047e7317f0b06208eac25.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d91235074b0c4587ba40ceb0c5d58955.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/098281e7cb44418854c2eb4c40b53c84.png"
+                    ,
+                    height="18"
+                  />
+                  Genius's Ultraremote Sensing Visor<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/b0d0a62ff41a9d1e232f9fd4cb56794a.png"
+                    ,
+                    height="18"
+                  />
+                  Genius's Frequency Catcher<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2d4ce662cd88706544b0e7efec6f9404.png"
+                    ,
+                    height="18"
+                  />
+                  Genius's Metafield Suit<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/266bdb4c636482fa34a0d73e8fddae51.png"
+                    ,
+                    height="18"
+                  />
+                  Genius's Gravity Walker<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/80dedeca3a4143bd66515276490e76a8.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan Laser Stadium<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2833eaf16ff70e81039b6771b7e39f59.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan's Arclight Race Track<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>On the Fall of an Aeon</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Kafka </b></summary>
       <br />
       <table>
@@ -336,6 +447,117 @@
               <tr>
                 <td>Level</td>
                 <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Bronya </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Bronya</h3></th>
+          <th><h3>Past and Future</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/11f1ddd0ecd21b39c68cf8e31e805084.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/84e73d9e718bca40bb8b06bf4fe612ed.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9718496edf29d62b4d2d7e1be89bbe51.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/ac27e160ffc425007d43c84137b665d1.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Coarse Leather Gloves<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2d4ce662cd88706544b0e7efec6f9404.png"
+                    ,
+                    height="18"
+                  />
+                  Genius's Metafield Suit<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/3bb0956fa4c7bec0a1b6b6af7e49fcec.png"
+                    ,
+                    height="18"
+                  />
+                  Guard's Silver Greaves<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/97f34963dd65ef80981b2ebfdd7d62d2.png"
+                    ,
+                    height="18"
+                  />
+                  Insumousu's Whalefall Ship<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/87b4ee293e19f150b11659f18d420e41.png"
+                    ,
+                    height="18"
+                  />
+                  Insumousu's Frayed Hawser<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Past and Future</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -786,117 +1008,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Jingliu </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Jingliu</h3></th>
-          <th><h3>On the Fall of an Aeon</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/4dafdce91ff047e7317f0b06208eac25.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d91235074b0c4587ba40ceb0c5d58955.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>80</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/098281e7cb44418854c2eb4c40b53c84.png"
-                    ,
-                    height="18"
-                  />
-                  Genius's Ultraremote Sensing Visor<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/b0d0a62ff41a9d1e232f9fd4cb56794a.png"
-                    ,
-                    height="18"
-                  />
-                  Genius's Frequency Catcher<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2d4ce662cd88706544b0e7efec6f9404.png"
-                    ,
-                    height="18"
-                  />
-                  Genius's Metafield Suit<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/266bdb4c636482fa34a0d73e8fddae51.png"
-                    ,
-                    height="18"
-                  />
-                  Genius's Gravity Walker<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/80dedeca3a4143bd66515276490e76a8.png"
-                    ,
-                    height="18"
-                  />
-                  Taikiyan Laser Stadium<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2833eaf16ff70e81039b6771b7e39f59.png"
-                    ,
-                    height="18"
-                  />
-                  Taikiyan's Arclight Race Track<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>On the Fall of an Aeon</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>80</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Jing Yuan </b></summary>
       <br />
       <table>
@@ -1112,117 +1223,6 @@
               <tr>
                 <td>Superimpose</td>
                 <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Bronya </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Bronya</h3></th>
-          <th><h3>Past and Future</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/11f1ddd0ecd21b39c68cf8e31e805084.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/84e73d9e718bca40bb8b06bf4fe612ed.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>80</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9718496edf29d62b4d2d7e1be89bbe51.png"
-                    ,
-                    height="18"
-                  />
-                  Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/ac27e160ffc425007d43c84137b665d1.png"
-                    ,
-                    height="18"
-                  />
-                  Musketeer's Coarse Leather Gloves<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2d4ce662cd88706544b0e7efec6f9404.png"
-                    ,
-                    height="18"
-                  />
-                  Genius's Metafield Suit<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/3bb0956fa4c7bec0a1b6b6af7e49fcec.png"
-                    ,
-                    height="18"
-                  />
-                  Guard's Silver Greaves<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/97f34963dd65ef80981b2ebfdd7d62d2.png"
-                    ,
-                    height="18"
-                  />
-                  Insumousu's Whalefall Ship<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/87b4ee293e19f150b11659f18d420e41.png"
-                    ,
-                    height="18"
-                  />
-                  Insumousu's Frayed Hawser<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Past and Future</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>5</td>
               </tr>
             </table>
           </td>
@@ -2875,17 +2875,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
             height="20"
           />
-          Primogem
+          Fisherman's Toast
         </td>
       </tr>
     </table>
@@ -2902,7 +2902,7 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>904</td>
+        <td>908</td>
       </tr>
       <tr>
         <td>Days Active</td>
@@ -2934,27 +2934,27 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>201</td>
+        <td>216</td>
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2449</td>
+        <td>2454</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1731</td>
+        <td>1742</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>524</td>
+        <td>529</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>204</td>
+        <td>206</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>201</td>
+        <td>202</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -3063,7 +3063,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/73/" width="80" />
+                <img src="https://progress-bar.dev/76/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3247,6 +3247,11 @@
         <td>Most Played Characters</td>
         <td>
           <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (13)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
@@ -3257,11 +3262,6 @@
             height="18"
           />
           Furina (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (13)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
@@ -3337,7 +3337,7 @@
           />
           Primogems earned
         </td>
-        <td>6325 (rate 23)</td>
+        <td>6540 (rate 27)</td>
       </tr>
       <tr>
         <td>
@@ -3347,14 +3347,14 @@
           />
           Mora earned
         </td>
-        <td>6184984 (rate 26)</td>
+        <td>6435714 (rate 31)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1782 (29%)<br />Mail: 1230 (20%)<br />Spiral Abyss: 1200
-          (18%)<br />Quests: 910 (14%)<br />Daily Activity: 660 (10%)<br />Events:
-          520 (8%)<br />Other: 23 (1%)<br />
+          Adventure: 1977 (31%)<br />Mail: 1250 (20%)<br />Spiral Abyss: 1200
+          (18%)<br />Quests: 910 (13%)<br />Daily Activity: 660 (10%)<br />Events:
+          520 (7%)<br />Other: 23 (1%)<br />
         </td>
       </tr>
     </table>
@@ -9029,28 +9029,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_18_11_2023-19_30_16.png" />
+  <img src="images/showcase/genshin_card_19_11_2023-08_21_05.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_18_11_2023-19_30_17.png" />
+  <img src="images/showcase/genshin_card_19_11_2023-08_21_06.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_18_11_2023-19_30_53.png" />
+  <img src="images/showcase/Jingliu_19_11_2023-08_20_23.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_18_11_2023-19_30_54.png" />
+  <img src="images/showcase/Kafka_19_11_2023-08_20_24.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_18_11_2023-19_30_54.png" />
+  <img src="images/showcase/Bronya_19_11_2023-08_20_24.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_18_11_2023-19_30_55.png" />
+  <img src="images/showcase/Seele_19_11_2023-08_20_25.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
