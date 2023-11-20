@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 20, 2023 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 20, 2023 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_20_11_2023-08_17_29.png" />
+    <img src="images/profile/Joy_20_11_2023-19_34_57.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>200</td>
+        <td>201</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5775 (rate -35)</td>
+        <td>6030 (rate -32)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>23 (rate -34)</td>
+        <td>26 (rate -25)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1160 (20%)<br />Daily Activity: 1080 (18%)<br />Simulated
-          Universe: 1045 (18%)<br />Event: 830 (14%)<br />Adventure Rewards: 815
-          (14%)<br />Forgotten Hall: 840 (14%)<br />Other: 5 (2%)<br />
+          Simulated Universe: 1220 (20%)<br />Mail: 1180 (19%)<br />Daily
+          Activity: 1140 (18%)<br />Event: 830 (13%)<br />Adventure Rewards: 815
+          (13%)<br />Forgotten Hall: 840 (13%)<br />Other: 5 (4%)<br />
         </td>
       </tr>
     </table>
@@ -3252,21 +3252,21 @@
             height="18"
           />
           Furina (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (13)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
           />
           Yae Miko (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Nahida (10)<br />
+          Raiden Shogun (13)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            ,
+            height="18"
+          />
+          Yelan (10)<br />
         </td>
       </tr>
       <tr>
@@ -3337,7 +3337,7 @@
           />
           Primogems earned
         </td>
-        <td>6540 (rate 27)</td>
+        <td>6723 (rate 31)</td>
       </tr>
       <tr>
         <td>
@@ -3347,14 +3347,14 @@
           />
           Mora earned
         </td>
-        <td>6435714 (rate 31)</td>
+        <td>6599468 (rate 35)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1977 (31%)<br />Mail: 1250 (20%)<br />Spiral Abyss: 1200
-          (18%)<br />Quests: 910 (13%)<br />Daily Activity: 660 (10%)<br />Events:
-          520 (7%)<br />Other: 23 (1%)<br />
+          Adventure: 1979 (30%)<br />Mail: 1250 (19%)<br />Spiral Abyss: 1200
+          (18%)<br />Quests: 910 (13%)<br />Daily Activity: 720 (10%)<br />Events:
+          640 (9%)<br />Other: 24 (1%)<br />
         </td>
       </tr>
     </table>
@@ -4984,7 +4984,7 @@
               <tr>
                 <td>
                   Artifacts<br />2 x Vourukasha's Glow<br />2 x Golden Troupe<br />1
-                  x Emblem of Severed Fate<br />
+                  x Marechaussee Hunter<br />
                 </td>
                 <td>
                   <img
@@ -5000,10 +5000,10 @@
                     height="18"
                   />
                   Ancient Abscission<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e256cd35445954f51faf367d98d6e150.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b10902ae43e7f6d6619fe560829f7ba3.png"
                     height="18"
                   />
-                  Scarlet Vessel<br /><img
+                  Forgotten Vessel<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/2f69d44e2e79a05adbe0c9fe6391ea33.png"
                     height="18"
                   />
@@ -9029,28 +9029,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_20_11_2023-08_16_22.png" />
+  <img src="images/showcase/genshin_card_20_11_2023-19_35_23.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_20_11_2023-08_16_23.png" />
+  <img src="images/showcase/genshin_card_20_11_2023-19_35_24.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_20_11_2023-08_17_11.png" />
+  <img src="images/showcase/Jingliu_20_11_2023-19_34_32.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_20_11_2023-08_17_11.png" />
+  <img src="images/showcase/Kafka_20_11_2023-19_34_33.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_20_11_2023-08_17_12.png" />
+  <img src="images/showcase/Bronya_20_11_2023-19_34_33.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_20_11_2023-08_17_12.png" />
+  <img src="images/showcase/Seele_20_11_2023-19_34_34.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
