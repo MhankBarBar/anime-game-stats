@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 25, 2023 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 26, 2023 08:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_25_11_2023-19_30_20.png" />
+    <img src="images/profile/Joy_26_11_2023-08_21_32.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
             height="20"
           />
-          Disposable Kinetic Arm
+          Refined Aether
         </td>
       </tr>
     </table>
@@ -2875,17 +2875,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
             height="20"
           />
-          Hero's Wit
+          Almond Tofu
         </td>
       </tr>
     </table>
@@ -3252,21 +3252,21 @@
             height="18"
           />
           Furina (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (13)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
           />
           Yae Miko (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Yelan (10)<br />
+          Raiden Shogun (13)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (10)<br />
         </td>
       </tr>
       <tr>
@@ -8449,7 +8449,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>7</td>
+                <td>8</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -9029,19 +9029,19 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_25_11_2023-19_29_57.png" />
+  <img src="images/showcase/Jingliu_26_11_2023-08_21_02.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_25_11_2023-19_29_58.png" />
+  <img src="images/showcase/Kafka_26_11_2023-08_21_03.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_25_11_2023-19_29_58.png" />
+  <img src="images/showcase/Bronya_26_11_2023-08_21_03.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_25_11_2023-19_29_58.png" />
+  <img src="images/showcase/Seele_26_11_2023-08_21_04.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
