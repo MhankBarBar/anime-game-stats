@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 27, 2023 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 27, 2023 21:47 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_27_11_2023-08_15_52.png" />
+    <img src="images/profile/Joy_27_11_2023-21_46_14.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>207</td>
+        <td>208</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>332</td>
+        <td>333</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>8015 (rate -10)</td>
+        <td>8210 (rate -7)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>29 (rate -17)</td>
+        <td>32 (rate -8)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1730 (21%)<br />Mail: 1560 (19%)<br />Daily Activity: 1500
-          (18%)<br />Simulated Universe: 1330 (16%)<br />Adventure Rewards: 1050
-          (13%)<br />Forgotten Hall: 840 (10%)<br />Other: 5 (3%)<br />
+          Event: 1730 (21%)<br />Daily Activity: 1560 (19%)<br />Mail: 1560
+          (19%)<br />Simulated Universe: 1445 (17%)<br />Adventure Rewards: 1070
+          (13%)<br />Forgotten Hall: 840 (10%)<br />Other: 5 (1%)<br />
         </td>
       </tr>
     </table>
@@ -2881,7 +2881,7 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>908</td>
+        <td>909</td>
       </tr>
       <tr>
         <td>Days Active</td>
@@ -2917,11 +2917,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2457</td>
+        <td>2459</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1743</td>
+        <td>1755</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -2933,7 +2933,7 @@
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>203</td>
+        <td>205</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -3042,7 +3042,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/76/" width="80" />
+                <img src="https://progress-bar.dev/77/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3226,6 +3226,11 @@
         <td>Most Played Characters</td>
         <td>
           <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (13)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
             ,
             height="18"
@@ -3236,16 +3241,11 @@
             height="18"
           />
           Yae Miko (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
-          Raiden Shogun (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (10)<br />
+          Nahida (10)<br />
         </td>
       </tr>
       <tr>
@@ -3316,7 +3316,7 @@
           />
           Primogems earned
         </td>
-        <td>7723 (rate 50)</td>
+        <td>7981 (rate 56)</td>
       </tr>
       <tr>
         <td>
@@ -3326,14 +3326,14 @@
           />
           Mora earned
         </td>
-        <td>7680728 (rate 57)</td>
+        <td>8012685 (rate 64)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1989 (26%)<br />Events: 1330 (18%)<br />Mail: 1250 (17%)<br />Spiral
-          Abyss: 1200 (15%)<br />Daily Activity: 960 (12%)<br />Quests: 910
-          (11%)<br />Other: 84 (1%)<br />
+          Adventure: 2077 (27%)<br />Events: 1410 (18%)<br />Spiral Abyss: 1200
+          (16%)<br />Mail: 1250 (15%)<br />Daily Activity: 1020 (12%)<br />Quests:
+          910 (11%)<br />Other: 114 (1%)<br />
         </td>
       </tr>
     </table>
@@ -9008,28 +9008,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_27_11_2023-08_17_09.png" />
+  <img src="images/showcase/genshin_card_27_11_2023-21_46_38.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_27_11_2023-08_17_10.png" />
+  <img src="images/showcase/genshin_card_27_11_2023-21_46_40.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_27_11_2023-08_15_36.png" />
+  <img src="images/showcase/Jingliu_27_11_2023-21_45_49.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_27_11_2023-08_15_37.png" />
+  <img src="images/showcase/Kafka_27_11_2023-21_45_50.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_27_11_2023-08_15_37.png" />
+  <img src="images/showcase/Bronya_27_11_2023-21_45_50.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_27_11_2023-08_15_38.png" />
+  <img src="images/showcase/Seele_27_11_2023-21_45_51.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
