@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 28, 2023 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 29, 2023 08:17 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_28_11_2023-19_33_50.png" />
+    <img src="images/profile/Joy_29_11_2023-08_16_55.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Traveler's Guide
+          Credit
         </td>
       </tr>
     </table>
@@ -56,11 +56,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>334</td>
+        <td>340</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>380</td>
+        <td>401</td>
       </tr>
     </table>
   </div>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>8390 (rate -5)</td>
+        <td>9376 (rate 5)</td>
       </tr>
       <tr>
         <td>
@@ -88,10 +88,31 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1730 (20%)<br />Daily Activity: 1620 (19%)<br />Simulated
-          Universe: 1555 (18%)<br />Mail: 1560 (18%)<br />Adventure Rewards:
-          1080 (12%)<br />Forgotten Hall: 840 (10%)<br />Other: 5 (3%)<br />
+          Event: 1910 (20%)<br />Daily Activity: 1620 (17%)<br />Adventure
+          Rewards: 1525 (16%)<br />Simulated Universe: 1555 (16%)<br />Mail:
+          1560 (16%)<br />Forgotten Hall: 1200 (12%)<br />Other: 6 (3%)<br />
         </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
+    <h2>Memory of Chaos</h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>1007</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>Oath of Eternal Alliance (VI)</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>18</td>
       </tr>
     </table>
   </div>
@@ -1419,7 +1440,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1534,7 +1555,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -2533,7 +2554,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -2553,7 +2574,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -2854,17 +2875,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Hero's Wit
+          Mora
         </td>
       </tr>
     </table>
@@ -2885,7 +2906,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>818</td>
+        <td>819</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -3185,7 +3206,7 @@
       </tr>
       <tr>
         <td>Items</td>
-        <td>1302</td>
+        <td>1303</td>
       </tr>
       <tr>
         <td>Visitors</td>
@@ -3231,16 +3252,16 @@
             height="18"
           />
           Furina (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-            ,
-            height="18"
-          />
-          Yae Miko (13)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
           Raiden Shogun (13)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+            ,
+            height="18"
+          />
+          Yae Miko (13)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
@@ -3316,7 +3337,7 @@
           />
           Primogems earned
         </td>
-        <td>7981 (rate 56)</td>
+        <td>8461 (rate 65)</td>
       </tr>
       <tr>
         <td>
@@ -3326,14 +3347,14 @@
           />
           Mora earned
         </td>
-        <td>8012685 (rate 64)</td>
+        <td>8372627 (rate 71)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 2077 (27%)<br />Events: 1410 (18%)<br />Spiral Abyss: 1200
-          (16%)<br />Mail: 1250 (15%)<br />Daily Activity: 1020 (12%)<br />Quests:
-          910 (11%)<br />Other: 114 (1%)<br />
+          Adventure: 2077 (25%)<br />Events: 1830 (22%)<br />Spiral Abyss: 1200
+          (15%)<br />Mail: 1250 (15%)<br />Daily Activity: 1080 (12%)<br />Quests:
+          910 (10%)<br />Other: 114 (1%)<br />
         </td>
       </tr>
     </table>
@@ -9008,28 +9029,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_28_11_2023-19_34_10.png" />
+  <img src="images/showcase/genshin_card_29_11_2023-08_17_21.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_28_11_2023-19_34_11.png" />
+  <img src="images/showcase/genshin_card_29_11_2023-08_17_22.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_28_11_2023-19_33_28.png" />
+  <img src="images/showcase/Jingliu_29_11_2023-08_16_33.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_28_11_2023-19_33_28.png" />
+  <img src="images/showcase/Kafka_29_11_2023-08_16_34.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_28_11_2023-19_33_29.png" />
+  <img src="images/showcase/Bronya_29_11_2023-08_16_34.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_28_11_2023-19_33_29.png" />
+  <img src="images/showcase/Seele_29_11_2023-08_16_34.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
