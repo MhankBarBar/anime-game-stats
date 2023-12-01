@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 01, 2023 08:23 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 01, 2023 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_01_12_2023-08_22_24.png" />
+    <img src="images/profile/Joy_01_12_2023-19_35_15.png" />
   </div>
   <div align="center">
     <h2>
@@ -1235,7 +1235,7 @@
       <table>
         <tr>
           <th><h3>Tingyun</h3></th>
-          <th><h3>Dance! Dance! Dance!</h3></th>
+          <th><h3>Memories of the Past</h3></th>
         </tr>
         <tr>
           <td>
@@ -1248,7 +1248,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d3d80752da78d703a3b33d59d799b106.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/6513e5bec478161a00936abbbd96cd72.png"
               />
             </p>
           </td>
@@ -1281,21 +1281,21 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7c0700a7b90479b35ba01ed0c84c4a91.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/bb67c7f0ec8e37999917a04850a4d411.png"
                     ,
                     height="18"
                   />
-                  Band's Polarized Sunglasses<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/ac27e160ffc425007d43c84137b665d1.png"
+                  Wastelander's Breathing Mask<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fa5003be5ae077a1acaeb4fea65c321a.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/96fd3f9c8a417b34ba118e58593e10d5.png"
+                  Band's Touring Bracelet<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/e3f9bc6d24e9e68894ee103093b7fcd3.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Fireproof Apron<br /><img
+                  Musketeer's Wind-Hunting Shawl<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7bed76a1a6a573aaeb8322d71eb32e36.png"
                     ,
                     height="18"
@@ -1325,7 +1325,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Dance! Dance! Dance!</td>
+                <td>Memories of the Past</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1333,7 +1333,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -1836,21 +1836,21 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/bb67c7f0ec8e37999917a04850a4d411.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7c0700a7b90479b35ba01ed0c84c4a91.png"
                     ,
                     height="18"
                   />
-                  Wastelander's Breathing Mask<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fa5003be5ae077a1acaeb4fea65c321a.png"
+                  Band's Polarized Sunglasses<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/ac27e160ffc425007d43c84137b665d1.png"
                     ,
                     height="18"
                   />
-                  Band's Touring Bracelet<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/e3f9bc6d24e9e68894ee103093b7fcd3.png"
+                  Musketeer's Coarse Leather Gloves<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/96fd3f9c8a417b34ba118e58593e10d5.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wind-Hunting Shawl<br /><img
+                  Firesmith's Fireproof Apron<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7bed76a1a6a573aaeb8322d71eb32e36.png"
                     ,
                     height="18"
@@ -2012,7 +2012,7 @@
       <table>
         <tr>
           <th><h3>Asta</h3></th>
-          <th><h3>Memories of the Past</h3></th>
+          <th><h3>Dance! Dance! Dance!</h3></th>
         </tr>
         <tr>
           <td>
@@ -2025,7 +2025,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/6513e5bec478161a00936abbbd96cd72.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d3d80752da78d703a3b33d59d799b106.png"
               />
             </p>
           </td>
@@ -2102,15 +2102,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Memories of the Past</td>
+                <td>Dance! Dance! Dance!</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -3247,6 +3247,11 @@
         <td>Most Played Characters</td>
         <td>
           <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+            ,
+            height="18"
+          />
+          Furina (13)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
@@ -3257,16 +3262,11 @@
             height="18"
           />
           Raiden Shogun (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Furina (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (10)<br />
+          Yelan (10)<br />
         </td>
       </tr>
       <tr>
@@ -9029,28 +9029,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_01_12_2023-08_22_42.png" />
+  <img src="images/showcase/genshin_card_01_12_2023-19_34_28.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_01_12_2023-08_22_43.png" />
+  <img src="images/showcase/genshin_card_01_12_2023-19_34_29.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_01_12_2023-08_22_03.png" />
+  <img src="images/showcase/Jingliu_01_12_2023-19_35_01.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_01_12_2023-08_22_03.png" />
+  <img src="images/showcase/Kafka_01_12_2023-19_35_02.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_01_12_2023-08_22_04.png" />
+  <img src="images/showcase/Bronya_01_12_2023-19_35_02.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_01_12_2023-08_22_04.png" />
+  <img src="images/showcase/Seele_01_12_2023-19_35_02.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
