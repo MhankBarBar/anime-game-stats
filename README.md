@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 30, 2023 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 01, 2023 08:23 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_30_11_2023-19_33_34.png" />
+    <img src="images/profile/Joy_01_12_2023-08_22_24.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>210</td>
+        <td>211</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>340</td>
+        <td>341</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>9556 (rate 7)</td>
+        <td>885 (rate -90)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>32 (rate -8)</td>
+        <td>10 (rate -68)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1910 (19%)<br />Daily Activity: 1680 (17%)<br />Simulated
-          Universe: 1555 (16%)<br />Mail: 1560 (16%)<br />Adventure Rewards:
-          1525 (15%)<br />Forgotten Hall: 1320 (13%)<br />Other: 6 (4%)<br />
+          Mail: 800 (90%)<br />Daily Activity: 60 (6%)<br />Adventure Rewards:
+          25 (2%)<br />Other: 0 (2%)<br />Event: 0 (0%)<br />Simulated Universe:
+          0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -948,11 +948,11 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9718496edf29d62b4d2d7e1be89bbe51.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/bb67c7f0ec8e37999917a04850a4d411.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wild Wheat Felt Hat<br /><img
+                  Wastelander's Breathing Mask<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/80501e9207118f4eaecf3856ced40d7b.png"
                     ,
                     height="18"
@@ -963,11 +963,11 @@
                     height="18"
                   />
                   Wastelander's Friar Robe<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7bed76a1a6a573aaeb8322d71eb32e36.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1e466c8b233d7e671fc0b8c442fab3ec.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  Wastelander's Powered Greaves<br />
                 </td>
               </tr>
               <tr>
@@ -1851,11 +1851,11 @@
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1e466c8b233d7e671fc0b8c442fab3ec.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7bed76a1a6a573aaeb8322d71eb32e36.png"
                     ,
                     height="18"
                   />
-                  Wastelander's Powered Greaves<br />
+                  Musketeer's Rivets Riding Boots<br />
                 </td>
               </tr>
               <tr>
@@ -2554,7 +2554,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -2875,17 +2875,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -2906,7 +2906,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>819</td>
+        <td>820</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2938,11 +2938,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2459</td>
+        <td>2460</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1755</td>
+        <td>1757</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -3247,11 +3247,6 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
-            ,
-            height="18"
-          />
-          Furina (13)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
             ,
             height="18"
@@ -3262,11 +3257,16 @@
             height="18"
           />
           Raiden Shogun (13)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
             ,
             height="18"
           />
-          Yelan (10)<br />
+          Furina (13)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (10)<br />
         </td>
       </tr>
       <tr>
@@ -3337,7 +3337,7 @@
           />
           Primogems earned
         </td>
-        <td>8603 (rate 68)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>
@@ -3347,14 +3347,14 @@
           />
           Mora earned
         </td>
-        <td>8519988 (rate 74)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 2089 (25%)<br />Events: 1830 (22%)<br />Mail: 1250 (15%)<br />Daily
-          Activity: 1140 (13%)<br />Spiral Abyss: 1200 (13%)<br />Quests: 980
-          (11%)<br />Other: 114 (1%)<br />
+          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
+          (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+          0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -9029,28 +9029,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_30_11_2023-19_34_04.png" />
+  <img src="images/showcase/genshin_card_01_12_2023-08_22_42.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_30_11_2023-19_34_05.png" />
+  <img src="images/showcase/genshin_card_01_12_2023-08_22_43.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_30_11_2023-19_33_20.png" />
+  <img src="images/showcase/Jingliu_01_12_2023-08_22_03.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_30_11_2023-19_33_21.png" />
+  <img src="images/showcase/Kafka_01_12_2023-08_22_03.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_30_11_2023-19_33_21.png" />
+  <img src="images/showcase/Bronya_01_12_2023-08_22_04.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_30_11_2023-19_33_22.png" />
+  <img src="images/showcase/Seele_01_12_2023-08_22_04.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
