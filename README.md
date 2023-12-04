@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 04, 2023 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 04, 2023 19:36 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -10,10 +10,6 @@
     />
     Honkai Star Rail Details
   </summary>
-  <div align="center">
-    <h2>Profile</h2>
-    <img src="images/profile/Joy_04_12_2023-08_17_15.png" />
-  </div>
   <div align="center">
     <h2>
       <img src="images/icons/hsr_check_in.png" height="20" /> Daily Rewards
@@ -56,7 +52,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>341</td>
+        <td>343</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1255 (rate -86)</td>
+        <td>1780 (rate -81)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +79,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>11 (rate -65)</td>
+        <td>12 (rate -62)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 800 (63%)<br />Event: 240 (19%)<br />Daily Activity: 180
-          (14%)<br />Adventure Rewards: 35 (2%)<br />Other: 0 (2%)<br />Simulated
-          Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
+          Mail: 800 (44%)<br />Event: 310 (17%)<br />Daily Activity: 240
+          (13%)<br />Simulated Universe: 245 (13%)<br />Adventure Rewards: 185
+          (10%)<br />Other: 0 (3%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -1281,21 +1277,21 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/bb67c7f0ec8e37999917a04850a4d411.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9718496edf29d62b4d2d7e1be89bbe51.png"
                     ,
                     height="18"
                   />
-                  Wastelander's Breathing Mask<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fa5003be5ae077a1acaeb4fea65c321a.png"
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/ac27e160ffc425007d43c84137b665d1.png"
                     ,
                     height="18"
                   />
-                  Band's Touring Bracelet<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/e3f9bc6d24e9e68894ee103093b7fcd3.png"
+                  Musketeer's Coarse Leather Gloves<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/96fd3f9c8a417b34ba118e58593e10d5.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wind-Hunting Shawl<br /><img
+                  Firesmith's Fireproof Apron<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7bed76a1a6a573aaeb8322d71eb32e36.png"
                     ,
                     height="18"
@@ -1836,21 +1832,21 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9718496edf29d62b4d2d7e1be89bbe51.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/bb67c7f0ec8e37999917a04850a4d411.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/ac27e160ffc425007d43c84137b665d1.png"
+                  Wastelander's Breathing Mask<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fa5003be5ae077a1acaeb4fea65c321a.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/96fd3f9c8a417b34ba118e58593e10d5.png"
+                  Band's Touring Bracelet<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/e3f9bc6d24e9e68894ee103093b7fcd3.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Fireproof Apron<br /><img
+                  Musketeer's Wind-Hunting Shawl<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7bed76a1a6a573aaeb8322d71eb32e36.png"
                     ,
                     height="18"
@@ -2902,11 +2898,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>910</td>
+        <td>913</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>821</td>
+        <td>822</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2938,15 +2934,15 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2460</td>
+        <td>2466</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1757</td>
+        <td>1765</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>529</td>
+        <td>531</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
@@ -2954,7 +2950,7 @@
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>205</td>
+        <td>207</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -3063,7 +3059,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/77/" width="80" />
+                <img src="https://progress-bar.dev/78/" width="80" />
               </td>
             </tr>
             <tr>
@@ -9029,28 +9025,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_04_12_2023-08_16_17.png" />
+  <img src="images/showcase/genshin_card_04_12_2023-19_35_56.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_04_12_2023-08_16_18.png" />
+  <img src="images/showcase/genshin_card_04_12_2023-19_35_57.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_04_12_2023-08_16_56.png" />
+  <img src="images/showcase/Jingliu_04_12_2023-19_33_17.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_04_12_2023-08_16_57.png" />
+  <img src="images/showcase/Kafka_04_12_2023-19_33_18.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_04_12_2023-08_16_57.png" />
+  <img src="images/showcase/Bronya_04_12_2023-19_33_18.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_04_12_2023-08_16_58.png" />
+  <img src="images/showcase/Seele_04_12_2023-19_33_19.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
