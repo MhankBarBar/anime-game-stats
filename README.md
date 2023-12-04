@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 04, 2023 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 05, 2023 05:08 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -11,23 +11,27 @@
     Honkai Star Rail Details
   </summary>
   <div align="center">
+    <h2>Profile</h2>
+    <img src="images/profile/Joy_05_12_2023-05_06_57.png" />
+  </div>
+  <div align="center">
     <h2>
       <img src="images/icons/hsr_check_in.png" height="20" /> Daily Rewards
     </h2>
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Canned Soda
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -44,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>214</td>
+        <td>215</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -69,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1780 (rate -81)</td>
+        <td>2320 (rate -75)</td>
       </tr>
       <tr>
         <td>
@@ -84,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 800 (44%)<br />Event: 310 (17%)<br />Daily Activity: 240
-          (13%)<br />Simulated Universe: 245 (13%)<br />Adventure Rewards: 185
-          (10%)<br />Other: 0 (3%)<br />Forgotten Hall: 0 (0%)<br />
+          Mail: 800 (34%)<br />Adventure Rewards: 535 (23%)<br />Event: 380
+          (16%)<br />Simulated Universe: 305 (13%)<br />Daily Activity: 300
+          (12%)<br />Other: 0 (2%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -2871,17 +2875,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
             height="20"
           />
-          Primogem
+          Sweet Madame
         </td>
       </tr>
     </table>
@@ -3333,7 +3337,7 @@
           />
           Primogems earned
         </td>
-        <td>723 (rate -91)</td>
+        <td>1151 (rate -86)</td>
       </tr>
       <tr>
         <td>
@@ -3343,13 +3347,13 @@
           />
           Mora earned
         </td>
-        <td>214830 (rate -97)</td>
+        <td>321089 (rate -96)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 400 (56%)<br />Daily Activity: 120 (16%)<br />Adventure: 122
-          (16%)<br />Quests: 80 (11%)<br />Events: 0 (0%)<br />Spiral Abyss: 0
+          Mail: 620 (54%)<br />Adventure: 230 (20%)<br />Daily Activity: 180
+          (15%)<br />Quests: 120 (10%)<br />Events: 0 (0%)<br />Spiral Abyss: 0
           (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
@@ -9022,31 +9026,22 @@
     </details>
   </div>
 </details>
-<h2 align="center">My Genshin Impact Characters Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_04_12_2023-19_35_56.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_04_12_2023-19_35_57.png" />
-</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_04_12_2023-19_33_17.png" />
+  <img src="images/showcase/Jingliu_05_12_2023-05_06_43.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_04_12_2023-19_33_18.png" />
+  <img src="images/showcase/Kafka_05_12_2023-05_06_44.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_04_12_2023-19_33_18.png" />
+  <img src="images/showcase/Bronya_05_12_2023-05_06_44.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_04_12_2023-19_33_19.png" />
+  <img src="images/showcase/Seele_05_12_2023-05_06_45.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
