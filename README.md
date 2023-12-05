@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 05, 2023 05:08 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 05, 2023 18:47 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_05_12_2023-05_06_57.png" />
+    <img src="images/profile/Joy_05_12_2023-18_46_07.png" />
   </div>
   <div align="center">
     <h2>
@@ -52,7 +52,7 @@
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>2320 (rate -75)</td>
+        <td>2510 (rate -73)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>12 (rate -62)</td>
+        <td>15 (rate -53)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 800 (34%)<br />Adventure Rewards: 535 (23%)<br />Event: 380
-          (16%)<br />Simulated Universe: 305 (13%)<br />Daily Activity: 300
-          (12%)<br />Other: 0 (2%)<br />Forgotten Hall: 0 (0%)<br />
+          Mail: 820 (32%)<br />Adventure Rewards: 675 (26%)<br />Event: 380
+          (15%)<br />Simulated Universe: 335 (13%)<br />Daily Activity: 300
+          (11%)<br />Other: 0 (3%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -130,7 +130,7 @@
       <table>
         <tr>
           <th><h3>Jingliu</h3></th>
-          <th><h3>Under the Blue Sky</h3></th>
+          <th><h3>On the Fall of an Aeon</h3></th>
         </tr>
         <tr>
           <td>
@@ -143,7 +143,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/db30f625f36a97309d02da8c5d8bab2f.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d91235074b0c4587ba40ceb0c5d58955.png"
               />
             </p>
           </td>
@@ -220,15 +220,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Under the Blue Sky</td>
+                <td>On the Fall of an Aeon</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -897,12 +897,123 @@
       </table>
     </details>
     <details>
+      <summary><b>Huohuo </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Huohuo</h3></th>
+          <th><h3>Post-Op Conversation</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/ff5efcd02ca921cff5b836bf5d183292.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/f7cdb70cf3fd79a3e4b029543014f5a3.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/8250821e040a0b4216d069934078eaa0.png"
+                    ,
+                    height="18"
+                  />
+                  Passerby's Rejuvenated Wooden Hairstick<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/80b3b07c1526ac1008beda61ada3d07f.png"
+                    ,
+                    height="18"
+                  />
+                  Passerby's Roaming Dragon Bracer<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/68474d3dc31895a2e5b53392eab722f1.png"
+                    ,
+                    height="18"
+                  />
+                  Messenger's Secret Satchel<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d7b9bbe4cb041bd9ad1dd49aeeb168d4.png"
+                    ,
+                    height="18"
+                  />
+                  Messenger's Par-kool Sneakers<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a7e231caf3a64263b24fba587c77b51e.png"
+                    ,
+                    height="18"
+                  />
+                  The Xianzhou Luofu's Celestial Ark<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1918ecd442d70e8e351f8db432483849.png"
+                    ,
+                    height="18"
+                  />
+                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Post-Op Conversation</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>3</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Dan Heng • Imbibitor Lunae </b></summary>
       <br />
       <table>
         <tr>
           <th><h3>Dan Heng • Imbibitor Lunae</h3></th>
-          <th><h3>On the Fall of an Aeon</h3></th>
+          <th><h3>Under the Blue Sky</h3></th>
         </tr>
         <tr>
           <td>
@@ -915,7 +1026,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d91235074b0c4587ba40ceb0c5d58955.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/db30f625f36a97309d02da8c5d8bab2f.png"
               />
             </p>
           </td>
@@ -992,15 +1103,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>On the Fall of an Aeon</td>
+                <td>Under the Blue Sky</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -1346,7 +1457,7 @@
       <table>
         <tr>
           <th><h3>Lynx</h3></th>
-          <th><h3>Post-Op Conversation</h3></th>
+          <th><h3>Shared Feeling</h3></th>
         </tr>
         <tr>
           <td>
@@ -1359,7 +1470,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/f7cdb70cf3fd79a3e4b029543014f5a3.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/65f5d61bb9857fe13a0beb8eb98ac8c1.png"
               />
             </p>
           </td>
@@ -1436,15 +1547,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Post-Op Conversation</td>
+                <td>Shared Feeling</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>3</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -1457,7 +1568,7 @@
       <table>
         <tr>
           <th><h3>Natasha</h3></th>
-          <th><h3>Shared Feeling</h3></th>
+          <th><h3></h3></th>
         </tr>
         <tr>
           <td>
@@ -1468,11 +1579,7 @@
             </p>
           </td>
           <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/65f5d61bb9857fe13a0beb8eb98ac8c1.png"
-              />
-            </p>
+            <p align="center"><img src="" /></p>
           </td>
         </tr>
         <tr>
@@ -1547,15 +1654,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Shared Feeling</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -2902,11 +3009,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>913</td>
+        <td>915</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>822</td>
+        <td>823</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2938,23 +3045,23 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2466</td>
+        <td>2470</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1765</td>
+        <td>1774</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>531</td>
+        <td>532</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>206</td>
+        <td>207</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>207</td>
+        <td>210</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -9029,19 +9136,19 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_05_12_2023-05_06_43.png" />
+  <img src="images/showcase/Jingliu_05_12_2023-18_45_53.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_05_12_2023-05_06_44.png" />
+  <img src="images/showcase/Kafka_05_12_2023-18_45_54.png" />
 </details>
 <details align="center">
-  <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_05_12_2023-05_06_44.png" />
+  <summary>Huohuo</summary>
+  <img src="images/showcase/Huohuo_05_12_2023-18_45_54.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_05_12_2023-05_06_45.png" />
+  <img src="images/showcase/Seele_05_12_2023-18_45_55.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
