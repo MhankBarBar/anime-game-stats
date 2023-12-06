@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 05, 2023 18:47 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 06, 2023 08:17 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_05_12_2023-18_46_07.png" />
+    <img src="images/profile/Joy_06_12_2023-08_16_41.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>215</td>
+        <td>216</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1991,7 +1991,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2982,17 +2982,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Sweet Madame
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -3444,7 +3444,7 @@
           />
           Primogems earned
         </td>
-        <td>1151 (rate -86)</td>
+        <td>1413 (rate -83)</td>
       </tr>
       <tr>
         <td>
@@ -3454,13 +3454,13 @@
           />
           Mora earned
         </td>
-        <td>321089 (rate -96)</td>
+        <td>378998 (rate -95)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 620 (54%)<br />Adventure: 230 (20%)<br />Daily Activity: 180
-          (15%)<br />Quests: 120 (10%)<br />Events: 0 (0%)<br />Spiral Abyss: 0
+          Mail: 820 (59%)<br />Daily Activity: 240 (16%)<br />Adventure: 232
+          (16%)<br />Quests: 120 (8%)<br />Events: 0 (0%)<br />Spiral Abyss: 0
           (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
@@ -4090,31 +4090,31 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />4 x Crimson Witch of Flames<br />1 x Heart of
+                  Artifacts<br />4 x Marechaussee Hunter<br />1 x Heart of
                   Depth<br />
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/160bccec5e332d62bc87989850f320ba.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9babba990b561f2b031d5db4145c19a9.png"
                     height="18"
                   />
-                  Witch's Flower of Blaze<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3805c4831e52204b6842916e5baa3406.png"
+                  Hunter's Brooch<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/819b944729f2d5702f46d1403edba587.png"
                     height="18"
                   />
-                  Witch's Ever-Burning Plume<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/ed7273939ab0767a8d2f7951fb6da221.png"
+                  Masterpiece's Overture<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/de01dcbf2911968336afbbb61b455831.png"
                     height="18"
                   />
-                  Witch's End Time<br /><img
+                  Moment of Judgment<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/c0d4342217a7f2a7fd4e5368babc3c79.png"
                     height="18"
                   />
                   Goblet of Thundering Deep<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/df74dfb779602a5a9c34c1549baccf3e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/1f3958293c20e8a29f51b9f3ed259e12.png"
                     height="18"
                   />
-                  Witch's Scorching Hat<br />
+                  Veteran's Visage<br />
                 </td>
               </tr>
               <tr>
@@ -5201,8 +5201,26 @@
                 <td>1</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
+                <td>Artifacts<br />4 x Crimson Witch of Flames<br /></td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/160bccec5e332d62bc87989850f320ba.png"
+                    height="18"
+                  />
+                  Witch's Flower of Blaze<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3805c4831e52204b6842916e5baa3406.png"
+                    height="18"
+                  />
+                  Witch's Ever-Burning Plume<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/ed7273939ab0767a8d2f7951fb6da221.png"
+                    height="18"
+                  />
+                  Witch's End Time<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/df74dfb779602a5a9c34c1549baccf3e.png"
+                    height="18"
+                  />
+                  Witch's Scorching Hat<br />
+                </td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -9133,22 +9151,31 @@
     </details>
   </div>
 </details>
+<h2 align="center">My Genshin Impact Characters Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="images/showcase/genshin_card_06_12_2023-08_17_01.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="images/showcase/genshin_card_06_12_2023-08_17_02.png" />
+</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_05_12_2023-18_45_53.png" />
+  <img src="images/showcase/Jingliu_06_12_2023-08_16_28.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_05_12_2023-18_45_54.png" />
+  <img src="images/showcase/Kafka_06_12_2023-08_16_28.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_05_12_2023-18_45_54.png" />
+  <img src="images/showcase/Huohuo_06_12_2023-08_16_29.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_05_12_2023-18_45_55.png" />
+  <img src="images/showcase/Seele_06_12_2023-08_16_29.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
