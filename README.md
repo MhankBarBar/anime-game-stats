@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 06, 2023 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 06, 2023 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_06_12_2023-08_16_41.png" />
+    <img src="images/profile/Joy_06_12_2023-19_35_00.png" />
   </div>
   <div align="center">
     <h2>
@@ -52,7 +52,7 @@
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>2510 (rate -73)</td>
+        <td>3215 (rate -66)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>15 (rate -53)</td>
+        <td>21 (rate -34)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 820 (32%)<br />Adventure Rewards: 675 (26%)<br />Event: 380
-          (15%)<br />Simulated Universe: 335 (13%)<br />Daily Activity: 300
-          (11%)<br />Other: 0 (3%)<br />Forgotten Hall: 0 (0%)<br />
+          Adventure Rewards: 930 (28%)<br />Mail: 870 (27%)<br />Event: 520
+          (16%)<br />Simulated Universe: 475 (14%)<br />Daily Activity: 360
+          (11%)<br />Other: 0 (3%)<br />Forgotten Hall: 60 (1%)<br />
         </td>
       </tr>
     </table>
@@ -104,15 +104,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>Oath of Eternal Alliance (VIII)</td>
+        <td>Oath of Eternal Alliance (X)</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>12</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>24</td>
+        <td>29</td>
       </tr>
     </table>
   </div>
@@ -136,14 +136,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/4dafdce91ff047e7317f0b06208eac25.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c4722e396ecd9752b391bcab55066e8f.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d91235074b0c4587ba40ceb0c5d58955.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1ebd6d11abbe0cf309f09a61b2609557.png"
               />
             </p>
           </td>
@@ -176,22 +176,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/098281e7cb44418854c2eb4c40b53c84.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/17f3ddd197210c031b1436f383f68a03.png"
                     ,
                     height="18"
                   />
                   Genius's Ultraremote Sensing Visor<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/b0d0a62ff41a9d1e232f9fd4cb56794a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/12aaa1b118b90477c64db235cd4aaf55.png"
                     ,
                     height="18"
                   />
                   Genius's Frequency Catcher<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2d4ce662cd88706544b0e7efec6f9404.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a2ead7c4012dd4fe219de78ff6228793.png"
                     ,
                     height="18"
                   />
                   Genius's Metafield Suit<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/266bdb4c636482fa34a0d73e8fddae51.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7e7a3734a7ae18bb61684ff8fff2f733.png"
                     ,
                     height="18"
                   />
@@ -202,12 +202,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/80dedeca3a4143bd66515276490e76a8.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9a11e5eb3a682c3d60f25cf6c082b04c.png"
                     ,
                     height="18"
                   />
                   Taikiyan Laser Stadium<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2833eaf16ff70e81039b6771b7e39f59.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/fb57a76bb6caeadb5189215ad39ddb08.png"
                     ,
                     height="18"
                   />
@@ -247,14 +247,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/93be0eff88336632aed6d2061b57ddf8.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/663b5ab03fe604a88720572687d50e11.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/58e5a2d6081a970bd953282b0e1cfc4f.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a26d91b32c770667fd3aa3bac688368d.png"
               />
             </p>
           </td>
@@ -287,22 +287,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7c0700a7b90479b35ba01ed0c84c4a91.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b57963c37716cacb7bab5987c77607e6.png"
                     ,
                     height="18"
                   />
                   Band's Polarized Sunglasses<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fa5003be5ae077a1acaeb4fea65c321a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1dcd2c18e0258d6585675c2e925c9fe2.png"
                     ,
                     height="18"
                   />
                   Band's Touring Bracelet<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/335e95682fd11d66bc4c90d9de935673.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/cefe52748b8db3bbd5374c31f8491221.png"
                     ,
                     height="18"
                   />
                   Band's Leather Jacket With Studs<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/159a5af80fb3718a4f52cc33e3e5a3fd.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/188ef41ef6919e15f515dcdf02565652.png"
                     ,
                     height="18"
                   />
@@ -313,12 +313,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/810e750e59053a626f4947653b0be62a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4317618e99ae9021a016cea37b0e8e06.png"
                     ,
                     height="18"
                   />
                   Herta's Space Station<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7881ed79ff4505b51b2d51eb3c56eff0.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5c0762ef9626da1709042b172972beb4.png"
                     ,
                     height="18"
                   />
@@ -358,14 +358,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1f1478777f0a1f7e4d91dfd958975b56.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9ba46547b08eb48c0005690c0bff0dd4.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/42f9ad41615c432f59b6c5cbcd80eb55.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4d951585dd44b745d9a590a7a4de1661.png"
               />
             </p>
           </td>
@@ -398,22 +398,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/098281e7cb44418854c2eb4c40b53c84.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/17f3ddd197210c031b1436f383f68a03.png"
                     ,
                     height="18"
                   />
                   Genius's Ultraremote Sensing Visor<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/b0d0a62ff41a9d1e232f9fd4cb56794a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/12aaa1b118b90477c64db235cd4aaf55.png"
                     ,
                     height="18"
                   />
                   Genius's Frequency Catcher<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2d4ce662cd88706544b0e7efec6f9404.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a2ead7c4012dd4fe219de78ff6228793.png"
                     ,
                     height="18"
                   />
                   Genius's Metafield Suit<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/266bdb4c636482fa34a0d73e8fddae51.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7e7a3734a7ae18bb61684ff8fff2f733.png"
                     ,
                     height="18"
                   />
@@ -424,12 +424,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9e1feb64c22f676f5bdad711d06a3532.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/ef415c10f46d40dbbd2e390cccca6ffa.png"
                     ,
                     height="18"
                   />
                   Salsotto's Moving City<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/0ae4ddea2d4419523cc4ab37643f49bc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bef9c98afd1c705f70a595246a5acdec.png"
                     ,
                     height="18"
                   />
@@ -469,14 +469,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/11f1ddd0ecd21b39c68cf8e31e805084.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5d7fbc30d3755f7203a4c61a54e02841.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/84e73d9e718bca40bb8b06bf4fe612ed.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/87613999d26210330b61bb2d1ae40ffd.png"
               />
             </p>
           </td>
@@ -509,22 +509,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/35b6ccc6fe058957b62274dbf197e44c.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c13df3e5c2062a7857e5bc96b4db2451.png"
                     ,
                     height="18"
                   />
                   Messenger's Holovisor<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/80501e9207118f4eaecf3856ced40d7b.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/86d0fa25a4d3e0e5f21620acd3d2fe8e.png"
                     ,
                     height="18"
                   />
                   Wastelander's Desert Terminal<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2d4ce662cd88706544b0e7efec6f9404.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a2ead7c4012dd4fe219de78ff6228793.png"
                     ,
                     height="18"
                   />
                   Genius's Metafield Suit<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/3bb0956fa4c7bec0a1b6b6af7e49fcec.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/ae85225e9fdb3e3c5e3d1575e053d9fc.png"
                     ,
                     height="18"
                   />
@@ -535,12 +535,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/97f34963dd65ef80981b2ebfdd7d62d2.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/699f0eaa599b2fd03139bf33f3f65022.png"
                     ,
                     height="18"
                   />
                   Insumousu's Whalefall Ship<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/87b4ee293e19f150b11659f18d420e41.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7c6f10b0f87ec9e56c48064ab6180fad.png"
                     ,
                     height="18"
                   />
@@ -580,14 +580,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/88249cd5297642d793a008db598b26c1.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a5e60f9cd52664007c4395470cd46f21.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d83b02eae0e15e1bd91fea437f6421d4.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/141e218c55b98c7735e57792fff7c46a.png"
               />
             </p>
           </td>
@@ -620,22 +620,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/0eebc03e354c0f10d5b3dd1970ace3ae.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5fbd634a8a2b1231bc819442c3d2e1a7.png"
                     ,
                     height="18"
                   />
                   Champion's Headgear<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/c8357dc8d0d55c624bc877b2e7fa2467.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/52dea4add8db4ed3f6c4e975fc0fd0d6.png"
                     ,
                     height="18"
                   />
                   Champion's Heavy Gloves<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/f766b709b04aef955467d326199d0d89.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/fe019a5361f8697f1324bc0b57707800.png"
                     ,
                     height="18"
                   />
                   Champion's Chest Guard<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/713dfa183237b90500cc563d582e40b5.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/77e6189d8f6475e341c07bb5fdcf9446.png"
                     ,
                     height="18"
                   />
@@ -646,12 +646,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9e1feb64c22f676f5bdad711d06a3532.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/ef415c10f46d40dbbd2e390cccca6ffa.png"
                     ,
                     height="18"
                   />
                   Salsotto's Moving City<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/0ae4ddea2d4419523cc4ab37643f49bc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bef9c98afd1c705f70a595246a5acdec.png"
                     ,
                     height="18"
                   />
@@ -668,7 +668,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -691,14 +691,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2fb363bd83b9bc0ad3cb305fbdb277ff.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bc03c0468b2443d520594620e063ab6a.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/5ec20ca85c8c1009603fce27e9ccac21.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/95932dd0e39fdd34a661d5e5fff20808.png"
               />
             </p>
           </td>
@@ -731,17 +731,17 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/91bf8854e3eb36a72dc232ab2521a909.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/46868128c9acbab761e7f3076516b028.png"
                     ,
                     height="18"
                   />
                   Firesmith's Ring of Flame-Mastery<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/96fd3f9c8a417b34ba118e58593e10d5.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9935f078824319cc109cba1d701d6257.png"
                     ,
                     height="18"
                   />
                   Firesmith's Fireproof Apron<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a0316f686dbb98d8cfea269f94e82acc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/e7dc90d564081633829b680bf105067e.png"
                     ,
                     height="18"
                   />
@@ -752,12 +752,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/810e750e59053a626f4947653b0be62a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4317618e99ae9021a016cea37b0e8e06.png"
                     ,
                     height="18"
                   />
                   Herta's Space Station<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7881ed79ff4505b51b2d51eb3c56eff0.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5c0762ef9626da1709042b172972beb4.png"
                     ,
                     height="18"
                   />
@@ -797,14 +797,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/3ff84d2b9888a2e97dd928c0aae8af34.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/3354b130b70d301150e742cd478a2dcb.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a3f69223523c06d6788ee0180f749fde.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/eeb03e54fcfa1df1e6fbd0c1329c2411.png"
               />
             </p>
           </td>
@@ -837,22 +837,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/c95665f24947610ff7e171c5e49b9133.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/e3a848de76eb3c98008386bfff14e4de.png"
                     ,
                     height="18"
                   />
                   Knight's Forgiving Casque<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/4391fe11f1d329807d8583d1dadc4695.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/025fb53d2c7e9630777314fb4fa86609.png"
                     ,
                     height="18"
                   />
                   Knight's Silent Oath Ring<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/3eb33b058795f13457cfced890997391.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c0474cd023fa5e32dd8fc4dc8e68ec95.png"
                     ,
                     height="18"
                   />
                   Knight's Solemn Breastplate<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/3e5882ae04b9fc36da043b141006244e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/e8ea15b692d947d7cb3f367403cb4ff3.png"
                     ,
                     height="18"
                   />
@@ -863,12 +863,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a7e231caf3a64263b24fba587c77b51e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/08205724ffdc2b44936edbb42fbc716e.png"
                     ,
                     height="18"
                   />
                   The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1918ecd442d70e8e351f8db432483849.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2eb40e78f327d056056c8c43017fe635.png"
                     ,
                     height="18"
                   />
@@ -908,14 +908,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/ff5efcd02ca921cff5b836bf5d183292.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/6a27c798a96b177dba6e9f8d7c40dfc7.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/f7cdb70cf3fd79a3e4b029543014f5a3.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/88e2d7b71c9b3bb62dbb93ab7d557987.png"
               />
             </p>
           </td>
@@ -948,22 +948,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/8250821e040a0b4216d069934078eaa0.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7025e58900d712fcc66ad77a0f04246e.png"
                     ,
                     height="18"
                   />
                   Passerby's Rejuvenated Wooden Hairstick<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/80b3b07c1526ac1008beda61ada3d07f.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/3978ead15e64a318a81a80e5d63fd690.png"
                     ,
                     height="18"
                   />
                   Passerby's Roaming Dragon Bracer<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/68474d3dc31895a2e5b53392eab722f1.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/618a723e3683094582c632af048ca01f.png"
                     ,
                     height="18"
                   />
                   Messenger's Secret Satchel<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d7b9bbe4cb041bd9ad1dd49aeeb168d4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b50816d37ff8d04adf01e94e801b50f9.png"
                     ,
                     height="18"
                   />
@@ -974,12 +974,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a7e231caf3a64263b24fba587c77b51e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/08205724ffdc2b44936edbb42fbc716e.png"
                     ,
                     height="18"
                   />
                   The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1918ecd442d70e8e351f8db432483849.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2eb40e78f327d056056c8c43017fe635.png"
                     ,
                     height="18"
                   />
@@ -1019,14 +1019,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/53938668f250d0a48365aee11bf4d7fe.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/474478475b1f08ef190c8077d37baf41.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/db30f625f36a97309d02da8c5d8bab2f.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4e128406e334c601e0f2bb255bf9d56e.png"
               />
             </p>
           </td>
@@ -1059,22 +1059,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/bb67c7f0ec8e37999917a04850a4d411.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/0d12168c904da41f52584aa9d102d727.png"
                     ,
                     height="18"
                   />
                   Wastelander's Breathing Mask<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/80501e9207118f4eaecf3856ced40d7b.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/86d0fa25a4d3e0e5f21620acd3d2fe8e.png"
                     ,
                     height="18"
                   />
                   Wastelander's Desert Terminal<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/0cdc973e2c05910f7e83f82d3b9a9959.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/fd735d9a66804127ed58e177de635dc7.png"
                     ,
                     height="18"
                   />
                   Wastelander's Friar Robe<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1e466c8b233d7e671fc0b8c442fab3ec.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/3642ff11ddf29e689f59827fab7f9e06.png"
                     ,
                     height="18"
                   />
@@ -1085,12 +1085,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/80dedeca3a4143bd66515276490e76a8.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9a11e5eb3a682c3d60f25cf6c082b04c.png"
                     ,
                     height="18"
                   />
                   Taikiyan Laser Stadium<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2833eaf16ff70e81039b6771b7e39f59.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/fb57a76bb6caeadb5189215ad39ddb08.png"
                     ,
                     height="18"
                   />
@@ -1130,14 +1130,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1fe5ed1ba407e3d13516d420451c1419.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5fb24bd7fe2dc04a74eeae3b44124676.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/2393fb974f27a8bf0c60be2bc0b452ac.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/479d61edf684570e50a1429548bad7d7.png"
               />
             </p>
           </td>
@@ -1170,22 +1170,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7c0700a7b90479b35ba01ed0c84c4a91.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b57963c37716cacb7bab5987c77607e6.png"
                     ,
                     height="18"
                   />
                   Band's Polarized Sunglasses<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fa5003be5ae077a1acaeb4fea65c321a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1dcd2c18e0258d6585675c2e925c9fe2.png"
                     ,
                     height="18"
                   />
                   Band's Touring Bracelet<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/335e95682fd11d66bc4c90d9de935673.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/cefe52748b8db3bbd5374c31f8491221.png"
                     ,
                     height="18"
                   />
                   Band's Leather Jacket With Studs<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/159a5af80fb3718a4f52cc33e3e5a3fd.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/188ef41ef6919e15f515dcdf02565652.png"
                     ,
                     height="18"
                   />
@@ -1196,12 +1196,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9e1feb64c22f676f5bdad711d06a3532.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/ef415c10f46d40dbbd2e390cccca6ffa.png"
                     ,
                     height="18"
                   />
                   Salsotto's Moving City<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/0ae4ddea2d4419523cc4ab37643f49bc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bef9c98afd1c705f70a595246a5acdec.png"
                     ,
                     height="18"
                   />
@@ -1241,14 +1241,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a1b1fb803b67d9349514d823545bdde2.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1a31b9b1d02a41ce0e337ebda87c5198.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/c8d8b3a2009a3ee00d905d6b231a364a.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2f5ad266319b938981b620940550ce7c.png"
               />
             </p>
           </td>
@@ -1281,22 +1281,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/c95665f24947610ff7e171c5e49b9133.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/e3a848de76eb3c98008386bfff14e4de.png"
                     ,
                     height="18"
                   />
                   Knight's Forgiving Casque<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/4391fe11f1d329807d8583d1dadc4695.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/025fb53d2c7e9630777314fb4fa86609.png"
                     ,
                     height="18"
                   />
                   Knight's Silent Oath Ring<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/3eb33b058795f13457cfced890997391.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c0474cd023fa5e32dd8fc4dc8e68ec95.png"
                     ,
                     height="18"
                   />
                   Knight's Solemn Breastplate<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/3e5882ae04b9fc36da043b141006244e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/e8ea15b692d947d7cb3f367403cb4ff3.png"
                     ,
                     height="18"
                   />
@@ -1307,12 +1307,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/97f34963dd65ef80981b2ebfdd7d62d2.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/699f0eaa599b2fd03139bf33f3f65022.png"
                     ,
                     height="18"
                   />
                   Insumousu's Whalefall Ship<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/87b4ee293e19f150b11659f18d420e41.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7c6f10b0f87ec9e56c48064ab6180fad.png"
                     ,
                     height="18"
                   />
@@ -1352,14 +1352,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/125c652952c75c0d538e0fd5b1b332e8.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/52d5a657c6a1e5044be62e9fda7d7df0.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/6513e5bec478161a00936abbbd96cd72.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bb09e3cf108f57e69b8e7cd4780af204.png"
               />
             </p>
           </td>
@@ -1392,22 +1392,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9718496edf29d62b4d2d7e1be89bbe51.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/d5f3eda9501ae27a4625d185e3a033ca.png"
                     ,
                     height="18"
                   />
                   Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/ac27e160ffc425007d43c84137b665d1.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/aab2b23030f2e6d969aaa1fb4d418f55.png"
                     ,
                     height="18"
                   />
                   Musketeer's Coarse Leather Gloves<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/96fd3f9c8a417b34ba118e58593e10d5.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9935f078824319cc109cba1d701d6257.png"
                     ,
                     height="18"
                   />
                   Firesmith's Fireproof Apron<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7bed76a1a6a573aaeb8322d71eb32e36.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/66fab8de8d203e1c0ac4006acfe4d49d.png"
                     ,
                     height="18"
                   />
@@ -1418,12 +1418,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a7e231caf3a64263b24fba587c77b51e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/08205724ffdc2b44936edbb42fbc716e.png"
                     ,
                     height="18"
                   />
                   The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1918ecd442d70e8e351f8db432483849.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2eb40e78f327d056056c8c43017fe635.png"
                     ,
                     height="18"
                   />
@@ -1463,14 +1463,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/8a2f039fad15e1b501779a4c59b0ea18.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/73fec18efd4608e2915a03ef25e42b42.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/65f5d61bb9857fe13a0beb8eb98ac8c1.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bc41853a536ecfc9944ef3896fe78aea.png"
               />
             </p>
           </td>
@@ -1503,22 +1503,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/35b6ccc6fe058957b62274dbf197e44c.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c13df3e5c2062a7857e5bc96b4db2451.png"
                     ,
                     height="18"
                   />
                   Messenger's Holovisor<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fa72d0a9aaa7243e1e7f13861ef820e4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/223e81cd423960ac015bf81571a726da.png"
                     ,
                     height="18"
                   />
                   Messenger's Transformative Arm<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/68474d3dc31895a2e5b53392eab722f1.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/618a723e3683094582c632af048ca01f.png"
                     ,
                     height="18"
                   />
                   Messenger's Secret Satchel<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d7b9bbe4cb041bd9ad1dd49aeeb168d4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b50816d37ff8d04adf01e94e801b50f9.png"
                     ,
                     height="18"
                   />
@@ -1529,12 +1529,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a7e231caf3a64263b24fba587c77b51e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/08205724ffdc2b44936edbb42fbc716e.png"
                     ,
                     height="18"
                   />
                   The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1918ecd442d70e8e351f8db432483849.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2eb40e78f327d056056c8c43017fe635.png"
                     ,
                     height="18"
                   />
@@ -1574,7 +1574,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/5da7ea1f2d7d00a5a20221d3f4463c57.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/aab24dafddf1927e18124ba9564497c7.png"
               />
             </p>
           </td>
@@ -1610,22 +1610,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/35b6ccc6fe058957b62274dbf197e44c.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c13df3e5c2062a7857e5bc96b4db2451.png"
                     ,
                     height="18"
                   />
                   Messenger's Holovisor<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fa72d0a9aaa7243e1e7f13861ef820e4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/223e81cd423960ac015bf81571a726da.png"
                     ,
                     height="18"
                   />
                   Messenger's Transformative Arm<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/68474d3dc31895a2e5b53392eab722f1.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/618a723e3683094582c632af048ca01f.png"
                     ,
                     height="18"
                   />
                   Messenger's Secret Satchel<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d7b9bbe4cb041bd9ad1dd49aeeb168d4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b50816d37ff8d04adf01e94e801b50f9.png"
                     ,
                     height="18"
                   />
@@ -1636,12 +1636,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a7e231caf3a64263b24fba587c77b51e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/08205724ffdc2b44936edbb42fbc716e.png"
                     ,
                     height="18"
                   />
                   The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1918ecd442d70e8e351f8db432483849.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2eb40e78f327d056056c8c43017fe635.png"
                     ,
                     height="18"
                   />
@@ -1681,14 +1681,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/78e7e46f4bdc6a58fba2726d4fbabc24.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1d834eb40d269db3872aaf7d02254cd8.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a32f613dc85f54c75453ed14f38ba548.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b654a5ea54849c76313c99945bc385f3.png"
               />
             </p>
           </td>
@@ -1721,22 +1721,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/f5cce33487c8073a0a6f0a73d46d510b.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/66e30cfd5fa00a103b2cdee59c1a6d72.png"
                     ,
                     height="18"
                   />
                   Firesmith's Obsidian Goggles<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/91bf8854e3eb36a72dc232ab2521a909.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/46868128c9acbab761e7f3076516b028.png"
                     ,
                     height="18"
                   />
                   Firesmith's Ring of Flame-Mastery<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/e3f9bc6d24e9e68894ee103093b7fcd3.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/103596d3be75173f000fa80b1eaef654.png"
                     ,
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/266bdb4c636482fa34a0d73e8fddae51.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7e7a3734a7ae18bb61684ff8fff2f733.png"
                     ,
                     height="18"
                   />
@@ -1747,12 +1747,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a7e231caf3a64263b24fba587c77b51e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/08205724ffdc2b44936edbb42fbc716e.png"
                     ,
                     height="18"
                   />
                   The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1918ecd442d70e8e351f8db432483849.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2eb40e78f327d056056c8c43017fe635.png"
                     ,
                     height="18"
                   />
@@ -1792,14 +1792,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d4b0b51d3241ce8e7745133ff4b33707.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/34d14ad495bbba9b527d0c1d5470b7e6.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/5697d3ad135dc81215781f0b249e02ac.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/57de641bf50d034f66d8effff21670df.png"
               />
             </p>
           </td>
@@ -1832,22 +1832,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/aed87aa8342ebfd56b32960cee3f8a44.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/be1c8532b7289f34dde2e6b8e4e326cc.png"
                     ,
                     height="18"
                   />
                   Thief's Myriad-Faced Mask<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9e29cc72aa9cd6683e05959b7f46195f.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bd10110ef5e87e0a45d5f1c7a8098f9d.png"
                     ,
                     height="18"
                   />
                   Thief's Gloves With Prints<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/e3f9bc6d24e9e68894ee103093b7fcd3.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/103596d3be75173f000fa80b1eaef654.png"
                     ,
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7bed76a1a6a573aaeb8322d71eb32e36.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/66fab8de8d203e1c0ac4006acfe4d49d.png"
                     ,
                     height="18"
                   />
@@ -1858,12 +1858,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/810e750e59053a626f4947653b0be62a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4317618e99ae9021a016cea37b0e8e06.png"
                     ,
                     height="18"
                   />
                   Herta's Space Station<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/87b4ee293e19f150b11659f18d420e41.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7c6f10b0f87ec9e56c48064ab6180fad.png"
                     ,
                     height="18"
                   />
@@ -1903,14 +1903,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a1b06fa8d41bd509b368348ffb211ef7.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a664196b85a9bfd409f4c93c4ec95cfb.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a9ec87ed9f542e5c9c8c4b887c8e2147.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/514016073b4901c51792646d9fd0b6c0.png"
               />
             </p>
           </td>
@@ -1943,22 +1943,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/bb67c7f0ec8e37999917a04850a4d411.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/0d12168c904da41f52584aa9d102d727.png"
                     ,
                     height="18"
                   />
                   Wastelander's Breathing Mask<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fa5003be5ae077a1acaeb4fea65c321a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1dcd2c18e0258d6585675c2e925c9fe2.png"
                     ,
                     height="18"
                   />
                   Band's Touring Bracelet<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/e3f9bc6d24e9e68894ee103093b7fcd3.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/103596d3be75173f000fa80b1eaef654.png"
                     ,
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7bed76a1a6a573aaeb8322d71eb32e36.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/66fab8de8d203e1c0ac4006acfe4d49d.png"
                     ,
                     height="18"
                   />
@@ -1969,12 +1969,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/97f34963dd65ef80981b2ebfdd7d62d2.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/699f0eaa599b2fd03139bf33f3f65022.png"
                     ,
                     height="18"
                   />
                   Insumousu's Whalefall Ship<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1918ecd442d70e8e351f8db432483849.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/2eb40e78f327d056056c8c43017fe635.png"
                     ,
                     height="18"
                   />
@@ -2014,14 +2014,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/5135d5aad67852c42b8273777e592103.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4466a0ac89556daacf10b2a44b4008d3.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a95fd19a383f0706ec5bf4301d47c940.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/abce5935e2beb58ce91f20a844bd8c32.png"
               />
             </p>
           </td>
@@ -2054,22 +2054,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/67e00e7744abdd545dd554d01cbfec6d.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4f1b7941fa054906c92d9b3bfa3ea88c.png"
                     ,
                     height="18"
                   />
                   Eagle's Beaked Helmet<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/c8cf0cfbc2e797f84182981139ec89fc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/82bfd9130a10716b45fd1afd45850dc4.png"
                     ,
                     height="18"
                   />
                   Eagle's Soaring Ring<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7fb26a844ee216bcfa70ef898005636e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/f92c517cc04fdfbde47c5d1b5980219b.png"
                     ,
                     height="18"
                   />
                   Eagle's Winged Suit Harness<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/b480995ce914761085da50f3dff3fe04.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/d0a56b94006edcce1e9abe1d5310e31c.png"
                     ,
                     height="18"
                   />
@@ -2080,12 +2080,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/97f34963dd65ef80981b2ebfdd7d62d2.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/699f0eaa599b2fd03139bf33f3f65022.png"
                     ,
                     height="18"
                   />
                   Insumousu's Whalefall Ship<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/87b4ee293e19f150b11659f18d420e41.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7c6f10b0f87ec9e56c48064ab6180fad.png"
                     ,
                     height="18"
                   />
@@ -2125,14 +2125,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7031a3f73e000ec2630a3ac1f0496ef6.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5ddbe626b4654b68038b473c4e6ca579.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d3d80752da78d703a3b33d59d799b106.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/876610548565dd2d27184e7b42f73044.png"
               />
             </p>
           </td>
@@ -2165,22 +2165,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9718496edf29d62b4d2d7e1be89bbe51.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/d5f3eda9501ae27a4625d185e3a033ca.png"
                     ,
                     height="18"
                   />
                   Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/911f9344e99104f777e8213531f8468d.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/d46aecb405ff584eeca8d0478ff42765.png"
                     ,
                     height="18"
                   />
                   Hunter's Lizard Gloves<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fe99b5757f23586e65346ebf3c6c808e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7cbf467609fcfed2397a25cd53caeb8c.png"
                     ,
                     height="18"
                   />
                   Thief's Steel Grappling Hook<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7bed76a1a6a573aaeb8322d71eb32e36.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/66fab8de8d203e1c0ac4006acfe4d49d.png"
                     ,
                     height="18"
                   />
@@ -2191,12 +2191,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/810e750e59053a626f4947653b0be62a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4317618e99ae9021a016cea37b0e8e06.png"
                     ,
                     height="18"
                   />
                   Herta's Space Station<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7881ed79ff4505b51b2d51eb3c56eff0.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/5c0762ef9626da1709042b172972beb4.png"
                     ,
                     height="18"
                   />
@@ -2236,14 +2236,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fdb481c8e58f6dc80321e07523117784.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/700776273f6f36e9a5584dc5ff726630.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/17ea90a618c98fd5e77ba7d1e88f9d64.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1a8cd0a6c855c3bc18e96a99959ed085.png"
               />
             </p>
           </td>
@@ -2276,22 +2276,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/c95665f24947610ff7e171c5e49b9133.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/e3a848de76eb3c98008386bfff14e4de.png"
                     ,
                     height="18"
                   />
                   Knight's Forgiving Casque<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/4391fe11f1d329807d8583d1dadc4695.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/025fb53d2c7e9630777314fb4fa86609.png"
                     ,
                     height="18"
                   />
                   Knight's Silent Oath Ring<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/3eb33b058795f13457cfced890997391.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/c0474cd023fa5e32dd8fc4dc8e68ec95.png"
                     ,
                     height="18"
                   />
                   Knight's Solemn Breastplate<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/3bb0956fa4c7bec0a1b6b6af7e49fcec.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/ae85225e9fdb3e3c5e3d1575e053d9fc.png"
                     ,
                     height="18"
                   />
@@ -2302,7 +2302,7 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9fc1ba2c96deb0482e9eea302c58c11d.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1042ff7cc4eaac299bd70e80ecabc8e5.png"
                     ,
                     height="18"
                   />
@@ -2331,6 +2331,75 @@
       </table>
     </details>
     <details>
+      <summary><b>Hanya </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Hanya</h3></th>
+          <th><h3></h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/df0b3ba6d340a1994ba8d1601aea9e5e.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center"><img src="" /></p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Sushang </b></summary>
       <br />
       <table>
@@ -2342,14 +2411,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/07419b23ef39e72eabe5d428b8fb1b9f.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/f6f55d14aed224b29732d3d2cc1c8a2a.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/efdc390ecde6dfadf93fa0cb02eb410a.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/313e04c716be9088f0e587053247fcb1.png"
               />
             </p>
           </td>
@@ -2382,22 +2451,22 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/aed87aa8342ebfd56b32960cee3f8a44.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/be1c8532b7289f34dde2e6b8e4e326cc.png"
                     ,
                     height="18"
                   />
                   Thief's Myriad-Faced Mask<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9e29cc72aa9cd6683e05959b7f46195f.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bd10110ef5e87e0a45d5f1c7a8098f9d.png"
                     ,
                     height="18"
                   />
                   Thief's Gloves With Prints<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fe99b5757f23586e65346ebf3c6c808e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7cbf467609fcfed2397a25cd53caeb8c.png"
                     ,
                     height="18"
                   />
                   Thief's Steel Grappling Hook<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/1891b686f81043827e6774642d65549a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/e8b7b93aabf2d1cc5cc9b838b40bd216.png"
                     ,
                     height="18"
                   />
@@ -2408,12 +2477,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/eb03be175a03cf97719ba739f7ff69a9.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/e5a49f8ad32209b683802cd228ed1674.png"
                     ,
                     height="18"
                   />
                   The IPC's Mega HQ<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/50d2ac9ed73491cc9cd6c14bd41de9c5.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/75779bd37ce507afa1e8b701b5f10f99.png"
                     ,
                     height="18"
                   />
@@ -2442,6 +2511,75 @@
       </table>
     </details>
     <details>
+      <summary><b>Qingque </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Qingque</h3></th>
+          <th><h3></h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/190e3fa93ae1b53904cb24d1b7125446.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center"><img src="" /></p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>3</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Serval </b></summary>
       <br />
       <table>
@@ -2453,14 +2591,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/6eeb9b0a3d7d28768e0a301f4e564730.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/13503e41f940e87278e00b7906974c05.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/8eb50c785f91fd9e14ccfa1532dba7c3.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/a3ecb3a93e4f454a3e9a974ffa2e80b1.png"
               />
             </p>
           </td>
@@ -2493,12 +2631,12 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7c0700a7b90479b35ba01ed0c84c4a91.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b57963c37716cacb7bab5987c77607e6.png"
                     ,
                     height="18"
                   />
                   Band's Polarized Sunglasses<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fa5003be5ae077a1acaeb4fea65c321a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/1dcd2c18e0258d6585675c2e925c9fe2.png"
                     ,
                     height="18"
                   />
@@ -2509,12 +2647,12 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/9e1feb64c22f676f5bdad711d06a3532.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/ef415c10f46d40dbbd2e390cccca6ffa.png"
                     ,
                     height="18"
                   />
                   Salsotto's Moving City<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/0ae4ddea2d4419523cc4ab37643f49bc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/bef9c98afd1c705f70a595246a5acdec.png"
                     ,
                     height="18"
                   />
@@ -2554,14 +2692,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d5a513f0b7956a5cf9e5cf849dd11f37.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/b8e5a0141d18dc6e6c538c777a92e0bf.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/a1b14aa91e517dbe7d1e61877f03032a.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/3dfa9ff04d18cad3ba7c38a436ca093d.png"
               />
             </p>
           </td>
@@ -2627,14 +2765,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/e403ad2bbc3b3613a54145bfaf683d03.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/49d686531e05daf5baece13519023f7b.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/fa94660ca24e3479aa23528065a06ea1.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/34f45f449edbf708cba6af17b9b5f695.png"
               />
             </p>
           </td>
@@ -2689,75 +2827,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Qingque </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Qingque</h3></th>
-          <th><h3></h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/7a3316bde3754c1ff91963c1d0c3afaa.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center"><img src="" /></p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>40</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Hook </b></summary>
       <br />
       <table>
@@ -2769,14 +2838,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/8f9d37e8092f34a8d68b98c7483aafb9.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/d31fc7fcde3ca514334971a5499950c1.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/86737cc6364ff6080fa000e1ce16d3d2.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/62d70d5b885c2ba45d78e990b7c40d31.png"
               />
             </p>
           </td>
@@ -2842,7 +2911,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/93e3e26fde07b9504d8540bd0671b48a.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4ea5ced2593f662dd04f7751d72d7135.png"
               />
             </p>
           </td>
@@ -2911,7 +2980,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_734174/d9c3d492a55c1407c007ef903604fae4.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/e663c90d595a5bb2fe9b0095ee632d78.png"
               />
             </p>
           </td>
@@ -3013,7 +3082,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>823</td>
+        <td>824</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -3045,7 +3114,7 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2470</td>
+        <td>2471</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
@@ -3923,118 +3992,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Yoimiya</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Yoimiya</h3></th>
-          <th><h3 align="center">Rust</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yoimiya_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />2 x Shimenawa's Reminiscence<br />2 x
-                  Gladiator's Finale<br />1 x Emblem of Severed Fate<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/18198c1cbb2cca5e071bf418b8b3f069.png"
-                    height="18"
-                  />
-                  Entangling Bloom<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/c386a4c48dd1ab1bfe51a287585f6ab4.png"
-                    height="18"
-                  />
-                  Shaft of Remembrance<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/eea98da2184d435dacda5a89119a18a0.png"
-                    height="18"
-                  />
-                  Gladiator's Longing<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/db8231a94511c13ffc91416e74a71e72.png"
-                    height="18"
-                  />
-                  Gladiator's Intoxication<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/d542571a9ffcc97ee003695a502e2505.png"
-                    height="18"
-                  />
-                  Ornate Kabuto<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Rust</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>3</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Hu Tao</b></summary>
       <br />
       <table>
@@ -4370,6 +4327,118 @@
       </table>
     </details>
     <details>
+      <summary><b>Furina</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Furina</h3></th>
+          <th><h3 align="center">Primordial Jade Cutter</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3cd6da342d8ca68ccf979852d8d66dbb.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />2 x Vourukasha's Glow<br />2 x Golden Troupe<br />1
+                  x Marechaussee Hunter<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f749a52dbb6f69f3e5a32284794fd785.png"
+                    height="18"
+                  />
+                  Stamen of Khvarena's Origin<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/4ca24e57d1adc9f0247c6bffd164d8b7.png"
+                    height="18"
+                  />
+                  Golden Bird's Shedding<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9a9bd5be8e014d687fb0683caf707c0b.png"
+                    height="18"
+                  />
+                  Ancient Abscission<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b10902ae43e7f6d6619fe560829f7ba3.png"
+                    height="18"
+                  />
+                  Forgotten Vessel<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/2f69d44e2e79a05adbe0c9fe6391ea33.png"
+                    height="18"
+                  />
+                  Golden Troupe's Reward<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Primordial Jade Cutter</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Kamisato Ayaka</b></summary>
       <br />
       <table>
@@ -4587,6 +4656,118 @@
               <tr>
                 <td>Refinement</td>
                 <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Yoimiya</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Yoimiya</h3></th>
+          <th><h3 align="center">Rust</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yoimiya_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />2 x Shimenawa's Reminiscence<br />2 x
+                  Gladiator's Finale<br />1 x Emblem of Severed Fate<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/18198c1cbb2cca5e071bf418b8b3f069.png"
+                    height="18"
+                  />
+                  Entangling Bloom<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/c386a4c48dd1ab1bfe51a287585f6ab4.png"
+                    height="18"
+                  />
+                  Shaft of Remembrance<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/eea98da2184d435dacda5a89119a18a0.png"
+                    height="18"
+                  />
+                  Gladiator's Longing<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/db8231a94511c13ffc91416e74a71e72.png"
+                    height="18"
+                  />
+                  Gladiator's Intoxication<br /><img
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/d542571a9ffcc97ee003695a502e2505.png"
+                    height="18"
+                  />
+                  Ornate Kabuto<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Rust</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>3</td>
               </tr>
             </table>
           </td>
@@ -5028,118 +5209,6 @@
               <tr>
                 <td>Refinement</td>
                 <td>3</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Furina</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Furina</h3></th>
-          <th><h3 align="center">Primordial Jade Cutter</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3cd6da342d8ca68ccf979852d8d66dbb.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />2 x Vourukasha's Glow<br />2 x Golden Troupe<br />1
-                  x Marechaussee Hunter<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f749a52dbb6f69f3e5a32284794fd785.png"
-                    height="18"
-                  />
-                  Stamen of Khvarena's Origin<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/4ca24e57d1adc9f0247c6bffd164d8b7.png"
-                    height="18"
-                  />
-                  Golden Bird's Shedding<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9a9bd5be8e014d687fb0683caf707c0b.png"
-                    height="18"
-                  />
-                  Ancient Abscission<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b10902ae43e7f6d6619fe560829f7ba3.png"
-                    height="18"
-                  />
-                  Forgotten Vessel<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/2f69d44e2e79a05adbe0c9fe6391ea33.png"
-                    height="18"
-                  />
-                  Golden Troupe's Reward<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Primordial Jade Cutter</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
               </tr>
             </table>
           </td>
@@ -9154,28 +9223,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_06_12_2023-08_17_01.png" />
+  <img src="images/showcase/genshin_card_06_12_2023-19_35_25.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_06_12_2023-08_17_02.png" />
+  <img src="images/showcase/genshin_card_06_12_2023-19_35_25.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_06_12_2023-08_16_28.png" />
+  <img src="images/showcase/Jingliu_06_12_2023-19_34_40.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_06_12_2023-08_16_28.png" />
+  <img src="images/showcase/Kafka_06_12_2023-19_34_41.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_06_12_2023-08_16_29.png" />
+  <img src="images/showcase/Huohuo_06_12_2023-19_34_41.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_06_12_2023-08_16_29.png" />
+  <img src="images/showcase/Seele_06_12_2023-19_34_42.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
