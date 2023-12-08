@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 07, 2023 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 08, 2023 08:17 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_07_12_2023-19_35_22.png" />
+    <img src="images/profile/Joy_08_12_2023-08_17_31.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>217</td>
+        <td>218</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1551,7 +1551,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1568,7 +1568,7 @@
       <table>
         <tr>
           <th><h3>Natasha</h3></th>
-          <th><h3></h3></th>
+          <th><h3>Hey, Over Here</h3></th>
         </tr>
         <tr>
           <td>
@@ -1579,7 +1579,11 @@
             </p>
           </td>
           <td>
-            <p align="center"><img src="" /></p>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9671a4dbcc3136251f8f357311a5c33b.png"
+              />
+            </p>
           </td>
         </tr>
         <tr>
@@ -1654,15 +1658,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td></td>
+                <td>Hey, Over Here</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td></td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td></td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -3051,17 +3055,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -9223,28 +9227,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_07_12_2023-19_34_29.png" />
+  <img src="images/showcase/genshin_card_08_12_2023-08_16_41.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_07_12_2023-19_34_29.png" />
+  <img src="images/showcase/genshin_card_08_12_2023-08_16_42.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_07_12_2023-19_35_06.png" />
+  <img src="images/showcase/Jingliu_08_12_2023-08_17_17.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_07_12_2023-19_35_07.png" />
+  <img src="images/showcase/Kafka_08_12_2023-08_17_17.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_07_12_2023-19_35_07.png" />
+  <img src="images/showcase/Huohuo_08_12_2023-08_17_18.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_07_12_2023-19_35_08.png" />
+  <img src="images/showcase/Seele_08_12_2023-08_17_18.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
