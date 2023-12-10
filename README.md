@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 10, 2023 08:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 10, 2023 19:31 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_10_12_2023-08_20_49.png" />
+    <img src="images/profile/Joy_10_12_2023-19_31_09.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>219</td>
+        <td>220</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5740 (rate -39)</td>
+        <td>5805 (rate -39)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2470 (43%)<br />Adventure Rewards: 1315 (22%)<br />Event: 810
-          (14%)<br />Daily Activity: 540 (9%)<br />Simulated Universe: 545
-          (9%)<br />Other: 0 (2%)<br />Forgotten Hall: 60 (1%)<br />
+          Mail: 2470 (42%)<br />Adventure Rewards: 1320 (22%)<br />Event: 810
+          (13%)<br />Daily Activity: 600 (10%)<br />Simulated Universe: 545
+          (9%)<br />Other: 0 (3%)<br />Forgotten Hall: 60 (1%)<br />
         </td>
       </tr>
     </table>
@@ -108,7 +108,7 @@
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Total Stars</td>
@@ -1407,16 +1407,16 @@
                     height="18"
                   />
                   Musketeer's Coarse Leather Gloves<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9935f078824319cc109cba1d701d6257.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/103596d3be75173f000fa80b1eaef654.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Fireproof Apron<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/66fab8de8d203e1c0ac4006acfe4d49d.png"
+                  Musketeer's Wind-Hunting Shawl<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7e7a3734a7ae18bb61684ff8fff2f733.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  Genius's Gravity Walker<br />
                 </td>
               </tr>
               <tr>
@@ -1740,16 +1740,16 @@
                     height="18"
                   />
                   Firesmith's Ring of Flame-Mastery<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/103596d3be75173f000fa80b1eaef654.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/9935f078824319cc109cba1d701d6257.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/7e7a3734a7ae18bb61684ff8fff2f733.png"
+                  Firesmith's Fireproof Apron<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/66fab8de8d203e1c0ac4006acfe4d49d.png"
                     ,
                     height="18"
                   />
-                  Genius's Gravity Walker<br />
+                  Musketeer's Rivets Riding Boots<br />
                 </td>
               </tr>
               <tr>
@@ -9232,28 +9232,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_10_12_2023-08_21_08.png" />
+  <img src="images/showcase/genshin_card_10_12_2023-19_30_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_10_12_2023-08_21_09.png" />
+  <img src="images/showcase/genshin_card_10_12_2023-19_30_25.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_10_12_2023-08_20_29.png" />
+  <img src="images/showcase/Jingliu_10_12_2023-19_30_56.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_10_12_2023-08_20_29.png" />
+  <img src="images/showcase/Kafka_10_12_2023-19_30_56.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_10_12_2023-08_20_30.png" />
+  <img src="images/showcase/Huohuo_10_12_2023-19_30_57.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_10_12_2023-08_20_30.png" />
+  <img src="images/showcase/Seele_10_12_2023-19_30_57.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
