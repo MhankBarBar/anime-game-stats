@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 11, 2023 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 12, 2023 08:17 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_11_12_2023-19_34_50.png" />
+    <img src="images/profile/Joy_12_12_2023-08_17_24.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Lost Gold Fragment
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>221</td>
+        <td>222</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -2815,6 +2815,75 @@
       </table>
     </details>
     <details>
+      <summary><b>Herta </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Herta</h3></th>
+          <th><h3></h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4ea5ced2593f662dd04f7751d72d7135.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center"><img src="" /></p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Dan Heng </b></summary>
       <br />
       <table>
@@ -2881,75 +2950,6 @@
               <tr>
                 <td>Superimpose</td>
                 <td>4</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Herta </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Herta</h3></th>
-          <th><h3></h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_763646/4ea5ced2593f662dd04f7751d72d7135.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center"><img src="" /></p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>40</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td></td>
               </tr>
             </table>
           </td>
@@ -3039,17 +3039,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
             height="20"
           />
-          Primogem
+          Fried Radish Balls
         </td>
       </tr>
     </table>
@@ -9211,28 +9211,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_11_12_2023-19_35_16.png" />
+  <img src="images/showcase/genshin_card_12_12_2023-08_16_35.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_11_12_2023-19_35_17.png" />
+  <img src="images/showcase/genshin_card_12_12_2023-08_16_36.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_11_12_2023-19_34_32.png" />
+  <img src="images/showcase/Jingliu_12_12_2023-08_17_10.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_11_12_2023-19_34_33.png" />
+  <img src="images/showcase/Kafka_12_12_2023-08_17_10.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_11_12_2023-19_34_33.png" />
+  <img src="images/showcase/Huohuo_12_12_2023-08_17_11.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_11_12_2023-19_34_34.png" />
+  <img src="images/showcase/Seele_12_12_2023-08_17_11.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
