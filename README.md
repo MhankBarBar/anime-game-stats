@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 13, 2023 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 13, 2023 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_13_12_2023-08_17_02.png" />
+    <img src="images/profile/Joy_13_12_2023-19_35_33.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>222</td>
+        <td>223</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>6230 (rate -34)</td>
+        <td>6250 (rate -34)</td>
       </tr>
       <tr>
         <td>
@@ -88,7 +88,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2470 (39%)<br />Adventure Rewards: 1325 (21%)<br />Event: 1170
+          Mail: 2490 (39%)<br />Adventure Rewards: 1325 (21%)<br />Event: 1170
           (18%)<br />Daily Activity: 660 (10%)<br />Simulated Universe: 545
           (8%)<br />Other: 0 (4%)<br />Forgotten Hall: 60 (0%)<br />
         </td>
@@ -9208,31 +9208,22 @@
     </details>
   </div>
 </details>
-<h2 align="center">My Genshin Impact Characters Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_13_12_2023-08_16_14.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_13_12_2023-08_16_15.png" />
-</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_13_12_2023-08_16_50.png" />
+  <img src="images/showcase/Jingliu_13_12_2023-19_35_12.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_13_12_2023-08_16_51.png" />
+  <img src="images/showcase/Kafka_13_12_2023-19_35_13.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_13_12_2023-08_16_51.png" />
+  <img src="images/showcase/Huohuo_13_12_2023-19_35_13.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_13_12_2023-08_16_52.png" />
+  <img src="images/showcase/Seele_13_12_2023-19_35_14.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
