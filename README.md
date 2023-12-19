@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 18, 2023 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 19, 2023 08:16 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_18_12_2023-19_35_04.png" />
+    <img src="images/profile/Joy_19_12_2023-08_15_46.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>227</td>
+        <td>228</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>7470 (rate -21)</td>
+        <td>7645 (rate -19)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>27 (rate -15)</td>
+        <td>28 (rate -12)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2790 (37%)<br />Adventure Rewards: 1340 (17%)<br />Event: 1170
-          (15%)<br />Daily Activity: 960 (12%)<br />Simulated Universe: 790
-          (10%)<br />Forgotten Hall: 420 (5%)<br />Other: 0 (4%)<br />
+          Mail: 2790 (36%)<br />Adventure Rewards: 1340 (17%)<br />Event: 1170
+          (15%)<br />Daily Activity: 1020 (13%)<br />Simulated Universe: 905
+          (11%)<br />Forgotten Hall: 420 (5%)<br />Other: 0 (3%)<br />
         </td>
       </tr>
     </table>
@@ -3060,17 +3060,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
             height="20"
           />
-          Primogem
+          Fisherman's Toast
         </td>
       </tr>
     </table>
@@ -3091,7 +3091,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>826</td>
+        <td>827</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -3432,26 +3432,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Furina (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+          Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
-          Xingqiu (12)<br /><img
+          Nahida (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
           Kaedehara Kazuha (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
             ,
             height="18"
           />
-          Baizhu (12)<br />
+          Furina (12)<br />
         </td>
       </tr>
       <tr>
@@ -9232,28 +9232,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_18_12_2023-19_34_18.png" />
+  <img src="images/showcase/genshin_card_19_12_2023-08_16_07.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_18_12_2023-19_34_19.png" />
+  <img src="images/showcase/genshin_card_19_12_2023-08_16_08.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_18_12_2023-19_34_52.png" />
+  <img src="images/showcase/Jingliu_19_12_2023-08_15_23.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_18_12_2023-19_34_52.png" />
+  <img src="images/showcase/Kafka_19_12_2023-08_15_24.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_18_12_2023-19_34_53.png" />
+  <img src="images/showcase/Huohuo_19_12_2023-08_15_24.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_18_12_2023-19_34_53.png" />
+  <img src="images/showcase/Seele_19_12_2023-08_15_25.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
