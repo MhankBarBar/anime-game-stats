@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 25, 2023 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 26, 2023 08:15 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_25_12_2023-19_32_54.png" />
+    <img src="images/profile/Joy_26_12_2023-08_15_04.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
             height="20"
           />
-          Disposable Kinetic Arm
+          Refined Aether
         </td>
       </tr>
     </table>
@@ -3060,17 +3060,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
             height="20"
           />
-          Hero's Wit
+          Almond Tofu
         </td>
       </tr>
     </table>
@@ -3432,26 +3432,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Baizhu (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-            ,
-            height="18"
-          />
-          Xingqiu (12)<br /><img
+          Kaedehara Kazuha (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
             ,
             height="18"
           />
-          Raiden Shogun (12)<br />
+          Baizhu (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+            ,
+            height="18"
+          />
+          Furina (12)<br />
         </td>
       </tr>
       <tr>
@@ -3522,7 +3522,7 @@
           />
           Primogems earned
         </td>
-        <td>5504 (rate -36)</td>
+        <td>5644 (rate -34)</td>
       </tr>
       <tr>
         <td>
@@ -3532,14 +3532,14 @@
           />
           Mora earned
         </td>
-        <td>3256666 (rate -61)</td>
+        <td>3431682 (rate -59)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2620 (48%)<br />Spiral Abyss: 1200 (22%)<br />Daily Activity:
-          660 (12%)<br />Events: 590 (10%)<br />Adventure: 252 (4%)<br />Quests:
-          180 (3%)<br />Other: 2 (1%)<br />
+          Mail: 2620 (47%)<br />Spiral Abyss: 1200 (22%)<br />Daily Activity:
+          720 (13%)<br />Events: 590 (10%)<br />Adventure: 252 (4%)<br />Quests:
+          180 (3%)<br />Other: 82 (1%)<br />
         </td>
       </tr>
     </table>
@@ -5272,7 +5272,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -9338,31 +9338,22 @@
     </details>
   </div>
 </details>
-<h2 align="center">My Genshin Impact Characters Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_12_2023-19_31_43.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_12_2023-19_31_44.png" />
-</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_25_12_2023-19_32_29.png" />
+  <img src="images/showcase/Jingliu_26_12_2023-08_14_42.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_25_12_2023-19_32_30.png" />
+  <img src="images/showcase/Kafka_26_12_2023-08_14_42.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_25_12_2023-19_32_30.png" />
+  <img src="images/showcase/Huohuo_26_12_2023-08_14_42.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_25_12_2023-19_32_31.png" />
+  <img src="images/showcase/Seele_26_12_2023-08_14_43.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
