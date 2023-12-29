@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 28, 2023 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 29, 2023 08:05 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_28_12_2023-19_32_44.png" />
+    <img src="images/profile/Joy_29_12_2023-08_05_26.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Traveler's Guide
+          Credit
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>12825 (rate 34)</td>
+        <td>12885 (rate 34)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>51 (rate 59)</td>
+        <td>52 (rate 62)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
           Mail: 3460 (26%)<br />Adventure Rewards: 2770 (21%)<br />Simulated
           Universe: 2140 (16%)<br />Event: 1810 (14%)<br />Daily Activity: 1620
-          (12%)<br />Forgotten Hall: 1020 (7%)<br />Other: 5 (4%)<br />
+          (12%)<br />Forgotten Hall: 1080 (8%)<br />Other: 5 (3%)<br />
         </td>
       </tr>
     </table>
@@ -104,15 +104,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>Enigma in Deep Space (VII)</td>
+        <td>Enigma in Deep Space (IX)</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>4</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>21</td>
+        <td>27</td>
       </tr>
     </table>
   </div>
@@ -3318,17 +3318,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Hero's Wit
+          Mora
         </td>
       </tr>
     </table>
@@ -9595,28 +9595,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_28_12_2023-19_31_44.png" />
+  <img src="images/showcase/genshin_card_29_12_2023-08_04_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_28_12_2023-19_31_45.png" />
+  <img src="images/showcase/genshin_card_29_12_2023-08_04_25.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_28_12_2023-19_32_25.png" />
+  <img src="images/showcase/Jingliu_29_12_2023-08_05_04.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_28_12_2023-19_32_25.png" />
+  <img src="images/showcase/Kafka_29_12_2023-08_05_05.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_28_12_2023-19_32_26.png" />
+  <img src="images/showcase/Huohuo_29_12_2023-08_05_05.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_28_12_2023-19_32_26.png" />
+  <img src="images/showcase/Seele_29_12_2023-08_05_06.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
