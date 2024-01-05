@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 05, 2024 08:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 05, 2024 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_05_01_2024-08_16_05.png" />
+    <img src="images/profile/Joy_05_01_2024-19_33_44.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>245</td>
+        <td>246</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>655 (rate -95)</td>
+        <td>740 (rate -94)</td>
       </tr>
       <tr>
         <td>
@@ -88,8 +88,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 240 (36%)<br />Simulated Universe: 225 (34%)<br />Mail:
-          150 (22%)<br />Adventure Rewards: 40 (6%)<br />Other: 0 (2%)<br />Event:
+          Daily Activity: 300 (40%)<br />Simulated Universe: 225 (30%)<br />Mail:
+          170 (22%)<br />Adventure Rewards: 45 (6%)<br />Other: 0 (2%)<br />Event:
           0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -3283,11 +3283,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>917</td>
+        <td>918</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>835</td>
+        <td>836</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -3315,11 +3315,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2474</td>
+        <td>2476</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1778</td>
+        <td>1780</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -3714,7 +3714,7 @@
           />
           Primogems earned
         </td>
-        <td>1086 (rate -80)</td>
+        <td>1371 (rate -75)</td>
       </tr>
       <tr>
         <td>
@@ -3724,14 +3724,14 @@
           />
           Mora earned
         </td>
-        <td>554411 (rate -84)</td>
+        <td>842671 (rate -75)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 640 (59%)<br />Daily Activity: 120 (11%)<br />Adventure: 66
-          (6%)<br />Mail: 40 (3%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0
-          (0%)<br />Other: 220 (21%)<br />
+          Events: 640 (47%)<br />Daily Activity: 180 (14%)<br />Adventure: 121
+          (8%)<br />Mail: 60 (4%)<br />Quests: 50 (3%)<br />Spiral Abyss: 0
+          (0%)<br />Other: 320 (24%)<br />
         </td>
       </tr>
     </table>
@@ -9533,28 +9533,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_05_01_2024-08_16_25.png" />
+  <img src="images/showcase/genshin_card_05_01_2024-19_32_30.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_05_01_2024-08_16_26.png" />
+  <img src="images/showcase/genshin_card_05_01_2024-19_32_31.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_05_01_2024-08_15_39.png" />
+  <img src="images/showcase/Jingliu_05_01_2024-19_33_20.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_05_01_2024-08_15_40.png" />
+  <img src="images/showcase/Kafka_05_01_2024-19_33_21.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_05_01_2024-08_15_40.png" />
+  <img src="images/showcase/Ruan_Mei_05_01_2024-19_33_21.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_05_01_2024-08_15_40.png" />
+  <img src="images/showcase/Seele_05_01_2024-19_33_21.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
