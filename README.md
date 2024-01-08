@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 07, 2024 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 08, 2024 08:18 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_07_01_2024-19_32_26.png" />
+    <img src="images/profile/Joy_08_01_2024-08_18_00.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>248</td>
+        <td>249</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -953,17 +953,32 @@
                     height="18"
                   />
                   Firesmith's Obsidian Goggles<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/772e9862fc96f61444a9cc073e7fe999.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Gloves With Prints<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/b828c512ea5a55080e3ee3f709bfde35.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Fireproof Apron<br />
+                  Firesmith's Fireproof Apron<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/fc6717ffe69fb0a7e885de850fe16e3a.png"
+                    ,
+                    height="18"
+                  />
+                  Genius's Gravity Walker<br />
                 </td>
               </tr>
               <tr>
                 <td>Planar</td>
                 <td>
                   <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/1b5cd4dff65cbba50302d5f933a1101b.png"
+                    ,
+                    height="18"
+                  />
+                  Herta's Space Station<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/fdc77976e549abb3adc2a0a33d31ff5e.png"
                     ,
                     height="18"
@@ -2357,6 +2372,11 @@
                     height="18"
                   />
                   Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/e71ecbeb0f3358ae9538d46f39f10569.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Coarse Leather Gloves<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/853e6b2ab8fea0724277687f175f686c.png"
                     ,
                     height="18"
@@ -3256,17 +3276,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -3287,7 +3307,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>837</td>
+        <td>838</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -3714,7 +3734,7 @@
           />
           Primogems earned
         </td>
-        <td>1476 (rate -74)</td>
+        <td>1556 (rate -72)</td>
       </tr>
       <tr>
         <td>
@@ -3724,14 +3744,14 @@
           />
           Mora earned
         </td>
-        <td>1058091 (rate -69)</td>
+        <td>1193715 (rate -65)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 640 (44%)<br />Daily Activity: 240 (16%)<br />Adventure: 166
-          (11%)<br />Mail: 60 (4%)<br />Quests: 50 (3%)<br />Spiral Abyss: 0
-          (0%)<br />Other: 320 (22%)<br />
+          Events: 640 (42%)<br />Daily Activity: 300 (20%)<br />Adventure: 186
+          (11%)<br />Quests: 50 (3%)<br />Mail: 60 (3%)<br />Spiral Abyss: 0
+          (0%)<br />Other: 320 (21%)<br />
         </td>
       </tr>
     </table>
@@ -9533,28 +9553,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_07_01_2024-19_31_03.png" />
+  <img src="images/showcase/genshin_card_08_01_2024-08_16_55.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_07_01_2024-19_31_04.png" />
+  <img src="images/showcase/genshin_card_08_01_2024-08_16_56.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_07_01_2024-19_31_53.png" />
+  <img src="images/showcase/Jingliu_08_01_2024-08_17_42.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_07_01_2024-19_31_53.png" />
+  <img src="images/showcase/Kafka_08_01_2024-08_17_42.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_07_01_2024-19_31_54.png" />
+  <img src="images/showcase/Ruan_Mei_08_01_2024-08_17_43.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_07_01_2024-19_31_54.png" />
+  <img src="images/showcase/Seele_08_01_2024-08_17_43.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
