@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 08, 2024 08:18 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 09, 2024 08:18 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_08_01_2024-08_18_00.png" />
+    <img src="images/profile/Joy_09_01_2024-08_18_07.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>8</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>249</td>
+        <td>250</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>367</td>
+        <td>371</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1130 (rate -91)</td>
+        <td>2295 (rate -82)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>16 (rate -71)</td>
+        <td>19 (rate -66)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 420 (37%)<br />Forgotten Hall: 260 (23%)<br />Simulated
-          Universe: 225 (19%)<br />Mail: 170 (15%)<br />Adventure Rewards: 55
-          (4%)<br />Other: 0 (2%)<br />Event: 0 (0%)<br />
+          Forgotten Hall: 800 (34%)<br />Simulated Universe: 650 (28%)<br />Daily
+          Activity: 480 (20%)<br />Adventure Rewards: 195 (8%)<br />Mail: 170
+          (7%)<br />Other: 0 (3%)<br />Event: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -863,16 +863,16 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/2e40e75fc1982c373e959b29c3540f3f.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/1b5cd4dff65cbba50302d5f933a1101b.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Moving City<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/cd93cebf72b6693cc2c4b7e312357e09.png"
+                  Herta's Space Station<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/fdc77976e549abb3adc2a0a33d31ff5e.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Terminator Line<br />
+                  Herta's Wandering Trek<br />
                 </td>
               </tr>
             </table>
@@ -902,7 +902,7 @@
       <table>
         <tr>
           <th><h3>Himeko</h3></th>
-          <th><h3>The Seriousness of Breakfast</h3></th>
+          <th><h3>Make the World Clamor</h3></th>
         </tr>
         <tr>
           <td>
@@ -915,7 +915,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/cab9103e1fd3e69158fa2735e80046a1.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/05a7d338c2bcf15ee1447face648ad7c.png"
               />
             </p>
           </td>
@@ -948,26 +948,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/cabae768703f92268da996fc17e88a79.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/b7c0647423f541b09cee686cfd988242.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Obsidian Goggles<br /><img
+                  Thief's Myriad-Faced Mask<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/772e9862fc96f61444a9cc073e7fe999.png"
                     ,
                     height="18"
                   />
                   Thief's Gloves With Prints<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/b828c512ea5a55080e3ee3f709bfde35.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/853e6b2ab8fea0724277687f175f686c.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Fireproof Apron<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/fc6717ffe69fb0a7e885de850fe16e3a.png"
+                  Thief's Steel Grappling Hook<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/e2064140a134971d872cdb4bfcbfc7e4.png"
                     ,
                     height="18"
                   />
-                  Genius's Gravity Walker<br />
+                  Thief's Meteor Boots<br />
                 </td>
               </tr>
               <tr>
@@ -992,7 +992,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>The Seriousness of Breakfast</td>
+                <td>Make the World Clamor</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1000,7 +1000,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -1329,7 +1329,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>30</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1604,7 +1604,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -1938,26 +1938,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/b7c0647423f541b09cee686cfd988242.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/cabae768703f92268da996fc17e88a79.png"
                     ,
                     height="18"
                   />
-                  Thief's Myriad-Faced Mask<br /><img
+                  Firesmith's Obsidian Goggles<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/772e9862fc96f61444a9cc073e7fe999.png"
                     ,
                     height="18"
                   />
                   Thief's Gloves With Prints<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/853e6b2ab8fea0724277687f175f686c.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/b828c512ea5a55080e3ee3f709bfde35.png"
                     ,
                     height="18"
                   />
-                  Thief's Steel Grappling Hook<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/e2064140a134971d872cdb4bfcbfc7e4.png"
+                  Firesmith's Fireproof Apron<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/fc6717ffe69fb0a7e885de850fe16e3a.png"
                     ,
                     height="18"
                   />
-                  Thief's Meteor Boots<br />
+                  Genius's Gravity Walker<br />
                 </td>
               </tr>
               <tr>
@@ -2316,6 +2316,117 @@
       </table>
     </details>
     <details>
+      <summary><b>Herta </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Herta</h3></th>
+          <th><h3>The Seriousness of Breakfast</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/2ce0fd55dd1530a540a6ef152f979fce.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/cab9103e1fd3e69158fa2735e80046a1.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/450f4d95767b87dc8b03e423aace40e2.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/e71ecbeb0f3358ae9538d46f39f10569.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Coarse Leather Gloves<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/0d0f2ecc84176c21b67dd65bc20610d1.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wind-Hunting Shawl<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/d3ef261dc25d3e95f65844931de0ac36.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Rivets Riding Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/2e40e75fc1982c373e959b29c3540f3f.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Moving City<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/cd93cebf72b6693cc2c4b7e312357e09.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Terminator Line<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>The Seriousness of Breakfast</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Asta </b></summary>
       <br />
       <table>
@@ -2533,6 +2644,75 @@
       </table>
     </details>
     <details>
+      <summary><b>Welt </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Welt</h3></th>
+          <th><h3></h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/75a16b696f78eb9c0d02045fba7d4d0c.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center"><img src="" /></p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Hanya </b></summary>
       <br />
       <table>
@@ -2728,7 +2908,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -2983,75 +3163,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Herta </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Herta</h3></th>
-          <th><h3></h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/2ce0fd55dd1530a540a6ef152f979fce.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center"><img src="" /></p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>60</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Arlan </b></summary>
       <br />
       <table>
@@ -3193,75 +3304,6 @@
         </tr>
       </table>
     </details>
-    <details>
-      <summary><b>Welt </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Welt</h3></th>
-          <th><h3></h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/75a16b696f78eb9c0d02045fba7d4d0c.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center"><img src="" /></p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>40</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
   </div>
 </details>
 <details align="center">
@@ -3276,17 +3318,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>8</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -9553,28 +9595,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_08_01_2024-08_16_55.png" />
+  <img src="images/showcase/genshin_card_09_01_2024-08_17_03.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_08_01_2024-08_16_56.png" />
+  <img src="images/showcase/genshin_card_09_01_2024-08_17_04.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_08_01_2024-08_17_42.png" />
+  <img src="images/showcase/Jingliu_09_01_2024-08_17_46.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_08_01_2024-08_17_42.png" />
+  <img src="images/showcase/Kafka_09_01_2024-08_17_47.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_08_01_2024-08_17_43.png" />
+  <img src="images/showcase/Ruan_Mei_09_01_2024-08_17_47.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_08_01_2024-08_17_43.png" />
+  <img src="images/showcase/Seele_09_01_2024-08_17_47.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
