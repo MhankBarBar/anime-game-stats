@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 09, 2024 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 10, 2024 08:18 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_09_01_2024-19_35_13.png" />
+    <img src="images/profile/Joy_10_01_2024-08_18_07.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>250</td>
+        <td>251</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -3318,17 +3318,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -3684,27 +3684,84 @@
       </tr>
       <tr>
         <td>Most Played Characters</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          Xiangling (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+            ,
+            height="18"
+          />
+          Furina (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+            ,
+            height="18"
+          />
+          Navia (9)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Defeats</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+            ,
+            height="18"
+          />
+          Furina (20)<br />
+        </td>
       </tr>
       <tr>
         <td>Strongest Single Strike</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+            ,
+            height="18"
+          />
+          Navia (213927)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (21394)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Bursts Unleashed</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+            ,
+            height="18"
+          />
+          Bennett (18)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Skills Cast</td>
-        <td></td>
+        <td>
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+            ,
+            height="18"
+          />
+          Navia (30)<br />
+        </td>
       </tr>
     </table>
   </div>
@@ -3719,7 +3776,7 @@
           />
           Primogems earned
         </td>
-        <td>2216 (rate -61)</td>
+        <td>2221 (rate -61)</td>
       </tr>
       <tr>
         <td>
@@ -3729,13 +3786,13 @@
           />
           Mora earned
         </td>
-        <td>1850550 (rate -46)</td>
+        <td>1994550 (rate -42)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
           Events: 640 (29%)<br />Spiral Abyss: 600 (28%)<br />Daily Activity:
-          360 (17%)<br />Adventure: 186 (8%)<br />Quests: 50 (2%)<br />Mail: 60
+          360 (17%)<br />Adventure: 191 (8%)<br />Quests: 50 (2%)<br />Mail: 60
           (2%)<br />Other: 320 (14%)<br />
         </td>
       </tr>
@@ -4580,7 +4637,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>8</td>
+                <td>9</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -4973,7 +5030,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -6755,7 +6812,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>0</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
@@ -7739,7 +7796,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>2</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>
@@ -8376,6 +8433,93 @@
               <tr>
                 <td>Refinement</td>
                 <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Chevreuse</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Chevreuse</h3></th>
+          <th><h3 align="center">Dragon's Bane</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Chevreuse_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/f2a8800c5f3e26f577da0c9cc18429b2.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Dragon's Bane</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -9233,7 +9377,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>8</td>
+                <td>9</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -9538,28 +9682,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_09_01_2024-19_33_59.png" />
+  <img src="images/showcase/genshin_card_10_01_2024-08_17_03.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_09_01_2024-19_34_00.png" />
+  <img src="images/showcase/genshin_card_10_01_2024-08_17_04.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_09_01_2024-19_34_47.png" />
+  <img src="images/showcase/Jingliu_10_01_2024-08_17_47.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_09_01_2024-19_34_47.png" />
+  <img src="images/showcase/Kafka_10_01_2024-08_17_48.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_09_01_2024-19_34_48.png" />
+  <img src="images/showcase/Ruan_Mei_10_01_2024-08_17_48.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_09_01_2024-19_34_48.png" />
+  <img src="images/showcase/Seele_10_01_2024-08_17_49.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
