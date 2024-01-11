@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 10, 2024 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 11, 2024 08:18 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_10_01_2024-19_34_57.png" />
+    <img src="images/profile/Joy_11_01_2024-08_18_07.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Adventure Log
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>251</td>
+        <td>252</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -938,7 +938,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -948,42 +948,42 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/b7c0647423f541b09cee686cfd988242.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/cabae768703f92268da996fc17e88a79.png"
                     ,
                     height="18"
                   />
-                  Thief's Myriad-Faced Mask<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/772e9862fc96f61444a9cc073e7fe999.png"
+                  Firesmith's Obsidian Goggles<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/e71ecbeb0f3358ae9538d46f39f10569.png"
                     ,
                     height="18"
                   />
-                  Thief's Gloves With Prints<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/853e6b2ab8fea0724277687f175f686c.png"
+                  Musketeer's Coarse Leather Gloves<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/b828c512ea5a55080e3ee3f709bfde35.png"
                     ,
                     height="18"
                   />
-                  Thief's Steel Grappling Hook<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/e2064140a134971d872cdb4bfcbfc7e4.png"
+                  Firesmith's Fireproof Apron<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/d3ef261dc25d3e95f65844931de0ac36.png"
                     ,
                     height="18"
                   />
-                  Thief's Meteor Boots<br />
+                  Musketeer's Rivets Riding Boots<br />
                 </td>
               </tr>
               <tr>
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/1b5cd4dff65cbba50302d5f933a1101b.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/836b905ecb2283aebe31571418dd11fd.png"
                     ,
                     height="18"
                   />
-                  Herta's Space Station<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/fdc77976e549abb3adc2a0a33d31ff5e.png"
+                  Glamoth's Iron Cavalry Regiment<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/3ef9500bea6210a40cf191fb22b299ab.png"
                     ,
                     height="18"
                   />
-                  Herta's Wandering Trek<br />
+                  Glamoth's Silent Tombstone<br />
                 </td>
               </tr>
             </table>
@@ -1085,11 +1085,11 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/f5066c6413d25911ee67c945e6a5bcec.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/9c0a99896c334d42872ec23211031192.png"
                     ,
                     height="18"
                   />
-                  Talia's Nailscrap Town<br /><img
+                  The Xianzhou Luofu's Celestial Ark<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/5fcfd52dc5770132cf4088424e79ee1c.png"
                     ,
                     height="18"
@@ -1932,27 +1932,27 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/cabae768703f92268da996fc17e88a79.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/b7c0647423f541b09cee686cfd988242.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Obsidian Goggles<br /><img
+                  Thief's Myriad-Faced Mask<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/772e9862fc96f61444a9cc073e7fe999.png"
                     ,
                     height="18"
                   />
                   Thief's Gloves With Prints<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/b828c512ea5a55080e3ee3f709bfde35.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/853e6b2ab8fea0724277687f175f686c.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Fireproof Apron<br /><img
+                  Thief's Steel Grappling Hook<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/fc6717ffe69fb0a7e885de850fe16e3a.png"
                     ,
                     height="18"
@@ -2064,11 +2064,11 @@
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/d3ef261dc25d3e95f65844931de0ac36.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/e2064140a134971d872cdb4bfcbfc7e4.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  Thief's Meteor Boots<br />
                 </td>
               </tr>
               <tr>
@@ -2266,11 +2266,11 @@
                     height="18"
                   />
                   Firesmith's Obsidian Goggles<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/71fc9d7c813d30401a92527690e9b486.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/772e9862fc96f61444a9cc073e7fe999.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Ring of Flame-Mastery<br /><img
+                  Thief's Gloves With Prints<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/b828c512ea5a55080e3ee3f709bfde35.png"
                     ,
                     height="18"
@@ -2483,11 +2483,11 @@
                     height="18"
                   />
                   Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/e71ecbeb0f3358ae9538d46f39f10569.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/71fc9d7c813d30401a92527690e9b486.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
+                  Firesmith's Ring of Flame-Mastery<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/853e6b2ab8fea0724277687f175f686c.png"
                     ,
                     height="18"
@@ -3318,17 +3318,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -3686,26 +3686,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
-            ,
-            height="18"
-          />
-          Furina (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
           Xiangling (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+            ,
+            height="18"
+          />
+          Furina (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
           Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
             ,
             height="18"
           />
-          Navia (9)<br />
+          Xingqiu (9)<br />
         </td>
       </tr>
       <tr>
@@ -3745,11 +3745,11 @@
         <td>Elemental Bursts Unleashed</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
-          Xiangling (18)<br />
+          Bennett (18)<br />
         </td>
       </tr>
       <tr>
@@ -9682,28 +9682,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_10_01_2024-19_33_44.png" />
+  <img src="images/showcase/genshin_card_11_01_2024-08_17_00.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_10_01_2024-19_33_45.png" />
+  <img src="images/showcase/genshin_card_11_01_2024-08_17_01.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_10_01_2024-19_34_34.png" />
+  <img src="images/showcase/Jingliu_11_01_2024-08_17_47.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_10_01_2024-19_34_35.png" />
+  <img src="images/showcase/Kafka_11_01_2024-08_17_47.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_10_01_2024-19_34_35.png" />
+  <img src="images/showcase/Ruan_Mei_11_01_2024-08_17_48.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_10_01_2024-19_34_36.png" />
+  <img src="images/showcase/Seele_11_01_2024-08_17_48.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
