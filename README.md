@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 11, 2024 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 12, 2024 08:18 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_11_01_2024-19_34_19.png" />
+    <img src="images/profile/Joy_12_01_2024-08_18_14.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Lost Gold Fragment
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>252</td>
+        <td>253</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -902,7 +902,7 @@
       <table>
         <tr>
           <th><h3>Himeko</h3></th>
-          <th><h3>Make the World Clamor</h3></th>
+          <th><h3>The Seriousness of Breakfast</h3></th>
         </tr>
         <tr>
           <td>
@@ -915,7 +915,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/05a7d338c2bcf15ee1447face648ad7c.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/cab9103e1fd3e69158fa2735e80046a1.png"
               />
             </p>
           </td>
@@ -992,7 +992,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Make the World Clamor</td>
+                <td>The Seriousness of Breakfast</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1000,7 +1000,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -1235,7 +1235,7 @@
       <table>
         <tr>
           <th><h3>Jing Yuan</h3></th>
-          <th><h3>The Birth of the Self</h3></th>
+          <th><h3>Make the World Clamor</h3></th>
         </tr>
         <tr>
           <td>
@@ -1248,7 +1248,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/3c0669377f6c5e0bec49d714b94a2639.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/05a7d338c2bcf15ee1447face648ad7c.png"
               />
             </p>
           </td>
@@ -1325,15 +1325,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>The Birth of the Self</td>
+                <td>Make the World Clamor</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>30</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -2321,7 +2321,7 @@
       <table>
         <tr>
           <th><h3>Herta</h3></th>
-          <th><h3>The Seriousness of Breakfast</h3></th>
+          <th><h3>The Birth of the Self</h3></th>
         </tr>
         <tr>
           <td>
@@ -2334,7 +2334,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/cab9103e1fd3e69158fa2735e80046a1.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud64eb/3c0669377f6c5e0bec49d714b94a2639.png"
               />
             </p>
           </td>
@@ -2411,15 +2411,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>The Seriousness of Breakfast</td>
+                <td>The Birth of the Self</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>30</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -3318,17 +3318,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
             height="20"
           />
-          Primogem
+          Fried Radish Balls
         </td>
       </tr>
     </table>
@@ -3686,11 +3686,6 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
             ,
             height="18"
@@ -3701,6 +3696,11 @@
             height="18"
           />
           Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          Xiangling (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
@@ -3745,11 +3745,11 @@
         <td>Elemental Bursts Unleashed</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
-          Bennett (18)<br />
+          Xiangling (18)<br />
         </td>
       </tr>
       <tr>
@@ -9682,28 +9682,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_11_01_2024-19_33_27.png" />
+  <img src="images/showcase/genshin_card_12_01_2024-08_17_20.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_11_01_2024-19_33_28.png" />
+  <img src="images/showcase/genshin_card_12_01_2024-08_17_21.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_11_01_2024-19_34_04.png" />
+  <img src="images/showcase/Jingliu_12_01_2024-08_17_56.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_11_01_2024-19_34_05.png" />
+  <img src="images/showcase/Kafka_12_01_2024-08_17_56.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_11_01_2024-19_34_05.png" />
+  <img src="images/showcase/Ruan_Mei_12_01_2024-08_17_57.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_11_01_2024-19_34_06.png" />
+  <img src="images/showcase/Seele_12_01_2024-08_17_57.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
