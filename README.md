@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 13, 2024 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 13, 2024 19:32 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_13_01_2024-08_17_19.png" />
+    <img src="images/profile/Joy_13_01_2024-19_31_41.png" />
   </div>
   <div align="center">
     <h2>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>2655 (rate -79)</td>
+        <td>2715 (rate -79)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 920 (34%)<br />Daily Activity: 720 (27%)<br />Simulated
-          Universe: 650 (24%)<br />Adventure Rewards: 195 (7%)<br />Mail: 170
-          (6%)<br />Other: 0 (2%)<br />Event: 0 (0%)<br />
+          Forgotten Hall: 920 (33%)<br />Daily Activity: 780 (28%)<br />Simulated
+          Universe: 650 (23%)<br />Adventure Rewards: 195 (7%)<br />Mail: 170
+          (6%)<br />Other: 0 (3%)<br />Event: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -3701,11 +3701,11 @@
             height="18"
           />
           Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (9)<br />
+          Xingqiu (9)<br />
         </td>
       </tr>
       <tr>
@@ -9682,28 +9682,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_13_01_2024-08_16_15.png" />
+  <img src="images/showcase/genshin_card_13_01_2024-19_32_12.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_13_01_2024-08_16_16.png" />
+  <img src="images/showcase/genshin_card_13_01_2024-19_32_13.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_13_01_2024-08_17_01.png" />
+  <img src="images/showcase/Jingliu_13_01_2024-19_31_23.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_13_01_2024-08_17_01.png" />
+  <img src="images/showcase/Kafka_13_01_2024-19_31_23.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_13_01_2024-08_17_02.png" />
+  <img src="images/showcase/Ruan_Mei_13_01_2024-19_31_24.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_13_01_2024-08_17_02.png" />
+  <img src="images/showcase/Seele_13_01_2024-19_31_24.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
