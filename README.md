@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 14, 2024 08:23 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 14, 2024 19:31 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_14_01_2024-08_22_37.png" />
+    <img src="images/profile/Joy_14_01_2024-19_31_40.png" />
   </div>
   <div align="center">
     <h2>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>2715 (rate -79)</td>
+        <td>2795 (rate -78)</td>
       </tr>
       <tr>
         <td>
@@ -88,8 +88,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 920 (33%)<br />Daily Activity: 780 (28%)<br />Simulated
-          Universe: 650 (23%)<br />Adventure Rewards: 195 (7%)<br />Mail: 170
+          Forgotten Hall: 920 (32%)<br />Daily Activity: 840 (30%)<br />Simulated
+          Universe: 650 (23%)<br />Adventure Rewards: 195 (6%)<br />Mail: 190
           (6%)<br />Other: 0 (3%)<br />Event: 0 (0%)<br />
         </td>
       </tr>
@@ -2415,7 +2415,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>30</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -3686,6 +3686,11 @@
         <td>Most Played Characters</td>
         <td>
           <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          Xiangling (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
             ,
             height="18"
@@ -3696,16 +3701,11 @@
             height="18"
           />
           Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
             ,
             height="18"
           />
-          Xiangling (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-            ,
-            height="18"
-          />
-          Navia (9)<br />
+          Xingqiu (9)<br />
         </td>
       </tr>
       <tr>
@@ -3745,11 +3745,11 @@
         <td>Elemental Bursts Unleashed</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
-          Bennett (18)<br />
+          Xiangling (18)<br />
         </td>
       </tr>
       <tr>
@@ -9682,28 +9682,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_14_01_2024-08_22_57.png" />
+  <img src="images/showcase/genshin_card_14_01_2024-19_30_46.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_14_01_2024-08_22_58.png" />
+  <img src="images/showcase/genshin_card_14_01_2024-19_30_47.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_14_01_2024-08_22_20.png" />
+  <img src="images/showcase/Jingliu_14_01_2024-19_31_25.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_14_01_2024-08_22_21.png" />
+  <img src="images/showcase/Kafka_14_01_2024-19_31_25.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_14_01_2024-08_22_21.png" />
+  <img src="images/showcase/Ruan_Mei_14_01_2024-19_31_26.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_14_01_2024-08_22_22.png" />
+  <img src="images/showcase/Seele_14_01_2024-19_31_26.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
