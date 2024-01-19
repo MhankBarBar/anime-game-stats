@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 19, 2024 08:18 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 19, 2024 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_19_01_2024-08_18_48.png" />
+    <img src="images/profile/Joy_19_01_2024-19_33_47.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>259</td>
+        <td>260</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3505 (rate -73)</td>
+        <td>3630 (rate -72)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1080 (30%)<br />Forgotten Hall: 920 (26%)<br />Simulated
-          Universe: 875 (24%)<br />Event: 240 (6%)<br />Adventure Rewards: 200
-          (5%)<br />Mail: 190 (5%)<br />Other: 0 (4%)<br />
+          Daily Activity: 1140 (31%)<br />Forgotten Hall: 980 (26%)<br />Simulated
+          Universe: 875 (24%)<br />Event: 240 (6%)<br />Adventure Rewards: 205
+          (5%)<br />Mail: 190 (5%)<br />Other: 0 (3%)<br />
         </td>
       </tr>
     </table>
@@ -873,11 +873,11 @@
                     height="18"
                   />
                   Herta's Space Station<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/8f6eb9e9a1cabfbb17a7c64d710b2976.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/592d74367564291c42c5d32fcb866666.png"
                     ,
                     height="18"
                   />
-                  Herta's Wandering Trek<br />
+                  Salsotto's Terminator Line<br />
                 </td>
               </tr>
             </table>
@@ -3465,7 +3465,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>839</td>
+        <td>840</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -3807,21 +3807,21 @@
             height="18"
           />
           Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
             ,
             height="18"
           />
           Furina (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
-          Sangonomiya Kokomi (9)<br />
+          Xiangling (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+            ,
+            height="18"
+          />
+          Xingqiu (9)<br />
         </td>
       </tr>
       <tr>
@@ -3861,11 +3861,11 @@
         <td>Elemental Bursts Unleashed</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
-          Xiangling (18)<br />
+          Bennett (18)<br />
         </td>
       </tr>
       <tr>
@@ -3892,7 +3892,7 @@
           />
           Primogems earned
         </td>
-        <td>2221 (rate -61)</td>
+        <td>3001 (rate -47)</td>
       </tr>
       <tr>
         <td>
@@ -3902,14 +3902,14 @@
           />
           Mora earned
         </td>
-        <td>1994550 (rate -42)</td>
+        <td>2539025 (rate -27)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 640 (29%)<br />Spiral Abyss: 600 (28%)<br />Daily Activity:
-          360 (17%)<br />Adventure: 191 (8%)<br />Quests: 50 (2%)<br />Mail: 60
-          (2%)<br />Other: 320 (14%)<br />
+          Events: 1300 (44%)<br />Spiral Abyss: 600 (20%)<br />Daily Activity:
+          420 (14%)<br />Adventure: 191 (6%)<br />Mail: 100 (3%)<br />Quests: 50
+          (1%)<br />Other: 340 (12%)<br />
         </td>
       </tr>
     </table>
@@ -9798,28 +9798,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_19_01_2024-08_17_43.png" />
+  <img src="images/showcase/genshin_card_19_01_2024-19_34_38.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_19_01_2024-08_17_44.png" />
+  <img src="images/showcase/genshin_card_19_01_2024-19_34_39.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_19_01_2024-08_18_27.png" />
+  <img src="images/showcase/Jingliu_19_01_2024-19_33_26.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_19_01_2024-08_18_27.png" />
+  <img src="images/showcase/Kafka_19_01_2024-19_33_26.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_19_01_2024-08_18_28.png" />
+  <img src="images/showcase/Ruan_Mei_19_01_2024-19_33_26.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_19_01_2024-08_18_28.png" />
+  <img src="images/showcase/Seele_19_01_2024-19_33_27.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
