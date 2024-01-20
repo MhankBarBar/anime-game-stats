@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 20, 2024 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 20, 2024 08:37 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_20_01_2024-08_17_08.png" />
+    <img src="images/profile/Joy_20_01_2024-08_37_17.png" />
   </div>
   <div align="center">
     <h2>
@@ -9798,28 +9798,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_20_01_2024-08_16_08.png" />
+  <img src="images/showcase/genshin_card_20_01_2024-08_36_18.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_20_01_2024-08_16_09.png" />
+  <img src="images/showcase/genshin_card_20_01_2024-08_36_19.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_20_01_2024-08_16_51.png" />
+  <img src="images/showcase/Jingliu_20_01_2024-08_37_00.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_20_01_2024-08_16_52.png" />
+  <img src="images/showcase/Kafka_20_01_2024-08_37_01.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_20_01_2024-08_16_52.png" />
+  <img src="images/showcase/Ruan_Mei_20_01_2024-08_37_01.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_20_01_2024-08_16_53.png" />
+  <img src="images/showcase/Seele_20_01_2024-08_37_02.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
