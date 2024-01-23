@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 23, 2024 08:19 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 23, 2024 19:34 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_23_01_2024-08_18_37.png" />
+    <img src="images/profile/Joy_23_01_2024-19_34_54.png" />
   </div>
   <div align="center">
     <h2>
@@ -3817,16 +3817,16 @@
             height="18"
           />
           Yoimiya (9)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (9)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
             ,
             height="18"
           />
-          Xingqiu (9)<br />
+          Xingqiu (9)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (9)<br />
         </td>
       </tr>
       <tr>
@@ -3897,7 +3897,7 @@
           />
           Primogems earned
         </td>
-        <td>4201 (rate -26)</td>
+        <td>4301 (rate -24)</td>
       </tr>
       <tr>
         <td>
@@ -3907,14 +3907,14 @@
           />
           Mora earned
         </td>
-        <td>3347500 (rate -3)</td>
+        <td>3404704 (rate -2)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 1540 (37%)<br />Spiral Abyss: 1200 (29%)<br />Daily Activity:
-          480 (12%)<br />Mail: 400 (9%)<br />Adventure: 191 (4%)<br />Quests: 50
-          (1%)<br />Other: 340 (8%)<br />
+          Events: 1580 (37%)<br />Spiral Abyss: 1200 (28%)<br />Daily Activity:
+          540 (13%)<br />Mail: 400 (10%)<br />Adventure: 191 (4%)<br />Quests:
+          50 (1%)<br />Other: 340 (7%)<br />
         </td>
       </tr>
     </table>
@@ -8608,7 +8608,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -9800,31 +9800,22 @@
     </details>
   </div>
 </details>
-<h2 align="center">My Genshin Impact Characters Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_23_01_2024-08_18_58.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_23_01_2024-08_18_59.png" />
-</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_23_01_2024-08_18_22.png" />
+  <img src="images/showcase/Jingliu_23_01_2024-19_34_34.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_23_01_2024-08_18_23.png" />
+  <img src="images/showcase/Kafka_23_01_2024-19_34_35.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_23_01_2024-08_18_23.png" />
+  <img src="images/showcase/Ruan_Mei_23_01_2024-19_34_35.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_23_01_2024-08_18_24.png" />
+  <img src="images/showcase/Seele_23_01_2024-19_34_36.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
