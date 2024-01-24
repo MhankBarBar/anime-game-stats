@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 24, 2024 08:19 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 24, 2024 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_24_01_2024-08_19_28.png" />
+    <img src="images/profile/Joy_24_01_2024-19_35_21.png" />
   </div>
   <div align="center">
     <h2>
@@ -83,7 +83,7 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>25 (rate -55)</td>
+        <td>26 (rate -53)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -9803,28 +9803,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_24_01_2024-08_18_17.png" />
+  <img src="images/showcase/genshin_card_24_01_2024-19_34_28.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_24_01_2024-08_18_17.png" />
+  <img src="images/showcase/genshin_card_24_01_2024-19_34_29.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_24_01_2024-08_19_05.png" />
+  <img src="images/showcase/Jingliu_24_01_2024-19_35_06.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_24_01_2024-08_19_06.png" />
+  <img src="images/showcase/Kafka_24_01_2024-19_35_07.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_24_01_2024-08_19_06.png" />
+  <img src="images/showcase/Ruan_Mei_24_01_2024-19_35_07.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_24_01_2024-08_19_07.png" />
+  <img src="images/showcase/Seele_24_01_2024-19_35_08.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
