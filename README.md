@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 24, 2024 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 25, 2024 08:19 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_24_01_2024-19_35_21.png" />
+    <img src="images/profile/Joy_25_01_2024-08_19_42.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
             height="20"
           />
-          Credit
+          Disposable Kinetic Arm
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>265</td>
+        <td>266</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -868,11 +868,11 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/afe7cfa0c9c070b1d342e80e2fa8a9bc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/89589a6b4d20bc448701c6ab76731b6a.png"
                     ,
                     height="18"
                   />
-                  Herta's Space Station<br /><img
+                  Taikiyan Laser Stadium<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/592d74367564291c42c5d32fcb866666.png"
                     ,
                     height="18"
@@ -1867,16 +1867,16 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/2dc4db447b772f171b9b9a0683005455.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d4ff8a0312b35aaa1e5dcc340375af9d.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/268d91ea51f9b188b1825ef6562775c9.png"
+                  Insumousu's Whalefall Ship<br /><img
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/bf61f953d9375a8291d47b7191364318.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                  Insumousu's Frayed Hawser<br />
                 </td>
               </tr>
             </table>
@@ -2587,11 +2587,11 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/d4ff8a0312b35aaa1e5dcc340375af9d.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/2dc4db447b772f171b9b9a0683005455.png"
                     ,
                     height="18"
                   />
-                  Insumousu's Whalefall Ship<br /><img
+                  The Xianzhou Luofu's Celestial Ark<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/268d91ea51f9b188b1825ef6562775c9.png"
                     ,
                     height="18"
@@ -3439,17 +3439,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          Mora
+          Hero's Wit
         </td>
       </tr>
     </table>
@@ -3897,7 +3897,7 @@
           />
           Primogems earned
         </td>
-        <td>4301 (rate -24)</td>
+        <td>4401 (rate -22)</td>
       </tr>
       <tr>
         <td>
@@ -3907,14 +3907,14 @@
           />
           Mora earned
         </td>
-        <td>3404704 (rate -2)</td>
+        <td>3486044 (rate 0)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 1580 (37%)<br />Spiral Abyss: 1200 (28%)<br />Daily Activity:
-          540 (13%)<br />Mail: 400 (10%)<br />Adventure: 191 (4%)<br />Quests:
-          50 (1%)<br />Other: 340 (7%)<br />
+          Events: 1620 (37%)<br />Spiral Abyss: 1200 (28%)<br />Daily Activity:
+          600 (14%)<br />Mail: 400 (9%)<br />Adventure: 191 (4%)<br />Quests: 50
+          (1%)<br />Other: 340 (7%)<br />
         </td>
       </tr>
     </table>
@@ -9803,28 +9803,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_24_01_2024-19_34_28.png" />
+  <img src="images/showcase/genshin_card_25_01_2024-08_18_32.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_24_01_2024-19_34_29.png" />
+  <img src="images/showcase/genshin_card_25_01_2024-08_18_33.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_24_01_2024-19_35_06.png" />
+  <img src="images/showcase/Jingliu_25_01_2024-08_19_21.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_24_01_2024-19_35_07.png" />
+  <img src="images/showcase/Kafka_25_01_2024-08_19_22.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_24_01_2024-19_35_07.png" />
+  <img src="images/showcase/Ruan_Mei_25_01_2024-08_19_22.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_24_01_2024-19_35_08.png" />
+  <img src="images/showcase/Seele_25_01_2024-08_19_23.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
