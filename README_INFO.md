@@ -24,7 +24,7 @@ Log in at [hoyolab](https://hoyolab.com), open the developer console by pressing
 
 After that, make it cookie into json format, for example
 ```json
-{"ltuid": "...", "ltoken": "....", "account_id": "...", "cookie_token": "..."}
+{"ltuid_v2": "...", "ltoken_v2": "...", "cookie_token_v2": "...", "account_id_v2": "...", "ltmid_v2": "..."}
 ```
 ### Create a repository secret
 
