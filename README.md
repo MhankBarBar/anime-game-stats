@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 29, 2024 19:31 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 30, 2024 08:12 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_29_01_2024-19_31_21.png" />
+    <img src="images/profile/Joy_30_01_2024-08_12_38.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,7 +21,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -3439,7 +3439,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -3817,16 +3817,16 @@
             height="18"
           />
           Yoimiya (9)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (9)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
             ,
             height="18"
           />
-          Xingqiu (9)<br />
+          Xingqiu (9)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (9)<br />
         </td>
       </tr>
       <tr>
@@ -9803,28 +9803,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_29_01_2024-19_30_22.png" />
+  <img src="images/showcase/genshin_card_30_01_2024-08_11_09.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_29_01_2024-19_30_23.png" />
+  <img src="images/showcase/genshin_card_30_01_2024-08_11_10.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_29_01_2024-19_31_04.png" />
+  <img src="images/showcase/Jingliu_30_01_2024-08_12_15.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_29_01_2024-19_31_05.png" />
+  <img src="images/showcase/Kafka_30_01_2024-08_12_15.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_29_01_2024-19_31_05.png" />
+  <img src="images/showcase/Ruan_Mei_30_01_2024-08_12_16.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_29_01_2024-19_31_05.png" />
+  <img src="images/showcase/Seele_30_01_2024-08_12_16.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
