@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 30, 2024 08:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 30, 2024 19:30 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_30_01_2024-08_12_38.png" />
+    <img src="images/profile/Joy_30_01_2024-19_30_31.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>270</td>
+        <td>271</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5840 (rate -55)</td>
+        <td>5900 (rate -55)</td>
       </tr>
       <tr>
         <td>
@@ -88,7 +88,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1740 (29%)<br />Forgotten Hall: 1580 (27%)<br />Simulated
+          Daily Activity: 1800 (30%)<br />Forgotten Hall: 1580 (26%)<br />Simulated
           Universe: 1215 (20%)<br />Event: 540 (9%)<br />Mail: 540 (9%)<br />Adventure
           Rewards: 225 (3%)<br />Other: 0 (3%)<br />
         </td>
@@ -1116,7 +1116,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -1795,7 +1795,7 @@
       <table>
         <tr>
           <th><h3>Pela</h3></th>
-          <th><h3>Before the Tutorial Mission Starts</h3></th>
+          <th><h3>Resolution Shines As Pearls of Sweat</h3></th>
         </tr>
         <tr>
           <td>
@@ -1808,7 +1808,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/4aed9a960a305b5a937614f1b381d358.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u17ehb/a8eb4728cca7f855db3686a1543f49f0.png"
               />
             </p>
           </td>
@@ -1885,15 +1885,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Before the Tutorial Mission Starts</td>
+                <td>Resolution Shines As Pearls of Sweat</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -3812,6 +3812,11 @@
             height="18"
           />
           Furina (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (9)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
             ,
             height="18"
@@ -3821,12 +3826,7 @@
             ,
             height="18"
           />
-          Xingqiu (9)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-            ,
-            height="18"
-          />
-          Nahida (9)<br />
+          Xingqiu (9)<br />
         </td>
       </tr>
       <tr>
@@ -9803,28 +9803,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_30_01_2024-08_11_09.png" />
+  <img src="images/showcase/genshin_card_30_01_2024-19_29_40.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_30_01_2024-08_11_10.png" />
+  <img src="images/showcase/genshin_card_30_01_2024-19_29_41.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_30_01_2024-08_12_15.png" />
+  <img src="images/showcase/Jingliu_30_01_2024-19_30_17.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_30_01_2024-08_12_15.png" />
+  <img src="images/showcase/Kafka_30_01_2024-19_30_18.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_30_01_2024-08_12_16.png" />
+  <img src="images/showcase/Ruan_Mei_30_01_2024-19_30_18.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_30_01_2024-08_12_16.png" />
+  <img src="images/showcase/Seele_30_01_2024-19_30_19.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
