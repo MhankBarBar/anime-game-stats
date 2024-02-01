@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 31, 2024 19:30 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 01, 2024 08:16 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_31_01_2024-19_30_23.png" />
+    <img src="images/profile/Joy_01_02_2024-08_16_01.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>31</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>6045 (rate -54)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>27 (rate -51)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1860 (30%)<br />Forgotten Hall: 1640 (27%)<br />Simulated
-          Universe: 1215 (20%)<br />Event: 540 (8%)<br />Mail: 540 (8%)<br />Adventure
-          Rewards: 250 (4%)<br />Other: 0 (3%)<br />
+          Daily Activity: 0 (0%)<br />Event: 0 (0%)<br />Adventure Rewards: 0
+          (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
+          0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -3439,17 +3439,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>31</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/08/02/01ba12730bd86c8858c1e2d86c7d150d_5226749879789315268.png"
+            src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
             height="20"
           />
-          Adventurer's Experience
+          Primogem
         </td>
       </tr>
     </table>
@@ -3478,7 +3478,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>402</td>
+        <td>403</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -3502,7 +3502,7 @@
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1780</td>
+        <td>1781</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -3641,7 +3641,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/4/" width="80" />
+                <img src="https://progress-bar.dev/6/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3858,6 +3858,11 @@
             height="18"
           />
           Furina (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+            ,
+            height="18"
+          />
+          Yoimiya (9)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
             ,
             height="18"
@@ -3867,12 +3872,7 @@
             ,
             height="18"
           />
-          Nahida (9)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-            ,
-            height="18"
-          />
-          Yoimiya (9)<br />
+          Nahida (9)<br />
         </td>
       </tr>
       <tr>
@@ -3943,7 +3943,7 @@
           />
           Primogems earned
         </td>
-        <td>5370 (rate -5)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>
@@ -3953,14 +3953,14 @@
           />
           Mora earned
         </td>
-        <td>3735046 (rate 7)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 1840 (35%)<br />Spiral Abyss: 1200 (23%)<br />Mail: 1000
-          (19%)<br />Daily Activity: 730 (13%)<br />Adventure: 208 (3%)<br />Quests:
-          50 (1%)<br />Other: 342 (6%)<br />
+          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
+          (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+          0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -9846,22 +9846,31 @@
     </details>
   </div>
 </details>
+<h2 align="center">My Genshin Impact Characters Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="images/showcase/genshin_card_01_02_2024-08_15_05.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="images/showcase/genshin_card_01_02_2024-08_15_06.png" />
+</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_31_01_2024-19_30_10.png" />
+  <img src="images/showcase/Jingliu_01_02_2024-08_15_44.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_31_01_2024-19_30_10.png" />
+  <img src="images/showcase/Kafka_01_02_2024-08_15_45.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_31_01_2024-19_30_11.png" />
+  <img src="images/showcase/Ruan_Mei_01_02_2024-08_15_45.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_31_01_2024-19_30_11.png" />
+  <img src="images/showcase/Seele_01_02_2024-08_15_46.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
