@@ -59,5 +59,6 @@ class GetCodes:
         return soup.find("div", {"class": "entry-content"})
 
     def _extract_codes(self, soup: bs4.BeautifulSoup, game: str) -> List[bs4.element.Tag]:
+        _soup = soup.find_all("ul")
         codes = [_.strong for _ in _soup[0].find_all("li") if _.strong]
         return codes
