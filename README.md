@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 04, 2024 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 04, 2024 19:29 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_04_02_2024-08_16_18.png" />
+    <img src="images/profile/Joy_04_02_2024-19_29_06.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>275</td>
+        <td>276</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>290 (rate -95)</td>
+        <td>350 (rate -94)</td>
       </tr>
       <tr>
         <td>
@@ -88,7 +88,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 180 (62%)<br />Simulated Universe: 110 (37%)<br />Other:
+          Daily Activity: 240 (68%)<br />Simulated Universe: 110 (31%)<br />Other:
           0 (1%)<br />Event: 0 (0%)<br />Adventure Rewards: 0 (0%)<br />Forgotten
           Hall: 0 (0%)<br />Mail: 0 (0%)<br />
         </td>
@@ -3943,7 +3943,7 @@
           />
           Primogems earned
         </td>
-        <td>60 (rate -98)</td>
+        <td>260 (rate -95)</td>
       </tr>
       <tr>
         <td>
@@ -3953,13 +3953,13 @@
           />
           Mora earned
         </td>
-        <td>25367 (rate -99)</td>
+        <td>50367 (rate -98)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 30 (51%)<br />Mail: 20 (33%)<br />Adventure: 10
-          (16%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0
+          Mail: 220 (85%)<br />Daily Activity: 30 (12%)<br />Adventure: 10
+          (3%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0
           (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
@@ -9936,28 +9936,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_04_02_2024-08_16_41.png" />
+  <img src="images/showcase/genshin_card_04_02_2024-19_28_05.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_04_02_2024-08_16_42.png" />
+  <img src="images/showcase/genshin_card_04_02_2024-19_28_05.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_04_02_2024-08_15_58.png" />
+  <img src="images/showcase/Jingliu_04_02_2024-19_28_46.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_04_02_2024-08_15_58.png" />
+  <img src="images/showcase/Kafka_04_02_2024-19_28_47.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_04_02_2024-08_15_59.png" />
+  <img src="images/showcase/Ruan_Mei_04_02_2024-19_28_47.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_04_02_2024-08_15_59.png" />
+  <img src="images/showcase/Seele_04_02_2024-19_28_48.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
