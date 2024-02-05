@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 04, 2024 19:29 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 05, 2024 08:14 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_04_02_2024-19_29_06.png" />
+    <img src="images/profile/Joy_05_02_2024-08_14_11.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Canned Soda
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -3439,17 +3439,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/08/02/6ef98074e6e8c9c838e144d4db496434_8066711723462859249.png"
+            src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
             height="20"
           />
-          Hero's Wit
+          Primogem
         </td>
       </tr>
     </table>
@@ -3470,7 +3470,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>848</td>
+        <td>849</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -9936,28 +9936,28 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_04_02_2024-19_28_05.png" />
+  <img src="images/showcase/genshin_card_05_02_2024-08_13_09.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_04_02_2024-19_28_05.png" />
+  <img src="images/showcase/genshin_card_05_02_2024-08_13_10.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_04_02_2024-19_28_46.png" />
+  <img src="images/showcase/Jingliu_05_02_2024-08_13_51.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_04_02_2024-19_28_47.png" />
+  <img src="images/showcase/Kafka_05_02_2024-08_13_51.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_04_02_2024-19_28_47.png" />
+  <img src="images/showcase/Ruan_Mei_05_02_2024-08_13_52.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_04_02_2024-19_28_48.png" />
+  <img src="images/showcase/Seele_05_02_2024-08_13_52.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
