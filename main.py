@@ -111,15 +111,15 @@ class AnimeGame(genshin.Client):
 
     def _get_character_showcase(self, game: str, uid: int) -> Optional[List[str]]:
         url = f"{MBB_API}/genshin_card?uid={uid}" if game == "genshin" else f"{MBB_API}/hsr_card?uid={uid}"
-        res = requests.get(url)
-        if res.status_code == 200:
+        res = requests.get(url).json()
+        if res["status"] == 200:
             return save_images(res.json()["result"])
         return None
 
     def _get_user_profile(self, game: str, uid: int) -> Optional[str]:
         url = f"{MBB_API}/genshin_profile?uid={uid}" if game == "genshin" else f"{MBB_API}/hsr_profile?uid={uid}"
-        res = requests.get(url)
-        if res.status_code == 200:
+        res = requests.get(url).json()
+        if res["status"] == 200:
             return save_images(res.json()["result"], _type="profile")
         return None
 
