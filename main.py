@@ -113,14 +113,14 @@ class AnimeGame(genshin.Client):
         url = f"{MBB_API}/genshin_card?uid={uid}" if game == "genshin" else f"{MBB_API}/hsr_card?uid={uid}"
         res = requests.get(url).json()
         if res["status"] == 200:
-            return save_images(res.json()["result"])
+            return save_images(res["result"])
         return None
 
     def _get_user_profile(self, game: str, uid: int) -> Optional[str]:
         url = f"{MBB_API}/genshin_profile?uid={uid}" if game == "genshin" else f"{MBB_API}/hsr_profile?uid={uid}"
         res = requests.get(url).json()
         if res["status"] == 200:
-            return save_images(res.json()["result"], _type="profile")
+            return save_images(res["result"], _type="profile")
         return None
 
     async def get_genshin_res(self) -> GenshinRes:
