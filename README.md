@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 10, 2024 08:10 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 10, 2024 19:31 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_10_02_2024-08_10_12.png" />
+    <img src="images/profile/Joy_10_02_2024-19_31_33.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>281</td>
+        <td>282</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>398</td>
+        <td>399</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5074 (rate -16)</td>
+        <td>6082 (rate 0)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>30 (rate 11)</td>
+        <td>31 (rate 14)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1965 (38%)<br />Mail: 1100 (21%)<br />Event: 620
-          (12%)<br />Forgotten Hall: 600 (11%)<br />Daily Activity: 540 (10%)<br />Simulated
-          Universe: 225 (4%)<br />Other: 24 (4%)<br />
+          Adventure Rewards: 2170 (35%)<br />Event: 1340 (22%)<br />Mail: 1120
+          (18%)<br />Daily Activity: 600 (9%)<br />Forgotten Hall: 600 (9%)<br />Other:
+          27 (4%)<br />Simulated Universe: 225 (3%)<br />
         </td>
       </tr>
     </table>
@@ -2343,7 +2343,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -3503,7 +3503,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_10_02_2024-08_09_07.png" />
+    <img src="images/profile/genshin_profile_10_02_2024-19_29_24.png" />
   </div>
   <div align="center">
     <h2>
@@ -3949,16 +3949,16 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
-            ,
-            height="18"
-          />
-          Furina (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
           Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+            ,
+            height="18"
+          />
+          Furina (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
             ,
             height="18"
@@ -10142,47 +10142,22 @@
     </details>
   </div>
 </details>
-<h2 align="center">My Genshin Impact Characters Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_10_02_2024-08_08_45.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_10_02_2024-08_08_46.png" />
-</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_10_02_2024-08_09_37.png" />
+  <img src="images/showcase/Jingliu_10_02_2024-19_29_57.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_10_02_2024-08_09_38.png" />
+  <img src="images/showcase/Ruan_Mei_10_02_2024-19_29_58.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_10_02_2024-08_09_38.png" />
+  <img src="images/showcase/Bronya_10_02_2024-19_29_58.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_10_02_2024-08_09_39.png" />
-</details>
-<details align="center">
-  <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_10_02_2024-08_09_39.png" />
-</details>
-<details align="center">
-  <summary>Seele</summary>
-  <img src="images/showcase/Seele_10_02_2024-08_09_39.png" />
-</details>
-<details align="center">
-  <summary>Clara</summary>
-  <img src="images/showcase/Clara_10_02_2024-08_09_40.png" />
-</details>
-<details align="center">
-  <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_10_02_2024-08_09_40.png" />
+  <img src="images/showcase/Kafka_10_02_2024-19_29_58.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
