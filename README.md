@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 09, 2024 19:30 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 10, 2024 08:10 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_09_02_2024-19_30_25.png" />
+    <img src="images/profile/Joy_10_02_2024-08_10_12.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -3503,7 +3503,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_09_02_2024-19_29_36.png" />
+    <img src="images/profile/genshin_profile_10_02_2024-08_09_07.png" />
   </div>
   <div align="center">
     <h2>
@@ -3512,17 +3512,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -3949,26 +3949,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
             ,
             height="18"
           />
           Furina (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            ,
+            height="18"
+          />
+          Sangonomiya Kokomi (9)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
-          Yelan (9)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-            ,
-            height="18"
-          />
-          Kamisato Ayaka (9)<br />
+          Yelan (9)<br />
         </td>
       </tr>
       <tr>
@@ -6406,7 +6406,7 @@
       <table>
         <tr>
           <th><h3 align="center">Barbara</h3></th>
-          <th><h3 align="center">Oathsworn Eye</h3></th>
+          <th><h3 align="center">Favonius Codex</h3></th>
         </tr>
         <tr>
           <td>
@@ -6420,7 +6420,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/268db7ea044d384781905bf67b74fcd4.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/0cf88ebf54a38da0152ad51bc96b1c90.png"
                 height="250"
               />
             </p>
@@ -6481,7 +6481,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Oathsworn Eye</td>
+                <td>Favonius Codex</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -6709,7 +6709,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>90</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -8385,31 +8385,32 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />4 x Noblesse Oblige<br />1 x Emblem of Severed
+                  Artifacts<br />1 x Wanderer's Troupe<br />1 x Noblesse
+                  Oblige<br />2 x Song of Days Past<br />1 x Emblem of Severed
                   Fate<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/400f82758549b900a38af4bc2c0ebb76.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/9398ee2ee32972fe0d7bcbfb62174c88.png"
                     height="18"
                   />
-                  Royal Flora<br /><img
+                  Troupe's Dawnlight<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/039b7daa91b31aa44df9905cc3668a85.png"
                     height="18"
                   />
                   Royal Plume<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ab3b6ce6da7dd86b8021dea724b9437e.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/60ba61097121e1a5b0f778e2ec8c206e.png"
                     height="18"
                   />
-                  Royal Pocket Watch<br /><img
+                  Echoing Sound From Days Past<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a29a28945b07ff4015ba3ab9cfcc7dac.png"
                     height="18"
                   />
                   Scarlet Vessel<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/80885849100a0e8175b01ac110b77c43.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/a1423f565392f08bcaa9e9d7729a5f04.png"
                     height="18"
                   />
-                  Royal Masque<br />
+                  Poetry of Days Past<br />
                 </td>
               </tr>
               <tr>
@@ -8609,6 +8610,118 @@
               <tr>
                 <td>Refinement</td>
                 <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Xianyun</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Xianyun</h3></th>
+          <th><h3 align="center">Skyward Atlas</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Liuyun_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ad86559c281719c6b5011d7aab8ec4c5.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />4 x Noblesse Oblige<br />1 x Deepwood
+                  Memories<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/400f82758549b900a38af4bc2c0ebb76.png"
+                    height="18"
+                  />
+                  Royal Flora<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/c1579075e4745f31233cb1ecc0c5d968.png"
+                    height="18"
+                  />
+                  Scholar of Vines<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/ab3b6ce6da7dd86b8021dea724b9437e.png"
+                    height="18"
+                  />
+                  Royal Pocket Watch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/2a684b91539b65cc6b079ee3a21fce19.png"
+                    height="18"
+                  />
+                  Royal Silver Urn<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/80885849100a0e8175b01ac110b77c43.png"
+                    height="18"
+                  />
+                  Royal Masque<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Skyward Atlas</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -9992,7 +10105,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
@@ -10032,44 +10145,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_09_02_2024-19_29_17.png" />
+  <img src="images/showcase/genshin_card_10_02_2024-08_08_45.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_09_02_2024-19_29_18.png" />
+  <img src="images/showcase/genshin_card_10_02_2024-08_08_46.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_09_02_2024-19_30_06.png" />
+  <img src="images/showcase/Jingliu_10_02_2024-08_09_37.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_09_02_2024-19_30_06.png" />
+  <img src="images/showcase/Ruan_Mei_10_02_2024-08_09_38.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_09_02_2024-19_30_07.png" />
+  <img src="images/showcase/Bronya_10_02_2024-08_09_38.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_09_02_2024-19_30_07.png" />
+  <img src="images/showcase/Kafka_10_02_2024-08_09_39.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_09_02_2024-19_30_08.png" />
+  <img src="images/showcase/Huohuo_10_02_2024-08_09_39.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_09_02_2024-19_30_08.png" />
+  <img src="images/showcase/Seele_10_02_2024-08_09_39.png" />
 </details>
 <details align="center">
   <summary>Clara</summary>
-  <img src="images/showcase/Clara_09_02_2024-19_30_09.png" />
+  <img src="images/showcase/Clara_10_02_2024-08_09_40.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_09_02_2024-19_30_09.png" />
+  <img src="images/showcase/Himeko_10_02_2024-08_09_40.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
