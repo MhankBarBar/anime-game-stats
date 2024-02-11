@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 10, 2024 19:31 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 11, 2024 08:17 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_10_02_2024-19_31_33.png" />
+    <img src="images/profile/Joy_11_02_2024-08_17_15.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/19/6425584a05316b3391818d90c8fd1905_7367765898506383889.png"
             height="20"
           />
-          Adventure Log
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -3503,7 +3503,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_10_02_2024-19_29_24.png" />
+    <img src="images/profile/genshin_profile_11_02_2024-08_16_16.png" />
   </div>
   <div align="center">
     <h2>
@@ -3512,17 +3512,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -3959,16 +3959,16 @@
             height="18"
           />
           Furina (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
             ,
             height="18"
           />
-          Sangonomiya Kokomi (9)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+          Shenhe (9)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
             ,
             height="18"
           />
-          Yelan (9)<br />
+          Kamisato Ayaka (9)<br />
         </td>
       </tr>
       <tr>
@@ -10142,22 +10142,47 @@
     </details>
   </div>
 </details>
+<h2 align="center">My Genshin Impact Characters Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="images/showcase/genshin_card_11_02_2024-08_15_56.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="images/showcase/genshin_card_11_02_2024-08_15_57.png" />
+</details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_10_02_2024-19_29_57.png" />
+  <img src="images/showcase/Jingliu_11_02_2024-08_16_51.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_10_02_2024-19_29_58.png" />
+  <img src="images/showcase/Ruan_Mei_11_02_2024-08_16_51.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_10_02_2024-19_29_58.png" />
+  <img src="images/showcase/Bronya_11_02_2024-08_16_52.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_10_02_2024-19_29_58.png" />
+  <img src="images/showcase/Kafka_11_02_2024-08_16_52.png" />
+</details>
+<details align="center">
+  <summary>Huohuo</summary>
+  <img src="images/showcase/Huohuo_11_02_2024-08_16_53.png" />
+</details>
+<details align="center">
+  <summary>Seele</summary>
+  <img src="images/showcase/Seele_11_02_2024-08_16_53.png" />
+</details>
+<details align="center">
+  <summary>Clara</summary>
+  <img src="images/showcase/Clara_11_02_2024-08_16_54.png" />
+</details>
+<details align="center">
+  <summary>Himeko</summary>
+  <img src="images/showcase/Himeko_11_02_2024-08_16_54.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
