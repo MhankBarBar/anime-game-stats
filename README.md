@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 15, 2024 08:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 15, 2024 19:31 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_15_02_2024-08_12_47.png" />
+    <img src="images/profile/Joy_15_02_2024-19_31_05.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>286</td>
+        <td>287</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>6522 (rate 7)</td>
+        <td>6692 (rate 10)</td>
       </tr>
       <tr>
         <td>
@@ -88,8 +88,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2175 (33%)<br />Event: 1340 (20%)<br />Mail: 1200
-          (18%)<br />Daily Activity: 840 (12%)<br />Forgotten Hall: 600 (9%)<br />Simulated
+          Adventure Rewards: 2235 (33%)<br />Event: 1340 (20%)<br />Mail: 1250
+          (18%)<br />Daily Activity: 900 (13%)<br />Forgotten Hall: 600 (8%)<br />Simulated
           Universe: 340 (5%)<br />Other: 27 (3%)<br />
         </td>
       </tr>
@@ -3503,7 +3503,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_15_02_2024-08_11_29.png" />
+    <img src="images/profile/genshin_profile_15_02_2024-19_30_06.png" />
   </div>
   <div align="center">
     <h2>
@@ -3959,11 +3959,11 @@
             height="18"
           />
           Furina (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (9)<br /><img
+          Sangonomiya Kokomi (9)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
@@ -10145,44 +10145,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_15_02_2024-08_11_07.png" />
+  <img src="images/showcase/genshin_card_15_02_2024-19_29_43.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_15_02_2024-08_11_07.png" />
+  <img src="images/showcase/genshin_card_15_02_2024-19_29_44.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_15_02_2024-08_12_15.png" />
+  <img src="images/showcase/Jingliu_15_02_2024-19_30_38.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_15_02_2024-08_12_15.png" />
+  <img src="images/showcase/Ruan_Mei_15_02_2024-19_30_39.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_15_02_2024-08_12_16.png" />
+  <img src="images/showcase/Bronya_15_02_2024-19_30_39.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_15_02_2024-08_12_16.png" />
+  <img src="images/showcase/Kafka_15_02_2024-19_30_40.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_15_02_2024-08_12_17.png" />
+  <img src="images/showcase/Huohuo_15_02_2024-19_30_40.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_15_02_2024-08_12_17.png" />
+  <img src="images/showcase/Seele_15_02_2024-19_30_41.png" />
 </details>
 <details align="center">
   <summary>Clara</summary>
-  <img src="images/showcase/Clara_15_02_2024-08_12_18.png" />
+  <img src="images/showcase/Clara_15_02_2024-19_30_41.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_15_02_2024-08_12_18.png" />
+  <img src="images/showcase/Himeko_15_02_2024-19_30_42.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
