@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 18, 2024 19:29 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 19, 2024 08:13 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_18_02_2024-19_29_44.png" />
+    <img src="images/profile/Joy_19_02_2024-08_13_40.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -92,27 +92,6 @@
           (17%)<br />Daily Activity: 1080 (15%)<br />Forgotten Hall: 600 (8%)<br />Simulated
           Universe: 450 (6%)<br />Other: 27 (3%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1010</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>Light of Reignition Stage 11</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>15</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>33</td>
       </tr>
     </table>
   </div>
@@ -3503,7 +3482,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_18_02_2024-19_28_46.png" />
+    <img src="images/profile/genshin_profile_19_02_2024-08_12_26.png" />
   </div>
   <div align="center">
     <h2>
@@ -3512,17 +3491,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
             height="20"
           />
-          Primogem
+          Fisherman's Toast
         </td>
       </tr>
     </table>
@@ -3949,26 +3928,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
-            ,
-            height="18"
-          />
-          Furina (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
           Raiden Shogun (12)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
             ,
             height="18"
           />
-          Sangonomiya Kokomi (9)<br /><img
+          Furina (12)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
             ,
             height="18"
           />
-          Nahida (9)<br />
+          Nahida (9)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+            ,
+            height="18"
+          />
+          Shenhe (9)<br />
         </td>
       </tr>
       <tr>
@@ -10145,44 +10124,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_18_02_2024-19_28_25.png" />
+  <img src="images/showcase/genshin_card_19_02_2024-08_12_04.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_18_02_2024-19_28_26.png" />
+  <img src="images/showcase/genshin_card_19_02_2024-08_12_05.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_18_02_2024-19_29_18.png" />
+  <img src="images/showcase/Jingliu_19_02_2024-08_13_09.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_18_02_2024-19_29_18.png" />
+  <img src="images/showcase/Ruan_Mei_19_02_2024-08_13_09.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_18_02_2024-19_29_19.png" />
+  <img src="images/showcase/Bronya_19_02_2024-08_13_10.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_18_02_2024-19_29_19.png" />
+  <img src="images/showcase/Kafka_19_02_2024-08_13_10.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_18_02_2024-19_29_20.png" />
+  <img src="images/showcase/Huohuo_19_02_2024-08_13_10.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_18_02_2024-19_29_20.png" />
+  <img src="images/showcase/Seele_19_02_2024-08_13_11.png" />
 </details>
 <details align="center">
   <summary>Clara</summary>
-  <img src="images/showcase/Clara_18_02_2024-19_29_21.png" />
+  <img src="images/showcase/Clara_19_02_2024-08_13_11.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_18_02_2024-19_29_21.png" />
+  <img src="images/showcase/Himeko_19_02_2024-08_13_12.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
