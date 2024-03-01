@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 01, 2024 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 01, 2024 19:32 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_01_03_2024-08_17_55.png" />
+    <img src="images/profile/Joy_01_03_2024-19_31_59.png" />
   </div>
   <div align="center">
     <h2>
@@ -3503,7 +3503,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_01_03_2024-08_16_46.png" />
+    <img src="images/profile/genshin_profile_01_03_2024-19_30_54.png" />
   </div>
   <div align="center">
     <h2>
@@ -10033,44 +10033,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_01_03_2024-08_16_23.png" />
+  <img src="images/showcase/genshin_card_01_03_2024-19_30_30.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_01_03_2024-08_16_24.png" />
+  <img src="images/showcase/genshin_card_01_03_2024-19_30_31.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_01_03_2024-08_17_25.png" />
+  <img src="images/showcase/Jingliu_01_03_2024-19_31_32.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_01_03_2024-08_17_25.png" />
+  <img src="images/showcase/Ruan_Mei_01_03_2024-19_31_33.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_01_03_2024-08_17_26.png" />
+  <img src="images/showcase/Bronya_01_03_2024-19_31_33.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_01_03_2024-08_17_26.png" />
+  <img src="images/showcase/Kafka_01_03_2024-19_31_34.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_01_03_2024-08_17_27.png" />
+  <img src="images/showcase/Huohuo_01_03_2024-19_31_34.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_01_03_2024-08_17_27.png" />
+  <img src="images/showcase/Seele_01_03_2024-19_31_35.png" />
 </details>
 <details align="center">
   <summary>Clara</summary>
-  <img src="images/showcase/Clara_01_03_2024-08_17_27.png" />
+  <img src="images/showcase/Clara_01_03_2024-19_31_35.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_01_03_2024-08_17_28.png" />
+  <img src="images/showcase/Himeko_01_03_2024-19_31_36.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
