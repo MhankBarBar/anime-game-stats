@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 04, 2024 08:13 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 04, 2024 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_04_03_2024-08_12_58.png" />
+    <img src="images/profile/Joy_04_03_2024-19_35_43.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>297</td>
+        <td>298</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>401</td>
+        <td>402</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -574,7 +574,7 @@
       <table>
         <tr>
           <th><h3>Seele</h3></th>
-          <th><h3>Cruising in the Stellar Sea</h3></th>
+          <th><h3>Only Silence Remains</h3></th>
         </tr>
         <tr>
           <td>
@@ -587,7 +587,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f92276f48959ccc62f98348001aeee5c.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/48350894546e71443b07cdd9898fa7e8.png"
               />
             </p>
           </td>
@@ -664,15 +664,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Cruising in the Stellar Sea</td>
+                <td>Only Silence Remains</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -1129,7 +1129,7 @@
       <table>
         <tr>
           <th><h3>Dr. Ratio</h3></th>
-          <th><h3>Only Silence Remains</h3></th>
+          <th><h3>Cruising in the Stellar Sea</h3></th>
         </tr>
         <tr>
           <td>
@@ -1142,7 +1142,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/48350894546e71443b07cdd9898fa7e8.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f92276f48959ccc62f98348001aeee5c.png"
               />
             </p>
           </td>
@@ -1219,15 +1219,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Only Silence Remains</td>
+                <td>Cruising in the Stellar Sea</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -3503,7 +3503,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_04_03_2024-08_11_46.png" />
+    <img src="images/profile/genshin_profile_04_03_2024-19_34_25.png" />
   </div>
   <div align="center">
     <h2>
@@ -10033,44 +10033,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_04_03_2024-08_11_23.png" />
+  <img src="images/showcase/genshin_card_04_03_2024-19_34_01.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_04_03_2024-08_11_23.png" />
+  <img src="images/showcase/genshin_card_04_03_2024-19_34_02.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_04_03_2024-08_12_21.png" />
+  <img src="images/showcase/Jingliu_04_03_2024-19_35_10.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_04_03_2024-08_12_22.png" />
+  <img src="images/showcase/Ruan_Mei_04_03_2024-19_35_10.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_04_03_2024-08_12_23.png" />
+  <img src="images/showcase/Bronya_04_03_2024-19_35_11.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_04_03_2024-08_12_23.png" />
+  <img src="images/showcase/Kafka_04_03_2024-19_35_11.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_04_03_2024-08_12_23.png" />
+  <img src="images/showcase/Huohuo_04_03_2024-19_35_11.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_04_03_2024-08_12_24.png" />
+  <img src="images/showcase/Seele_04_03_2024-19_35_12.png" />
 </details>
 <details align="center">
   <summary>Clara</summary>
-  <img src="images/showcase/Clara_04_03_2024-08_12_24.png" />
+  <img src="images/showcase/Clara_04_03_2024-19_35_12.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_04_03_2024-08_12_25.png" />
+  <img src="images/showcase/Himeko_04_03_2024-19_35_13.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
