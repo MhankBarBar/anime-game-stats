@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 18, 2024 19:31 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 19, 2024 08:12 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_18_03_2024-19_31_33.png" />
+    <img src="images/profile/Joy_19_03_2024-08_12_48.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3060 (rate -61)</td>
+        <td>3235 (rate -59)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>14 (rate -65)</td>
+        <td>15 (rate -62)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1040 (33%)<br />Daily Activity: 780 (25%)<br />Simulated
-          Universe: 565 (18%)<br />Mail: 390 (12%)<br />Other: 50 (6%)<br />Adventure
-          Rewards: 175 (5%)<br />Forgotten Hall: 60 (1%)<br />
+          Event: 1040 (32%)<br />Daily Activity: 840 (25%)<br />Simulated
+          Universe: 680 (21%)<br />Mail: 390 (12%)<br />Adventure Rewards: 175
+          (5%)<br />Other: 50 (4%)<br />Forgotten Hall: 60 (1%)<br />
         </td>
       </tr>
     </table>
@@ -3487,17 +3487,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
             height="20"
           />
-          Primogem
+          Fisherman's Toast
         </td>
       </tr>
     </table>
@@ -3518,7 +3518,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>855</td>
+        <td>856</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -3906,7 +3906,7 @@
           />
           Primogems earned
         </td>
-        <td>1770 (rate -12)</td>
+        <td>1970 (rate -2)</td>
       </tr>
       <tr>
         <td>
@@ -3916,13 +3916,13 @@
           />
           Mora earned
         </td>
-        <td>1339800 (rate -25)</td>
+        <td>1476763 (rate -17)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 920 (52%)<br />Events: 660 (38%)<br />Daily Activity: 190
-          (10%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0
+          Mail: 920 (47%)<br />Events: 820 (42%)<br />Daily Activity: 230
+          (11%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0
           (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
@@ -10012,44 +10012,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_18_03_2024-19_30_15.png" />
+  <img src="images/showcase/genshin_card_19_03_2024-08_11_30.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_18_03_2024-19_30_16.png" />
+  <img src="images/showcase/genshin_card_19_03_2024-08_11_31.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_18_03_2024-19_31_05.png" />
+  <img src="images/showcase/Jingliu_19_03_2024-08_12_21.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_18_03_2024-19_31_05.png" />
+  <img src="images/showcase/Ruan_Mei_19_03_2024-08_12_21.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_18_03_2024-19_31_06.png" />
+  <img src="images/showcase/Bronya_19_03_2024-08_12_22.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_18_03_2024-19_31_07.png" />
+  <img src="images/showcase/Kafka_19_03_2024-08_12_22.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_18_03_2024-19_31_07.png" />
+  <img src="images/showcase/Huohuo_19_03_2024-08_12_23.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_18_03_2024-19_31_08.png" />
+  <img src="images/showcase/Seele_19_03_2024-08_12_23.png" />
 </details>
 <details align="center">
   <summary>Clara</summary>
-  <img src="images/showcase/Clara_18_03_2024-19_31_08.png" />
+  <img src="images/showcase/Clara_19_03_2024-08_12_24.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_18_03_2024-19_31_09.png" />
+  <img src="images/showcase/Himeko_19_03_2024-08_12_24.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
