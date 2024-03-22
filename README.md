@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 21, 2024 19:31 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 22, 2024 08:12 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_21_03_2024-19_31_17.png" />
+    <img src="images/profile/Joy_22_03_2024-08_12_04.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>312</td>
+        <td>313</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3375 (rate -57)</td>
+        <td>3435 (rate -57)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1040 (30%)<br />Daily Activity: 960 (28%)<br />Simulated
-          Universe: 680 (20%)<br />Mail: 410 (12%)<br />Adventure Rewards: 175
-          (5%)<br />Other: 50 (4%)<br />Forgotten Hall: 60 (1%)<br />
+          Event: 1040 (30%)<br />Daily Activity: 1020 (29%)<br />Simulated
+          Universe: 680 (19%)<br />Mail: 410 (11%)<br />Adventure Rewards: 175
+          (5%)<br />Other: 50 (5%)<br />Forgotten Hall: 60 (1%)<br />
         </td>
       </tr>
     </table>
@@ -553,7 +553,7 @@
       <table>
         <tr>
           <th><h3>Seele</h3></th>
-          <th><h3>Only Silence Remains</h3></th>
+          <th><h3>Cruising in the Stellar Sea</h3></th>
         </tr>
         <tr>
           <td>
@@ -566,7 +566,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/48350894546e71443b07cdd9898fa7e8.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f92276f48959ccc62f98348001aeee5c.png"
               />
             </p>
           </td>
@@ -643,15 +643,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Only Silence Remains</td>
+                <td>Cruising in the Stellar Sea</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -997,7 +997,7 @@
       <table>
         <tr>
           <th><h3>Trailblazer</h3></th>
-          <th><h3>Day One of My New Life</h3></th>
+          <th><h3>Trend of the Universal Market</h3></th>
         </tr>
         <tr>
           <td>
@@ -1010,7 +1010,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/22fb18354b83058b1dc689bc28aaa30c.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/0e237eadebce22921314804306b77223.png"
               />
             </p>
           </td>
@@ -1087,11 +1087,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Day One of My New Life</td>
+                <td>Trend of the Universal Market</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1108,7 +1108,7 @@
       <table>
         <tr>
           <th><h3>Dr. Ratio</h3></th>
-          <th><h3>Cruising in the Stellar Sea</h3></th>
+          <th><h3>Only Silence Remains</h3></th>
         </tr>
         <tr>
           <td>
@@ -1121,7 +1121,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f92276f48959ccc62f98348001aeee5c.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/48350894546e71443b07cdd9898fa7e8.png"
               />
             </p>
           </td>
@@ -1198,15 +1198,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Cruising in the Stellar Sea</td>
+                <td>Only Silence Remains</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -3487,17 +3487,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          5 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -10012,44 +10012,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_21_03_2024-19_29_59.png" />
+  <img src="images/showcase/genshin_card_22_03_2024-08_10_48.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_21_03_2024-19_30_00.png" />
+  <img src="images/showcase/genshin_card_22_03_2024-08_10_49.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_21_03_2024-19_30_50.png" />
+  <img src="images/showcase/Jingliu_22_03_2024-08_11_37.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_21_03_2024-19_30_50.png" />
+  <img src="images/showcase/Ruan_Mei_22_03_2024-08_11_37.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_21_03_2024-19_30_51.png" />
+  <img src="images/showcase/Bronya_22_03_2024-08_11_38.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_21_03_2024-19_30_52.png" />
+  <img src="images/showcase/Kafka_22_03_2024-08_11_38.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_21_03_2024-19_30_52.png" />
+  <img src="images/showcase/Huohuo_22_03_2024-08_11_39.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_21_03_2024-19_30_53.png" />
+  <img src="images/showcase/Seele_22_03_2024-08_11_40.png" />
 </details>
 <details align="center">
   <summary>Clara</summary>
-  <img src="images/showcase/Clara_21_03_2024-19_30_53.png" />
+  <img src="images/showcase/Clara_22_03_2024-08_11_40.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_21_03_2024-19_30_54.png" />
+  <img src="images/showcase/Himeko_22_03_2024-08_11_41.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
