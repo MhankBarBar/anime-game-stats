@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 24, 2024 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 25, 2024 19:31 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_24_03_2024-19_32_43.png" />
+    <img src="images/profile/Joy_25_03_2024-19_31_42.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
             height="20"
           />
-          Credit
+          Disposable Kinetic Arm
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>315</td>
+        <td>316</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4145 (rate -48)</td>
+        <td>4205 (rate -47)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1140 (27%)<br />Event: 1040 (25%)<br />Simulated
-          Universe: 790 (19%)<br />Forgotten Hall: 540 (13%)<br />Mail: 410
-          (9%)<br />Adventure Rewards: 175 (4%)<br />Other: 50 (3%)<br />
+          Daily Activity: 1200 (28%)<br />Event: 1040 (24%)<br />Simulated
+          Universe: 790 (18%)<br />Forgotten Hall: 540 (12%)<br />Mail: 410
+          (9%)<br />Other: 50 (5%)<br />Adventure Rewards: 175 (4%)<br />
         </td>
       </tr>
     </table>
@@ -2458,35 +2458,7 @@
               </tr>
               <tr>
                 <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/8bc5d855f7df0d863f90e4ad2a880ac4.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Myriad-Faced Mask<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/84475c76073316b9efdc6efe22b9ba61.png"
-                    ,
-                    height="18"
-                  />
-                  Musketeer's Rivets Riding Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/b9a7fc3c90746d5011990fd94f5c4481.png"
-                    ,
-                    height="18"
-                  />
-                  Herta's Space Station<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/066cda412647a59de80014acaef72da8.png"
-                    ,
-                    height="18"
-                  />
-                  Insumousu's Frayed Hawser<br />
-                </td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -2781,40 +2753,7 @@
               </tr>
               <tr>
                 <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/1afa83a5fe1370e8110db0f054286aee.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Forgiving Casque<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9869947840823516ba8ab2dbf80b7158.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Silent Oath Ring<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/f76361518c5e2b046569d21b03ea8e89.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Solemn Breastplate<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/9a237e7c5f16f6d2412e379492436f31.png"
-                    ,
-                    height="18"
-                  />
-                  Guard's Silver Greaves<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/2abb63de8518e23373fdef4ce32abf31.png"
-                    ,
-                    height="18"
-                  />
-                  Belobog's Fortress of Preservation<br />
-                </td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -2956,19 +2895,7 @@
               </tr>
               <tr>
                 <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/8bc5d855f7df0d863f90e4ad2a880ac4.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Myriad-Faced Mask<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/beb563d0434aca8e8ee1c9fa9d838717.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Steel Grappling Hook<br />
-                </td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -3252,19 +3179,7 @@
               </tr>
               <tr>
                 <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/692a1f5889de2c78b2fa304775a40fd0.png"
-                    ,
-                    height="18"
-                  />
-                  Band's Polarized Sunglasses<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u642mb/34f414f94ea687ee4c6f6b7a07cb77cf.png"
-                    ,
-                    height="18"
-                  />
-                  Band's Touring Bracelet<br />
-                </td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -3508,17 +3423,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          Mora
+          Hero's Wit
         </td>
       </tr>
     </table>
@@ -3927,7 +3842,7 @@
           />
           Primogems earned
         </td>
-        <td>1970 (rate -2)</td>
+        <td>2140 (rate 5)</td>
       </tr>
       <tr>
         <td>
@@ -3937,13 +3852,13 @@
           />
           Mora earned
         </td>
-        <td>1476763 (rate -17)</td>
+        <td>1639538 (rate -8)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 920 (47%)<br />Events: 820 (42%)<br />Daily Activity: 230
-          (11%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0
+          Mail: 940 (44%)<br />Events: 910 (43%)<br />Daily Activity: 290
+          (13%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0
           (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
@@ -10033,44 +9948,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_24_03_2024-19_31_14.png" />
+  <img src="images/showcase/genshin_card_25_03_2024-19_30_23.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_24_03_2024-19_31_15.png" />
+  <img src="images/showcase/genshin_card_25_03_2024-19_30_25.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_24_03_2024-19_32_11.png" />
+  <img src="images/showcase/Jingliu_25_03_2024-19_31_14.png" />
 </details>
 <details align="center">
   <summary>RuanMei</summary>
-  <img src="images/showcase/Ruan_Mei_24_03_2024-19_32_11.png" />
+  <img src="images/showcase/Ruan_Mei_25_03_2024-19_31_14.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_24_03_2024-19_32_12.png" />
+  <img src="images/showcase/Bronya_25_03_2024-19_31_15.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_24_03_2024-19_32_12.png" />
+  <img src="images/showcase/Kafka_25_03_2024-19_31_15.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_24_03_2024-19_32_13.png" />
+  <img src="images/showcase/Huohuo_25_03_2024-19_31_16.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_24_03_2024-19_32_13.png" />
+  <img src="images/showcase/Seele_25_03_2024-19_31_16.png" />
 </details>
 <details align="center">
   <summary>Clara</summary>
-  <img src="images/showcase/Clara_24_03_2024-19_32_14.png" />
+  <img src="images/showcase/Clara_25_03_2024-19_31_17.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_24_03_2024-19_32_14.png" />
+  <img src="images/showcase/Himeko_25_03_2024-19_31_17.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
