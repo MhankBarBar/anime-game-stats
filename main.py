@@ -162,7 +162,7 @@ class AnimeGame(genshin.Client):
             profile = self._get_user_profile("hsr", self.uids.get("hkrpg"))
             for s in showcase:
                 showcase_names.append(
-                    re.sub(r"[^a-zA-Z]", "", s.split("/")[-1].split(".")[0])
+                    " ".join(s.split("/")[-1].split("_"))
                 )
         codes = self.codes.get_codes("hkrpg")
         await self.codes.redeem_codes(self, codes, "hkrpg")
