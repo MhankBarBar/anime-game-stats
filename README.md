@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 28, 2024 00:13 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 28, 2024 09:03 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_28_03_2024-00_11_41.png" />
+    <img src="images/profile/Rin_28_03_2024-09_02_50.png" />
   </div>
   <div align="center">
     <h2>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3370 (rate 336900)</td>
+        <td>3450 (rate 344900)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>57 (rate 5600)</td>
+        <td>59 (rate 5800)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1640 (48%)<br />Mail: 1300 (38%)<br />Simulated
+          Adventure Rewards: 1640 (47%)<br />Mail: 1380 (40%)<br />Simulated
           Universe: 220 (6%)<br />Daily Activity: 180 (5%)<br />Other: 30
-          (3%)<br />Event: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
+          (2%)<br />Event: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -1436,7 +1436,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_28_03_2024-00_11_49.png" />
+    <img src="images/profile/genshin_profile_28_03_2024-09_02_59.png" />
   </div>
   <div align="center">
     <h2>
@@ -3272,19 +3272,19 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_28_03_2024-00_11_24.png" />
+  <img src="images/showcase/Rin_28_03_2024-09_02_33.png" />
 </details>
 <details align="center">
   <summary>Marchth</summary>
-  <img src="images/showcase/March_7th_28_03_2024-00_11_24.png" />
+  <img src="images/showcase/March_7th_28_03_2024-09_02_34.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_28_03_2024-00_11_25.png" />
+  <img src="images/showcase/Dan_Heng_28_03_2024-09_02_34.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_28_03_2024-00_11_25.png" />
+  <img src="images/showcase/Asta_28_03_2024-09_02_34.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
