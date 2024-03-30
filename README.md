@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 29, 2024 19:50 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 30, 2024 08:56 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_29_03_2024-19_50_29.png" />
+    <img src="images/profile/Rin_30_03_2024-08_56_09.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>8</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -48,11 +48,11 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4096 (rate 409500)</td>
+        <td>4386 (rate 438500)</td>
       </tr>
       <tr>
         <td>
@@ -83,13 +83,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>66 (rate 6500)</td>
+        <td>70 (rate 6900)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1825 (44%)<br />Mail: 1380 (33%)<br />Simulated
-          Universe: 340 (8%)<br />Event: 280 (6%)<br />Daily Activity: 240
+          Adventure Rewards: 1825 (41%)<br />Mail: 1380 (31%)<br />Event: 560
+          (12%)<br />Simulated Universe: 340 (7%)<br />Daily Activity: 250
           (5%)<br />Other: 31 (4%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -1221,6 +1221,75 @@
       </table>
     </details>
     <details>
+      <summary><b>Pela </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Pela</h3></th>
+          <th><h3></h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u9a1qb/b5c8ced38ae3eb1763778b5ba120ecfc.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center"><img src="" /></p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Serval </b></summary>
       <br />
       <table>
@@ -1436,7 +1505,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_29_03_2024-19_50_00.png" />
+    <img src="images/profile/genshin_profile_30_03_2024-08_56_18.png" />
   </div>
   <div align="center">
     <h2>
@@ -1445,17 +1514,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>8</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -3272,19 +3341,19 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_29_03_2024-19_50_12.png" />
+  <img src="images/showcase/Rin_30_03_2024-08_55_55.png" />
 </details>
 <details align="center">
   <summary>Marchth</summary>
-  <img src="images/showcase/March-7th_29_03_2024-19_50_13.png" />
+  <img src="images/showcase/March-7th_30_03_2024-08_55_55.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan-Heng_29_03_2024-19_50_13.png" />
+  <img src="images/showcase/Dan-Heng_30_03_2024-08_55_55.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_29_03_2024-19_50_13.png" />
+  <img src="images/showcase/Asta_30_03_2024-08_55_56.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
