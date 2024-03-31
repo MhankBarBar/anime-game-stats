@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 30, 2024 19:29 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 31, 2024 19:30 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_30_03_2024-19_29_17.png" />
+    <img src="images/profile/Joy_31_03_2024-19_30_26.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,7 +21,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>321</td>
+        <td>322</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,11 +56,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>424</td>
+        <td>426</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>525</td>
+        <td>528</td>
       </tr>
     </table>
   </div>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>10391 (rate 29)</td>
+        <td>11047 (rate 37)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>33 (rate -17)</td>
+        <td>35 (rate -12)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 3160 (30%)<br />Adventure Rewards: 1820 (17%)<br />Daily
-          Activity: 1500 (14%)<br />Forgotten Hall: 1380 (13%)<br />Simulated
-          Universe: 1315 (12%)<br />Mail: 1160 (11%)<br />Other: 56 (3%)<br />
+          Event: 3400 (30%)<br />Adventure Rewards: 2055 (18%)<br />Daily
+          Activity: 1560 (14%)<br />Forgotten Hall: 1500 (13%)<br />Simulated
+          Universe: 1315 (11%)<br />Mail: 1160 (10%)<br />Other: 57 (4%)<br />
         </td>
       </tr>
     </table>
@@ -104,15 +104,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>Eve of Wanton Feast (10)</td>
+        <td>Eve of Wanton Feast (11)</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>30</td>
+        <td>33</td>
       </tr>
     </table>
   </div>
@@ -907,7 +907,7 @@
       <table>
         <tr>
           <th><h3>Himeko</h3></th>
-          <th><h3>The Seriousness of Breakfast</h3></th>
+          <th><h3>Night on the Milky Way</h3></th>
         </tr>
         <tr>
           <td>
@@ -920,7 +920,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u9a1qb/9779514949264ca7e1c890eb64596171.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u9a1qb/f28a741a0dba881b409c956d8d38ddb7.png"
               />
             </p>
           </td>
@@ -997,15 +997,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>The Seriousness of Breakfast</td>
+                <td>Night on the Milky Way</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -3603,7 +3603,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -10128,44 +10128,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_30_03_2024-19_27_59.png" />
+  <img src="images/showcase/genshin_card_31_03_2024-19_29_09.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_30_03_2024-19_28_00.png" />
+  <img src="images/showcase/genshin_card_31_03_2024-19_29_10.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_30_03_2024-19_28_51.png" />
+  <img src="images/showcase/Jingliu_31_03_2024-19_29_59.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_30_03_2024-19_28_51.png" />
+  <img src="images/showcase/Ruan-Mei_31_03_2024-19_29_59.png" />
 </details>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_30_03_2024-19_28_52.png" />
+  <img src="images/showcase/Acheron_31_03_2024-19_30_00.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_30_03_2024-19_28_52.png" />
+  <img src="images/showcase/Kafka_31_03_2024-19_30_00.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_30_03_2024-19_28_53.png" />
+  <img src="images/showcase/Huohuo_31_03_2024-19_30_01.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_30_03_2024-19_28_54.png" />
+  <img src="images/showcase/Seele_31_03_2024-19_30_02.png" />
 </details>
 <details align="center">
-  <summary>Clara</summary>
-  <img src="images/showcase/Clara_30_03_2024-19_28_54.png" />
+  <summary>Himeko</summary>
+  <img src="images/showcase/Himeko_31_03_2024-19_30_02.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_30_03_2024-19_28_55.png" />
+  <img src="images/showcase/Bronya_31_03_2024-19_30_03.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
