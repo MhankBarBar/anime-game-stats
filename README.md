@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 30, 2024 19:43 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 31, 2024 09:09 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_30_03_2024-19_43_24.png" />
+    <img src="images/profile/Rin_31_03_2024-09_09_17.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>49</td>
+        <td>50</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4386 (rate 438500)</td>
+        <td>4496 (rate 449500)</td>
       </tr>
       <tr>
         <td>
@@ -88,8 +88,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1825 (41%)<br />Mail: 1380 (31%)<br />Event: 560
-          (12%)<br />Simulated Universe: 340 (7%)<br />Daily Activity: 250
+          Adventure Rewards: 1825 (40%)<br />Mail: 1480 (32%)<br />Event: 560
+          (12%)<br />Simulated Universe: 340 (7%)<br />Daily Activity: 260
           (5%)<br />Other: 31 (4%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -1505,7 +1505,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_30_03_2024-19_42_56.png" />
+    <img src="images/profile/genshin_profile_31_03_2024-09_08_50.png" />
   </div>
   <div align="center">
     <h2>
@@ -1514,17 +1514,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -3341,19 +3341,19 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_30_03_2024-19_43_08.png" />
+  <img src="images/showcase/Rin_31_03_2024-09_09_02.png" />
 </details>
 <details align="center">
   <summary>Marchth</summary>
-  <img src="images/showcase/March-7th_30_03_2024-19_43_09.png" />
+  <img src="images/showcase/March-7th_31_03_2024-09_09_03.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan-Heng_30_03_2024-19_43_09.png" />
+  <img src="images/showcase/Dan-Heng_31_03_2024-09_09_03.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_30_03_2024-19_43_10.png" />
+  <img src="images/showcase/Asta_31_03_2024-09_09_03.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
