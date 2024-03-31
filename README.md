@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 31, 2024 09:09 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 31, 2024 19:45 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_31_03_2024-09_09_17.png" />
+    <img src="images/profile/Rin_31_03_2024-19_45_17.png" />
   </div>
   <div align="center">
     <h2>
@@ -1505,7 +1505,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_31_03_2024-09_08_50.png" />
+    <img src="images/profile/genshin_profile_31_03_2024-19_44_51.png" />
   </div>
   <div align="center">
     <h2>
@@ -3341,19 +3341,19 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_31_03_2024-09_09_02.png" />
+  <img src="images/showcase/Rin_31_03_2024-19_45_02.png" />
 </details>
 <details align="center">
   <summary>Marchth</summary>
-  <img src="images/showcase/March-7th_31_03_2024-09_09_03.png" />
+  <img src="images/showcase/March-7th_31_03_2024-19_45_03.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan-Heng_31_03_2024-09_09_03.png" />
+  <img src="images/showcase/Dan-Heng_31_03_2024-19_45_03.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_31_03_2024-09_09_03.png" />
+  <img src="images/showcase/Asta_31_03_2024-19_45_03.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
