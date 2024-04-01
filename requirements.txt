@@ -5,3 +5,4 @@ python-dotenv
 pytz
 requests
 bs4
+qrcode[pil]
