@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 01, 2024 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 02, 2024 08:16 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_01_04_2024-19_34_38.png" />
+    <img src="images/profile/Joy_02_04_2024-08_16_54.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>323</td>
+        <td>324</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>665 (rate -93)</td>
+        <td>730 (rate -93)</td>
       </tr>
       <tr>
         <td>
@@ -83,13 +83,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>12 (rate -65)</td>
+        <td>18 (rate -48)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 540 (81%)<br />Other: 60 (10%)<br />Daily Activity: 60
-          (9%)<br />Event: 0 (0%)<br />Adventure Rewards: 5 (0%)<br />Simulated
+          Forgotten Hall: 540 (73%)<br />Daily Activity: 120 (16%)<br />Other:
+          60 (10%)<br />Adventure Rewards: 10 (1%)<br />Event: 0 (0%)<br />Simulated
           Universe: 0 (0%)<br />Mail: 0 (0%)<br />
         </td>
       </tr>
@@ -1018,7 +1018,7 @@
       <table>
         <tr>
           <th><h3>Trailblazer</h3></th>
-          <th><h3>Landau's Choice</h3></th>
+          <th><h3>Trend of the Universal Market</h3></th>
         </tr>
         <tr>
           <td>
@@ -1031,7 +1031,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/bbce4259c1a7268a0c61b0562d801be0.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/3e6e39a4ce3dfa6c6045ef826878448e.png"
               />
             </p>
           </td>
@@ -1090,11 +1090,11 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/79bce80fdef07d2fc1cdbacf9f7e9409.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/1a20ac0edda5657d30c0a5f329cd94d8.png"
                     ,
                     height="18"
                   />
-                  Penacony's Grand Hotel<br /><img
+                  Insumousu's Whalefall Ship<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/7768ddc5175f5f711c0809c4181ca840.png"
                     ,
                     height="18"
@@ -1108,15 +1108,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Landau's Choice</td>
+                <td>Trend of the Universal Market</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -1573,7 +1573,7 @@
       <table>
         <tr>
           <th><h3>Gepard</h3></th>
-          <th><h3>Trend of the Universal Market</h3></th>
+          <th><h3>Landau's Choice</h3></th>
         </tr>
         <tr>
           <td>
@@ -1586,7 +1586,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/3e6e39a4ce3dfa6c6045ef826878448e.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/bbce4259c1a7268a0c61b0562d801be0.png"
               />
             </p>
           </td>
@@ -1645,11 +1645,11 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/1a20ac0edda5657d30c0a5f329cd94d8.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/79bce80fdef07d2fc1cdbacf9f7e9409.png"
                     ,
                     height="18"
                   />
-                  Insumousu's Whalefall Ship<br /><img
+                  Penacony's Grand Hotel<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/7768ddc5175f5f711c0809c4181ca840.png"
                     ,
                     height="18"
@@ -1663,15 +1663,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Trend of the Universal Market</td>
+                <td>Landau's Choice</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -3598,7 +3598,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_01_04_2024-19_33_36.png" />
+    <img src="images/profile/genshin_profile_02_04_2024-08_15_59.png" />
   </div>
   <div align="center">
     <h2>
@@ -3607,17 +3607,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -10132,44 +10132,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_01_04_2024-19_33_12.png" />
+  <img src="images/showcase/genshin_card_02_04_2024-08_15_36.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_01_04_2024-19_33_13.png" />
+  <img src="images/showcase/genshin_card_02_04_2024-08_15_37.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
+  <summary>Acheron</summary>
+  <img src="images/showcase/Acheron_02_04_2024-08_16_31.png" />
+</details>
+<details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_01_04_2024-19_34_10.png" />
+  <img src="images/showcase/Jingliu_02_04_2024-08_16_31.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_01_04_2024-19_34_11.png" />
-</details>
-<details align="center">
-  <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_01_04_2024-19_34_12.png" />
+  <img src="images/showcase/Ruan-Mei_02_04_2024-08_16_32.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_01_04_2024-19_34_12.png" />
+  <img src="images/showcase/Kafka_02_04_2024-08_16_33.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_01_04_2024-19_34_13.png" />
+  <img src="images/showcase/Huohuo_02_04_2024-08_16_33.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_01_04_2024-19_34_13.png" />
+  <img src="images/showcase/Seele_02_04_2024-08_16_34.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_01_04_2024-19_34_14.png" />
+  <img src="images/showcase/Himeko_02_04_2024-08_16_34.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_01_04_2024-19_34_14.png" />
+  <img src="images/showcase/Bronya_02_04_2024-08_16_35.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
