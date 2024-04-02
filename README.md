@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 02, 2024 08:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 02, 2024 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_02_04_2024-08_16_54.png" />
+    <img src="images/profile/Joy_02_04_2024-19_33_27.png" />
   </div>
   <div align="center">
     <h2>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>730 (rate -93)</td>
+        <td>845 (rate -92)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>18 (rate -48)</td>
+        <td>19 (rate -45)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 540 (73%)<br />Daily Activity: 120 (16%)<br />Other:
-          60 (10%)<br />Adventure Rewards: 10 (1%)<br />Event: 0 (0%)<br />Simulated
-          Universe: 0 (0%)<br />Mail: 0 (0%)<br />
+          Forgotten Hall: 540 (63%)<br />Daily Activity: 120 (14%)<br />Simulated
+          Universe: 115 (13%)<br />Other: 60 (9%)<br />Adventure Rewards: 10
+          (1%)<br />Event: 0 (0%)<br />Mail: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -352,7 +352,7 @@
       <table>
         <tr>
           <th><h3>Kafka</h3></th>
-          <th><h3>Good Night and Sleep Well</h3></th>
+          <th><h3>In the Name of the World</h3></th>
         </tr>
         <tr>
           <td>
@@ -365,7 +365,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/3df1e65006215d8a2fe477155e7046a0.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/641cbe07d0d7211765ca6257fca464bb.png"
               />
             </p>
           </td>
@@ -442,15 +442,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Good Night and Sleep Well</td>
+                <td>In the Name of the World</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>3</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -1129,7 +1129,7 @@
       <table>
         <tr>
           <th><h3>Acheron</h3></th>
-          <th><h3>In the Name of the World</h3></th>
+          <th><h3>Good Night and Sleep Well</h3></th>
         </tr>
         <tr>
           <td>
@@ -1142,7 +1142,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/641cbe07d0d7211765ca6257fca464bb.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/3df1e65006215d8a2fe477155e7046a0.png"
               />
             </p>
           </td>
@@ -1219,7 +1219,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>In the Name of the World</td>
+                <td>Good Night and Sleep Well</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1227,7 +1227,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -3598,7 +3598,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_02_04_2024-08_15_59.png" />
+    <img src="images/profile/genshin_profile_02_04_2024-19_32_28.png" />
   </div>
   <div align="center">
     <h2>
@@ -10132,44 +10132,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_02_04_2024-08_15_36.png" />
+  <img src="images/showcase/genshin_card_02_04_2024-19_32_03.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_02_04_2024-08_15_37.png" />
+  <img src="images/showcase/genshin_card_02_04_2024-19_32_04.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_02_04_2024-08_16_31.png" />
+  <img src="images/showcase/Acheron_02_04_2024-19_32_59.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_02_04_2024-08_16_31.png" />
+  <img src="images/showcase/Jingliu_02_04_2024-19_32_59.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_02_04_2024-08_16_32.png" />
+  <img src="images/showcase/Ruan-Mei_02_04_2024-19_33_00.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_02_04_2024-08_16_33.png" />
+  <img src="images/showcase/Kafka_02_04_2024-19_33_00.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_02_04_2024-08_16_33.png" />
+  <img src="images/showcase/Huohuo_02_04_2024-19_33_01.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_02_04_2024-08_16_34.png" />
+  <img src="images/showcase/Seele_02_04_2024-19_33_02.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_02_04_2024-08_16_34.png" />
+  <img src="images/showcase/Himeko_02_04_2024-19_33_02.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_02_04_2024-08_16_35.png" />
+  <img src="images/showcase/Bronya_02_04_2024-19_33_03.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
