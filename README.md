@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 04, 2024 19:33 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 05, 2024 08:13 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_04_04_2024-19_33_37.png" />
+    <img src="images/profile/Joy_05_04_2024-08_13_38.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Canned Soda
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>326</td>
+        <td>327</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>429</td>
+        <td>431</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1275 (rate -88)</td>
+        <td>1715 (rate -84)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 540 (42%)<br />Adventure Rewards: 320 (25%)<br />Daily
-          Activity: 240 (18%)<br />Simulated Universe: 115 (9%)<br />Other: 60
-          (6%)<br />Event: 0 (0%)<br />Mail: 0 (0%)<br />
+          Forgotten Hall: 540 (31%)<br />Adventure Rewards: 440 (25%)<br />Daily
+          Activity: 300 (17%)<br />Simulated Universe: 275 (16%)<br />Other: 60
+          (6%)<br />Mail: 100 (5%)<br />Event: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -574,7 +574,7 @@
       <table>
         <tr>
           <th><h3>Seele</h3></th>
-          <th><h3>Only Silence Remains</h3></th>
+          <th><h3>Cruising in the Stellar Sea</h3></th>
         </tr>
         <tr>
           <td>
@@ -587,7 +587,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/060288a384673bec95af10950f0ac61e.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/66a60b314c762c771d309f8a117f3c22.png"
               />
             </p>
           </td>
@@ -664,15 +664,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Only Silence Remains</td>
+                <td>Cruising in the Stellar Sea</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -1129,7 +1129,7 @@
       <table>
         <tr>
           <th><h3>Acheron</h3></th>
-          <th><h3>Good Night and Sleep Well</h3></th>
+          <th><h3>Along the Passing Shore</h3></th>
         </tr>
         <tr>
           <td>
@@ -1142,7 +1142,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/3df1e65006215d8a2fe477155e7046a0.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/564637daaec2b6b4807a6b22e338ebc0.png"
               />
             </p>
           </td>
@@ -1219,7 +1219,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Good Night and Sleep Well</td>
+                <td>Along the Passing Shore</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1227,7 +1227,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -1240,7 +1240,7 @@
       <table>
         <tr>
           <th><h3>Dr. Ratio</h3></th>
-          <th><h3>Cruising in the Stellar Sea</h3></th>
+          <th><h3>Only Silence Remains</h3></th>
         </tr>
         <tr>
           <td>
@@ -1253,7 +1253,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/66a60b314c762c771d309f8a117f3c22.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/060288a384673bec95af10950f0ac61e.png"
               />
             </p>
           </td>
@@ -1330,15 +1330,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Cruising in the Stellar Sea</td>
+                <td>Only Silence Remains</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -2234,7 +2234,7 @@
       <table>
         <tr>
           <th><h3>Welt</h3></th>
-          <th><h3></h3></th>
+          <th><h3>Good Night and Sleep Well</h3></th>
         </tr>
         <tr>
           <td>
@@ -2245,7 +2245,11 @@
             </p>
           </td>
           <td>
-            <p align="center"><img src="" /></p>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ud82rb/3df1e65006215d8a2fe477155e7046a0.png"
+              />
+            </p>
           </td>
         </tr>
         <tr>
@@ -2282,15 +2286,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td></td>
+                <td>Good Night and Sleep Well</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td></td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td></td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -3598,7 +3602,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_04_04_2024-19_32_35.png" />
+    <img src="images/profile/genshin_profile_05_04_2024-08_12_40.png" />
   </div>
   <div align="center">
     <h2>
@@ -3607,17 +3611,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
             height="20"
           />
-          Primogem
+          Sweet Madame
         </td>
       </tr>
     </table>
@@ -10132,44 +10136,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_04_04_2024-19_31_09.png" />
+  <img src="images/showcase/genshin_card_05_04_2024-08_12_14.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_04_04_2024-19_31_10.png" />
+  <img src="images/showcase/genshin_card_05_04_2024-08_12_15.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_04_04_2024-19_33_05.png" />
+  <img src="images/showcase/Acheron_05_04_2024-08_13_10.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_04_04_2024-19_33_06.png" />
+  <img src="images/showcase/Jingliu_05_04_2024-08_13_11.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_04_04_2024-19_33_07.png" />
+  <img src="images/showcase/Ruan-Mei_05_04_2024-08_13_12.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_04_04_2024-19_33_07.png" />
+  <img src="images/showcase/Kafka_05_04_2024-08_13_12.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_04_04_2024-19_33_08.png" />
+  <img src="images/showcase/Huohuo_05_04_2024-08_13_13.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_04_04_2024-19_33_08.png" />
+  <img src="images/showcase/Seele_05_04_2024-08_13_13.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_04_04_2024-19_33_09.png" />
+  <img src="images/showcase/Himeko_05_04_2024-08_13_14.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_04_04_2024-19_33_09.png" />
+  <img src="images/showcase/Bronya_05_04_2024-08_13_14.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
