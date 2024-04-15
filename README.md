@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 14, 2024 21:48 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 15, 2024 10:31 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_14_04_2024-21_48_45.png" />
+    <img src="images/profile/Joy_15_04_2024-10_31_52.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
             height="20"
           />
-          Credit
+          Energy Drink (sugar-free)
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>336</td>
+        <td>337</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -92,27 +92,6 @@
           Universe: 500 (17%)<br />Adventure Rewards: 445 (15%)<br />Other: 60
           (7%)<br />Event: 160 (5%)<br />Mail: 140 (4%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1012</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>Eve of Wanton Feast (11)</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>6</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>33</td>
       </tr>
     </table>
   </div>
@@ -3640,7 +3619,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_14_04_2024-21_47_49.png" />
+    <img src="images/profile/genshin_profile_15_04_2024-10_30_56.png" />
   </div>
   <div align="center">
     <h2>
@@ -3649,17 +3628,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          5 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -10174,44 +10153,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_14_04_2024-21_47_25.png" />
+  <img src="images/showcase/genshin_card_15_04_2024-10_30_32.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_14_04_2024-21_47_26.png" />
+  <img src="images/showcase/genshin_card_15_04_2024-10_30_34.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_14_04_2024-21_48_19.png" />
+  <img src="images/showcase/Acheron_15_04_2024-10_31_26.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_14_04_2024-21_48_20.png" />
+  <img src="images/showcase/Jingliu_15_04_2024-10_31_27.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_14_04_2024-21_48_20.png" />
+  <img src="images/showcase/Ruan-Mei_15_04_2024-10_31_27.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_14_04_2024-21_48_21.png" />
+  <img src="images/showcase/Kafka_15_04_2024-10_31_28.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_14_04_2024-21_48_21.png" />
+  <img src="images/showcase/Huohuo_15_04_2024-10_31_28.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_14_04_2024-21_48_22.png" />
+  <img src="images/showcase/Seele_15_04_2024-10_31_29.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_14_04_2024-21_48_22.png" />
+  <img src="images/showcase/Himeko_15_04_2024-10_31_29.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_14_04_2024-21_48_23.png" />
+  <img src="images/showcase/Bronya_15_04_2024-10_31_30.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
