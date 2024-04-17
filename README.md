@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 16, 2024 19:33 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 17, 2024 08:14 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_16_04_2024-19_33_35.png" />
+    <img src="images/profile/Joy_17_04_2024-08_14_13.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>338</td>
+        <td>339</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>432</td>
+        <td>433</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -2481,26 +2481,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/ba177ce7f8a288b7d2705267f18ae26f.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5c9bb14941b3e4540ba52fca390471e2.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Sealed Muzzle<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/36dda40b6e96c3ab8c7d16b3e41c173e.png"
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/a96dd1d6076271a0a4e7cc0d267aaad0.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Leadstone Shackles<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/741d929f1cff22afa213eba567ebfe80.png"
+                  Thief's Gloves With Prints<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/875471082186d8a6d83db96cbec200e2.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Repressive Straitjacket<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/e286ef62f636cebfc0984e51ff2be9e8.png"
+                  Musketeer's Wind-Hunting Shawl<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/50bb26e8e69275186f3b0b76cca69ee5.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Restrictive Fetters<br />
+                  Band's Ankle Boots With Rivets<br />
                 </td>
               </tr>
               <tr>
@@ -2665,42 +2665,42 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5c9bb14941b3e4540ba52fca390471e2.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/ba177ce7f8a288b7d2705267f18ae26f.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/a96dd1d6076271a0a4e7cc0d267aaad0.png"
+                  Prisoner's Sealed Muzzle<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/36dda40b6e96c3ab8c7d16b3e41c173e.png"
                     ,
                     height="18"
                   />
-                  Thief's Gloves With Prints<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/875471082186d8a6d83db96cbec200e2.png"
+                  Prisoner's Leadstone Shackles<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/741d929f1cff22afa213eba567ebfe80.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/50bb26e8e69275186f3b0b76cca69ee5.png"
+                  Prisoner's Repressive Straitjacket<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/e286ef62f636cebfc0984e51ff2be9e8.png"
                     ,
                     height="18"
                   />
-                  Band's Ankle Boots With Rivets<br />
+                  Prisoner's Restrictive Fetters<br />
                 </td>
               </tr>
               <tr>
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/d68a1967c3678704bfcc5e6581c78440.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/949bc8d9d9df89bef776097ba08891c9.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/ee390da76225b0aba06eb2cf39b77efb.png"
+                  Herta's Space Station<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/f12f4ffd7d45abd110ece0e8086ac7de.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                  Herta's Wandering Trek<br />
                 </td>
               </tr>
             </table>
@@ -2807,11 +2807,11 @@
                     height="18"
                   />
                   Herta's Space Station<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/f12f4ffd7d45abd110ece0e8086ac7de.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/ee390da76225b0aba06eb2cf39b77efb.png"
                     ,
                     height="18"
                   />
-                  Herta's Wandering Trek<br />
+                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
                 </td>
               </tr>
             </table>
@@ -3619,7 +3619,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_16_04_2024-19_32_32.png" />
+    <img src="images/profile/genshin_profile_17_04_2024-08_13_17.png" />
   </div>
   <div align="center">
     <h2>
@@ -3628,17 +3628,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -10153,44 +10153,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_16_04_2024-19_31_57.png" />
+  <img src="images/showcase/genshin_card_17_04_2024-08_12_53.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_16_04_2024-19_31_58.png" />
+  <img src="images/showcase/genshin_card_17_04_2024-08_12_54.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_16_04_2024-19_33_03.png" />
+  <img src="images/showcase/Acheron_17_04_2024-08_13_48.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_16_04_2024-19_33_03.png" />
+  <img src="images/showcase/Jingliu_17_04_2024-08_13_48.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_16_04_2024-19_33_04.png" />
+  <img src="images/showcase/Ruan-Mei_17_04_2024-08_13_49.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_16_04_2024-19_33_04.png" />
+  <img src="images/showcase/Kafka_17_04_2024-08_13_49.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_16_04_2024-19_33_05.png" />
+  <img src="images/showcase/Huohuo_17_04_2024-08_13_50.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_16_04_2024-19_33_06.png" />
+  <img src="images/showcase/Seele_17_04_2024-08_13_51.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_16_04_2024-19_33_06.png" />
+  <img src="images/showcase/Himeko_17_04_2024-08_13_51.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_16_04_2024-19_33_07.png" />
+  <img src="images/showcase/Bronya_17_04_2024-08_13_52.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
