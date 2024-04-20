@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 20, 2024 08:14 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 20, 2024 19:30 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_20_04_2024-08_14_10.png" />
+    <img src="images/profile/Joy_20_04_2024-19_30_46.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>341</td>
+        <td>342</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4410 (rate -60)</td>
+        <td>4590 (rate -58)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1140 (25%)<br />Forgotten Hall: 1140 (25%)<br />Simulated
-          Universe: 805 (18%)<br />Event: 540 (12%)<br />Adventure Rewards: 535
-          (12%)<br />Mail: 190 (4%)<br />Other: 60 (4%)<br />
+          Daily Activity: 1200 (26%)<br />Forgotten Hall: 1140 (24%)<br />Simulated
+          Universe: 805 (17%)<br />Event: 540 (11%)<br />Adventure Rewards: 535
+          (11%)<br />Mail: 310 (6%)<br />Other: 60 (5%)<br />
         </td>
       </tr>
     </table>
@@ -953,26 +953,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/dec56511e988918bab947e3434a6df48.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/cba9dc0f09331feea36d90d8594dae6b.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Obsidian Goggles<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/f2beb5778e499962d5040b407c6542bd.png"
+                  Grand Duke's Crown of Netherflame<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/94258a57e597131481d214d88c886221.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/60af9a8ad89115045434865cc0dd99df.png"
+                  Grand Duke's Gloves of Fieryfur<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5983e6304cb7a01d1fa6d1213726adfc.png"
                     ,
                     height="18"
                   />
-                  Firesmith's Fireproof Apron<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/949e00a8ceb924f1fc00323b4fdd3461.png"
+                  Grand Duke's Robe of Grace<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/46e7d869097d85aa66c163f2a7fd5680.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  Grand Duke's Ceremonial Boots<br />
                 </td>
               </tr>
               <tr>
@@ -1180,11 +1180,11 @@
                     height="18"
                   />
                   Grand Duke's Crown of Netherflame<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/94258a57e597131481d214d88c886221.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/f2beb5778e499962d5040b407c6542bd.png"
                     ,
                     height="18"
                   />
-                  Grand Duke's Gloves of Fieryfur<br /><img
+                  Musketeer's Coarse Leather Gloves<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/741d929f1cff22afa213eba567ebfe80.png"
                     ,
                     height="18"
@@ -3640,7 +3640,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_20_04_2024-08_13_13.png" />
+    <img src="images/profile/genshin_profile_20_04_2024-19_29_51.png" />
   </div>
   <div align="center">
     <h2>
@@ -10174,44 +10174,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_20_04_2024-08_12_48.png" />
+  <img src="images/showcase/genshin_card_20_04_2024-19_29_25.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_20_04_2024-08_12_49.png" />
+  <img src="images/showcase/genshin_card_20_04_2024-19_29_27.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_20_04_2024-08_13_42.png" />
+  <img src="images/showcase/Acheron_20_04_2024-19_30_20.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_20_04_2024-08_13_43.png" />
+  <img src="images/showcase/Jingliu_20_04_2024-19_30_20.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_20_04_2024-08_13_43.png" />
+  <img src="images/showcase/Ruan-Mei_20_04_2024-19_30_21.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_20_04_2024-08_13_44.png" />
+  <img src="images/showcase/Kafka_20_04_2024-19_30_22.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_20_04_2024-08_13_44.png" />
+  <img src="images/showcase/Huohuo_20_04_2024-19_30_22.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_20_04_2024-08_13_45.png" />
+  <img src="images/showcase/Seele_20_04_2024-19_30_23.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_20_04_2024-08_13_46.png" />
+  <img src="images/showcase/Himeko_20_04_2024-19_30_23.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_20_04_2024-08_13_46.png" />
+  <img src="images/showcase/Bronya_20_04_2024-19_30_24.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
