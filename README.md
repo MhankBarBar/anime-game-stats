@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 29, 2024 08:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 29, 2024 19:34 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_29_04_2024-08_16_57.png" />
+    <img src="images/profile/Joy_29_04_2024-19_34_36.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>350</td>
+        <td>351</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -3640,7 +3640,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_29_04_2024-08_15_49.png" />
+    <img src="images/profile/genshin_profile_29_04_2024-19_33_40.png" />
   </div>
   <div align="center">
     <h2>
@@ -4068,7 +4068,7 @@
           />
           Primogems earned
         </td>
-        <td>2119 (rate 0)</td>
+        <td>2319 (rate 8)</td>
       </tr>
       <tr>
         <td>
@@ -4078,13 +4078,13 @@
           />
           Mora earned
         </td>
-        <td>637882 (rate -61)</td>
+        <td>748989 (rate -54)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1020 (49%)<br />Events: 860 (41%)<br />Daily Activity: 180
-          (8%)<br />Adventure: 35 (1%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0
+          Events: 1000 (44%)<br />Mail: 1020 (44%)<br />Daily Activity: 240
+          (10%)<br />Adventure: 35 (1%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0
           (0%)<br />Other: 24 (1%)<br />
         </td>
       </tr>
@@ -10083,6 +10083,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Shikanoin Heizou</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Shikanoin Heizou</h3></th>
+          <th><h3 align="center">Apprentice's Notes</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Heizo.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/7d69f0a07d8701def5ccedf52fd1448f.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Apprentice's Notes</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Gaming</b></summary>
       <br />
       <table>
@@ -10169,136 +10256,49 @@
         </tr>
       </table>
     </details>
-    <details>
-      <summary><b>Shikanoin Heizou</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Shikanoin Heizou</h3></th>
-          <th><h3 align="center">Apprentice's Notes</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Heizo.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/7d69f0a07d8701def5ccedf52fd1448f.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Apprentice's Notes</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
   </div>
 </details>
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_29_04_2024-08_15_24.png" />
+  <img src="images/showcase/genshin_card_29_04_2024-19_33_16.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_29_04_2024-08_15_25.png" />
+  <img src="images/showcase/genshin_card_29_04_2024-19_33_17.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_29_04_2024-08_16_25.png" />
+  <img src="images/showcase/Acheron_29_04_2024-19_34_09.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_29_04_2024-08_16_26.png" />
+  <img src="images/showcase/Jingliu_29_04_2024-19_34_10.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_29_04_2024-08_16_27.png" />
+  <img src="images/showcase/Ruan-Mei_29_04_2024-19_34_10.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_29_04_2024-08_16_27.png" />
+  <img src="images/showcase/Kafka_29_04_2024-19_34_11.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_29_04_2024-08_16_28.png" />
+  <img src="images/showcase/Huohuo_29_04_2024-19_34_11.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_29_04_2024-08_16_28.png" />
+  <img src="images/showcase/Seele_29_04_2024-19_34_12.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_29_04_2024-08_16_29.png" />
+  <img src="images/showcase/Himeko_29_04_2024-19_34_12.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_29_04_2024-08_16_29.png" />
+  <img src="images/showcase/Bronya_29_04_2024-19_34_13.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
