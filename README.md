@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 30, 2024 08:15 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 30, 2024 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_30_04_2024-08_15_23.png" />
+    <img src="images/profile/Joy_30_04_2024-19_33_19.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>351</td>
+        <td>352</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>7530 (rate -31)</td>
+        <td>8130 (rate -26)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2430 (32%)<br />Daily Activity: 1740 (23%)<br />Forgotten Hall:
-          1140 (15%)<br />Simulated Universe: 1030 (13%)<br />Event: 540 (7%)<br />Adventure
-          Rewards: 590 (7%)<br />Other: 60 (3%)<br />
+          Mail: 2430 (29%)<br />Daily Activity: 1800 (22%)<br />Forgotten Hall:
+          1680 (20%)<br />Simulated Universe: 1030 (12%)<br />Adventure Rewards:
+          590 (7%)<br />Event: 540 (6%)<br />Other: 60 (4%)<br />
         </td>
       </tr>
     </table>
@@ -1180,11 +1180,11 @@
                     height="18"
                   />
                   Grand Duke's Crown of Netherflame<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9c884fd1bd2c97cbe766ba759e748f35.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9bac2a639e093f54d8766f4fe4baf538.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
+                  Grand Duke's Gloves of Fieryfur<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/a7e128b21a285bb992874ca86ab86d07.png"
                     ,
                     height="18"
@@ -1201,16 +1201,16 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/f69747f8f84f21779ed98db781824fc1.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/44f2e331b1d2395257f64f75c823ea2f.png"
                     ,
                     height="18"
                   />
-                  Glamoth's Iron Cavalry Regiment<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/c04890a81367dc00766483320173520e.png"
+                  Salsotto's Moving City<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/f4cb11c6318041aa193a01713c6610e3.png"
                     ,
                     height="18"
                   />
-                  Glamoth's Silent Tombstone<br />
+                  Salsotto's Terminator Line<br />
                 </td>
               </tr>
             </table>
@@ -1312,11 +1312,11 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/44f2e331b1d2395257f64f75c823ea2f.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/f69747f8f84f21779ed98db781824fc1.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Moving City<br /><img
+                  Glamoth's Iron Cavalry Regiment<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e95981c4a6dcb7d1af9ae882fcafcf78.png"
                     ,
                     height="18"
@@ -1539,11 +1539,11 @@
                     height="18"
                   />
                   Taikiyan Laser Stadium<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/f4cb11c6318041aa193a01713c6610e3.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/c04890a81367dc00766483320173520e.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Terminator Line<br />
+                  Glamoth's Silent Tombstone<br />
                 </td>
               </tr>
             </table>
@@ -3640,7 +3640,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_30_04_2024-08_14_26.png" />
+    <img src="images/profile/genshin_profile_30_04_2024-19_32_24.png" />
   </div>
   <div align="center">
     <h2>
@@ -10261,44 +10261,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_30_04_2024-08_14_02.png" />
+  <img src="images/showcase/genshin_card_30_04_2024-19_32_00.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_30_04_2024-08_14_03.png" />
+  <img src="images/showcase/genshin_card_30_04_2024-19_32_01.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_30_04_2024-08_14_56.png" />
+  <img src="images/showcase/Acheron_30_04_2024-19_32_53.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_30_04_2024-08_14_57.png" />
+  <img src="images/showcase/Jingliu_30_04_2024-19_32_54.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_30_04_2024-08_14_57.png" />
+  <img src="images/showcase/Ruan-Mei_30_04_2024-19_32_54.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_30_04_2024-08_14_58.png" />
+  <img src="images/showcase/Kafka_30_04_2024-19_32_55.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_30_04_2024-08_14_58.png" />
+  <img src="images/showcase/Huohuo_30_04_2024-19_32_55.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_30_04_2024-08_14_59.png" />
+  <img src="images/showcase/Seele_30_04_2024-19_32_56.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_30_04_2024-08_15_00.png" />
+  <img src="images/showcase/Himeko_30_04_2024-19_32_56.png" />
 </details>
 <details align="center">
   <summary>Bronya</summary>
-  <img src="images/showcase/Bronya_30_04_2024-08_15_00.png" />
+  <img src="images/showcase/Bronya_30_04_2024-19_32_57.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
