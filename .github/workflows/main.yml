@@ -26,7 +26,7 @@ jobs:
         env:
           COOKIES: ${{ secrets.COOKIES }}
         run: |
-          python main.py -o README.md
+          python main.py -o README.md -si
       - name: Format with prettier
         run: |
           npx prettier README.md --write --parser html
