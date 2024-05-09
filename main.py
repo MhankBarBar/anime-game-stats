@@ -203,7 +203,7 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument("-o", "--output", default=DEFAULT_OUTPUT_PATH, type=pathlib.Path)
     parser.add_argument("-c", "--cookies", default=None)
     parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
-    parser.add_argument("-si", "--skip-images", default=False)
+    parser.add_argument("-si", "--skip-images", action="store_true")
     return parser.parse_args()
 
 
