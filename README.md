@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 10, 2024 08:15 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 10, 2024 19:32 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>361</td>
+        <td>362</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3913 (rate -51)</td>
+        <td>4094 (rate -49)</td>
       </tr>
       <tr>
         <td>
@@ -79,14 +79,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>16 (rate -38)</td>
+        <td>18 (rate -30)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1595 (40%)<br />Mail: 810 (20%)<br />Event: 680
-          (17%)<br />Daily Activity: 480 (12%)<br />Simulated Universe: 340
-          (8%)<br />Other: 8 (3%)<br />Forgotten Hall: 0 (0%)<br />
+          Adventure Rewards: 1595 (38%)<br />Mail: 810 (19%)<br />Event: 680
+          (16%)<br />Daily Activity: 540 (13%)<br />Simulated Universe: 340
+          (8%)<br />Other: 9 (4%)<br />Forgotten Hall: 120 (2%)<br />
         </td>
       </tr>
     </table>
@@ -283,26 +283,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/55735e23e295eff12129a22632788b43.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/b31217fa047dcaac7ee55ff3f582904e.png"
                     ,
                     height="18"
                   />
-                  Genius's Ultraremote Sensing Visor<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/2b1f99dbf60119b1fd16b8833fd83db4.png"
+                  Hunter's Artaius Hood<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/4e24c54703cd2b6d6a229173e2a8349f.png"
                     ,
                     height="18"
                   />
-                  Genius's Frequency Catcher<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/19b983a0116e5ff7b905dd04b507274a.png"
+                  Hunter's Lizard Gloves<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c0a481216ccda1e1e3394be6cf7f5f4b.png"
                     ,
                     height="18"
                   />
-                  Genius's Metafield Suit<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/ddc747fcf02105ad24a40e635d2709c9.png"
+                  Hunter's Ice Dragon Cloak<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/6562fe89d4ea41c727883487c0820bb8.png"
                     ,
                     height="18"
                   />
-                  Genius's Gravity Walker<br />
+                  Hunter's Soft Elkskin Boots<br />
                 </td>
               </tr>
               <tr>
@@ -681,7 +681,7 @@
       <table>
         <tr>
           <th><h3>Seele</h3></th>
-          <th><h3>Cruising in the Stellar Sea</h3></th>
+          <th><h3>Only Silence Remains</h3></th>
         </tr>
         <tr>
           <td>
@@ -694,7 +694,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/49b4f67d08617d961f9248f128f00bf3.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/1fdf25731f172b33f21c1fb64c3a7377.png"
               />
             </p>
           </td>
@@ -771,15 +771,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Cruising in the Stellar Sea</td>
+                <td>Only Silence Remains</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -1108,7 +1108,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1125,7 +1125,7 @@
       <table>
         <tr>
           <th><h3>Dr. Ratio</h3></th>
-          <th><h3>Only Silence Remains</h3></th>
+          <th><h3>Cruising in the Stellar Sea</h3></th>
         </tr>
         <tr>
           <td>
@@ -1138,7 +1138,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/1fdf25731f172b33f21c1fb64c3a7377.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/49b4f67d08617d961f9248f128f00bf3.png"
               />
             </p>
           </td>
@@ -1171,26 +1171,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/b06357c8e1978775241be59575c776ff.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/ccffd93547a079fe4ed8c387566ae6d4.png"
                     ,
                     height="18"
                   />
-                  Grand Duke's Crown of Netherflame<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/567d3823d92af9f8d551a5a71b094c27.png"
+                  Pioneer's Heatproof Shell<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/8e82c5cc34972d3d65af5b46822fdd3f.png"
                     ,
                     height="18"
                   />
-                  Grand Duke's Gloves of Fieryfur<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/0a1b3324252c482e5dc0f113f4bd27a3.png"
+                  Pioneer's Lacuna Compass<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/3ddf03daebececd06e7e6287537c844f.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Repressive Straitjacket<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/f2432d60a9a005a4720182f4a7299356.png"
+                  Pioneer's Sealed Lead Apron<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/ec419d09ba33e2344a6cd802c68de8c7.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Restrictive Fetters<br />
+                  Pioneer's Starfaring Anchor<br />
                 </td>
               </tr>
               <tr>
@@ -1215,15 +1215,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Only Silence Remains</td>
+                <td>Cruising in the Stellar Sea</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
