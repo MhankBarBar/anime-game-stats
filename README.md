@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 10, 2024 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 11, 2024 08:14 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -17,17 +17,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Adventure Log
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>362</td>
+        <td>363</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -52,11 +52,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>450</td>
+        <td>455</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>575</td>
+        <td>576</td>
       </tr>
     </table>
   </div>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4094 (rate -49)</td>
+        <td>4199 (rate -48)</td>
       </tr>
       <tr>
         <td>
@@ -79,14 +79,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>18 (rate -30)</td>
+        <td>19 (rate -26)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1595 (38%)<br />Mail: 810 (19%)<br />Event: 680
-          (16%)<br />Daily Activity: 540 (13%)<br />Simulated Universe: 340
-          (8%)<br />Other: 9 (4%)<br />Forgotten Hall: 120 (2%)<br />
+          Adventure Rewards: 1620 (38%)<br />Mail: 810 (19%)<br />Event: 700
+          (16%)<br />Daily Activity: 600 (14%)<br />Simulated Universe: 340
+          (8%)<br />Other: 9 (3%)<br />Forgotten Hall: 120 (2%)<br />
         </td>
       </tr>
     </table>
@@ -681,7 +681,7 @@
       <table>
         <tr>
           <th><h3>Seele</h3></th>
-          <th><h3>Only Silence Remains</h3></th>
+          <th><h3>Cruising in the Stellar Sea</h3></th>
         </tr>
         <tr>
           <td>
@@ -694,7 +694,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/1fdf25731f172b33f21c1fb64c3a7377.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/49b4f67d08617d961f9248f128f00bf3.png"
               />
             </p>
           </td>
@@ -771,15 +771,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Only Silence Remains</td>
+                <td>Cruising in the Stellar Sea</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -1125,7 +1125,7 @@
       <table>
         <tr>
           <th><h3>Dr. Ratio</h3></th>
-          <th><h3>Cruising in the Stellar Sea</h3></th>
+          <th><h3>Only Silence Remains</h3></th>
         </tr>
         <tr>
           <td>
@@ -1138,7 +1138,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/49b4f67d08617d961f9248f128f00bf3.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/1fdf25731f172b33f21c1fb64c3a7377.png"
               />
             </p>
           </td>
@@ -1215,15 +1215,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Cruising in the Stellar Sea</td>
+                <td>Only Silence Remains</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -3641,17 +3641,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
