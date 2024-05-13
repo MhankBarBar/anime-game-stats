@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 13, 2024 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 13, 2024 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>364</td>
+        <td>365</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -52,7 +52,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>456</td>
+        <td>457</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4634 (rate -43)</td>
+        <td>5194 (rate -36)</td>
       </tr>
       <tr>
         <td>
@@ -79,15 +79,36 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>20 (rate -23)</td>
+        <td>21 (rate -19)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1665 (35%)<br />Event: 800 (17%)<br />Mail: 810
-          (17%)<br />Daily Activity: 660 (14%)<br />Simulated Universe: 450
-          (9%)<br />Forgotten Hall: 240 (5%)<br />Other: 9 (3%)<br />
+          Adventure Rewards: 1665 (32%)<br />Event: 800 (15%)<br />Mail: 830
+          (15%)<br />Daily Activity: 720 (13%)<br />Forgotten Hall: 720 (13%)<br />Simulated
+          Universe: 450 (8%)<br />Other: 9 (4%)<br />
         </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
+    <h2>Memory of Chaos</h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>1014</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>Dream Within Dream Stage 7</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>21</td>
       </tr>
     </table>
   </div>
@@ -2477,26 +2498,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/fb7500c4106d5b0bb234bad6dd0199c7.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/43def1511856b28680ced3f5c9a6320c.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/da76e4af162956ff522cc20b63a3bc95.png"
+                  Prisoner's Sealed Muzzle<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/b4ddda2e6c6a78624c2ab80581136041.png"
                     ,
                     height="18"
                   />
-                  Thief's Gloves With Prints<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5e7c8415fba004060eb8a9847072f675.png"
+                  Prisoner's Leadstone Shackles<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/0a1b3324252c482e5dc0f113f4bd27a3.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a33831a32720d8e789296be805281d82.png"
+                  Prisoner's Repressive Straitjacket<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/f2432d60a9a005a4720182f4a7299356.png"
                     ,
                     height="18"
                   />
-                  Band's Ankle Boots With Rivets<br />
+                  Prisoner's Restrictive Fetters<br />
                 </td>
               </tr>
               <tr>
@@ -2661,16 +2682,16 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/43def1511856b28680ced3f5c9a6320c.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/fb7500c4106d5b0bb234bad6dd0199c7.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Sealed Muzzle<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/b4ddda2e6c6a78624c2ab80581136041.png"
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/da76e4af162956ff522cc20b63a3bc95.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Leadstone Shackles<br /><img
+                  Thief's Gloves With Prints<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/0a1b3324252c482e5dc0f113f4bd27a3.png"
                     ,
                     height="18"
@@ -3510,7 +3531,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Relics</td>
