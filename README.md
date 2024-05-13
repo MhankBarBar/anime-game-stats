@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 12, 2024 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 13, 2024 08:17 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -17,17 +17,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Condensed Aether
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4524 (rate -44)</td>
+        <td>4634 (rate -43)</td>
       </tr>
       <tr>
         <td>
@@ -84,31 +84,10 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1665 (36%)<br />Event: 800 (17%)<br />Mail: 810
-          (17%)<br />Daily Activity: 660 (14%)<br />Simulated Universe: 340
-          (7%)<br />Forgotten Hall: 240 (5%)<br />Other: 9 (4%)<br />
+          Adventure Rewards: 1665 (35%)<br />Event: 800 (17%)<br />Mail: 810
+          (17%)<br />Daily Activity: 660 (14%)<br />Simulated Universe: 450
+          (9%)<br />Forgotten Hall: 240 (5%)<br />Other: 9 (3%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1013</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>White Night Chronicles Stage 10</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>8</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>30</td>
       </tr>
     </table>
   </div>
@@ -3641,17 +3620,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fried Radish Balls
+          Adventurer's Experience
         </td>
       </tr>
     </table>
