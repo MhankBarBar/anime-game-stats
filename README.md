@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 14, 2024 08:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 14, 2024 19:34 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -44,19 +44,19 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>365</td>
+        <td>366</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>36</td>
+        <td>37</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>457</td>
+        <td>458</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>576</td>
+        <td>577</td>
       </tr>
     </table>
   </div>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5194 (rate -36)</td>
+        <td>5379 (rate -33)</td>
       </tr>
       <tr>
         <td>
@@ -79,14 +79,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>21 (rate -19)</td>
+        <td>28 (rate 7)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1665 (32%)<br />Event: 800 (15%)<br />Mail: 830
-          (15%)<br />Daily Activity: 720 (13%)<br />Forgotten Hall: 720 (13%)<br />Simulated
-          Universe: 450 (8%)<br />Other: 9 (4%)<br />
+          Adventure Rewards: 1690 (31%)<br />Event: 900 (16%)<br />Mail: 830
+          (15%)<br />Daily Activity: 780 (14%)<br />Forgotten Hall: 720 (13%)<br />Simulated
+          Universe: 450 (8%)<br />Other: 9 (3%)<br />
         </td>
       </tr>
     </table>
@@ -1113,6 +1113,117 @@
               <tr>
                 <td>Superimpose</td>
                 <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Robin </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Robin</h3></th>
+          <th><h3>For Tomorrow's Journey</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/2fad3e484c254c78f915185fe3698829.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/b907ee44446fe06271f43ebe260f1b7a.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/fb7500c4106d5b0bb234bad6dd0199c7.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/2cdf28c9b5a40dfd4c453fd99d45fa91.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Coarse Leather Gloves<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/0a1b3324252c482e5dc0f113f4bd27a3.png"
+                    ,
+                    height="18"
+                  />
+                  Prisoner's Repressive Straitjacket<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/f2432d60a9a005a4720182f4a7299356.png"
+                    ,
+                    height="18"
+                  />
+                  Prisoner's Restrictive Fetters<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/ab04e3f60b91681261d72f07db5a1a93.png"
+                    ,
+                    height="18"
+                  />
+                  The Xianzhou Luofu's Celestial Ark<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/09c3c8c140cf91db00ac9b82e43ff187.png"
+                    ,
+                    height="18"
+                  />
+                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>For Tomorrow's Journey</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -2967,7 +3078,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -3393,7 +3504,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Relics</td>
