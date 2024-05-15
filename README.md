@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 15, 2024 08:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 15, 2024 19:34 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5554 (rate -31)</td>
+        <td>5764 (rate -29)</td>
       </tr>
       <tr>
         <td>
@@ -84,9 +84,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1690 (30%)<br />Event: 900 (16%)<br />Daily
-          Activity: 780 (14%)<br />Forgotten Hall: 780 (14%)<br />Mail: 830
-          (14%)<br />Simulated Universe: 565 (10%)<br />Other: 9 (2%)<br />
+          Adventure Rewards: 1720 (29%)<br />Event: 900 (15%)<br />Forgotten
+          Hall: 900 (15%)<br />Daily Activity: 840 (14%)<br />Mail: 830 (14%)<br />Simulated
+          Universe: 565 (9%)<br />Other: 9 (4%)<br />
         </td>
       </tr>
     </table>
@@ -100,15 +100,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>Dream Within Dream Stage 7</td>
+        <td>Dream Within Dream Stage 9</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>1</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>21</td>
+        <td>27</td>
       </tr>
     </table>
   </div>
@@ -283,26 +283,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/b31217fa047dcaac7ee55ff3f582904e.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/55735e23e295eff12129a22632788b43.png"
                     ,
                     height="18"
                   />
-                  Hunter's Artaius Hood<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/4e24c54703cd2b6d6a229173e2a8349f.png"
+                  Genius's Ultraremote Sensing Visor<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/2b1f99dbf60119b1fd16b8833fd83db4.png"
                     ,
                     height="18"
                   />
-                  Hunter's Lizard Gloves<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c0a481216ccda1e1e3394be6cf7f5f4b.png"
+                  Genius's Frequency Catcher<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/19b983a0116e5ff7b905dd04b507274a.png"
                     ,
                     height="18"
                   />
-                  Hunter's Ice Dragon Cloak<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/6562fe89d4ea41c727883487c0820bb8.png"
+                  Genius's Metafield Suit<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/ddc747fcf02105ad24a40e635d2709c9.png"
                     ,
                     height="18"
                   />
-                  Hunter's Soft Elkskin Boots<br />
+                  Genius's Gravity Walker<br />
                 </td>
               </tr>
               <tr>
