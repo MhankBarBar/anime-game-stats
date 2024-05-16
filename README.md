@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 16, 2024 08:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 16, 2024 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>367</td>
+        <td>368</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5764 (rate -29)</td>
+        <td>5889 (rate -27)</td>
       </tr>
       <tr>
         <td>
@@ -84,9 +84,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1720 (29%)<br />Event: 900 (15%)<br />Forgotten
-          Hall: 900 (15%)<br />Daily Activity: 840 (14%)<br />Mail: 830 (14%)<br />Simulated
-          Universe: 565 (9%)<br />Other: 9 (4%)<br />
+          Adventure Rewards: 1725 (29%)<br />Forgotten Hall: 960 (16%)<br />Daily
+          Activity: 900 (15%)<br />Event: 900 (15%)<br />Mail: 830 (14%)<br />Simulated
+          Universe: 565 (9%)<br />Other: 9 (2%)<br />
         </td>
       </tr>
     </table>
@@ -100,15 +100,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>Dream Within Dream Stage 9</td>
+        <td>Dream Within Dream Stage 10</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>3</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>27</td>
+        <td>30</td>
       </tr>
     </table>
   </div>
