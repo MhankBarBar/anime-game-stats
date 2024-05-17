@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 16, 2024 19:33 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 17, 2024 08:16 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -17,17 +17,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -3752,17 +3752,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -4171,7 +4171,7 @@
           />
           Primogems earned
         </td>
-        <td>560 (rate -75)</td>
+        <td>1060 (rate -54)</td>
       </tr>
       <tr>
         <td>
@@ -4181,14 +4181,14 @@
           />
           Mora earned
         </td>
-        <td>438875 (rate -41)</td>
+        <td>614350 (rate -17)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 450 (81%)<br />Daily Activity: 60 (11%)<br />Mail: 20 (3%)<br />Spiral
+          Events: 870 (83%)<br />Daily Activity: 120 (12%)<br />Mail: 40 (3%)<br />Spiral
           Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
-          30 (5%)<br />
+          30 (2%)<br />
         </td>
       </tr>
     </table>
