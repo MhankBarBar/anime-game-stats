@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 18, 2024 19:31 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 19, 2024 08:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -17,17 +17,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>370</td>
+        <td>371</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -52,11 +52,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>460</td>
+        <td>466</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>577</td>
+        <td>620</td>
       </tr>
     </table>
   </div>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>6710 (rate -17)</td>
+        <td>7586 (rate -6)</td>
       </tr>
       <tr>
         <td>
@@ -84,9 +84,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1825 (27%)<br />Event: 1260 (18%)<br />Daily
-          Activity: 1020 (15%)<br />Forgotten Hall: 1020 (15%)<br />Mail: 830
-          (12%)<br />Simulated Universe: 745 (11%)<br />Other: 10 (2%)<br />
+          Adventure Rewards: 2510 (33%)<br />Event: 1420 (18%)<br />Daily
+          Activity: 1050 (13%)<br />Forgotten Hall: 1020 (13%)<br />Mail: 830
+          (10%)<br />Simulated Universe: 745 (9%)<br />Other: 11 (4%)<br />
         </td>
       </tr>
     </table>
@@ -3752,17 +3752,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
             height="20"
           />
-          Primogem
+          Fisherman's Toast
         </td>
       </tr>
     </table>
