@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 19, 2024 08:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 19, 2024 19:31 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>7586 (rate -6)</td>
+        <td>7696 (rate -5)</td>
       </tr>
       <tr>
         <td>
@@ -84,9 +84,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2510 (33%)<br />Event: 1420 (18%)<br />Daily
-          Activity: 1050 (13%)<br />Forgotten Hall: 1020 (13%)<br />Mail: 830
-          (10%)<br />Simulated Universe: 745 (9%)<br />Other: 11 (4%)<br />
+          Adventure Rewards: 2510 (32%)<br />Event: 1500 (19%)<br />Daily
+          Activity: 1080 (14%)<br />Forgotten Hall: 1020 (13%)<br />Mail: 830
+          (10%)<br />Simulated Universe: 745 (9%)<br />Other: 11 (3%)<br />
         </td>
       </tr>
     </table>
@@ -4171,7 +4171,7 @@
           />
           Primogems earned
         </td>
-        <td>1060 (rate -54)</td>
+        <td>1140 (rate -50)</td>
       </tr>
       <tr>
         <td>
@@ -4181,12 +4181,12 @@
           />
           Mora earned
         </td>
-        <td>614350 (rate -17)</td>
+        <td>673297 (rate -10)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 870 (83%)<br />Daily Activity: 120 (12%)<br />Mail: 40 (3%)<br />Spiral
+          Events: 870 (77%)<br />Daily Activity: 180 (16%)<br />Mail: 60 (5%)<br />Spiral
           Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
           30 (2%)<br />
         </td>
@@ -8796,7 +8796,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Constellation</td>
