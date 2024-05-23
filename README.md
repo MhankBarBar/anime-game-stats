@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 22, 2024 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 23, 2024 08:16 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -17,17 +17,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>22</td>
+        <td>23</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>374</td>
+        <td>375</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -52,11 +52,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>466</td>
+        <td>467</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>624</td>
+        <td>628</td>
       </tr>
     </table>
   </div>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>8411 (rate 3)</td>
+        <td>8557 (rate 5)</td>
       </tr>
       <tr>
         <td>
@@ -84,9 +84,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2620 (31%)<br />Event: 1680 (19%)<br />Daily
-          Activity: 1260 (14%)<br />Forgotten Hall: 1020 (12%)<br />Simulated
-          Universe: 970 (11%)<br />Mail: 850 (10%)<br />Other: 11 (3%)<br />
+          Adventure Rewards: 2705 (31%)<br />Event: 1680 (19%)<br />Daily
+          Activity: 1320 (15%)<br />Simulated Universe: 970 (11%)<br />Forgotten
+          Hall: 1020 (11%)<br />Mail: 850 (9%)<br />Other: 12 (4%)<br />
         </td>
       </tr>
     </table>
@@ -3752,17 +3752,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>22</td>
+        <td>23</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
