@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 24, 2024 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 25, 2024 08:17 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_24_05_2024-19_35_39.png" />
+    <img src="images/profile/Joy_25_05_2024-08_17_29.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
             height="20"
           />
-          Credit
+          Disposable Kinetic Arm
         </td>
       </tr>
     </table>
@@ -3751,7 +3751,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_24_05_2024-19_34_26.png" />
+    <img src="images/profile/genshin_profile_25_05_2024-08_16_20.png" />
   </div>
   <div align="center">
     <h2>
@@ -3760,17 +3760,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          Mora
+          Hero's Wit
         </td>
       </tr>
     </table>
@@ -3791,7 +3791,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>873</td>
+        <td>874</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4169,6 +4169,61 @@
     </table>
   </div>
   <div align="center">
+    <h2>
+      <img
+        src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+        height="20"
+      />
+      Spiral Abyss
+    </h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>94</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>11</td>
+      </tr>
+      <tr>
+        <td>Total Wins</td>
+        <td>9</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>11-3</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>Most Played Characters</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Most Defeats</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Strongest Single Strike</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Most Damage Taken</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Elemental Bursts Unleashed</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Elemental Skills Cast</td>
+        <td></td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
     <h2><img src="images/icons/genshin_diary.png" height="20" /> Diary</h2>
     <table>
       <tr>
@@ -4179,7 +4234,7 @@
           />
           Primogems earned
         </td>
-        <td>1260 (rate -45)</td>
+        <td>2968 (rate 27)</td>
       </tr>
       <tr>
         <td>
@@ -4189,14 +4244,14 @@
           />
           Mora earned
         </td>
-        <td>790217 (rate 5)</td>
+        <td>2091007 (rate 179)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 930 (74%)<br />Daily Activity: 240 (20%)<br />Mail: 60 (4%)<br />Spiral
-          Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
-          30 (2%)<br />
+          Events: 1770 (60%)<br />Spiral Abyss: 450 (16%)<br />Mail: 360
+          (12%)<br />Daily Activity: 300 (10%)<br />Adventure: 57 (1%)<br />Quests:
+          0 (0%)<br />Other: 31 (1%)<br />
         </td>
       </tr>
     </table>
@@ -8811,32 +8866,29 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Noblesse Oblige<br />1 x Deepwood
-                  Memories<br />
-                </td>
+                <td>Artifacts<br />5 x Song of Days Past<br /></td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/dc59b59e2454f83353ecab28a789cbf9.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/6ee4396565826f7fe1a067e77d87f4cd.png"
                     height="18"
                   />
-                  Royal Flora<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/c81be3d99b9697e594002c0de1de2677.png"
+                  Forgotten Oath of Days Past<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/5b3092161f932c2c051c5aab254d38e1.png"
                     height="18"
                   />
-                  Scholar of Vines<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/bde4aaa95f67b7a229186f541cf68a3a.png"
+                  Recollection of Days Past<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/8d6cb6f67386a9d596872819d4b4259d.png"
                     height="18"
                   />
-                  Royal Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/c346a8fc6f3cedc9503fcaee4c9fec90.png"
+                  Echoing Sound From Days Past<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/a641878c4bbde5ac4288ed7ad0003b40.png"
                     height="18"
                   />
-                  Royal Silver Urn<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/aadfda9d0ecb775a35c05810417ed751.png"
+                  Promised Dream of Days Past<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/8c57dc8741d43d2e92956f67c5fc026b.png"
                     height="18"
                   />
-                  Royal Masque<br />
+                  Poetry of Days Past<br />
                 </td>
               </tr>
               <tr>
@@ -9209,7 +9261,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>3</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -9984,7 +10036,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
@@ -10372,44 +10424,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_24_05_2024-19_33_58.png" />
+  <img src="images/showcase/genshin_card_25_05_2024-08_15_54.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_24_05_2024-19_34_00.png" />
+  <img src="images/showcase/genshin_card_25_05_2024-08_15_55.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_24_05_2024-19_35_05.png" />
+  <img src="images/showcase/Acheron_25_05_2024-08_16_59.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_24_05_2024-19_35_05.png" />
+  <img src="images/showcase/Robin_25_05_2024-08_16_59.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_24_05_2024-19_35_06.png" />
+  <img src="images/showcase/Ruan-Mei_25_05_2024-08_17_00.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_24_05_2024-19_35_06.png" />
+  <img src="images/showcase/Jingliu_25_05_2024-08_17_00.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_24_05_2024-19_35_07.png" />
+  <img src="images/showcase/Kafka_25_05_2024-08_17_01.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_24_05_2024-19_35_07.png" />
+  <img src="images/showcase/Seele_25_05_2024-08_17_02.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_24_05_2024-19_35_08.png" />
+  <img src="images/showcase/Huohuo_25_05_2024-08_17_02.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_24_05_2024-19_35_09.png" />
+  <img src="images/showcase/Himeko_25_05_2024-08_17_03.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
