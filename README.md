@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 25, 2024 08:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 25, 2024 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_25_05_2024-08_17_29.png" />
+    <img src="images/profile/Joy_25_05_2024-19_33_38.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>376</td>
+        <td>377</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>8702 (rate 7)</td>
+        <td>8762 (rate 7)</td>
       </tr>
       <tr>
         <td>
@@ -88,8 +88,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2790 (32%)<br />Event: 1680 (19%)<br />Daily
-          Activity: 1380 (15%)<br />Simulated Universe: 970 (11%)<br />Forgotten
+          Adventure Rewards: 2790 (31%)<br />Event: 1680 (19%)<br />Daily
+          Activity: 1440 (16%)<br />Simulated Universe: 970 (11%)<br />Forgotten
           Hall: 1020 (11%)<br />Mail: 850 (9%)<br />Other: 12 (3%)<br />
         </td>
       </tr>
@@ -3751,7 +3751,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_25_05_2024-08_16_20.png" />
+    <img src="images/profile/genshin_profile_25_05_2024-19_32_37.png" />
   </div>
   <div align="center">
     <h2>
@@ -3787,11 +3787,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>926</td>
+        <td>927</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>874</td>
+        <td>875</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -3799,7 +3799,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>426</td>
+        <td>427</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -3819,19 +3819,19 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>216</td>
+        <td>219</td>
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2481</td>
+        <td>2491</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1783</td>
+        <td>1792</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>534</td>
+        <td>536</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
@@ -3839,7 +3839,7 @@
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>211</td>
+        <td>214</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -3975,7 +3975,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/20/" width="80" />
+                <img src="https://progress-bar.dev/31/" width="80" />
               </td>
             </tr>
             <tr>
@@ -4003,7 +4003,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/79/" width="80" />
+                <img src="https://progress-bar.dev/80/" width="80" />
               </td>
             </tr>
             <tr>
@@ -4199,27 +4199,84 @@
       </tr>
       <tr>
         <td>Most Played Characters</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+            ,
+            height="18"
+          />
+          Xingqiu (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+            ,
+            height="18"
+          />
+          Yelan (9)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Defeats</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
+            ,
+            height="18"
+          />
+          Hu Tao (28)<br />
+        </td>
       </tr>
       <tr>
         <td>Strongest Single Strike</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
+            ,
+            height="18"
+          />
+          Hu Tao (170450)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          Xiangling (6424)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Bursts Unleashed</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          Xiangling (14)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Skills Cast</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+            ,
+            height="18"
+          />
+          Yae Miko (32)<br />
+        </td>
       </tr>
     </table>
   </div>
@@ -4234,7 +4291,7 @@
           />
           Primogems earned
         </td>
-        <td>2968 (rate 27)</td>
+        <td>3081 (rate 32)</td>
       </tr>
       <tr>
         <td>
@@ -4244,14 +4301,14 @@
           />
           Mora earned
         </td>
-        <td>2091007 (rate 179)</td>
+        <td>2241022 (rate 199)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 1770 (60%)<br />Spiral Abyss: 450 (16%)<br />Mail: 360
-          (12%)<br />Daily Activity: 300 (10%)<br />Adventure: 57 (1%)<br />Quests:
-          0 (0%)<br />Other: 31 (1%)<br />
+          Events: 1770 (58%)<br />Spiral Abyss: 450 (15%)<br />Daily Activity:
+          360 (12%)<br />Mail: 360 (11%)<br />Adventure: 110 (3%)<br />Quests: 0
+          (0%)<br />Other: 31 (1%)<br />
         </td>
       </tr>
     </table>
@@ -10424,44 +10481,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_05_2024-08_15_54.png" />
+  <img src="images/showcase/genshin_card_25_05_2024-19_32_12.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_05_2024-08_15_55.png" />
+  <img src="images/showcase/genshin_card_25_05_2024-19_32_13.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_25_05_2024-08_16_59.png" />
+  <img src="images/showcase/Acheron_25_05_2024-19_33_09.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_25_05_2024-08_16_59.png" />
+  <img src="images/showcase/Robin_25_05_2024-19_33_09.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_25_05_2024-08_17_00.png" />
+  <img src="images/showcase/Ruan-Mei_25_05_2024-19_33_10.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_25_05_2024-08_17_00.png" />
+  <img src="images/showcase/Jingliu_25_05_2024-19_33_10.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_25_05_2024-08_17_01.png" />
+  <img src="images/showcase/Kafka_25_05_2024-19_33_11.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_25_05_2024-08_17_02.png" />
+  <img src="images/showcase/Seele_25_05_2024-19_33_12.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_25_05_2024-08_17_02.png" />
+  <img src="images/showcase/Huohuo_25_05_2024-19_33_12.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_25_05_2024-08_17_03.png" />
+  <img src="images/showcase/Himeko_25_05_2024-19_33_13.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
