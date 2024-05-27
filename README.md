@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 27, 2024 08:19 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 27, 2024 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_27_05_2024-08_19_45.png" />
+    <img src="images/profile/Joy_27_05_2024-19_35_45.png" />
   </div>
   <div align="center">
     <h2>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>8822 (rate 8)</td>
+        <td>9537 (rate 17)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>32 (rate 23)</td>
+        <td>33 (rate 26)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2790 (31%)<br />Event: 1680 (19%)<br />Daily
-          Activity: 1500 (17%)<br />Forgotten Hall: 1020 (11%)<br />Simulated
-          Universe: 970 (10%)<br />Mail: 850 (9%)<br />Other: 12 (3%)<br />
+          Adventure Rewards: 2790 (29%)<br />Event: 1680 (17%)<br />Daily
+          Activity: 1560 (16%)<br />Forgotten Hall: 1560 (16%)<br />Simulated
+          Universe: 1085 (11%)<br />Mail: 850 (8%)<br />Other: 12 (3%)<br />
         </td>
       </tr>
     </table>
@@ -3751,7 +3751,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_27_05_2024-08_18_46.png" />
+    <img src="images/profile/genshin_profile_27_05_2024-19_34_41.png" />
   </div>
   <div align="center">
     <h2>
@@ -4201,21 +4201,21 @@
         <td>Most Played Characters</td>
         <td>
           <img
+            src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
+            ,
+            height="18"
+          />
+          Hu Tao (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
             ,
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (12)<br /><img
+          Xingqiu (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
@@ -4260,11 +4260,11 @@
         <td>Elemental Bursts Unleashed</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
-          Xingqiu (21)<br />
+          Xiangling (21)<br />
         </td>
       </tr>
       <tr>
@@ -10481,44 +10481,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_27_05_2024-08_18_21.png" />
+  <img src="images/showcase/genshin_card_27_05_2024-19_34_15.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_27_05_2024-08_18_22.png" />
+  <img src="images/showcase/genshin_card_27_05_2024-19_34_16.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_27_05_2024-08_19_18.png" />
+  <img src="images/showcase/Acheron_27_05_2024-19_35_15.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_27_05_2024-08_19_18.png" />
+  <img src="images/showcase/Robin_27_05_2024-19_35_16.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_27_05_2024-08_19_19.png" />
+  <img src="images/showcase/Ruan-Mei_27_05_2024-19_35_16.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_27_05_2024-08_19_19.png" />
+  <img src="images/showcase/Jingliu_27_05_2024-19_35_17.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_27_05_2024-08_19_20.png" />
+  <img src="images/showcase/Kafka_27_05_2024-19_35_17.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_27_05_2024-08_19_20.png" />
+  <img src="images/showcase/Seele_27_05_2024-19_35_18.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_27_05_2024-08_19_21.png" />
+  <img src="images/showcase/Huohuo_27_05_2024-19_35_19.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_27_05_2024-08_19_21.png" />
+  <img src="images/showcase/Himeko_27_05_2024-19_35_19.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
