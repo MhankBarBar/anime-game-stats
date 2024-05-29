@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 28, 2024 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 29, 2024 08:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_28_05_2024-19_35_32.png" />
+    <img src="images/profile/Joy_29_05_2024-08_22_13.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Traveler's Guide
+          Credit
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>380</td>
+        <td>381</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -3751,7 +3751,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_28_05_2024-19_34_37.png" />
+    <img src="images/profile/genshin_profile_29_05_2024-08_21_17.png" />
   </div>
   <div align="center">
     <h2>
@@ -3760,17 +3760,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Hero's Wit
+          Mora
         </td>
       </tr>
     </table>
@@ -3787,11 +3787,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>927</td>
+        <td>939</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>877</td>
+        <td>878</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -3799,7 +3799,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>427</td>
+        <td>432</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -3823,23 +3823,23 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2491</td>
+        <td>2504</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1793</td>
+        <td>1806</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>536</td>
+        <td>541</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>208</td>
+        <td>210</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>214</td>
+        <td>218</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -3860,6 +3860,7 @@
       <tr>
         <th>Chenyu Vale: Upper Vale</th>
         <th>Chenyu Vale: Southern Mountain</th>
+        <th>Mt. Laixin</th>
         <th>Fontaine</th>
         <th>Sumeru</th>
         <th>The Chasm: Underground Mines</th>
@@ -3872,6 +3873,14 @@
         <th>Chenyu Vale</th>
       </tr>
       <tr>
+        <td>
+          <p align="center">
+            <img
+              src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+              width="180"
+            />
+          </p>
+        </td>
         <td>
           <p align="center">
             <img
@@ -3975,7 +3984,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/31/" width="80" />
+                <img src="https://progress-bar.dev/57/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3989,7 +3998,21 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/20/" width="80" />
+                <img src="https://progress-bar.dev/51/" width="80" />
+              </td>
+            </tr>
+            <tr>
+              <td>TypeUnknow</td>
+              <td>0</td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <table>
+            <tr>
+              <td>Explored</td>
+              <td>
+                <img src="https://progress-bar.dev/44/" width="80" />
               </td>
             </tr>
             <tr>
@@ -4134,7 +4157,7 @@
             </tr>
             <tr>
               <td>Offering</td>
-              <td>0</td>
+              <td>10</td>
             </tr>
           </table>
         </td>
@@ -4160,7 +4183,7 @@
       </tr>
       <tr>
         <td>Items</td>
-        <td>1318</td>
+        <td>1319</td>
       </tr>
       <tr>
         <td>Visitors</td>
@@ -4201,16 +4224,6 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-            ,
-            height="18"
-          />
-          Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
             ,
             height="18"
@@ -4220,7 +4233,17 @@
             ,
             height="18"
           />
-          Kaedehara Kazuha (12)<br />
+          Kaedehara Kazuha (12)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          Xiangling (12)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+            ,
+            height="18"
+          />
+          Xingqiu (12)<br />
         </td>
       </tr>
       <tr>
@@ -10481,44 +10504,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_28_05_2024-19_34_12.png" />
+  <img src="images/showcase/genshin_card_29_05_2024-08_20_52.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_28_05_2024-19_34_13.png" />
+  <img src="images/showcase/genshin_card_29_05_2024-08_20_53.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_28_05_2024-19_35_07.png" />
+  <img src="images/showcase/Acheron_29_05_2024-08_21_48.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_28_05_2024-19_35_08.png" />
+  <img src="images/showcase/Robin_29_05_2024-08_21_48.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_28_05_2024-19_35_08.png" />
+  <img src="images/showcase/Ruan-Mei_29_05_2024-08_21_49.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_28_05_2024-19_35_09.png" />
+  <img src="images/showcase/Jingliu_29_05_2024-08_21_49.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_28_05_2024-19_35_10.png" />
+  <img src="images/showcase/Kafka_29_05_2024-08_21_50.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_28_05_2024-19_35_11.png" />
+  <img src="images/showcase/Seele_29_05_2024-08_21_50.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_28_05_2024-19_35_11.png" />
+  <img src="images/showcase/Huohuo_29_05_2024-08_21_51.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_28_05_2024-19_35_12.png" />
+  <img src="images/showcase/Himeko_29_05_2024-08_21_52.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
