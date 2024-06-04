@@ -102,7 +102,7 @@ class AnimeGame(genshin.Client):
         """Claim the daily reward and retrieve reward information."""
         try:
             await self.claim_daily_reward(game=game, lang=self.args.lang, reward=False)
-        except (genshin.AlreadyClaimed, genshin.GeetestTriggered):
+        except (genshin.AlreadyClaimed, genshin.DailyGeetestTriggered):
             pass
         finally:
             reward = await self.claimed_rewards(game=game, lang=self.args.lang).next()
