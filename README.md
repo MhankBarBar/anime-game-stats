@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 09, 2024 08:26 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 09, 2024 19:34 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_09_06_2024-08_26_48.png" />
+    <img src="images/profile/Joy_09_06_2024-19_34_38.png" />
   </div>
   <div align="center">
     <h2>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>2030 (rate -82)</td>
+        <td>2090 (rate -81)</td>
       </tr>
       <tr>
         <td>
@@ -88,8 +88,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 965 (47%)<br />Daily Activity: 480 (23%)<br />Mail:
-          320 (15%)<br />Simulated Universe: 225 (11%)<br />Other: 0 (3%)<br />Event:
+          Adventure Rewards: 965 (46%)<br />Daily Activity: 540 (25%)<br />Mail:
+          320 (15%)<br />Simulated Universe: 225 (10%)<br />Other: 0 (3%)<br />Event:
           40 (1%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -3751,7 +3751,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_09_06_2024-08_25_56.png" />
+    <img src="images/profile/genshin_profile_09_06_2024-19_33_43.png" />
   </div>
   <div align="center">
     <h2>
@@ -4314,7 +4314,7 @@
           />
           Primogems earned
         </td>
-        <td>1566 (rate -64)</td>
+        <td>1726 (rate -60)</td>
       </tr>
       <tr>
         <td>
@@ -4324,13 +4324,13 @@
           />
           Mora earned
         </td>
-        <td>1030244 (rate -76)</td>
+        <td>1095191 (rate -74)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 720 (46%)<br />Events: 460 (29%)<br />Daily Activity: 340
-          (21%)<br />Quests: 40 (2%)<br />Adventure: 5 (1%)<br />Spiral Abyss: 0
+          Mail: 820 (47%)<br />Events: 460 (26%)<br />Daily Activity: 400
+          (23%)<br />Quests: 40 (2%)<br />Adventure: 5 (1%)<br />Spiral Abyss: 0
           (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
@@ -7465,8 +7465,33 @@
                 <td>2</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
+                <td>
+                  Artifacts<br />4 x Vourukasha's Glow<br />1 x Noblesse
+                  Oblige<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/9f385062e3e032f7fbebe6094d7ef2c4.png"
+                    height="18"
+                  />
+                  Stamen of Khvarena's Origin<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/0ac8c3e969466ffda02d346add4e22bb.png"
+                    height="18"
+                  />
+                  Vibrant Pinion<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/5d66716a360272b2ec9b6576c25b5fdb.png"
+                    height="18"
+                  />
+                  Ancient Abscission<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/f748ba5e64a0f66fa23a7b38f8f0e549.png"
+                    height="18"
+                  />
+                  Feast of Boundless Joy<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/3ca55aea923fa7d55d0ea3213e692790.png"
+                    height="18"
+                  />
+                  Royal Masque<br />
+                </td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -10703,44 +10728,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_09_06_2024-08_25_30.png" />
+  <img src="images/showcase/genshin_card_09_06_2024-19_33_19.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_09_06_2024-08_25_32.png" />
+  <img src="images/showcase/genshin_card_09_06_2024-19_33_21.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_09_06_2024-08_26_25.png" />
+  <img src="images/showcase/Acheron_09_06_2024-19_34_13.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_09_06_2024-08_26_25.png" />
+  <img src="images/showcase/Robin_09_06_2024-19_34_13.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_09_06_2024-08_26_26.png" />
+  <img src="images/showcase/Ruan-Mei_09_06_2024-19_34_14.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_09_06_2024-08_26_26.png" />
+  <img src="images/showcase/Jingliu_09_06_2024-19_34_14.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_09_06_2024-08_26_27.png" />
+  <img src="images/showcase/Kafka_09_06_2024-19_34_15.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_09_06_2024-08_26_27.png" />
+  <img src="images/showcase/Seele_09_06_2024-19_34_15.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_09_06_2024-08_26_28.png" />
+  <img src="images/showcase/Huohuo_09_06_2024-19_34_16.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_09_06_2024-08_26_29.png" />
+  <img src="images/showcase/Himeko_09_06_2024-19_34_16.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
