@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 09, 2024 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 10, 2024 08:23 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_09_06_2024-19_34_38.png" />
+    <img src="images/profile/Joy_10_06_2024-08_22_58.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>2090 (rate -81)</td>
+        <td>2260 (rate -80)</td>
       </tr>
       <tr>
         <td>
@@ -88,31 +88,10 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 965 (46%)<br />Daily Activity: 540 (25%)<br />Mail:
-          320 (15%)<br />Simulated Universe: 225 (10%)<br />Other: 0 (3%)<br />Event:
-          40 (1%)<br />Forgotten Hall: 0 (0%)<br />
+          Adventure Rewards: 965 (42%)<br />Daily Activity: 540 (23%)<br />Simulated
+          Universe: 335 (14%)<br />Mail: 320 (14%)<br />Other: 0 (4%)<br />Forgotten
+          Hall: 60 (2%)<br />Event: 40 (1%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1014</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>Dream Within Dream Stage 11</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>8</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>33</td>
       </tr>
     </table>
   </div>
@@ -1906,7 +1885,7 @@
       <table>
         <tr>
           <th><h3>Guinaifen</h3></th>
-          <th><h3>Good Night and Sleep Well</h3></th>
+          <th><h3>Eyes of the Prey</h3></th>
         </tr>
         <tr>
           <td>
@@ -1919,7 +1898,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/ff70e1c5637feeaaf50dba9b774ad421.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/2b7aac5f33adb22516f3d13b77239e6d.png"
               />
             </p>
           </td>
@@ -1996,7 +1975,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Good Night and Sleep Well</td>
+                <td>Eyes of the Prey</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2004,7 +1983,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -2751,7 +2730,7 @@
       <table>
         <tr>
           <th><h3>Sampo</h3></th>
-          <th><h3>Eyes of the Prey</h3></th>
+          <th><h3>Good Night and Sleep Well</h3></th>
         </tr>
         <tr>
           <td>
@@ -2764,7 +2743,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/2b7aac5f33adb22516f3d13b77239e6d.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/ff70e1c5637feeaaf50dba9b774ad421.png"
               />
             </p>
           </td>
@@ -2841,7 +2820,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Eyes of the Prey</td>
+                <td>Good Night and Sleep Well</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2849,7 +2828,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -3751,7 +3730,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_09_06_2024-19_33_43.png" />
+    <img src="images/profile/genshin_profile_10_06_2024-08_22_02.png" />
   </div>
   <div align="center">
     <h2>
@@ -3760,17 +3739,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -3791,7 +3770,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>886</td>
+        <td>887</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -10728,44 +10707,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_09_06_2024-19_33_19.png" />
+  <img src="images/showcase/genshin_card_10_06_2024-08_21_37.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_09_06_2024-19_33_21.png" />
+  <img src="images/showcase/genshin_card_10_06_2024-08_21_38.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_09_06_2024-19_34_13.png" />
+  <img src="images/showcase/Acheron_10_06_2024-08_22_33.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_09_06_2024-19_34_13.png" />
+  <img src="images/showcase/Robin_10_06_2024-08_22_33.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_09_06_2024-19_34_14.png" />
+  <img src="images/showcase/Ruan-Mei_10_06_2024-08_22_34.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_09_06_2024-19_34_14.png" />
+  <img src="images/showcase/Jingliu_10_06_2024-08_22_34.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_09_06_2024-19_34_15.png" />
+  <img src="images/showcase/Kafka_10_06_2024-08_22_35.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_09_06_2024-19_34_15.png" />
+  <img src="images/showcase/Seele_10_06_2024-08_22_36.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_09_06_2024-19_34_16.png" />
+  <img src="images/showcase/Huohuo_10_06_2024-08_22_36.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_09_06_2024-19_34_16.png" />
+  <img src="images/showcase/Himeko_10_06_2024-08_22_37.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
