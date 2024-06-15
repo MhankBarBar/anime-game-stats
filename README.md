@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 14, 2024 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 15, 2024 08:21 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_14_06_2024-19_36_47.png" />
+    <img src="images/profile/Joy_15_06_2024-08_21_05.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
             height="20"
           />
-          Credit
+          Energy Drink (sugar-free)
         </td>
       </tr>
     </table>
@@ -3751,7 +3751,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_14_06_2024-19_35_41.png" />
+    <img src="images/profile/genshin_profile_15_06_2024-08_20_04.png" />
   </div>
   <div align="center">
     <h2>
@@ -3760,17 +3760,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          5 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -4314,7 +4314,7 @@
           />
           Primogems earned
         </td>
-        <td>1726 (rate -60)</td>
+        <td>1806 (rate -59)</td>
       </tr>
       <tr>
         <td>
@@ -4324,13 +4324,13 @@
           />
           Mora earned
         </td>
-        <td>1095191 (rate -74)</td>
+        <td>1269958 (rate -70)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 820 (47%)<br />Events: 460 (26%)<br />Daily Activity: 400
-          (23%)<br />Quests: 40 (2%)<br />Adventure: 5 (1%)<br />Spiral Abyss: 0
+          Mail: 840 (46%)<br />Events: 460 (25%)<br />Daily Activity: 460
+          (25%)<br />Quests: 40 (2%)<br />Adventure: 5 (1%)<br />Spiral Abyss: 0
           (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
@@ -6241,6 +6241,118 @@
       </table>
     </details>
     <details>
+      <summary><b>Clorinde</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Clorinde</h3></th>
+          <th><h3 align="center">Mistsplitter Reforged</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/2d3b5734c525f3b8dba8576b882d4185.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />4 x Fragment of Harmonic Whimsy<br />1 x
+                  Deepwood Memories<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/1a90524e6b93f557bc82b969e1d8a27d.png"
+                    height="18"
+                  />
+                  Harmonious Symphony Prelude<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/896f3b9b2c72c55e80357f70f745b1b1.png"
+                    height="18"
+                  />
+                  Ancient Sea's Nocturnal Musing<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/56f0c4469bf67a25c6a01c96338c0f79.png"
+                    height="18"
+                  />
+                  The Grand Jape of the Turning of Fate<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/b881ed2bc3933aba3878892c70a15cec.png"
+                    height="18"
+                  />
+                  Lamp of the Lost<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/31a419d98b1dcf196c3ae80ab7f0d3b0.png"
+                    height="18"
+                  />
+                  Whimsical Dance of the Withered<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Mistsplitter Reforged</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Diluc</b></summary>
       <br />
       <table>
@@ -7101,118 +7213,6 @@
               <tr>
                 <td>Refinement</td>
                 <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Clorinde</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Clorinde</h3></th>
-          <th><h3 align="center">Mistsplitter Reforged</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/2d3b5734c525f3b8dba8576b882d4185.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>80</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />4 x Fragment of Harmonic Whimsy<br />1 x
-                  Deepwood Memories<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/1a90524e6b93f557bc82b969e1d8a27d.png"
-                    height="18"
-                  />
-                  Harmonious Symphony Prelude<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/896f3b9b2c72c55e80357f70f745b1b1.png"
-                    height="18"
-                  />
-                  Ancient Sea's Nocturnal Musing<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/56f0c4469bf67a25c6a01c96338c0f79.png"
-                    height="18"
-                  />
-                  The Grand Jape of the Turning of Fate<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/b881ed2bc3933aba3878892c70a15cec.png"
-                    height="18"
-                  />
-                  Lamp of the Lost<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/31a419d98b1dcf196c3ae80ab7f0d3b0.png"
-                    height="18"
-                  />
-                  Whimsical Dance of the Withered<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Mistsplitter Reforged</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
               </tr>
             </table>
           </td>
@@ -10728,44 +10728,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_14_06_2024-19_35_17.png" />
+  <img src="images/showcase/genshin_card_15_06_2024-08_19_37.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_14_06_2024-19_35_18.png" />
+  <img src="images/showcase/genshin_card_15_06_2024-08_19_39.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_14_06_2024-19_36_24.png" />
+  <img src="images/showcase/Acheron_15_06_2024-08_20_36.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_14_06_2024-19_36_24.png" />
+  <img src="images/showcase/Robin_15_06_2024-08_20_37.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_14_06_2024-19_36_25.png" />
+  <img src="images/showcase/Ruan-Mei_15_06_2024-08_20_37.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_14_06_2024-19_36_25.png" />
+  <img src="images/showcase/Jingliu_15_06_2024-08_20_38.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_14_06_2024-19_36_26.png" />
+  <img src="images/showcase/Kafka_15_06_2024-08_20_38.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_14_06_2024-19_36_26.png" />
+  <img src="images/showcase/Seele_15_06_2024-08_20_39.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_14_06_2024-19_36_27.png" />
+  <img src="images/showcase/Huohuo_15_06_2024-08_20_39.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_14_06_2024-19_36_28.png" />
+  <img src="images/showcase/Himeko_15_06_2024-08_20_40.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
