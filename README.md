@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 15, 2024 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 16, 2024 08:27 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_15_06_2024-19_34_54.png" />
+    <img src="images/profile/Joy_16_06_2024-08_27_06.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Energy Drink (sugar-free)
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -3751,7 +3751,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_15_06_2024-19_33_56.png" />
+    <img src="images/profile/genshin_profile_16_06_2024-08_26_09.png" />
   </div>
   <div align="center">
     <h2>
@@ -3760,17 +3760,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -4188,118 +4188,6 @@
       <tr>
         <td>Visitors</td>
         <td>3</td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>
-      <img
-        src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
-        height="20"
-      />
-      Spiral Abyss
-    </h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>94</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>15</td>
-      </tr>
-      <tr>
-        <td>Total Wins</td>
-        <td>12</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>12-3</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>36</td>
-      </tr>
-      <tr>
-        <td>Most Played Characters</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
-            ,
-            height="18"
-          />
-          Xingqiu (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-            ,
-            height="18"
-          />
-          Hu Tao (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (12)<br />
-        </td>
-      </tr>
-      <tr>
-        <td>Most Defeats</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-            ,
-            height="18"
-          />
-          Hu Tao (34)<br />
-        </td>
-      </tr>
-      <tr>
-        <td>Strongest Single Strike</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-            ,
-            height="18"
-          />
-          Hu Tao (170450)<br />
-        </td>
-      </tr>
-      <tr>
-        <td>Most Damage Taken</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (45209)<br />
-        </td>
-      </tr>
-      <tr>
-        <td>Elemental Bursts Unleashed</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (21)<br />
-        </td>
-      </tr>
-      <tr>
-        <td>Elemental Skills Cast</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
-            ,
-            height="18"
-          />
-          Xingqiu (44)<br />
-        </td>
       </tr>
     </table>
   </div>
@@ -10728,44 +10616,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_15_06_2024-19_33_32.png" />
+  <img src="images/showcase/genshin_card_16_06_2024-08_25_45.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_15_06_2024-19_33_33.png" />
+  <img src="images/showcase/genshin_card_16_06_2024-08_25_46.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_15_06_2024-19_34_27.png" />
+  <img src="images/showcase/Acheron_16_06_2024-08_26_39.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_15_06_2024-19_34_28.png" />
+  <img src="images/showcase/Robin_16_06_2024-08_26_39.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_15_06_2024-19_34_28.png" />
+  <img src="images/showcase/Ruan-Mei_16_06_2024-08_26_40.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_15_06_2024-19_34_29.png" />
+  <img src="images/showcase/Jingliu_16_06_2024-08_26_40.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_15_06_2024-19_34_30.png" />
+  <img src="images/showcase/Kafka_16_06_2024-08_26_41.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_15_06_2024-19_34_30.png" />
+  <img src="images/showcase/Seele_16_06_2024-08_26_42.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_15_06_2024-19_34_31.png" />
+  <img src="images/showcase/Huohuo_16_06_2024-08_26_42.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_15_06_2024-19_34_31.png" />
+  <img src="images/showcase/Himeko_16_06_2024-08_26_43.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
