@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 23, 2024 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 24, 2024 08:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_23_06_2024-19_34_43.png" />
+    <img src="images/profile/Joy_24_06_2024-08_22_34.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -3820,7 +3820,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_23_06_2024-19_33_42.png" />
+    <img src="images/profile/genshin_profile_24_06_2024-08_21_37.png" />
   </div>
   <div align="center">
     <h2>
@@ -3829,17 +3829,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -10685,44 +10685,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_23_06_2024-19_33_18.png" />
+  <img src="images/showcase/genshin_card_24_06_2024-08_21_12.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_23_06_2024-19_33_19.png" />
+  <img src="images/showcase/genshin_card_24_06_2024-08_21_13.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_23_06_2024-19_34_12.png" />
+  <img src="images/showcase/Acheron_24_06_2024-08_22_09.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_23_06_2024-19_34_13.png" />
+  <img src="images/showcase/Robin_24_06_2024-08_22_09.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_23_06_2024-19_34_14.png" />
+  <img src="images/showcase/Ruan-Mei_24_06_2024-08_22_10.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_23_06_2024-19_34_14.png" />
+  <img src="images/showcase/Jingliu_24_06_2024-08_22_11.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_23_06_2024-19_34_15.png" />
+  <img src="images/showcase/Kafka_24_06_2024-08_22_11.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_23_06_2024-19_34_15.png" />
+  <img src="images/showcase/Seele_24_06_2024-08_22_12.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_23_06_2024-19_34_16.png" />
+  <img src="images/showcase/Huohuo_24_06_2024-08_22_12.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_23_06_2024-19_34_17.png" />
+  <img src="images/showcase/Himeko_24_06_2024-08_22_13.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
