@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 24, 2024 08:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 24, 2024 19:37 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_24_06_2024-08_22_34.png" />
+    <img src="images/profile/Joy_24_06_2024-19_37_22.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>406</td>
+        <td>407</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>7463 (rate -34)</td>
+        <td>7915 (rate -30)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>23 (rate -34)</td>
+        <td>25 (rate -28)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2125 (28%)<br />Simulated Universe: 1635 (21%)<br />Daily
-          Activity: 1380 (18%)<br />Mail: 1010 (13%)<br />Forgotten Hall: 720
-          (9%)<br />Event: 580 (7%)<br />Other: 13 (4%)<br />
+          Adventure Rewards: 2130 (26%)<br />Simulated Universe: 2020 (25%)<br />Daily
+          Activity: 1440 (18%)<br />Mail: 1010 (12%)<br />Forgotten Hall: 720
+          (9%)<br />Event: 580 (7%)<br />Other: 15 (3%)<br />
         </td>
       </tr>
     </table>
@@ -3820,7 +3820,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_24_06_2024-08_21_37.png" />
+    <img src="images/profile/genshin_profile_24_06_2024-19_36_22.png" />
   </div>
   <div align="center">
     <h2>
@@ -10685,44 +10685,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_24_06_2024-08_21_12.png" />
+  <img src="images/showcase/genshin_card_24_06_2024-19_35_59.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_24_06_2024-08_21_13.png" />
+  <img src="images/showcase/genshin_card_24_06_2024-19_36_00.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_24_06_2024-08_22_09.png" />
+  <img src="images/showcase/Acheron_24_06_2024-19_36_56.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_24_06_2024-08_22_09.png" />
+  <img src="images/showcase/Robin_24_06_2024-19_36_57.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_24_06_2024-08_22_10.png" />
+  <img src="images/showcase/Ruan-Mei_24_06_2024-19_36_57.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_24_06_2024-08_22_11.png" />
+  <img src="images/showcase/Jingliu_24_06_2024-19_36_58.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_24_06_2024-08_22_11.png" />
+  <img src="images/showcase/Kafka_24_06_2024-19_36_58.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_24_06_2024-08_22_12.png" />
+  <img src="images/showcase/Seele_24_06_2024-19_36_59.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_24_06_2024-08_22_12.png" />
+  <img src="images/showcase/Huohuo_24_06_2024-19_36_59.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_24_06_2024-08_22_13.png" />
+  <img src="images/showcase/Himeko_24_06_2024-19_37_00.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
