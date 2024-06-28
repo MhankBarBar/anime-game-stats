@@ -21,7 +21,7 @@ logger = logging.getLogger()
 load_dotenv()
 
 # Constants
-MBB_API = "https://api.mhankbarbar.tech"
+MBB_API = "https://api.mhankbarbar.me"
 DEFAULT_TEMPLATE_PATH = "template.html"
 DEFAULT_OUTPUT_PATH = "stats.html"
 
