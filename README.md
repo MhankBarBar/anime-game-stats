@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 04, 2024 08:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 04, 2024 19:36 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_04_07_2024-08_22_16.png" />
+    <img src="images/profile/Joy_04_07_2024-19_36_44.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,19 +48,19 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>416</td>
+        <td>417</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>38</td>
+        <td>39</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>514</td>
+        <td>516</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>775</td>
+        <td>778</td>
       </tr>
     </table>
   </div>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1785 (rate -82)</td>
+        <td>2325 (rate -77)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>13 (rate -59)</td>
+        <td>16 (rate -50)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 765 (42%)<br />Adventure Rewards: 590 (33%)<br />Daily
-          Activity: 180 (10%)<br />Mail: 110 (6%)<br />Event: 80 (4%)<br />Forgotten
-          Hall: 60 (3%)<br />Other: 0 (2%)<br />
+          Adventure Rewards: 810 (34%)<br />Simulated Universe: 765 (32%)<br />Forgotten
+          Hall: 320 (13%)<br />Daily Activity: 240 (10%)<br />Mail: 110 (4%)<br />Other:
+          0 (4%)<br />Event: 80 (3%)<br />
         </td>
       </tr>
     </table>
@@ -241,7 +241,7 @@
       <table>
         <tr>
           <th><h3>Jingliu</h3></th>
-          <th><h3>On the Fall of an Aeon</h3></th>
+          <th><h3>Under the Blue Sky</h3></th>
         </tr>
         <tr>
           <td>
@@ -254,7 +254,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d925207ff21b515b2e06a0156103028e.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/26d0ca40dd811f6cf59b10477e0ce803.png"
               />
             </p>
           </td>
@@ -331,15 +331,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>On the Fall of an Aeon</td>
+                <td>Under the Blue Sky</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -1124,6 +1124,117 @@
       </table>
     </details>
     <details>
+      <summary><b>Firefly </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Firefly</h3></th>
+          <th><h3>On the Fall of an Aeon</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/8c236e078a2dea456d3703fa639f9704.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d925207ff21b515b2e06a0156103028e.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f3eedc3184885a5c4b2fabb5180e39b4.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Homing Helm<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/777507dcc6939a097e14ec503ada2eab.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Crushing Wristguard<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/ee23e417155e83f58d4af268fb79993a.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Silvery Armor<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d4e4a6f74215904a8ebf4f02f458c4dd.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Skywalk Greaves<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/856d1f757e7cefb2951f8da993c46168.png"
+                    ,
+                    height="18"
+                  />
+                  Forge's Lotus Lantern Wick<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/e211643e747bd3d16fd14b038ea4a41e.png"
+                    ,
+                    height="18"
+                  />
+                  Forge's Heavenly Flamewheel Silk<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>On the Fall of an Aeon</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Robin </b></summary>
       <br />
       <table>
@@ -1351,7 +1462,7 @@
       <table>
         <tr>
           <th><h3>Dan Heng • Imbibitor Lunae</h3></th>
-          <th><h3>Under the Blue Sky</h3></th>
+          <th><h3></h3></th>
         </tr>
         <tr>
           <td>
@@ -1362,11 +1473,7 @@
             </p>
           </td>
           <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/26d0ca40dd811f6cf59b10477e0ce803.png"
-              />
-            </p>
+            <p align="center"><img src="" /></p>
           </td>
         </tr>
         <tr>
@@ -1441,15 +1548,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Under the Blue Sky</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -1894,6 +2001,117 @@
               <tr>
                 <td>Superimpose</td>
                 <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Gallagher </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Gallagher</h3></th>
+          <th><h3>Perfect Timing</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c86829af64b2631c2c3b502335f8efb4.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/1ab438658a4a711a78ad6ccbc449fe0a.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>5</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/625600221929af82ef9d9ea11e88e183.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Myriad-Faced Mask<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d8d7a6fc7dcb0faaae2a3633ac622031.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Gloves With Prints<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/af8334be8320d2ab48c2108baf82e665.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Steel Grappling Hook<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eefbdd7cde9c98ae9f3fd6520e4cef7e.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Meteor Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/815a20e9eef28c222f2c12c456bf941d.png"
+                    ,
+                    height="18"
+                  />
+                  The Xianzhou Luofu's Celestial Ark<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/31b36511ef0c05817d1853b5b1fdf862.png"
+                    ,
+                    height="18"
+                  />
+                  Insumousu's Frayed Hawser<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Perfect Timing</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>3</td>
               </tr>
             </table>
           </td>
@@ -2555,117 +2773,6 @@
               <tr>
                 <td>Superimpose</td>
                 <td>3</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Gallagher </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Gallagher</h3></th>
-          <th><h3>What Is Real?</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c86829af64b2631c2c3b502335f8efb4.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/22df2a62319b41cdefba66370012d4b0.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>4</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/625600221929af82ef9d9ea11e88e183.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Myriad-Faced Mask<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d8d7a6fc7dcb0faaae2a3633ac622031.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Gloves With Prints<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/af8334be8320d2ab48c2108baf82e665.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Steel Grappling Hook<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eefbdd7cde9c98ae9f3fd6520e4cef7e.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Meteor Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/815a20e9eef28c222f2c12c456bf941d.png"
-                    ,
-                    height="18"
-                  />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/31b36511ef0c05817d1853b5b1fdf862.png"
-                    ,
-                    height="18"
-                  />
-                  Insumousu's Frayed Hawser<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>What Is Real?</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>1</td>
               </tr>
             </table>
           </td>
@@ -3761,45 +3868,7 @@
               </tr>
               <tr>
                 <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f3eedc3184885a5c4b2fabb5180e39b4.png"
-                    ,
-                    height="18"
-                  />
-                  Iron Cavalry's Homing Helm<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/777507dcc6939a097e14ec503ada2eab.png"
-                    ,
-                    height="18"
-                  />
-                  Iron Cavalry's Crushing Wristguard<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/ee23e417155e83f58d4af268fb79993a.png"
-                    ,
-                    height="18"
-                  />
-                  Iron Cavalry's Silvery Armor<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d4e4a6f74215904a8ebf4f02f458c4dd.png"
-                    ,
-                    height="18"
-                  />
-                  Iron Cavalry's Skywalk Greaves<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/856d1f757e7cefb2951f8da993c46168.png"
-                    ,
-                    height="18"
-                  />
-                  Forge's Lotus Lantern Wick<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/e211643e747bd3d16fd14b038ea4a41e.png"
-                    ,
-                    height="18"
-                  />
-                  Forge's Heavenly Flamewheel Silk<br />
-                </td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -3900,7 +3969,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_04_07_2024-08_21_18.png" />
+    <img src="images/profile/genshin_profile_04_07_2024-19_35_46.png" />
   </div>
   <div align="center">
     <h2>
@@ -10765,44 +10834,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_04_07_2024-08_20_52.png" />
+  <img src="images/showcase/genshin_card_04_07_2024-19_35_19.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_04_07_2024-08_20_53.png" />
+  <img src="images/showcase/genshin_card_04_07_2024-19_35_20.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_04_07_2024-08_21_49.png" />
+  <img src="images/showcase/Acheron_04_07_2024-19_36_17.png" />
 </details>
 <details align="center">
-  <summary>Robin</summary>
-  <img src="images/showcase/Robin_04_07_2024-08_21_49.png" />
+  <summary>Firefly</summary>
+  <img src="images/showcase/Firefly_04_07_2024-19_36_17.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_04_07_2024-08_21_50.png" />
+  <img src="images/showcase/Ruan-Mei_04_07_2024-19_36_18.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_04_07_2024-08_21_50.png" />
+  <img src="images/showcase/Jingliu_04_07_2024-19_36_18.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_04_07_2024-08_21_51.png" />
+  <img src="images/showcase/Kafka_04_07_2024-19_36_19.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_04_07_2024-08_21_51.png" />
+  <img src="images/showcase/Seele_04_07_2024-19_36_19.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_04_07_2024-08_21_52.png" />
+  <img src="images/showcase/Huohuo_04_07_2024-19_36_20.png" />
 </details>
 <details align="center">
-  <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_04_07_2024-08_21_53.png" />
+  <summary>Robin</summary>
+  <img src="images/showcase/Robin_04_07_2024-19_36_21.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
