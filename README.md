@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 05, 2024 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 05, 2024 23:49 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_05_07_2024-19_36_25.png" />
+    <img src="images/profile/Joy_05_07_2024-23_49_46.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -3969,7 +3969,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_05_07_2024-19_35_14.png" />
+    <img src="images/profile/genshin_profile_05_07_2024-23_48_48.png" />
   </div>
   <div align="center">
     <h2>
@@ -3978,17 +3978,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Sweet Madame
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -10834,44 +10834,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_05_07_2024-19_34_48.png" />
+  <img src="images/showcase/genshin_card_05_07_2024-23_48_19.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_05_07_2024-19_34_49.png" />
+  <img src="images/showcase/genshin_card_05_07_2024-23_48_21.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_05_07_2024-19_35_58.png" />
+  <img src="images/showcase/Acheron_05_07_2024-23_49_18.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_05_07_2024-19_35_59.png" />
+  <img src="images/showcase/Firefly_05_07_2024-23_49_19.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_05_07_2024-19_35_59.png" />
+  <img src="images/showcase/Ruan-Mei_05_07_2024-23_49_20.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_05_07_2024-19_36_00.png" />
+  <img src="images/showcase/Jingliu_05_07_2024-23_49_20.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_05_07_2024-19_36_01.png" />
+  <img src="images/showcase/Kafka_05_07_2024-23_49_21.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_05_07_2024-19_36_01.png" />
+  <img src="images/showcase/Seele_05_07_2024-23_49_21.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_05_07_2024-19_36_02.png" />
+  <img src="images/showcase/Huohuo_05_07_2024-23_49_22.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_05_07_2024-19_36_02.png" />
+  <img src="images/showcase/Robin_05_07_2024-23_49_23.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
