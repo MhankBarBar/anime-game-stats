@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 05, 2024 23:49 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 06, 2024 08:20 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_05_07_2024-23_49_46.png" />
+    <img src="images/profile/Joy_06_07_2024-08_20_31.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>418</td>
+        <td>419</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -3969,7 +3969,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_05_07_2024-23_48_48.png" />
+    <img src="images/profile/genshin_profile_06_07_2024-08_19_28.png" />
   </div>
   <div align="center">
     <h2>
@@ -10834,44 +10834,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_05_07_2024-23_48_19.png" />
+  <img src="images/showcase/genshin_card_06_07_2024-08_19_00.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_05_07_2024-23_48_21.png" />
+  <img src="images/showcase/genshin_card_06_07_2024-08_19_02.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_05_07_2024-23_49_18.png" />
+  <img src="images/showcase/Acheron_06_07_2024-08_19_59.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_05_07_2024-23_49_19.png" />
+  <img src="images/showcase/Firefly_06_07_2024-08_19_59.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_05_07_2024-23_49_20.png" />
+  <img src="images/showcase/Ruan-Mei_06_07_2024-08_20_00.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_05_07_2024-23_49_20.png" />
+  <img src="images/showcase/Jingliu_06_07_2024-08_20_00.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_05_07_2024-23_49_21.png" />
+  <img src="images/showcase/Kafka_06_07_2024-08_20_01.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_05_07_2024-23_49_21.png" />
+  <img src="images/showcase/Seele_06_07_2024-08_20_02.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_05_07_2024-23_49_22.png" />
+  <img src="images/showcase/Huohuo_06_07_2024-08_20_02.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_05_07_2024-23_49_23.png" />
+  <img src="images/showcase/Robin_06_07_2024-08_20_03.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
