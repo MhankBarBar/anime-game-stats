@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 06, 2024 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 07, 2024 08:28 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_06_07_2024-19_34_27.png" />
+    <img src="images/profile/Joy_07_07_2024-08_28_50.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>419</td>
+        <td>420</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>2805 (rate -72)</td>
+        <td>2930 (rate -71)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 910 (32%)<br />Simulated Universe: 765 (27%)<br />Forgotten
-          Hall: 440 (15%)<br />Daily Activity: 360 (12%)<br />Event: 200 (7%)<br />Mail:
-          130 (4%)<br />Other: 0 (3%)<br />
+          Adventure Rewards: 915 (31%)<br />Simulated Universe: 765 (26%)<br />Forgotten
+          Hall: 440 (15%)<br />Daily Activity: 420 (14%)<br />Event: 260 (8%)<br />Mail:
+          130 (4%)<br />Other: 0 (2%)<br />
         </td>
       </tr>
     </table>
@@ -335,7 +335,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -685,7 +685,7 @@
       <table>
         <tr>
           <th><h3>Seele</h3></th>
-          <th><h3>Cruising in the Stellar Sea</h3></th>
+          <th><h3>Only Silence Remains</h3></th>
         </tr>
         <tr>
           <td>
@@ -698,7 +698,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f5fb71fa01ebddfc0e832cc1b36eea5e.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/cf89e63f42e415fa423e92e119f7a25f.png"
               />
             </p>
           </td>
@@ -775,11 +775,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Cruising in the Stellar Sea</td>
+                <td>Only Silence Remains</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1351,7 +1351,7 @@
       <table>
         <tr>
           <th><h3>Dr. Ratio</h3></th>
-          <th><h3>Only Silence Remains</h3></th>
+          <th><h3>Cruising in the Stellar Sea</h3></th>
         </tr>
         <tr>
           <td>
@@ -1364,7 +1364,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/cf89e63f42e415fa423e92e119f7a25f.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f5fb71fa01ebddfc0e832cc1b36eea5e.png"
               />
             </p>
           </td>
@@ -1441,11 +1441,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Only Silence Remains</td>
+                <td>Cruising in the Stellar Sea</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -3969,7 +3969,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_06_07_2024-19_33_29.png" />
+    <img src="images/profile/genshin_profile_07_07_2024-08_27_54.png" />
   </div>
   <div align="center">
     <h2>
@@ -3978,17 +3978,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
@@ -10834,44 +10834,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_06_07_2024-19_33_03.png" />
+  <img src="images/showcase/genshin_card_07_07_2024-08_27_28.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_06_07_2024-19_33_04.png" />
+  <img src="images/showcase/genshin_card_07_07_2024-08_27_29.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_06_07_2024-19_34_01.png" />
+  <img src="images/showcase/Acheron_07_07_2024-08_28_25.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_06_07_2024-19_34_02.png" />
+  <img src="images/showcase/Firefly_07_07_2024-08_28_25.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_06_07_2024-19_34_02.png" />
+  <img src="images/showcase/Ruan-Mei_07_07_2024-08_28_26.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_06_07_2024-19_34_03.png" />
+  <img src="images/showcase/Jingliu_07_07_2024-08_28_27.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_06_07_2024-19_34_04.png" />
+  <img src="images/showcase/Kafka_07_07_2024-08_28_27.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_06_07_2024-19_34_04.png" />
+  <img src="images/showcase/Seele_07_07_2024-08_28_28.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_06_07_2024-19_34_05.png" />
+  <img src="images/showcase/Huohuo_07_07_2024-08_28_28.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_06_07_2024-19_34_05.png" />
+  <img src="images/showcase/Robin_07_07_2024-08_28_29.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
