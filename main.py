@@ -102,7 +102,7 @@ class AnimeGame(genshin.Client):
         """Claim the daily reward and retrieve reward information."""
         try:
             await self.claim_daily_reward(game=game, lang=self.args.lang, reward=False)
-        except (genshin.AlreadyClaimed, genshin.GeetestTriggered):
+        except (genshin.AlreadyClaimed, genshin.DailyGeetestTriggered):
             pass
         finally:
             reward = await self.claimed_rewards(game=game, lang=self.args.lang).next()
@@ -164,10 +164,11 @@ class AnimeGame(genshin.Client):
         if not self.args.skip_images:
             showcase = self._get_character_showcase(HSR, self.uids.get(HSR))
             profile = self._get_user_profile(HSR, self.uids.get(HSR))
-            for s in showcase:
-                showcase_names.append(
-                    " ".join(s.split("/")[-1].split("_")[0].split("-"))
-                )
+            if showcase:
+                for s in showcase:
+                    showcase_names.append(
+                        " ".join(s.split("/")[-1].split("_")[0].split("-"))
+                    )
         codes = self.codes.get_codes(HSR)
         await self.codes.redeem_codes(self, codes, HSR)
         return HsrRes(
