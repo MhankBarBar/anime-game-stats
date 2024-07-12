@@ -1,10 +1,8 @@
 import argparse
 import asyncio
-import json
 import logging
 import os
 import pathlib
-import re
 import shutil
 from datetime import datetime
 from typing import List, Optional, Tuple
@@ -24,6 +22,8 @@ load_dotenv()
 MBB_API = "https://api.mhankbarbar.me"
 DEFAULT_TEMPLATE_PATH = "template.html"
 DEFAULT_OUTPUT_PATH = "stats.html"
+GENSHIN = genshin.Game.GENSHIN
+HSR = genshin.Game.STARRAIL
 
 
 class GenshinRes:
@@ -93,37 +93,40 @@ class AnimeGame(genshin.Client):
         self.args = args
         self.codes = codes
         _c = self.args.cookies or os.getenv("COOKIES")
-        cookies = json.loads(_c)
-        super().__init__(cookies, debug=False, game="genshin", lang=self.args.lang)
+        super().__init__(_c, debug=False, game=GENSHIN, lang=self.args.lang)
 
     async def _claim_daily(self, game: Optional[genshin.Game] = None) -> Tuple[
         genshin.models.ClaimedDailyReward, genshin.models.DailyRewardInfo
     ]:
+        logger.debug("Claiming daily reward")
         """Claim the daily reward and retrieve reward information."""
         try:
             await self.claim_daily_reward(game=game, lang=self.args.lang, reward=False)
-        except (genshin.AlreadyClaimed, genshin.DailyGeetestTriggered):
+        except (genshin.AlreadyClaimed, genshin.GeetestTriggered):
             pass
         finally:
             reward = await self.claimed_rewards(game=game, lang=self.args.lang).next()
             reward_info = await self.get_reward_info(game=game, lang=self.args.lang)
         return reward, reward_info
 
-    def _get_character_showcase(self, game: str, uid: int) -> Optional[List[str]]:
-        url = f"{MBB_API}/genshin_card?uid={uid}" if game == "genshin" else f"{MBB_API}/hsr_card?uid={uid}"
+    def _get_character_showcase(self, game: genshin.Game, uid: int) -> Optional[List[str]]:
+        logger.debug("Getting character showcase")
+        url = f"{MBB_API}/genshin_card?uid={uid}" if game == GENSHIN else f"{MBB_API}/hsr_card?uid={uid}"
         res = requests.get(url).json()
         if res["status"] == 200:
             return save_images(res["result"])
         return None
 
-    def _get_user_profile(self, game: str, uid: int) -> Optional[str]:
-        url = f"{MBB_API}/genshin_profile?uid={uid}" if game == "genshin" else f"{MBB_API}/hsr_profile?uid={uid}"
+    def _get_user_profile(self, game: genshin.Game, uid: int) -> Optional[str]:
+        logger.debug("Getting user profile")
+        url = f"{MBB_API}/genshin_profile?uid={uid}" if game == GENSHIN else f"{MBB_API}/hsr_profile?uid={uid}"
         res = requests.get(url).json()
         if res["status"] == 200:
             return save_images(res["result"], _type="profile")
         return None
 
     async def get_genshin_res(self) -> GenshinRes:
+        logger.debug("Executing get_genshin_res")
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
         abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
         diary = await self.get_genshin_diary()
@@ -132,10 +135,10 @@ class AnimeGame(genshin.Client):
         showcase = None
         profile = None
         if not self.args.skip_images:
-            showcase = self._get_character_showcase("genshin", self.uids.get("genshin"))
-            profile = self._get_user_profile("genshin", self.uids.get("genshin"))
+            showcase = self._get_character_showcase(GENSHIN, self.uids.get(GENSHIN))
+            profile = self._get_user_profile(GENSHIN, self.uids.get(GENSHIN))
         codes = self.codes.get_codes()
-        await self.codes.redeem_codes(self, codes)
+        await self.codes.redeem_codes(self, codes, GENSHIN)
         return GenshinRes(
             user=user,
             abyss=abyss,
@@ -148,24 +151,25 @@ class AnimeGame(genshin.Client):
         )
 
     async def get_hsr_res(self) -> HsrRes:
+        logger.debug("Executing get_hsr_res")
         user = await self.get_starrail_user()
         diary = await self.get_starrail_diary()
         forgotten_hall = await self.get_starrail_challenge()
         characters = await self.get_starrail_characters()
-        reward, reward_info = await self._claim_daily("hkrpg")
+        reward, reward_info = await self._claim_daily(HSR)
         notes = await self.get_starrail_notes()
         showcase = None
         profile = None
         showcase_names = []
         if not self.args.skip_images:
-            showcase = self._get_character_showcase("hsr", self.uids.get("hkrpg"))
-            profile = self._get_user_profile("hsr", self.uids.get("hkrpg"))
+            showcase = self._get_character_showcase(HSR, self.uids.get(HSR))
+            profile = self._get_user_profile(HSR, self.uids.get(HSR))
             for s in showcase:
                 showcase_names.append(
                     " ".join(s.split("/")[-1].split("_")[0].split("-"))
                 )
-        codes = self.codes.get_codes("hkrpg")
-        await self.codes.redeem_codes(self, codes, "hkrpg")
+        codes = self.codes.get_codes(HSR)
+        await self.codes.redeem_codes(self, codes, HSR)
         return HsrRes(
             user=user,
             characters=characters.avatar_list,
