@@ -16,25 +16,24 @@ To use Anime Game Stats, you can follow these steps:
 ### Fork this repository by clicking the "Fork" button on the top right corner of this page. This will create a copy of the repository in your GitHub account.
 #### Copy your cookies
 
-Log in at [hoyolab](https://hoyolab.com), open the developer console by pressing F12 on your keyboard and navigate to the console tab. Finally, paste the following in the console to copy your cookies to your clipboard
+Using username and password
+1. Run `python -m genshin login`.
+2. Press the Login button and solve a captcha.
+3. Copy cookies.
 
-`copy(document.cookie)`
+![image](https://github.com/user-attachments/assets/7e7b7d70-3f68-426c-a481-9c0ca0ca5a39)
 
-![image](https://github.com/MhankBarBar/anime-game-stats/assets/55822959/5b098540-b3f4-4dd8-b74b-fdb3284e2d99)
 
-After that, make it cookie into json format, for example
-```json
-{"ltuid_v2": "...", "ltoken_v2": "...", "cookie_token_v2": "...", "account_id_v2": "...", "ltmid_v2": "..."}
-```
 ### Create a repository secret
 
 ![image](https://github.com/MhankBarBar/anime-game-stats/assets/55822959/5fd34244-bca2-4c9a-afad-c12fca91134d)
 
-### Paste your json format cookie in the repository secret
+### Paste your cookies in the repository secret
 
-![image](https://github.com/MhankBarBar/anime-game-stats/assets/55822959/08b7aa56-f60c-482c-9425-4db52b199e97)
+![image](https://github.com/user-attachments/assets/1085893e-c2a6-4716-ab5e-201a357cf8bf)
 
-For now the cookie is just supported for genshin and hsr at the same account.
+
+For now the cookies is just supported for genshin and hsr at the same account.
 
 ### Give Action Write Permissoion
 
@@ -47,7 +46,7 @@ For now the cookie is just supported for genshin and hsr at the same account.
 ![image](https://github.com/MhankBarBar/anime-game-stats/assets/55822959/dae0ea7f-3386-467a-9fd5-fb12d5878022)
 
 
-And you're set! From now on the repo will claim any new codes and redeem the daily check-in rewards at Hoyolab for you every 6 hours!
+And you're set! From now on the repo will claim any new codes and redeem the daily check-in rewards at Hoyolab for you every 12 hours!
 
 ## Costumization
 You can customize the `template.html` file to modify the appearance and layout of the generated HTML report.
