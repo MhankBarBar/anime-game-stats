@@ -14,8 +14,8 @@ Anime Game Stats is a Python script that retrieves statistics and information fr
 To use Anime Game Stats, you can follow these steps:
 
 ### Fork this repository by clicking the "Fork" button on the top right corner of this page. This will create a copy of the repository in your GitHub account.
-#### Copy your cookies
 
+### How to get Cookies?
 Using username and password
 1. Run `python -m genshin login`.
 2. Press the Login button and solve a captcha.
