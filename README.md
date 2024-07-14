@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 14, 2024 08:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 14, 2024 19:48 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_14_07_2024-08_36_51.png" />
+    <img src="images/profile/Joy_14_07_2024-19_48_57.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>426</td>
+        <td>427</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4445 (rate -56)</td>
+        <td>4555 (rate -55)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 990 (22%)<br />Forgotten Hall: 1000 (22%)<br />Adventure
-          Rewards: 925 (20%)<br />Daily Activity: 780 (17%)<br />Event: 620
-          (13%)<br />Other: 0 (4%)<br />Mail: 130 (2%)<br />
+          Simulated Universe: 990 (21%)<br />Forgotten Hall: 1000 (21%)<br />Adventure
+          Rewards: 925 (20%)<br />Daily Activity: 840 (18%)<br />Event: 620
+          (13%)<br />Other: 0 (4%)<br />Mail: 180 (3%)<br />
         </td>
       </tr>
     </table>
@@ -3969,7 +3969,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_14_07_2024-08_35_54.png" />
+    <img src="images/profile/genshin_profile_14_07_2024-19_48_00.png" />
   </div>
   <div align="center">
     <h2>
@@ -10834,44 +10834,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_14_07_2024-08_35_30.png" />
+  <img src="images/showcase/genshin_card_14_07_2024-19_47_39.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_14_07_2024-08_35_31.png" />
+  <img src="images/showcase/genshin_card_14_07_2024-19_47_40.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_14_07_2024-08_36_25.png" />
+  <img src="images/showcase/Acheron_14_07_2024-19_48_33.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_14_07_2024-08_36_25.png" />
+  <img src="images/showcase/Firefly_14_07_2024-19_48_34.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_14_07_2024-08_36_26.png" />
+  <img src="images/showcase/Ruan-Mei_14_07_2024-19_48_34.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_14_07_2024-08_36_26.png" />
+  <img src="images/showcase/Jingliu_14_07_2024-19_48_35.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_14_07_2024-08_36_27.png" />
+  <img src="images/showcase/Kafka_14_07_2024-19_48_36.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_14_07_2024-08_36_27.png" />
+  <img src="images/showcase/Seele_14_07_2024-19_48_36.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_14_07_2024-08_36_28.png" />
+  <img src="images/showcase/Huohuo_14_07_2024-19_48_37.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_14_07_2024-08_36_29.png" />
+  <img src="images/showcase/Robin_14_07_2024-19_48_37.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
