@@ -18,7 +18,7 @@ class GetCodes:
         url = self._build_url(game)
         response = self._send_request(url)
         soup = self._parse_html(response)
-        acrive_codes = self._extract_codes(soup)
+        active_codes = self._extract_codes(soup)
 
         return active_codes
 
