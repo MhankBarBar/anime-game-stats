@@ -11,8 +11,8 @@ def _get_file_path(game: genshin.Game) -> str:
 
 
 class GetCodes:
-    HSR_URL: str = "https://honkai-star-rail.fandom.com/wiki/Redemption_Code"
-    GENSHIN_URL: str = "https://genshin-impact.fandom.com/wiki/Promotional_Code"
+    HSR_URL: str = "https://www.gamesradar.com/honkai-star-rail-codes-redeem/"
+    GENSHIN_URL: str = "https://www.gamesradar.com/genshin-impact-codes-redeem/"
 
     def get_codes(self, game: genshin.Game = genshin.Game.GENSHIN) -> List[str]:
         url = self._build_url(game)
@@ -57,5 +57,22 @@ class GetCodes:
         return bs4.BeautifulSoup(html, "html.parser")
 
     def _extract_codes(self, soup: bs4.BeautifulSoup) -> List[bs4.element.Tag]:
-        codes = [code for code in soup.find_all("code")]
+        codes: list[str] = []
+        div = soup.find("div", id="article-body")
+        h2s = div.find_all("h2")
+        uls = div.find_all("ul")
+        lis = []
+    
+        for i, h2 in enumerate(h2s):
+            if "livestream" in h2.text.strip().lower() or h2.text.strip() in {
+                "Genshin Impact active codes",
+                "Honkai Star Rail codes",
+            }:
+                ul = uls[i]
+                lis.extend(ul.find_all("li"))
+    
+        for li in lis:
+            if li.strong is not None or li.strong.text.strip().isupper():
+                codes.append(li.strong.text.strip().split(" / ")[0].strip())
+    
         return codes
