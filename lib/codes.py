@@ -18,9 +18,8 @@ class GetCodes:
         url = self._build_url(game)
         response = self._send_request(url)
         soup = self._parse_html(response)
-        parsed_codes = self._extract_codes(soup)
+        acrive_codes = self._extract_codes(soup)
 
-        active_codes = [code.text.strip() for code in parsed_codes]
         return active_codes
 
     def _check_codes(self, codes: List[str], game: genshin.Game = genshin.Game.GENSHIN) -> List[str]:
