@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 21, 2024 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 22, 2024 08:26 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_21_07_2024-19_35_54.png" />
+    <img src="images/profile/Joy_22_07_2024-08_26_20.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -92,27 +92,6 @@
           Universe: 990 (18%)<br />Adventure Rewards: 925 (17%)<br />Event: 620
           (11%)<br />Mail: 500 (9%)<br />Other: 0 (4%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1015</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>A Song's True Theme Stage 11</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>10</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>33</td>
       </tr>
     </table>
   </div>
@@ -3974,17 +3953,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -4005,7 +3984,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>890</td>
+        <td>891</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4438,21 +4417,21 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
           Kaedehara Kazuha (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
-          Clorinde (9)<br /><img
+          Xiangling (12)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+            ,
+            height="18"
+          />
+          Bennett (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
             ,
             height="18"
@@ -4528,7 +4507,7 @@
           />
           Primogems earned
         </td>
-        <td>5627 (rate 211)</td>
+        <td>5691 (rate 215)</td>
       </tr>
       <tr>
         <td>
@@ -4538,14 +4517,14 @@
           />
           Mora earned
         </td>
-        <td>2735489 (rate 115)</td>
+        <td>2851959 (rate 124)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2670 (48%)<br />Spiral Abyss: 2520 (45%)<br />Events: 200
-          (3%)<br />Daily Activity: 180 (3%)<br />Adventure: 57 (1%)<br />Quests:
-          0 (0%)<br />Other: 0 (0%)<br />
+          Mail: 2670 (47%)<br />Spiral Abyss: 2520 (44%)<br />Daily Activity:
+          240 (4%)<br />Events: 200 (3%)<br />Adventure: 57 (1%)<br />Quests: 0
+          (0%)<br />Other: 4 (1%)<br />
         </td>
       </tr>
     </table>
@@ -5782,7 +5761,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -6007,6 +5986,118 @@
               <tr>
                 <td>Refinement</td>
                 <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Navia</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Navia</h3></th>
+          <th><h3 align="center">Verdict</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/4d026bb5a9fcd0d88e404fce4de4394b.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />4 x Marechaussee Hunter<br />1 x
+                  Thundersoother<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/dd33042fee9bd59074fe07542feed6c9.png"
+                    height="18"
+                  />
+                  Hunter's Brooch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/9f869eb69a611da70f6f8fa848afe868.png"
+                    height="18"
+                  />
+                  Masterpiece's Overture<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/3751bec98f5d65d1f3ae249b0ce4730f.png"
+                    height="18"
+                  />
+                  Moment of Judgment<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/a3958ac1a4c2e06830f3733f847485eb.png"
+                    height="18"
+                  />
+                  Thundersoother's Goblet<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/372f7dbc242e6c390963d4894814a28f.png"
+                    height="18"
+                  />
+                  Veteran's Visage<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Verdict</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -6343,18 +6434,18 @@
       </table>
     </details>
     <details>
-      <summary><b>Navia</b></summary>
+      <summary><b>Nilou</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Navia</h3></th>
-          <th><h3 align="center">Verdict</h3></th>
+          <th><h3 align="center">Nilou</h3></th>
+          <th><h3 align="center">Key of Khaj-Nisut</h3></th>
         </tr>
         <tr>
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
                 heigt="250"
               />
             </p>
@@ -6362,7 +6453,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/4d026bb5a9fcd0d88e404fce4de4394b.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/0664788f07ba44996609ed56f68c2a44.png"
                 height="250"
               />
             </p>
@@ -6379,7 +6470,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
                     height="18"
                   />
                 </td>
@@ -6390,7 +6481,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>9</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -6398,36 +6489,36 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />4 x Marechaussee Hunter<br />1 x
-                  Thundersoother<br />
+                  Artifacts<br />2 x Vourukasha's Glow<br />3 x Tenacity of the
+                  Millelith<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/dd33042fee9bd59074fe07542feed6c9.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/9d06e74675d178f25eeaa457e5c7ea70.png"
                     height="18"
                   />
-                  Hunter's Brooch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/9f869eb69a611da70f6f8fa848afe868.png"
+                  Stamen of Khvarena's Origin<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/b9cc401b10194281d452f9d3a4ed3bbf.png"
                     height="18"
                   />
-                  Masterpiece's Overture<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/3751bec98f5d65d1f3ae249b0ce4730f.png"
+                  Ceremonial War-Plume<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/fbbe444cca34867d234d276d525ea3d6.png"
                     height="18"
                   />
-                  Moment of Judgment<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/a3958ac1a4c2e06830f3733f847485eb.png"
+                  Orichalceous Time-Dial<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/224a679b34c2ab6cc73f30032423af37.png"
                     height="18"
                   />
-                  Thundersoother's Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/372f7dbc242e6c390963d4894814a28f.png"
+                  Feast of Boundless Joy<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/40629236abbfedf02beceeb9dd668fbb.png"
                     height="18"
                   />
-                  Veteran's Visage<br />
+                  General's Ancient Helm<br />
                 </td>
               </tr>
               <tr>
                 <td>Outfits</td>
-                <td></td>
+                <td>Breeze of Sabaa</td>
               </tr>
             </table>
           </td>
@@ -6435,7 +6526,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Verdict</td>
+                <td>Key of Khaj-Nisut</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -6559,104 +6650,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>4</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Nilou</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Nilou</h3></th>
-          <th><h3 align="center">Key of Khaj-Nisut</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/0664788f07ba44996609ed56f68c2a44.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br />2 x Vourukasha's Glow<br /></td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/9d06e74675d178f25eeaa457e5c7ea70.png"
-                    height="18"
-                  />
-                  Stamen of Khvarena's Origin<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/224a679b34c2ab6cc73f30032423af37.png"
-                    height="18"
-                  />
-                  Feast of Boundless Joy<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td>Breeze of Sabaa</td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Key of Khaj-Nisut</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>80</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -8603,7 +8597,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -11122,44 +11116,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_21_07_2024-19_34_35.png" />
+  <img src="images/showcase/genshin_card_22_07_2024-08_25_02.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_21_07_2024-19_34_36.png" />
+  <img src="images/showcase/genshin_card_22_07_2024-08_25_03.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_21_07_2024-19_35_29.png" />
+  <img src="images/showcase/Acheron_22_07_2024-08_25_54.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_21_07_2024-19_35_30.png" />
+  <img src="images/showcase/Firefly_22_07_2024-08_25_54.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_21_07_2024-19_35_30.png" />
+  <img src="images/showcase/Ruan-Mei_22_07_2024-08_25_55.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_21_07_2024-19_35_31.png" />
+  <img src="images/showcase/Jingliu_22_07_2024-08_25_56.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_21_07_2024-19_35_31.png" />
+  <img src="images/showcase/Kafka_22_07_2024-08_25_56.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_21_07_2024-19_35_32.png" />
+  <img src="images/showcase/Seele_22_07_2024-08_25_57.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_21_07_2024-19_35_33.png" />
+  <img src="images/showcase/Huohuo_22_07_2024-08_25_57.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_21_07_2024-19_35_33.png" />
+  <img src="images/showcase/Robin_22_07_2024-08_25_58.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
