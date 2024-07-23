@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 22, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 23, 2024 08:24 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_22_07_2024-19_38_48.png" />
+    <img src="images/profile/Joy_23_07_2024-08_24_15.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>433</td>
+        <td>434</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -3953,17 +3953,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
             height="20"
           />
-          Primogem
+          Fisherman's Toast
         </td>
       </tr>
     </table>
@@ -3984,7 +3984,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>892</td>
+        <td>893</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4016,7 +4016,7 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2505</td>
+        <td>2506</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
@@ -4417,26 +4417,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
           Xiangling (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Bennett (9)<br /><img
+          Kaedehara Kazuha (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
             ,
             height="18"
           />
-          Furina (9)<br />
+          Furina (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
+            ,
+            height="18"
+          />
+          Clorinde (9)<br />
         </td>
       </tr>
       <tr>
@@ -4507,7 +4507,7 @@
           />
           Primogems earned
         </td>
-        <td>5691 (rate 215)</td>
+        <td>5811 (rate 221)</td>
       </tr>
       <tr>
         <td>
@@ -4522,9 +4522,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2670 (47%)<br />Spiral Abyss: 2520 (44%)<br />Daily Activity:
-          240 (4%)<br />Events: 200 (3%)<br />Adventure: 57 (1%)<br />Quests: 0
-          (0%)<br />Other: 4 (1%)<br />
+          Mail: 2690 (46%)<br />Spiral Abyss: 2520 (43%)<br />Events: 300
+          (5%)<br />Daily Activity: 240 (4%)<br />Adventure: 57 (1%)<br />Quests:
+          0 (0%)<br />Other: 4 (1%)<br />
         </td>
       </tr>
     </table>
@@ -11116,44 +11116,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_22_07_2024-19_37_18.png" />
+  <img src="images/showcase/genshin_card_23_07_2024-08_22_59.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_22_07_2024-19_37_20.png" />
+  <img src="images/showcase/genshin_card_23_07_2024-08_23_01.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_22_07_2024-19_38_21.png" />
+  <img src="images/showcase/Acheron_23_07_2024-08_23_52.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_22_07_2024-19_38_22.png" />
+  <img src="images/showcase/Firefly_23_07_2024-08_23_52.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_22_07_2024-19_38_22.png" />
+  <img src="images/showcase/Ruan-Mei_23_07_2024-08_23_53.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_22_07_2024-19_38_23.png" />
+  <img src="images/showcase/Jingliu_23_07_2024-08_23_53.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_22_07_2024-19_38_23.png" />
+  <img src="images/showcase/Kafka_23_07_2024-08_23_54.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_22_07_2024-19_38_24.png" />
+  <img src="images/showcase/Seele_23_07_2024-08_23_55.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_22_07_2024-19_38_25.png" />
+  <img src="images/showcase/Huohuo_23_07_2024-08_23_55.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_22_07_2024-19_38_25.png" />
+  <img src="images/showcase/Robin_23_07_2024-08_23_56.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
