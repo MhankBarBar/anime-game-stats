@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 24, 2024 08:24 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 24, 2024 19:37 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_24_07_2024-08_24_37.png" />
+    <img src="images/profile/Joy_24_07_2024-19_37_19.png" />
   </div>
   <div align="center">
     <h2>
@@ -4427,16 +4427,16 @@
             height="18"
           />
           Xiangling (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
-            ,
-            height="18"
-          />
-          Clorinde (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
-          Bennett (9)<br />
+          Bennett (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+            ,
+            height="18"
+          />
+          Furina (9)<br />
         </td>
       </tr>
       <tr>
@@ -4507,7 +4507,7 @@
           />
           Primogems earned
         </td>
-        <td>5873 (rate 225)</td>
+        <td>5965 (rate 230)</td>
       </tr>
       <tr>
         <td>
@@ -4517,14 +4517,14 @@
           />
           Mora earned
         </td>
-        <td>2934934 (rate 131)</td>
+        <td>3056932 (rate 140)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2690 (46%)<br />Spiral Abyss: 2520 (42%)<br />Events: 300
-          (5%)<br />Daily Activity: 300 (5%)<br />Adventure: 59 (1%)<br />Quests:
-          0 (0%)<br />Other: 4 (1%)<br />
+          Mail: 2690 (45%)<br />Spiral Abyss: 2520 (42%)<br />Daily Activity:
+          360 (6%)<br />Events: 300 (5%)<br />Adventure: 71 (1%)<br />Quests: 0
+          (0%)<br />Other: 24 (1%)<br />
         </td>
       </tr>
     </table>
@@ -10938,6 +10938,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Kirara</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Kirara</h3></th>
+          <th><h3 align="center">Dull Blade</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Momoka.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/6c7f6d79f90a26ba4fce9ad69ecad26d.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>3</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Dull Blade</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Sethos</b></summary>
       <br />
       <table>
@@ -11024,136 +11111,49 @@
         </tr>
       </table>
     </details>
-    <details>
-      <summary><b>Kirara</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Kirara</h3></th>
-          <th><h3 align="center">Dull Blade</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Momoka.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/6c7f6d79f90a26ba4fce9ad69ecad26d.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>3</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Dull Blade</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
   </div>
 </details>
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_24_07_2024-08_23_13.png" />
+  <img src="images/showcase/genshin_card_24_07_2024-19_35_59.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_24_07_2024-08_23_14.png" />
+  <img src="images/showcase/genshin_card_24_07_2024-19_36_00.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_24_07_2024-08_24_07.png" />
+  <img src="images/showcase/Acheron_24_07_2024-19_36_52.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_24_07_2024-08_24_08.png" />
+  <img src="images/showcase/Firefly_24_07_2024-19_36_52.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_24_07_2024-08_24_08.png" />
+  <img src="images/showcase/Ruan-Mei_24_07_2024-19_36_53.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_24_07_2024-08_24_09.png" />
+  <img src="images/showcase/Jingliu_24_07_2024-19_36_53.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_24_07_2024-08_24_09.png" />
+  <img src="images/showcase/Kafka_24_07_2024-19_36_54.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_24_07_2024-08_24_10.png" />
+  <img src="images/showcase/Seele_24_07_2024-19_36_55.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_24_07_2024-08_24_11.png" />
+  <img src="images/showcase/Huohuo_24_07_2024-19_36_55.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_24_07_2024-08_24_11.png" />
+  <img src="images/showcase/Robin_24_07_2024-19_36_56.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
