@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 26, 2024 08:23 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 26, 2024 19:36 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_26_07_2024-08_23_26.png" />
+    <img src="images/profile/Joy_26_07_2024-19_36_28.png" />
   </div>
   <div align="center">
     <h2>
@@ -3984,7 +3984,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>895</td>
+        <td>896</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4036,7 +4036,7 @@
       </tr>
       <tr>
         <td>Domains Unlocked</td>
-        <td>57</td>
+        <td>58</td>
       </tr>
     </table>
   </div>
@@ -4376,7 +4376,7 @@
       </tr>
       <tr>
         <td>Items</td>
-        <td>1319</td>
+        <td>1320</td>
       </tr>
       <tr>
         <td>Visitors</td>
@@ -4417,26 +4417,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
           Xiangling (12)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
             ,
             height="18"
           />
           Furina (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
-          Clorinde (9)<br />
+          Bennett (9)<br />
         </td>
       </tr>
       <tr>
@@ -4507,7 +4507,7 @@
           />
           Primogems earned
         </td>
-        <td>6385 (rate 253)</td>
+        <td>6528 (rate 261)</td>
       </tr>
       <tr>
         <td>
@@ -4517,14 +4517,14 @@
           />
           Mora earned
         </td>
-        <td>3379333 (rate 166)</td>
+        <td>3567501 (rate 180)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2690 (43%)<br />Imaginarium Theater: 1720 (27%)<br />Spiral
-          Abyss: 800 (12%)<br />Events: 590 (9%)<br />Daily Activity: 420
-          (6%)<br />Adventure: 141 (2%)<br />Quests: 0 (0%)<br />Other: 24
+          Mail: 2690 (42%)<br />Imaginarium Theater: 1720 (26%)<br />Spiral
+          Abyss: 800 (12%)<br />Events: 590 (9%)<br />Daily Activity: 480
+          (7%)<br />Adventure: 164 (2%)<br />Quests: 60 (1%)<br />Other: 24
           (1%)<br />
         </td>
       </tr>
@@ -9574,7 +9574,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>6</td>
+                <td>7</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -11117,44 +11117,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_26_07_2024-08_22_09.png" />
+  <img src="images/showcase/genshin_card_26_07_2024-19_35_13.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_26_07_2024-08_22_10.png" />
+  <img src="images/showcase/genshin_card_26_07_2024-19_35_14.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_26_07_2024-08_23_01.png" />
+  <img src="images/showcase/Acheron_26_07_2024-19_36_03.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_26_07_2024-08_23_01.png" />
+  <img src="images/showcase/Firefly_26_07_2024-19_36_03.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_26_07_2024-08_23_02.png" />
+  <img src="images/showcase/Ruan-Mei_26_07_2024-19_36_04.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_26_07_2024-08_23_02.png" />
+  <img src="images/showcase/Jingliu_26_07_2024-19_36_05.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_26_07_2024-08_23_03.png" />
+  <img src="images/showcase/Kafka_26_07_2024-19_36_05.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_26_07_2024-08_23_04.png" />
+  <img src="images/showcase/Seele_26_07_2024-19_36_06.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_26_07_2024-08_23_04.png" />
+  <img src="images/showcase/Huohuo_26_07_2024-19_36_07.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_26_07_2024-08_23_05.png" />
+  <img src="images/showcase/Robin_26_07_2024-19_36_07.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
