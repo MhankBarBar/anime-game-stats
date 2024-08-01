@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 31, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 01, 2024 08:38 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_31_07_2024-19_38_57.png" />
+    <img src="images/profile/Joy_01_08_2024-08_37_59.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Lost Crystal
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>437</td>
+        <td>438</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>7061 (rate -30)</td>
+        <td>55 (rate -99)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>20 (rate -37)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 1640 (23%)<br />Daily Activity: 1400 (19%)<br />Simulated
-          Universe: 1285 (18%)<br />Mail: 1120 (15%)<br />Adventure Rewards: 975
-          (13%)<br />Event: 640 (9%)<br />Other: 1 (3%)<br />
+          Adventure Rewards: 55 (100%)<br />Daily Activity: 0 (0%)<br />Event: 0
+          (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
+          0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -3974,7 +3974,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -4001,11 +4001,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>948</td>
+        <td>949</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>900</td>
+        <td>902</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4037,19 +4037,19 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2517</td>
+        <td>2521</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1818</td>
+        <td>1830</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>543</td>
+        <td>546</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>210</td>
+        <td>212</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
@@ -4207,7 +4207,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/57/" width="80" />
+                <img src="https://progress-bar.dev/67/" width="80" />
               </td>
             </tr>
             <tr>
@@ -4263,7 +4263,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/90/" width="80" />
+                <img src="https://progress-bar.dev/92/" width="80" />
               </td>
             </tr>
             <tr>
@@ -4420,7 +4420,7 @@
       </tr>
       <tr>
         <td>Items</td>
-        <td>1320</td>
+        <td>1321</td>
       </tr>
       <tr>
         <td>Visitors</td>
@@ -4461,16 +4461,16 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
           Kaedehara Kazuha (12)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          Xiangling (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
             ,
             height="18"
@@ -4551,7 +4551,7 @@
           />
           Primogems earned
         </td>
-        <td>7363 (rate 307)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>
@@ -4561,15 +4561,14 @@
           />
           Mora earned
         </td>
-        <td>4339203 (rate 241)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 2790 (38%)<br />Imaginarium Theater: 1720 (24%)<br />Daily
-          Activity: 780 (11%)<br />Spiral Abyss: 800 (11%)<br />Events: 650
-          (8%)<br />Adventure: 489 (6%)<br />Quests: 90 (1%)<br />Other: 44
-          (1%)<br />
+          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
+          (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
+          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -11161,44 +11160,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_31_07_2024-19_37_26.png" />
+  <img src="images/showcase/genshin_card_01_08_2024-08_36_36.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_31_07_2024-19_37_27.png" />
+  <img src="images/showcase/genshin_card_01_08_2024-08_36_37.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_31_07_2024-19_38_25.png" />
+  <img src="images/showcase/Acheron_01_08_2024-08_37_30.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_31_07_2024-19_38_25.png" />
+  <img src="images/showcase/Firefly_01_08_2024-08_37_30.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_31_07_2024-19_38_26.png" />
+  <img src="images/showcase/Ruan-Mei_01_08_2024-08_37_31.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_31_07_2024-19_38_27.png" />
+  <img src="images/showcase/Jingliu_01_08_2024-08_37_32.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_31_07_2024-19_38_27.png" />
+  <img src="images/showcase/Kafka_01_08_2024-08_37_32.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_31_07_2024-19_38_28.png" />
+  <img src="images/showcase/Seele_01_08_2024-08_37_33.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_31_07_2024-19_38_29.png" />
+  <img src="images/showcase/Huohuo_01_08_2024-08_37_33.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_31_07_2024-19_38_29.png" />
+  <img src="images/showcase/Robin_01_08_2024-08_37_34.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
