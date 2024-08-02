@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 01, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 02, 2024 08:24 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_01_08_2024-19_38_17.png" />
+    <img src="images/profile/Joy_02_08_2024-08_24_05.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>487 (rate -93)</td>
+        <td>597 (rate -91)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 485 (99%)<br />Other: 2 (1%)<br />Daily Activity: 0
-          (0%)<br />Event: 0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten
-          Hall: 0 (0%)<br />Mail: 0 (0%)<br />
+          Adventure Rewards: 485 (81%)<br />Daily Activity: 60 (10%)<br />Mail:
+          50 (8%)<br />Other: 2 (1%)<br />Event: 0 (0%)<br />Simulated Universe:
+          0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -3970,17 +3970,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -4467,16 +4467,16 @@
             height="18"
           />
           Xiangling (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
-            ,
-            height="18"
-          />
-          Bennett (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
             ,
             height="18"
           />
-          Furina (9)<br />
+          Furina (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+            ,
+            height="18"
+          />
+          Bennett (9)<br />
         </td>
       </tr>
       <tr>
@@ -4547,7 +4547,7 @@
           />
           Primogems earned
         </td>
-        <td>175 (rate -97)</td>
+        <td>815 (rate -88)</td>
       </tr>
       <tr>
         <td>
@@ -4557,13 +4557,13 @@
           />
           Mora earned
         </td>
-        <td>112678 (rate -97)</td>
+        <td>599928 (rate -86)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 115 (66%)<br />Daily Activity: 60 (34%)<br />Events: 0
-          (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
+          Imaginarium Theater: 620 (77%)<br />Adventure: 135 (16%)<br />Daily
+          Activity: 60 (7%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests:
           0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
@@ -8401,8 +8401,8 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Shimenawa's Reminiscence<br />1 x Deepwood
-                  Memories<br />1 x Maiden Beloved<br />
+                  Artifacts<br />1 x Shimenawa's Reminiscence<br />1 x
+                  Viridescent Venerer<br />1 x Maiden Beloved<br />
                 </td>
                 <td>
                   <img
@@ -8410,10 +8410,10 @@
                     height="18"
                   />
                   Morning Dew's Moment<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/3535d30b17a5c72675f34f6879757f99.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/88ffcd3b3a7b7c40a16faa4022c6d371.png"
                     height="18"
                   />
-                  Lamp of the Lost<br /><img
+                  Viridescent Venerer's Vessel<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/46bcbac6663828a2e14374dca115a850.png"
                     height="18"
                   />
@@ -8700,8 +8700,8 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />3 x Viridescent Venerer<br />1 x Gilded
-                  Dreams<br />1 x Maiden Beloved<br />
+                  Artifacts<br />3 x Viridescent Venerer<br />1 x Emblem of
+                  Severed Fate<br />1 x Maiden Beloved<br />
                 </td>
                 <td>
                   <img
@@ -8713,10 +8713,10 @@
                     height="18"
                   />
                   Viridescent Arrow Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/7af0e77f058b59c8079aace049f80708.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/0422444abf67cf8e680152f5312be463.png"
                     height="18"
                   />
-                  The Sunken Years<br /><img
+                  Storm Cage<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/1912b7b9462ddf6034aad83b925e7c75.png"
                     height="18"
                   />
@@ -8988,7 +8988,7 @@
       <table>
         <tr>
           <th><h3 align="center">Kuki Shinobu</h3></th>
-          <th><h3 align="center">Dull Blade</h3></th>
+          <th><h3 align="center">Xiphos' Moonlight</h3></th>
         </tr>
         <tr>
           <td>
@@ -9002,7 +9002,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/6c7f6d79f90a26ba4fce9ad69ecad26d.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/5ee1229d54c720f1aac7ab8c225fab73.png"
                 height="250"
               />
             </p>
@@ -9038,8 +9038,7 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />3 x Gilded Dreams<br />1 x Emblem of Severed
-                  Fate<br />1 x Viridescent Venerer<br />
+                  Artifacts<br />4 x Gilded Dreams<br />1 x Deepwood Memories<br />
                 </td>
                 <td>
                   <img
@@ -9051,14 +9050,14 @@
                     height="18"
                   />
                   Feather of Judgment<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/0422444abf67cf8e680152f5312be463.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/7af0e77f058b59c8079aace049f80708.png"
                     height="18"
                   />
-                  Storm Cage<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/88ffcd3b3a7b7c40a16faa4022c6d371.png"
+                  The Sunken Years<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/3535d30b17a5c72675f34f6879757f99.png"
                     height="18"
                   />
-                  Viridescent Venerer's Vessel<br /><img
+                  Lamp of the Lost<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/b4c6e817fba32e284080143bb694ac11.png"
                     height="18"
                   />
@@ -9075,19 +9074,19 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Dull Blade</td>
+                <td>Xiphos' Moonlight</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★</td>
+                <td>★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>1</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -9613,7 +9612,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>7</td>
+                <td>8</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -11156,44 +11155,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_01_08_2024-19_36_59.png" />
+  <img src="images/showcase/genshin_card_02_08_2024-08_22_49.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_01_08_2024-19_37_01.png" />
+  <img src="images/showcase/genshin_card_02_08_2024-08_22_50.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_01_08_2024-19_37_50.png" />
+  <img src="images/showcase/Acheron_02_08_2024-08_23_40.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_01_08_2024-19_37_51.png" />
+  <img src="images/showcase/Firefly_02_08_2024-08_23_40.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_01_08_2024-19_37_52.png" />
+  <img src="images/showcase/Ruan-Mei_02_08_2024-08_23_41.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_01_08_2024-19_37_52.png" />
+  <img src="images/showcase/Jingliu_02_08_2024-08_23_41.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_01_08_2024-19_37_53.png" />
+  <img src="images/showcase/Kafka_02_08_2024-08_23_42.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_01_08_2024-19_37_54.png" />
+  <img src="images/showcase/Seele_02_08_2024-08_23_43.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_01_08_2024-19_37_54.png" />
+  <img src="images/showcase/Huohuo_02_08_2024-08_23_43.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_01_08_2024-19_37_55.png" />
+  <img src="images/showcase/Robin_02_08_2024-08_23_44.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
