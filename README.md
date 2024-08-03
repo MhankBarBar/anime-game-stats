@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 03, 2024 08:23 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 03, 2024 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_03_08_2024-08_23_22.png" />
+    <img src="images/profile/Joy_03_08_2024-19_35_31.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>439</td>
+        <td>440</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1182 (rate -83)</td>
+        <td>1467 (rate -79)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>3 (rate -85)</td>
+        <td>15 (rate -25)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 730 (61%)<br />Event: 280 (23%)<br />Daily
-          Activity: 120 (10%)<br />Mail: 50 (4%)<br />Other: 2 (2%)<br />Simulated
-          Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
+          Adventure Rewards: 730 (49%)<br />Event: 280 (19%)<br />Simulated
+          Universe: 225 (15%)<br />Daily Activity: 180 (12%)<br />Mail: 50
+          (3%)<br />Other: 2 (2%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -4557,7 +4557,7 @@
           />
           Mora earned
         </td>
-        <td>882442 (rate -79)</td>
+        <td>948192 (rate -78)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -6521,7 +6521,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>8</td>
+                <td>9</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -6564,6 +6564,118 @@
               <tr>
                 <td>Name</td>
                 <td>Skyward Atlas</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Nilou</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Nilou</h3></th>
+          <th><h3 align="center">Key of Khaj-Nisut</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/0664788f07ba44996609ed56f68c2a44.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />2 x Vourukasha's Glow<br />3 x Tenacity of the
+                  Millelith<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/9d06e74675d178f25eeaa457e5c7ea70.png"
+                    height="18"
+                  />
+                  Stamen of Khvarena's Origin<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/b9cc401b10194281d452f9d3a4ed3bbf.png"
+                    height="18"
+                  />
+                  Ceremonial War-Plume<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/fbbe444cca34867d234d276d525ea3d6.png"
+                    height="18"
+                  />
+                  Orichalceous Time-Dial<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/224a679b34c2ab6cc73f30032423af37.png"
+                    height="18"
+                  />
+                  Feast of Boundless Joy<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/40629236abbfedf02beceeb9dd668fbb.png"
+                    height="18"
+                  />
+                  General's Ancient Helm<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td>Breeze of Sabaa</td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Key of Khaj-Nisut</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -6688,118 +6800,6 @@
               <tr>
                 <td>Refinement</td>
                 <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Nilou</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Nilou</h3></th>
-          <th><h3 align="center">Key of Khaj-Nisut</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/0664788f07ba44996609ed56f68c2a44.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>5</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />2 x Vourukasha's Glow<br />3 x Tenacity of the
-                  Millelith<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/9d06e74675d178f25eeaa457e5c7ea70.png"
-                    height="18"
-                  />
-                  Stamen of Khvarena's Origin<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/b9cc401b10194281d452f9d3a4ed3bbf.png"
-                    height="18"
-                  />
-                  Ceremonial War-Plume<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/fbbe444cca34867d234d276d525ea3d6.png"
-                    height="18"
-                  />
-                  Orichalceous Time-Dial<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/224a679b34c2ab6cc73f30032423af37.png"
-                    height="18"
-                  />
-                  Feast of Boundless Joy<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud1cjg/40629236abbfedf02beceeb9dd668fbb.png"
-                    height="18"
-                  />
-                  General's Ancient Helm<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td>Breeze of Sabaa</td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Key of Khaj-Nisut</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
               </tr>
             </table>
           </td>
@@ -11155,44 +11155,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_03_08_2024-08_21_59.png" />
+  <img src="images/showcase/genshin_card_03_08_2024-19_34_01.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_03_08_2024-08_22_00.png" />
+  <img src="images/showcase/genshin_card_03_08_2024-19_34_02.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_03_08_2024-08_22_55.png" />
+  <img src="images/showcase/Acheron_03_08_2024-19_35_01.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_03_08_2024-08_22_56.png" />
+  <img src="images/showcase/Firefly_03_08_2024-19_35_02.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_03_08_2024-08_22_56.png" />
+  <img src="images/showcase/Ruan-Mei_03_08_2024-19_35_03.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_03_08_2024-08_22_57.png" />
+  <img src="images/showcase/Jingliu_03_08_2024-19_35_04.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_03_08_2024-08_22_57.png" />
+  <img src="images/showcase/Kafka_03_08_2024-19_35_05.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_03_08_2024-08_22_58.png" />
+  <img src="images/showcase/Seele_03_08_2024-19_35_05.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_03_08_2024-08_22_58.png" />
+  <img src="images/showcase/Huohuo_03_08_2024-19_35_06.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_03_08_2024-08_22_59.png" />
+  <img src="images/showcase/Robin_03_08_2024-19_35_07.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
