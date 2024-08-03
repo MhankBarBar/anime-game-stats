@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 02, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 03, 2024 08:23 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_02_08_2024-19_37_57.png" />
+    <img src="images/profile/Joy_03_08_2024-08_23_22.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Condensed Aether
+          Credit
         </td>
       </tr>
     </table>
@@ -3970,17 +3970,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -4001,7 +4001,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>902</td>
+        <td>904</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4467,16 +4467,16 @@
             height="18"
           />
           Kaedehara Kazuha (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-            ,
-            height="18"
-          />
-          Furina (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
-          Bennett (9)<br />
+          Bennett (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
+            ,
+            height="18"
+          />
+          Clorinde (9)<br />
         </td>
       </tr>
       <tr>
@@ -4547,7 +4547,7 @@
           />
           Primogems earned
         </td>
-        <td>815 (rate -88)</td>
+        <td>1212 (rate -83)</td>
       </tr>
       <tr>
         <td>
@@ -4557,14 +4557,14 @@
           />
           Mora earned
         </td>
-        <td>599928 (rate -86)</td>
+        <td>882442 (rate -79)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Imaginarium Theater: 620 (77%)<br />Adventure: 135 (16%)<br />Daily
-          Activity: 60 (7%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+          Imaginarium Theater: 620 (52%)<br />Events: 330 (27%)<br />Adventure:
+          135 (11%)<br />Daily Activity: 120 (9%)<br />Spiral Abyss: 0 (0%)<br />Quests:
+          0 (0%)<br />Mail: 0 (0%)<br />Other: 7 (1%)<br />
         </td>
       </tr>
     </table>
@@ -11155,44 +11155,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_02_08_2024-19_36_32.png" />
+  <img src="images/showcase/genshin_card_03_08_2024-08_21_59.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_02_08_2024-19_36_34.png" />
+  <img src="images/showcase/genshin_card_03_08_2024-08_22_00.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_02_08_2024-19_37_27.png" />
+  <img src="images/showcase/Acheron_03_08_2024-08_22_55.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_02_08_2024-19_37_27.png" />
+  <img src="images/showcase/Firefly_03_08_2024-08_22_56.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_02_08_2024-19_37_28.png" />
+  <img src="images/showcase/Ruan-Mei_03_08_2024-08_22_56.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_02_08_2024-19_37_28.png" />
+  <img src="images/showcase/Jingliu_03_08_2024-08_22_57.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_02_08_2024-19_37_29.png" />
+  <img src="images/showcase/Kafka_03_08_2024-08_22_57.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_02_08_2024-19_37_30.png" />
+  <img src="images/showcase/Seele_03_08_2024-08_22_58.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_02_08_2024-19_37_30.png" />
+  <img src="images/showcase/Huohuo_03_08_2024-08_22_58.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_02_08_2024-19_37_31.png" />
+  <img src="images/showcase/Robin_03_08_2024-08_22_59.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
