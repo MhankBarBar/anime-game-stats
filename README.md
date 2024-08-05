@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 05, 2024 19:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 05, 2024 20:19 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -75,7 +75,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1241.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1241.png"
               />
             </p>
           </td>
@@ -112,7 +112,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconAttack.webp"
@@ -144,7 +144,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1191.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1191.png"
               />
             </p>
           </td>
@@ -181,7 +181,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconAttack.webp"
@@ -213,7 +213,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1181.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1181.png"
               />
             </p>
           </td>
@@ -250,7 +250,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconAnomaly.webp"
@@ -282,7 +282,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1021.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1021.png"
               />
             </p>
           </td>
@@ -319,7 +319,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconAttack.webp"
@@ -351,7 +351,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1281.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1281.png"
               />
             </p>
           </td>
@@ -388,7 +388,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconAnomaly.webp"
@@ -420,7 +420,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1151.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1151.png"
               />
             </p>
           </td>
@@ -457,7 +457,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconSupport.webp"
@@ -489,7 +489,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1131.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1131.png"
               />
             </p>
           </td>
@@ -526,7 +526,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconSupport.webp"
@@ -558,7 +558,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1011.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1011.png"
               />
             </p>
           </td>
@@ -595,7 +595,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconStun.webp"
@@ -627,7 +627,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1031.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1031.png"
               />
             </p>
           </td>
@@ -664,7 +664,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconSupport.webp"
@@ -696,7 +696,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1121.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1121.png"
               />
             </p>
           </td>
@@ -733,7 +733,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconDefense.webp"
@@ -765,7 +765,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1111.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1111.png"
               />
             </p>
           </td>
@@ -802,7 +802,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconAttack.webp"
@@ -834,7 +834,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1081.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1081.png"
               />
             </p>
           </td>
@@ -871,7 +871,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconAttack.webp"
@@ -903,7 +903,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_vertical_painting/role_vertical_painting_1061.png"
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1061.png"
               />
             </p>
           </td>
@@ -940,7 +940,7 @@
               </tr>
               <tr></tr>
               <tr>
-                <td>Speciality</td>
+                <td>Specialty</td>
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconAttack.webp"
@@ -974,7 +974,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_05_08_2024-19_39_10.png" />
+    <img src="images/profile/Joy_05_08_2024-20_19_14.png" />
   </div>
   <div align="center">
     <h2>
@@ -5420,26 +5420,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
           Xiangling (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Clorinde (9)<br /><img
+          Kaedehara Kazuha (12)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
             ,
             height="18"
           />
-          Furina (9)<br />
+          Furina (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+            ,
+            height="18"
+          />
+          Bennett (9)<br />
         </td>
       </tr>
       <tr>
@@ -12118,44 +12118,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_05_08_2024-19_37_51.png" />
+  <img src="images/showcase/genshin_card_05_08_2024-20_17_54.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_05_08_2024-19_37_52.png" />
+  <img src="images/showcase/genshin_card_05_08_2024-20_17_55.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_05_08_2024-19_38_41.png" />
+  <img src="images/showcase/Acheron_05_08_2024-20_18_46.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_05_08_2024-19_38_42.png" />
+  <img src="images/showcase/Firefly_05_08_2024-20_18_47.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_05_08_2024-19_38_43.png" />
+  <img src="images/showcase/Ruan-Mei_05_08_2024-20_18_47.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_05_08_2024-19_38_43.png" />
+  <img src="images/showcase/Jingliu_05_08_2024-20_18_48.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_05_08_2024-19_38_44.png" />
+  <img src="images/showcase/Kafka_05_08_2024-20_18_49.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_05_08_2024-19_38_44.png" />
+  <img src="images/showcase/Seele_05_08_2024-20_18_49.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_05_08_2024-19_38_45.png" />
+  <img src="images/showcase/Huohuo_05_08_2024-20_18_50.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_05_08_2024-19_38_46.png" />
+  <img src="images/showcase/Robin_05_08_2024-20_18_50.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
