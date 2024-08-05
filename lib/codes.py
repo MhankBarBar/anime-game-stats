@@ -7,20 +7,32 @@ import requests
 
 
 def _get_file_path(game: genshin.Game) -> str:
-    return f"files/redeemed_codes_{'genshin' if game == genshin.Game.GENSHIN else 'hkrpg'}.txt"
+    match game:
+        case genshin.Game.GENSHIN:
+            return "files/redeemed_genshin_codes.txt"
+        case genshin.Game.STARRAIL:
+            return "files/redeemed_starrail_codes.txt"
+        case genshin.Game.ZZZ:
+            return "files/redeemed_zzz_codes.txt"
 
 
 class GetCodes:
-    HSR_URL: str = "https://www.gamesradar.com/honkai-star-rail-codes-redeem/"
-    GENSHIN_URL: str = "https://www.gamesradar.com/genshin-impact-codes-redeem/"
+    HSR_URL: str = "https://www.eurogamer.net/honkai-star-rail-codes-livestream-active-working-how-to-redeem-9321"
+    GENSHIN_URL: str = "https://www.eurogamer.net/genshin-impact-codes-livestream-active-working-how-to-redeem-9026"
+    ZZZ_URL: str = "https://www.eurogamer.net/zenless-zone-zero-codes-how-to-redeem"
+    titles = {
+        genshin.Game.GENSHIN: "honkai star rail codes",
+        genshin.Game.STARRAIL: "genshin impact codes",
+        genshin.Game.ZZZ: "zenless zone zero codes"
+    }
 
     def get_codes(self, game: genshin.Game = genshin.Game.GENSHIN) -> List[str]:
         url = self._build_url(game)
         response = self._send_request(url)
         soup = self._parse_html(response)
-        codes = self._extract_codes(soup)
+        codes = self._extract_codes(soup, game)
 
-        active_codes = [code.split()[0].strip() for code in codes]
+        active_codes = [code for code in codes]
 
         return active_codes
 
@@ -31,8 +43,9 @@ class GetCodes:
         return [x for x in codes if x not in codes_redeemed]
 
     async def redeem_codes(
-            self, client: genshin.Client, codes: List[str], game: genshin.Game = genshin.Game.GENSHIN
+            self, client: genshin.Client, game: genshin.Game = genshin.Game.GENSHIN
     ) -> None:
+        codes = self.get_codes(game)
         active_codes = self._check_codes(codes, game)
         file = _get_file_path(game)
         for code in active_codes:
@@ -47,7 +60,13 @@ class GetCodes:
             sleep(6)
 
     def _build_url(self, game: genshin.Game) -> str:
-        return self.GENSHIN_URL if game == genshin.Game.GENSHIN else self.HSR_URL
+        match game:
+            case genshin.Game.GENSHIN:
+                return self.GENSHIN_URL
+            case genshin.Game.STARRAIL:
+                return self.HSR_URL
+            case genshin.Game.ZZZ:
+                return self.ZZZ_URL
 
     def _send_request(self, url: str) -> str:
         response = requests.get(url)
@@ -57,23 +76,24 @@ class GetCodes:
     def _parse_html(self, html: str) -> bs4.BeautifulSoup:
         return bs4.BeautifulSoup(html, "html.parser")
 
-    def _extract_codes(self, soup: bs4.BeautifulSoup) -> List[bs4.element.Tag]:
+    def _extract_codes(self, soup: bs4.BeautifulSoup, game: genshin.Game) -> List[str]:
         codes: list[str] = []
-        div = soup.find("div", id="article-body")
+        div = soup.find("div", {"class": "article_body"})
         h2s = div.find_all("h2")
         uls = div.find_all("ul")
         lis = []
-    
+        uls.remove(uls[0])
+
         for i, h2 in enumerate(h2s):
-            if "livestream" in h2.text.strip().lower() or h2.text.strip() in {
-                "Genshin Impact active codes",
-                "Honkai Star Rail codes",
-            }:
+            if (
+                    "livestream" in h2.text.strip().lower() or
+                    self.titles[game] in h2.text.strip().lower()
+            ):
                 ul = uls[i]
                 lis.extend(ul.find_all("li"))
-    
+
         for li in lis:
-            if li.strong is not None or li.strong.text.strip().isupper():
-                codes.append(li.strong.text.strip().split(" / ")[0].strip())
-    
+            if li.strong is not None:
+                codes.append(li.strong.text.strip())
+
         return codes

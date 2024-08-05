@@ -2,6 +2,96 @@
 <h3 align="center">🕒 Updated at <u>{{ updated_at }}</u></h3>
 <br>
 
+<details align="center"><summary>:sleeping: Zenless Zone Zero Details</summary>
+
+    <div align="center">
+        <h2><img src="images/icons/zzz_check_in.png" height="20"> Daily Rewards</h2>
+        <table>
+            <tr>
+                <td>Total Rewards Claimed</td>
+                <td>{{ zzz.reward_info.claimed_rewards }}</td>
+            </tr>
+            <tr>
+                <td>Last Claimed Reward</td>
+                <td>{{ zzz.reward.amount }} x <img src="{{ zzz.reward.icon }}" height="20"> {{ zzz.reward.name }}</td>
+            </tr>
+        </table>
+    </div>
+
+    <div align="center">
+        <h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats</h2>
+        <table>
+            {%- for field, value in zzz.user.stats.dict().items() -%}
+            {%- if field not in ["lang", "shiyu_defense_frontiers"] -%}
+            <tr>
+                <td>{{ " ".join(field.split("_")[::-1]).replace("num", "obtained").title() }}</td>
+                <td>{{ value }}</td>
+            </tr>
+            {%- endif -%}
+            {%- endfor -%}
+        </table>
+    </div>
+
+    <div align="center">
+        <h2><img src="https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0a/Icon_Agents.png" height="20"> Characters</h2>
+        {%- for character in zzz.characters -%}
+            {%- if zzz.characters.index(character) == 0 -%}
+            <details open>
+            {%- else -%}
+            <details>
+            {%- endif -%}
+            <summary><b>{{ character.full_name}} </b></summary>
+            <br/>
+            <table>
+                <tr>
+                    <th><h3>{{ character.full_name }}</h3></th>
+                </tr>
+                <tr>
+                    <td>
+                        <p align="center"><img src="{{ character.banner_icon }}"></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table>
+                            <tr>
+                                <td>Rank</td>
+                                {%- if character.rarity == "S" -%}
+                                <td><img src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-s-icon.3e8ac292.png" height="18"></td>
+                                {%- else -%}
+                                <td><img src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png" height="18"></td>
+                                {%- endif -%}
+                            </tr>
+                            <tr>
+                                <td>Faction</td>
+                                <td><img src="{{ character.faction_icon }}" height="18"></td>
+                            </tr>
+                            <tr>
+                                <td>Attribute</td>
+                                <td><img src="https://api.hakush.in/zzz/UI/Icon{{ character.element.name.title() }}.webp" height="18"></td>
+                            </tr>
+                            <tr>
+                            <tr>
+                                <td>Speciality</td>
+                                <td><img src="https://api.hakush.in/zzz/UI/Icon{{ character.specialty.name.title() }}.webp" height="18"></td>
+                            </tr>
+                            <tr>
+                                <td>Level</td>
+                                <td>{{ character.level }}</td>
+                            </tr>
+                            <tr>
+                                <td>Mindscape</td>
+                                <td>{{ character.rank }}</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </details>
+        {%- endfor -%}
+    </div>
+</details>
+
 <details align="center"><summary><img src="https://i.pinimg.com/originals/a3/33/85/a3338541288aa31ff713edaf12c99961.png" height="20"> Honkai Star Rail Details</summary>
     {%- if hsr.profile -%}
     <div align="center">
@@ -171,8 +261,8 @@
         </details>
         {%- endfor -%}
     </div>
-
 </details>
+
 <details align="center"><summary><img src="https://img.icons8.com/?size=20&id=lhMu5buYsjBC&format=png"> Genshin Impact Details</summary>
     {%- if genshin.profile -%}
     <div align="center">
