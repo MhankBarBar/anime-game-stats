@@ -1,4 +1,4 @@
-genshin
+genshin @ git+https://github.com/thesadru/genshin.py@20067d558c6dab7ee9eb7c7e65e48b63f71f6fcf
 Jinja2
 pydantic
 python-dotenv
