@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 06, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 08, 2024 09:18 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,17 +12,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          3000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Dennies
         </td>
       </tr>
     </table>
@@ -39,7 +39,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>34</td>
+        <td>35</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -191,7 +191,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>49</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Mindscape</td>
@@ -548,6 +548,75 @@
       </table>
     </details>
     <details>
+      <summary><b>Nicole Demara </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Nicole Demara</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1031.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/41fd09abf20fd1eb98b68d6d8d4d326a.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconEther.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconSupport.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>6</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Anby Demara </b></summary>
       <br />
       <table>
@@ -610,75 +679,6 @@
               <tr>
                 <td>Mindscape</td>
                 <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Nicole Demara </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Nicole Demara</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1031.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/41fd09abf20fd1eb98b68d6d8d4d326a.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconEther.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconSupport.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>36</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>6</td>
               </tr>
             </table>
           </td>
@@ -974,7 +974,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_06_08_2024-19_38_08.png" />
+    <img src="images/profile/Joy_08_08_2024-09_18_49.png" />
   </div>
   <div align="center">
     <h2>
@@ -983,17 +983,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -1010,7 +1010,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>441</td>
+        <td>443</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1035,7 +1035,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1527 (rate -78)</td>
+        <td>2677 (rate -62)</td>
       </tr>
       <tr>
         <td>
@@ -1045,14 +1045,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>16 (rate -20)</td>
+        <td>21 (rate 5)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 730 (47%)<br />Event: 280 (18%)<br />Daily
-          Activity: 240 (15%)<br />Simulated Universe: 225 (14%)<br />Mail: 50
-          (3%)<br />Other: 2 (3%)<br />Forgotten Hall: 0 (0%)<br />
+          Event: 1260 (47%)<br />Adventure Rewards: 760 (28%)<br />Daily
+          Activity: 360 (13%)<br />Simulated Universe: 225 (8%)<br />Mail: 70
+          (2%)<br />Other: 2 (2%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -1519,11 +1519,11 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -1647,7 +1647,7 @@
       <table>
         <tr>
           <th><h3>Seele</h3></th>
-          <th><h3>Only Silence Remains</h3></th>
+          <th><h3>Cruising in the Stellar Sea</h3></th>
         </tr>
         <tr>
           <td>
@@ -1660,7 +1660,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufbdec/3bbf4f86b3eade848ea80c62b0bb8d8d.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufbdec/e77bbb65c13a9fe938886d4d1adee64a.png"
               />
             </p>
           </td>
@@ -1737,11 +1737,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Only Silence Remains</td>
+                <td>Cruising in the Stellar Sea</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2313,7 +2313,7 @@
       <table>
         <tr>
           <th><h3>Dr. Ratio</h3></th>
-          <th><h3>Cruising in the Stellar Sea</h3></th>
+          <th><h3>Only Silence Remains</h3></th>
         </tr>
         <tr>
           <td>
@@ -2326,7 +2326,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufbdec/e77bbb65c13a9fe938886d4d1adee64a.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufbdec/3bbf4f86b3eade848ea80c62b0bb8d8d.png"
               />
             </p>
           </td>
@@ -2403,11 +2403,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Cruising in the Stellar Sea</td>
+                <td>Only Silence Remains</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2958,11 +2958,11 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -3783,7 +3783,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>0</td>
+                <td>2</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -4933,17 +4933,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
@@ -4960,11 +4960,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>952</td>
+        <td>953</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>906</td>
+        <td>908</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4996,11 +4996,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2526</td>
+        <td>2528</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1837</td>
+        <td>1838</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -5379,7 +5379,7 @@
       </tr>
       <tr>
         <td>Items</td>
-        <td>1322</td>
+        <td>1331</td>
       </tr>
       <tr>
         <td>Visitors</td>
@@ -5430,16 +5430,16 @@
             height="18"
           />
           Kaedehara Kazuha (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
-            ,
-            height="18"
-          />
-          Clorinde (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
             ,
             height="18"
           />
-          Furina (9)<br />
+          Furina (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
+            ,
+            height="18"
+          />
+          Clorinde (9)<br />
         </td>
       </tr>
       <tr>
@@ -5510,7 +5510,7 @@
           />
           Primogems earned
         </td>
-        <td>1577 (rate -78)</td>
+        <td>1726 (rate -76)</td>
       </tr>
       <tr>
         <td>
@@ -5520,14 +5520,14 @@
           />
           Mora earned
         </td>
-        <td>1290953 (rate -70)</td>
+        <td>1469986 (rate -66)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Imaginarium Theater: 620 (40%)<br />Events: 420 (27%)<br />Daily
-          Activity: 300 (19%)<br />Adventure: 190 (12%)<br />Mail: 20 (1%)<br />Spiral
-          Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 27 (1%)<br />
+          Imaginarium Theater: 620 (36%)<br />Events: 450 (27%)<br />Daily
+          Activity: 360 (21%)<br />Adventure: 209 (12%)<br />Mail: 20 (1%)<br />Spiral
+          Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 67 (3%)<br />
         </td>
       </tr>
     </table>
@@ -7546,6 +7546,118 @@
       </table>
     </details>
     <details>
+      <summary><b>Clorinde</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Clorinde</h3></th>
+          <th><h3 align="center">Lion's Roar</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/da5113721173d776d2db6da4ef9409c5.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>7</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />4 x Fragment of Harmonic Whimsy<br />1 x
+                  Deepwood Memories<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/8272843b8b7c1335a79010b28e1c4cab.png"
+                    height="18"
+                  />
+                  Harmonious Symphony Prelude<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/5000aeae40981b39960f3f4da37402e0.png"
+                    height="18"
+                  />
+                  Ancient Sea's Nocturnal Musing<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/dc1a2d2000339eaa68f8c0f78c0f1cf3.png"
+                    height="18"
+                  />
+                  The Grand Jape of the Turning of Fate<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/1833ba7b056b02b18e879f8d7fa0fe40.png"
+                    height="18"
+                  />
+                  Lamp of the Lost<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/6ca017ece5fea85293ac1e9a3b8cf105.png"
+                    height="18"
+                  />
+                  Whimsical Dance of the Withered<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Lion's Roar</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Nilou</b></summary>
       <br />
       <table>
@@ -7651,118 +7763,6 @@
               <tr>
                 <td>Refinement</td>
                 <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Clorinde</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Clorinde</h3></th>
-          <th><h3 align="center">Lion's Roar</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/da5113721173d776d2db6da4ef9409c5.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />4 x Fragment of Harmonic Whimsy<br />1 x
-                  Deepwood Memories<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/8272843b8b7c1335a79010b28e1c4cab.png"
-                    height="18"
-                  />
-                  Harmonious Symphony Prelude<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/5000aeae40981b39960f3f4da37402e0.png"
-                    height="18"
-                  />
-                  Ancient Sea's Nocturnal Musing<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/dc1a2d2000339eaa68f8c0f78c0f1cf3.png"
-                    height="18"
-                  />
-                  The Grand Jape of the Turning of Fate<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/1833ba7b056b02b18e879f8d7fa0fe40.png"
-                    height="18"
-                  />
-                  Lamp of the Lost<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/6ca017ece5fea85293ac1e9a3b8cf105.png"
-                    height="18"
-                  />
-                  Whimsical Dance of the Withered<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Lion's Roar</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>5</td>
               </tr>
             </table>
           </td>
@@ -12118,44 +12118,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_06_08_2024-19_36_56.png" />
+  <img src="images/showcase/genshin_card_08_08_2024-09_17_26.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_06_08_2024-19_36_57.png" />
+  <img src="images/showcase/genshin_card_08_08_2024-09_17_27.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_06_08_2024-19_37_46.png" />
+  <img src="images/showcase/Acheron_08_08_2024-09_18_21.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_06_08_2024-19_37_46.png" />
+  <img src="images/showcase/Firefly_08_08_2024-09_18_21.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_06_08_2024-19_37_47.png" />
+  <img src="images/showcase/Ruan-Mei_08_08_2024-09_18_22.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_06_08_2024-19_37_47.png" />
+  <img src="images/showcase/Jingliu_08_08_2024-09_18_23.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_06_08_2024-19_37_48.png" />
+  <img src="images/showcase/Kafka_08_08_2024-09_18_23.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_06_08_2024-19_37_49.png" />
+  <img src="images/showcase/Seele_08_08_2024-09_18_24.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_06_08_2024-19_37_49.png" />
+  <img src="images/showcase/Huohuo_08_08_2024-09_18_24.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_06_08_2024-19_37_50.png" />
+  <img src="images/showcase/Robin_08_08_2024-09_18_25.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
