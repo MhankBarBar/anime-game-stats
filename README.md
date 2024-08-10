@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 10, 2024 08:26 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 10, 2024 19:35 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -39,7 +39,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>37</td>
+        <td>38</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -972,10 +972,6 @@
     />
     Honkai Star Rail Details
   </summary>
-  <div align="center">
-    <h2>Profile</h2>
-    <img src="images/profile/Joy_10_08_2024-08_26_05.png" />
-  </div>
   <div align="center">
     <h2>
       <img src="images/icons/hsr_check_in.png" height="20" /> Daily Rewards
@@ -5430,16 +5426,16 @@
             height="18"
           />
           Xiangling (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
-            ,
-            height="18"
-          />
-          Clorinde (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
-          Bennett (9)<br />
+          Bennett (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+            ,
+            height="18"
+          />
+          Furina (9)<br />
         </td>
       </tr>
       <tr>
@@ -5510,7 +5506,7 @@
           />
           Primogems earned
         </td>
-        <td>1886 (rate -74)</td>
+        <td>1946 (rate -73)</td>
       </tr>
       <tr>
         <td>
@@ -5520,13 +5516,13 @@
           />
           Mora earned
         </td>
-        <td>1657436 (rate -61)</td>
+        <td>1748161 (rate -59)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Imaginarium Theater: 620 (33%)<br />Events: 490 (26%)<br />Daily
-          Activity: 480 (26%)<br />Adventure: 209 (11%)<br />Mail: 20 (1%)<br />Spiral
+          Imaginarium Theater: 620 (32%)<br />Daily Activity: 540 (28%)<br />Events:
+          490 (26%)<br />Adventure: 209 (10%)<br />Mail: 20 (1%)<br />Spiral
           Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 67 (3%)<br />
         </td>
       </tr>
@@ -12118,44 +12114,11 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_10_08_2024-08_24_49.png" />
+  <img src="images/showcase/genshin_card_10_08_2024-19_34_59.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_10_08_2024-08_24_50.png" />
-</details>
-<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
-<details align="center">
-  <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_10_08_2024-08_25_41.png" />
-</details>
-<details align="center">
-  <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_10_08_2024-08_25_41.png" />
-</details>
-<details align="center">
-  <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_10_08_2024-08_25_42.png" />
-</details>
-<details align="center">
-  <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_10_08_2024-08_25_42.png" />
-</details>
-<details align="center">
-  <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_10_08_2024-08_25_43.png" />
-</details>
-<details align="center">
-  <summary>Seele</summary>
-  <img src="images/showcase/Seele_10_08_2024-08_25_43.png" />
-</details>
-<details align="center">
-  <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_10_08_2024-08_25_44.png" />
-</details>
-<details align="center">
-  <summary>Robin</summary>
-  <img src="images/showcase/Robin_10_08_2024-08_25_45.png" />
+  <img src="images/showcase/genshin_card_10_08_2024-19_35_00.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
