@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 13, 2024 19:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 14, 2024 08:26 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,17 +12,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>8</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Bangboo Algorithm Modules
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -974,7 +974,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_13_08_2024-19_39_19.png" />
+    <img src="images/profile/Joy_14_08_2024-08_25_56.png" />
   </div>
   <div align="center">
     <h2>
@@ -983,17 +983,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Condensed Aether
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -4933,17 +4933,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fried Radish Balls
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -5435,11 +5435,11 @@
             height="18"
           />
           Bennett (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
             ,
             height="18"
           />
-          Furina (9)<br />
+          Clorinde (9)<br />
         </td>
       </tr>
       <tr>
@@ -12118,44 +12118,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_13_08_2024-19_38_03.png" />
+  <img src="images/showcase/genshin_card_14_08_2024-08_24_42.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_13_08_2024-19_38_04.png" />
+  <img src="images/showcase/genshin_card_14_08_2024-08_24_43.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_13_08_2024-19_38_52.png" />
+  <img src="images/showcase/Acheron_14_08_2024-08_25_33.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_13_08_2024-19_38_53.png" />
+  <img src="images/showcase/Firefly_14_08_2024-08_25_33.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_13_08_2024-19_38_54.png" />
+  <img src="images/showcase/Ruan-Mei_14_08_2024-08_25_34.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_13_08_2024-19_38_54.png" />
+  <img src="images/showcase/Jingliu_14_08_2024-08_25_34.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_13_08_2024-19_38_55.png" />
+  <img src="images/showcase/Kafka_14_08_2024-08_25_35.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_13_08_2024-19_38_55.png" />
+  <img src="images/showcase/Seele_14_08_2024-08_25_36.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_13_08_2024-19_38_56.png" />
+  <img src="images/showcase/Huohuo_14_08_2024-08_25_36.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_13_08_2024-19_38_57.png" />
+  <img src="images/showcase/Robin_14_08_2024-08_25_37.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
