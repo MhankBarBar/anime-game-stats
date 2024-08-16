@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 16, 2024 08:25 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 16, 2024 19:38 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -39,7 +39,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>43</td>
+        <td>44</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -341,6 +341,75 @@
       </table>
     </details>
     <details>
+      <summary><b>Nicole Demara </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Nicole Demara</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1031.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_763646/1c9d02b8e3a2218ce348638398f5f9c3.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconEther.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconSupport.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>41</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>6</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Nekomiya Mana </b></summary>
       <br />
       <table>
@@ -610,75 +679,6 @@
               <tr>
                 <td>Mindscape</td>
                 <td>2</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Nicole Demara </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Nicole Demara</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1031.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_763646/1c9d02b8e3a2218ce348638398f5f9c3.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconEther.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconSupport.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>40</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>6</td>
               </tr>
             </table>
           </td>
@@ -1043,7 +1043,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_16_08_2024-08_25_20.png" />
+    <img src="images/profile/Joy_16_08_2024-19_38_30.png" />
   </div>
   <div align="center">
     <h2>
@@ -1079,7 +1079,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>449</td>
+        <td>450</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1104,7 +1104,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3522 (rate -50)</td>
+        <td>3842 (rate -45)</td>
       </tr>
       <tr>
         <td>
@@ -1119,8 +1119,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1420 (40%)<br />Adventure Rewards: 760 (21%)<br />Daily
-          Activity: 660 (18%)<br />Simulated Universe: 590 (16%)<br />Other: 2
+          Event: 1680 (43%)<br />Adventure Rewards: 760 (19%)<br />Daily
+          Activity: 720 (18%)<br />Simulated Universe: 590 (15%)<br />Other: 2
           (3%)<br />Mail: 90 (2%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -5033,7 +5033,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>916</td>
+        <td>917</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5467,7 +5467,7 @@
     <table>
       <tr>
         <td>Season</td>
-        <td>97</td>
+        <td>98</td>
       </tr>
       <tr>
         <td>Total Battles</td>
@@ -5487,84 +5487,27 @@
       </tr>
       <tr>
         <td>Most Played Characters</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-            ,
-            height="18"
-          />
-          Furina (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
-            ,
-            height="18"
-          />
-          Bennett (9)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Most Defeats</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (35)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Strongest Single Strike</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-            ,
-            height="18"
-          />
-          Hu Tao (100073)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
-            ,
-            height="18"
-          />
-          Sangonomiya Kokomi (39746)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Elemental Bursts Unleashed</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
-            ,
-            height="18"
-          />
-          Bennett (12)<br />
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Elemental Skills Cast</td>
-        <td>
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (23)<br />
-        </td>
+        <td></td>
       </tr>
     </table>
   </div>
@@ -5579,7 +5522,7 @@
           />
           Primogems earned
         </td>
-        <td>3368 (rate -54)</td>
+        <td>4228 (rate -42)</td>
       </tr>
       <tr>
         <td>
@@ -5589,14 +5532,14 @@
           />
           Mora earned
         </td>
-        <td>3329753 (rate -23)</td>
+        <td>3969228 (rate -8)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 1440 (43%)<br />Daily Activity: 840 (25%)<br />Imaginarium
-          Theater: 620 (19%)<br />Adventure: 311 (10%)<br />Quests: 50 (1%)<br />Mail:
-          40 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 67 (1%)<br />
+          Events: 1440 (35%)<br />Daily Activity: 900 (22%)<br />Spiral Abyss:
+          800 (19%)<br />Imaginarium Theater: 620 (14%)<br />Adventure: 311
+          (7%)<br />Quests: 50 (1%)<br />Mail: 40 (1%)<br />Other: 67 (1%)<br />
         </td>
       </tr>
     </table>
@@ -11886,7 +11829,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
@@ -12187,44 +12130,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_16_08_2024-08_23_58.png" />
+  <img src="images/showcase/genshin_card_16_08_2024-19_37_02.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_16_08_2024-08_24_00.png" />
+  <img src="images/showcase/genshin_card_16_08_2024-19_37_04.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_16_08_2024-08_24_50.png" />
+  <img src="images/showcase/Acheron_16_08_2024-19_38_05.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_16_08_2024-08_24_51.png" />
+  <img src="images/showcase/Firefly_16_08_2024-19_38_06.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_16_08_2024-08_24_52.png" />
+  <img src="images/showcase/Ruan-Mei_16_08_2024-19_38_06.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_16_08_2024-08_24_52.png" />
+  <img src="images/showcase/Jingliu_16_08_2024-19_38_07.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_16_08_2024-08_24_53.png" />
+  <img src="images/showcase/Kafka_16_08_2024-19_38_08.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_16_08_2024-08_24_53.png" />
+  <img src="images/showcase/Seele_16_08_2024-19_38_08.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_16_08_2024-08_24_54.png" />
+  <img src="images/showcase/Huohuo_16_08_2024-19_38_09.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_16_08_2024-08_24_54.png" />
+  <img src="images/showcase/Robin_16_08_2024-19_38_10.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
