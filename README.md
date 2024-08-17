@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 16, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 17, 2024 08:23 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,17 +12,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
             height="20"
           />
-          Dennies
+          Crystallized Plating Agents
         </td>
       </tr>
     </table>
@@ -1043,7 +1043,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_16_08_2024-19_38_30.png" />
+    <img src="images/profile/Joy_17_08_2024-08_23_05.png" />
   </div>
   <div align="center">
     <h2>
@@ -1052,17 +1052,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Energy Drink (sugar-free)
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -5002,17 +5002,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -5487,27 +5487,84 @@
       </tr>
       <tr>
         <td>Most Played Characters</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+            ,
+            height="18"
+          />
+          Yelan (12)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          Xiangling (9)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Defeats</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          Nahida (19)<br />
+        </td>
       </tr>
       <tr>
         <td>Strongest Single Strike</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (191873)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+            ,
+            height="18"
+          />
+          Baizhu (22947)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Bursts Unleashed</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+            ,
+            height="18"
+          />
+          Yelan (9)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Skills Cast</td>
-        <td></td>
+        <td>
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+            ,
+            height="18"
+          />
+          Yae Miko (21)<br />
+        </td>
       </tr>
     </table>
   </div>
@@ -6391,15 +6448,15 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Vourukasha's Glow<br />2 x Golden Troupe<br />1
-                  x Marechaussee Hunter<br />
+                  Artifacts<br />2 x Golden Troupe<br />1 x Vourukasha's Glow<br />2
+                  x Emblem of Severed Fate<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/7f300eb418bee58db674e4917ce24aeb.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/4b618ccb82d7feeb45ba95c149e1e835.png"
                     height="18"
                   />
-                  Stamen of Khvarena's Origin<br /><img
+                  Golden Song's Variation<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/70062dda5795f999cf1ee6c8f92daebd.png"
                     height="18"
                   />
@@ -6408,14 +6465,14 @@
                     height="18"
                   />
                   Ancient Abscission<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/15e4e8857730b45f4cfab64400964518.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/e8a7152618832c690341ffb7fb368656.png"
                     height="18"
                   />
-                  Forgotten Vessel<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/f72dd1d47973c3a0c7beb0529b618e4b.png"
+                  Scarlet Vessel<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/25fef57fdaf492625e30274eee362d76.png"
                     height="18"
                   />
-                  Golden Troupe's Reward<br />
+                  Ornate Kabuto<br />
                 </td>
               </tr>
               <tr>
@@ -11825,7 +11882,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -12130,44 +12187,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_16_08_2024-19_37_02.png" />
+  <img src="images/showcase/genshin_card_17_08_2024-08_21_51.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_16_08_2024-19_37_04.png" />
+  <img src="images/showcase/genshin_card_17_08_2024-08_21_52.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_16_08_2024-19_38_05.png" />
+  <img src="images/showcase/Acheron_17_08_2024-08_22_41.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_16_08_2024-19_38_06.png" />
+  <img src="images/showcase/Firefly_17_08_2024-08_22_41.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_16_08_2024-19_38_06.png" />
+  <img src="images/showcase/Ruan-Mei_17_08_2024-08_22_42.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_16_08_2024-19_38_07.png" />
+  <img src="images/showcase/Jingliu_17_08_2024-08_22_42.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_16_08_2024-19_38_08.png" />
+  <img src="images/showcase/Kafka_17_08_2024-08_22_43.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_16_08_2024-19_38_08.png" />
+  <img src="images/showcase/Seele_17_08_2024-08_22_44.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_16_08_2024-19_38_09.png" />
+  <img src="images/showcase/Huohuo_17_08_2024-08_22_44.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_16_08_2024-19_38_10.png" />
+  <img src="images/showcase/Robin_17_08_2024-08_22_45.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
