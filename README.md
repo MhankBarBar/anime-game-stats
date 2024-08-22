@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 21, 2024 19:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 22, 2024 08:27 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,17 +12,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Bangboo Algorithm Modules
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -1043,7 +1043,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_21_08_2024-19_37_03.png" />
+    <img src="images/profile/Joy_22_08_2024-08_27_25.png" />
   </div>
   <div align="center">
     <h2>
@@ -1052,17 +1052,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -5035,17 +5035,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
@@ -5527,21 +5527,21 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Xiangling (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
-            ,
-            height="18"
-          />
-          Bennett (9)<br /><img
+          Raiden Shogun (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (9)<br />
+          Kaedehara Kazuha (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          Xiangling (9)<br />
         </td>
       </tr>
       <tr>
@@ -7153,31 +7153,31 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />4 x Marechaussee Hunter<br />1 x
-                  Thundersoother<br />
+                  Artifacts<br />4 x Nighttime Whispers in the Echoing Woods<br />1
+                  x Gladiator's Finale<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/a972531b666a4927af4112899b5a121a.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/368931973dc72ae7cdf8b2dd3fac90f1.png"
                     height="18"
                   />
-                  Hunter's Brooch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/8f7ea3ff49704180c3c48b1ac579031a.png"
+                  Selfless Floral Accessory<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/432ba56358f15fea66951ccba4f99cf4.png"
                     height="18"
                   />
-                  Masterpiece's Overture<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/a0109f5632db5c315d3dc3857edf38d4.png"
+                  Honest Quill<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/231603bb64a503ea7a5b94b5119b4daf.png"
                     height="18"
                   />
-                  Moment of Judgment<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/b8dac2fe0bcd8485c07610f9d37490a0.png"
+                  Faithful Hourglass<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/e8faf847bf6e823b15580571eecf694b.png"
                     height="18"
                   />
-                  Thundersoother's Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/855d9632f2c3f39b1fb28955fd45ef7d.png"
+                  Gladiator's Intoxication<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/f3171c1b3e52b552d90b82982fa2f610.png"
                     height="18"
                   />
-                  Veteran's Visage<br />
+                  Compassionate Ladies' Hat<br />
                 </td>
               </tr>
               <tr>
@@ -7648,6 +7648,118 @@
       </table>
     </details>
     <details>
+      <summary><b>Clorinde</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Clorinde</h3></th>
+          <th><h3 align="center">Lion's Roar</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/42d166e6cf7cc5cf56e001faebfe6692.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>9</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />4 x Fragment of Harmonic Whimsy<br />1 x
+                  Deepwood Memories<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/ebc48c5e0c952228d166bfe769b46005.png"
+                    height="18"
+                  />
+                  Harmonious Symphony Prelude<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/261b842af4c808dcf608cd112bd29404.png"
+                    height="18"
+                  />
+                  Ancient Sea's Nocturnal Musing<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/42f95d257f744052433a42d8264b8da2.png"
+                    height="18"
+                  />
+                  The Grand Jape of the Turning of Fate<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/a7d26fecbc53bc759ec760382a0627c0.png"
+                    height="18"
+                  />
+                  Lamp of the Lost<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/659ebb7a1fd916bfad82ff2ca5dfe652.png"
+                    height="18"
+                  />
+                  Whimsical Dance of the Withered<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Lion's Roar</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Nilou</b></summary>
       <br />
       <table>
@@ -7753,118 +7865,6 @@
               <tr>
                 <td>Refinement</td>
                 <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Clorinde</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Clorinde</h3></th>
-          <th><h3 align="center">Lion's Roar</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/42d166e6cf7cc5cf56e001faebfe6692.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>8</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />4 x Fragment of Harmonic Whimsy<br />1 x
-                  Deepwood Memories<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/ebc48c5e0c952228d166bfe769b46005.png"
-                    height="18"
-                  />
-                  Harmonious Symphony Prelude<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/261b842af4c808dcf608cd112bd29404.png"
-                    height="18"
-                  />
-                  Ancient Sea's Nocturnal Musing<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/42f95d257f744052433a42d8264b8da2.png"
-                    height="18"
-                  />
-                  The Grand Jape of the Turning of Fate<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/a7d26fecbc53bc759ec760382a0627c0.png"
-                    height="18"
-                  />
-                  Lamp of the Lost<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/659ebb7a1fd916bfad82ff2ca5dfe652.png"
-                    height="18"
-                  />
-                  Whimsical Dance of the Withered<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Lion's Roar</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>5</td>
               </tr>
             </table>
           </td>
@@ -8575,7 +8575,7 @@
               <tr>
                 <td>
                   Artifacts<br />2 x Shimenawa's Reminiscence<br />1 x Crimson
-                  Witch of Flames<br />1 x Gladiator's Finale<br />
+                  Witch of Flames<br />1 x Thundersoother<br />
                 </td>
                 <td>
                   <img
@@ -8587,10 +8587,10 @@
                     height="18"
                   />
                   Witch's End Time<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/e8faf847bf6e823b15580571eecf694b.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/b8dac2fe0bcd8485c07610f9d37490a0.png"
                     height="18"
                   />
-                  Gladiator's Intoxication<br /><img
+                  Thundersoother's Goblet<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/93ea53267fc02983c669673bd6afc9ed.png"
                     height="18"
                   />
@@ -12220,44 +12220,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_21_08_2024-19_35_42.png" />
+  <img src="images/showcase/genshin_card_22_08_2024-08_26_01.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_21_08_2024-19_35_43.png" />
+  <img src="images/showcase/genshin_card_22_08_2024-08_26_03.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_21_08_2024-19_36_35.png" />
+  <img src="images/showcase/Acheron_22_08_2024-08_26_56.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_21_08_2024-19_36_36.png" />
+  <img src="images/showcase/Firefly_22_08_2024-08_26_56.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_21_08_2024-19_36_37.png" />
+  <img src="images/showcase/Ruan-Mei_22_08_2024-08_26_57.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_21_08_2024-19_36_37.png" />
+  <img src="images/showcase/Jingliu_22_08_2024-08_26_58.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_21_08_2024-19_36_38.png" />
+  <img src="images/showcase/Kafka_22_08_2024-08_26_58.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_21_08_2024-19_36_38.png" />
+  <img src="images/showcase/Seele_22_08_2024-08_26_59.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_21_08_2024-19_36_39.png" />
+  <img src="images/showcase/Huohuo_22_08_2024-08_26_59.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_21_08_2024-19_36_40.png" />
+  <img src="images/showcase/Robin_22_08_2024-08_27_00.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
