@@ -21,8 +21,8 @@ class GetCodes:
     GENSHIN_URL: str = "https://www.eurogamer.net/genshin-impact-codes-livestream-active-working-how-to-redeem-9026"
     ZZZ_URL: str = "https://www.eurogamer.net/zenless-zone-zero-codes-how-to-redeem"
     titles = {
-        genshin.Game.GENSHIN: "honkai star rail codes",
-        genshin.Game.STARRAIL: "genshin impact codes",
+        genshin.Game.STARRAIL: "honkai star rail codes",
+        genshin.Game.GENSHIN: "genshin impact codes",
         genshin.Game.ZZZ: "zenless zone zero codes"
     }
 
