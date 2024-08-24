@@ -51,7 +51,7 @@ class GetCodes:
         for code in active_codes:
             try:
                 await client.redeem_code(code, game=game)
-            except (genshin.RedemptionClaimed, genshin.RedemptionInvalid,
+            except (genshin.RedemptionClaimed, genshin.RedemptionInvalid, genshin.GenshinException,
                     genshin.RedemptionException, genshin.InvalidCookies):
                 pass
             finally:
