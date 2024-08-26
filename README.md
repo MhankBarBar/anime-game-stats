@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 26, 2024 08:26 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 26, 2024 19:39 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -1043,7 +1043,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_26_08_2024-08_26_46.png" />
+    <img src="images/profile/Joy_26_08_2024-19_39_17.png" />
   </div>
   <div align="center">
     <h2>
@@ -5527,21 +5527,21 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Bennett (9)<br /><img
+          Kaedehara Kazuha (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
           Xiangling (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
-          Raiden Shogun (9)<br />
+          Bennett (9)<br />
         </td>
       </tr>
       <tr>
@@ -5612,7 +5612,7 @@
           />
           Primogems earned
         </td>
-        <td>5628 (rate -23)</td>
+        <td>5888 (rate -20)</td>
       </tr>
       <tr>
         <td>
@@ -5622,14 +5622,14 @@
           />
           Mora earned
         </td>
-        <td>5280684 (rate 21)</td>
+        <td>5391559 (rate 24)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 1720 (31%)<br />Daily Activity: 1440 (26%)<br />Spiral Abyss:
-          800 (15%)<br />Imaginarium Theater: 620 (11%)<br />Mail: 480 (8%)<br />Adventure:
-          350 (6%)<br />Quests: 150 (2%)<br />Other: 68 (1%)<br />
+          Events: 1720 (30%)<br />Daily Activity: 1500 (26%)<br />Spiral Abyss:
+          800 (14%)<br />Mail: 680 (12%)<br />Imaginarium Theater: 620 (10%)<br />Adventure:
+          350 (5%)<br />Quests: 150 (2%)<br />Other: 68 (1%)<br />
         </td>
       </tr>
     </table>
@@ -6034,31 +6034,30 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Shimenawa's Reminiscence<br />2 x
-                  Gladiator's Finale<br />1 x Pale Flame<br />
+                  Artifacts<br />4 x Golden Troupe<br />1 x Lavawalker<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/bdb63a01440b86f8741a6a14b6963393.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/4b618ccb82d7feeb45ba95c149e1e835.png"
                     height="18"
                   />
-                  Entangling Bloom<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/f7d5e14fb0cf56fd8a82cf0187ef346a.png"
+                  Golden Song's Variation<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/70062dda5795f999cf1ee6c8f92daebd.png"
                     height="18"
                   />
-                  Shaft of Remembrance<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/586af88ec9d5ccb9f610b6d439dbac0d.png"
+                  Golden Bird's Shedding<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/541f230acc2124dc9e0050c638d2a894.png"
                     height="18"
                   />
-                  Gladiator's Longing<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/a54c73e4ce79f54c2f5765b41cdd0424.png"
+                  Golden Era's Prelude<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/2772286ab4f8fdb175ac935aa46c26e4.png"
                     height="18"
                   />
-                  Surpassing Cup<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/0177f56d7a8f8d34acfb88967fe71210.png"
+                  Lavawalker's Epiphany<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/f72dd1d47973c3a0c7beb0529b618e4b.png"
                     height="18"
                   />
-                  Gladiator's Triumphus<br />
+                  Golden Troupe's Reward<br />
                 </td>
               </tr>
               <tr>
@@ -11032,8 +11031,33 @@
                 <td>2</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
+                <td>
+                  Artifacts<br />2 x Shimenawa's Reminiscence<br />2 x
+                  Gladiator's Finale<br />1 x Pale Flame<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/bdb63a01440b86f8741a6a14b6963393.png"
+                    height="18"
+                  />
+                  Entangling Bloom<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/f7d5e14fb0cf56fd8a82cf0187ef346a.png"
+                    height="18"
+                  />
+                  Shaft of Remembrance<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/586af88ec9d5ccb9f610b6d439dbac0d.png"
+                    height="18"
+                  />
+                  Gladiator's Longing<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/a54c73e4ce79f54c2f5765b41cdd0424.png"
+                    height="18"
+                  />
+                  Surpassing Cup<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/0177f56d7a8f8d34acfb88967fe71210.png"
+                    height="18"
+                  />
+                  Gladiator's Triumphus<br />
+                </td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -12220,44 +12244,44 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_26_08_2024-08_25_30.png" />
+  <img src="images/showcase/genshin_card_26_08_2024-19_38_00.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_26_08_2024-08_25_31.png" />
+  <img src="images/showcase/genshin_card_26_08_2024-19_38_01.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_26_08_2024-08_26_20.png" />
+  <img src="images/showcase/Acheron_26_08_2024-19_38_50.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_26_08_2024-08_26_21.png" />
+  <img src="images/showcase/Firefly_26_08_2024-19_38_50.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_26_08_2024-08_26_21.png" />
+  <img src="images/showcase/Ruan-Mei_26_08_2024-19_38_51.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_26_08_2024-08_26_22.png" />
+  <img src="images/showcase/Jingliu_26_08_2024-19_38_51.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_26_08_2024-08_26_23.png" />
+  <img src="images/showcase/Kafka_26_08_2024-19_38_52.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_26_08_2024-08_26_23.png" />
+  <img src="images/showcase/Seele_26_08_2024-19_38_53.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_26_08_2024-08_26_24.png" />
+  <img src="images/showcase/Huohuo_26_08_2024-19_38_53.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_26_08_2024-08_26_24.png" />
+  <img src="images/showcase/Robin_26_08_2024-19_38_54.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
