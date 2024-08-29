@@ -20,6 +20,11 @@ class GetCodes:
     HSR_URL: str = "https://www.eurogamer.net/honkai-star-rail-codes-livestream-active-working-how-to-redeem-9321"
     GENSHIN_URL: str = "https://www.eurogamer.net/genshin-impact-codes-livestream-active-working-how-to-redeem-9026"
     ZZZ_URL: str = "https://www.eurogamer.net/zenless-zone-zero-codes-how-to-redeem"
+    urls = {
+        genshin.Game.GENSHIN: GENSHIN_URL,
+        genshin.Game.STARRAIL: HSR_URL,
+        genshin.Game.ZZZ: ZZZ_URL
+    }
     titles = {
         genshin.Game.STARRAIL: "honkai star rail codes",
         genshin.Game.GENSHIN: "genshin impact codes",
@@ -60,13 +65,7 @@ class GetCodes:
             sleep(6)
 
     def _build_url(self, game: genshin.Game) -> str:
-        match game:
-            case genshin.Game.GENSHIN:
-                return self.GENSHIN_URL
-            case genshin.Game.STARRAIL:
-                return self.HSR_URL
-            case genshin.Game.ZZZ:
-                return self.ZZZ_URL
+        return self.urls[game]
 
     def _send_request(self, url: str) -> str:
         response = requests.get(url)

@@ -2,6 +2,7 @@
 <h3 align="center">🕒 Updated at <u>{{ updated_at }}</u></h3>
 <br>
 
+{%- if zzz -%}
 <details align="center"><summary>:sleeping: Zenless Zone Zero Details</summary>
 
     <div align="center">
@@ -91,7 +92,9 @@
         {%- endfor -%}
     </div>
 </details>
+{%- endif -%}
 
+{%- if hsr -%}
 <details align="center"><summary><img src="https://i.pinimg.com/originals/a3/33/85/a3338541288aa31ff713edaf12c99961.png" height="20"> Honkai Star Rail Details</summary>
     {%- if hsr.profile -%}
     <div align="center">
@@ -262,6 +265,7 @@
         {%- endfor -%}
     </div>
 </details>
+{% endif -%}
 
 <details align="center"><summary><img src="https://img.icons8.com/?size=20&id=lhMu5buYsjBC&format=png"> Genshin Impact Details</summary>
     {%- if genshin.profile -%}
@@ -320,7 +324,7 @@
                             <td>Explored</td>
                             <td>
                                 <img
-                                src="https://progress-bar.dev/{{ _int(exploration.explored) }}/"
+                                src="https://progress-bar.xyz/{{ _int(exploration.explored) }}/"
                                 width=80>
                             </td>
                         </tr>

@@ -52,7 +52,7 @@ And you're set! From now on the repo will claim any new codes and redeem the dai
 You can customize the `template.html` file to modify the appearance and layout of the generated HTML report.
 
 ## Acknowledgments
-- [genshin](https://github.com/thesadru/genshin.py) library by thesadru for Genshin Impact, HSR and Honkai Impact 3rd API integration.
+- [genshin](https://github.com/thesadru/genshin.py) library by thesadru for Hoyolab API integration.
 
 ## Credits
 This repository is the clone of [genshin-stats](https://github.com/thesadru/genshin-stats) and [kiizuha-genshin](https://github.com/rushkii/kiizuha-genshin).

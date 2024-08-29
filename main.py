@@ -135,71 +135,83 @@ class AnimeGame(genshin.Client):
             return save_images(res["result"], _type="profile")
         return None
 
-    async def get_genshin_res(self) -> GenshinRes:
+    async def get_genshin_res(self) -> GenshinRes | None:
         logger.info("Executing get_genshin_res")
-        user = await self.get_full_genshin_user(0)
-        abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
-        diary = await self.get_genshin_diary()
-        reward, reward_info = await self._claim_daily()
-        showcase = None
-        profile = None
-        if not self.args.skip_images:
-            showcase = self._get_character_showcase(GENSHIN, self.uids.get(GENSHIN))
-            profile = self._get_user_profile(GENSHIN, self.uids.get(GENSHIN))
-        await self.codes.redeem_codes(self, GENSHIN)
-        return GenshinRes(
-            user=user,
-            abyss=abyss,
-            diary=diary,
-            reward=reward,
-            reward_info=reward_info,
-            showcase=showcase,
-            profile=profile,
-        )
+        try:
+            user = await self.get_full_genshin_user(0)
+            abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
+            diary = await self.get_genshin_diary()
+            reward, reward_info = await self._claim_daily()
+            showcase = None
+            profile = None
+            if not self.args.skip_images:
+                showcase = self._get_character_showcase(GENSHIN, self.uids.get(GENSHIN))
+                profile = self._get_user_profile(GENSHIN, self.uids.get(GENSHIN))
+            await self.codes.redeem_codes(self, GENSHIN)
+            return GenshinRes(
+                user=user,
+                abyss=abyss,
+                diary=diary,
+                reward=reward,
+                reward_info=reward_info,
+                showcase=showcase,
+                profile=profile,
+            )
+        except genshin.AccountNotFound:
+            logger.info("Genshin account not found")
+            return None
 
-    async def get_hsr_res(self) -> HsrRes:
+    async def get_hsr_res(self) -> HsrRes | None:
         logger.info("Executing get_hsr_res")
-        user = await self.get_starrail_user(0)
-        diary = await self.get_starrail_diary()
-        forgotten_hall = await self.get_starrail_challenge()
-        characters = await self.get_starrail_characters()
-        reward, reward_info = await self._claim_daily(HSR)
-        showcase = None
-        profile = None
-        showcase_names = []
-        if not self.args.skip_images:
-            showcase = self._get_character_showcase(HSR, self.uids.get(HSR))
-            profile = self._get_user_profile(HSR, self.uids.get(HSR))
-            if showcase:
-                for s in showcase:
-                    showcase_names.append(
-                        " ".join(s.split("/")[-1].split("_")[0].split("-"))
-                    )
-        await self.codes.redeem_codes(self, HSR)
-        return HsrRes(
-            user=user,
-            characters=characters.avatar_list,
-            diary=diary,
-            forgotten_hall=forgotten_hall,
-            reward=reward,
-            reward_info=reward_info,
-            showcase=showcase,
-            profile=profile,
-            showcase_names=showcase_names
-        )
+        try:
+            user = await self.get_starrail_user(0)
+            diary = await self.get_starrail_diary()
+            forgotten_hall = await self.get_starrail_challenge()
+            characters = await self.get_starrail_characters()
+            reward, reward_info = await self._claim_daily(HSR)
+            showcase = None
+            profile = None
+            showcase_names = []
+            if not self.args.skip_images:
+                showcase = self._get_character_showcase(HSR, self.uids.get(HSR))
+                profile = self._get_user_profile(HSR, self.uids.get(HSR))
+                if showcase:
+                    for s in showcase:
+                        showcase_names.append(
+                            " ".join(s.split("/")[-1].split("_")[0].split("-"))
+                        )
+            await self.codes.redeem_codes(self, HSR)
+            return HsrRes(
+                user=user,
+                characters=characters.avatar_list,
+                diary=diary,
+                forgotten_hall=forgotten_hall,
+                reward=reward,
+                reward_info=reward_info,
+                showcase=showcase,
+                profile=profile,
+                showcase_names=showcase_names
+            )
+        except genshin.AccountNotFound:
+            logger.info("HSR account not found")
+            return None
 
-    async def get_zzz_res(self) -> ZZZRes:
+    async def get_zzz_res(self) -> ZZZRes | None:
         logger.info("Executing get_zzz_res")
-        user = await self.get_zzz_user(0)
-        reward, reward_info = await self._claim_daily(ZZZ)
-        characters = await self.get_zzz_agents()
-        await self.codes.redeem_codes(self, ZZZ)
-        return ZZZRes(
-            user=user,
-            characters=characters,
-            reward=reward,
-            reward_info=reward_info,
-        )
+        try:
+            user = await self.get_zzz_user(0)
+            reward, reward_info = await self._claim_daily(ZZZ)
+            characters = await self.get_zzz_agents()
+            await self.codes.redeem_codes(self, ZZZ)
+            return ZZZRes(
+                user=user,
+                characters=characters,
+                reward=reward,
+                reward_info=reward_info,
+            )
+        except genshin.AccountNotFound:
+            logger.info("ZZZ account not found")
+            return None
 
     async def main(self):
         _genshin, _hsr, _zzz = await asyncio.gather(*[

@@ -1,7 +1,6 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 29, 2024 08:30 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 29, 2024 14:27 +0700</u></h3>
 <br />
-
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
 
@@ -39,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>52</td>
+        <td>53</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -540,7 +539,7 @@
               </tr>
               <tr>
                 <td>Mindscape</td>
-                <td>0</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -1032,7 +1031,6 @@
     </details>
   </div>
 </details>
-
 <details align="center">
   <summary>
     <img
@@ -1043,7 +1041,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_29_08_2024-08_30_04.png" />
+    <img src="images/profile\Joy_29_08_2024-14_27_27.png" />
   </div>
   <div align="center">
     <h2>
@@ -2488,11 +2486,11 @@
       </table>
     </details>
     <details>
-      <summary><b>Dan Heng • Imbibitor Lunae </b></summary>
+      <summary><b>Dan Heng � Imbibitor Lunae </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Dan Heng • Imbibitor Lunae</h3></th>
+          <th><h3>Dan Heng � Imbibitor Lunae</h3></th>
           <th><h3></h3></th>
         </tr>
         <tr>
@@ -5022,7 +5020,6 @@
     </details>
   </div>
 </details>
-
 <details align="center">
   <summary>
     <img src="https://img.icons8.com/?size=20&id=lhMu5buYsjBC&format=png" />
@@ -5030,7 +5027,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_29_08_2024-08_28_51.png" />
+    <img src="images/profile\genshin_profile_29_08_2024-14_26_17.png" />
   </div>
   <div align="center">
     <h2>
@@ -5070,7 +5067,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>929</td>
+        <td>930</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5078,7 +5075,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>470</td>
+        <td>480</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -5102,11 +5099,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2546</td>
+        <td>2549</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1862</td>
+        <td>1869</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -5122,7 +5119,7 @@
       </tr>
       <tr>
         <td>Domains Unlocked</td>
-        <td>59</td>
+        <td>61</td>
       </tr>
     </table>
   </div>
@@ -5281,7 +5278,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/3/" width="80" />
+                <img src="https://progress-bar.xyz/7/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5295,7 +5292,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/67/" width="80" />
+                <img src="https://progress-bar.xyz/67/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5309,7 +5306,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/58/" width="80" />
+                <img src="https://progress-bar.xyz/58/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5323,7 +5320,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/52/" width="80" />
+                <img src="https://progress-bar.xyz/52/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5337,7 +5334,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/44/" width="80" />
+                <img src="https://progress-bar.xyz/44/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5351,21 +5348,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/93/" width="80" />
-              </td>
-            </tr>
-            <tr>
-              <td>Reputation</td>
-              <td>10</td>
-            </tr>
-          </table>
-        </td>
-        <td>
-          <table>
-            <tr>
-              <td>Explored</td>
-              <td>
-                <img src="https://progress-bar.dev/100/" width="80" />
+                <img src="https://progress-bar.xyz/93/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5379,7 +5362,21 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/100/" width="80" />
+                <img src="https://progress-bar.xyz/100/" width="80" />
+              </td>
+            </tr>
+            <tr>
+              <td>Reputation</td>
+              <td>10</td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <table>
+            <tr>
+              <td>Explored</td>
+              <td>
+                <img src="https://progress-bar.xyz/100/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5393,7 +5390,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/100/" width="80" />
+                <img src="https://progress-bar.xyz/100/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5407,7 +5404,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/100/" width="80" />
+                <img src="https://progress-bar.xyz/100/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5421,7 +5418,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/100/" width="80" />
+                <img src="https://progress-bar.xyz/100/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5435,7 +5432,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/100/" width="80" />
+                <img src="https://progress-bar.xyz/100/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5449,7 +5446,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/100/" width="80" />
+                <img src="https://progress-bar.xyz/100/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5463,7 +5460,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/100/" width="80" />
+                <img src="https://progress-bar.xyz/100/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5477,7 +5474,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/0/" width="80" />
+                <img src="https://progress-bar.xyz/0/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5554,21 +5551,21 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
           Bennett (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (9)<br />
+          Raiden Shogun (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          Xiangling (9)<br />
         </td>
       </tr>
       <tr>
@@ -5639,7 +5636,7 @@
           />
           Primogems earned
         </td>
-        <td>7657 (rate 3)</td>
+        <td>8237 (rate 11)</td>
       </tr>
       <tr>
         <td>
@@ -5649,15 +5646,14 @@
           />
           Mora earned
         </td>
-        <td>7125433 (rate 64)</td>
+        <td>7570232 (rate 74)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1780 (24%)<br />Events: 1740 (23%)<br />Daily Activity: 1620
-          (21%)<br />Spiral Abyss: 800 (10%)<br />Imaginarium Theater: 620
-          (8%)<br />Adventure: 562 (7%)<br />Quests: 460 (6%)<br />Other: 75
-          (1%)<br />
+          Mail: 1980 (25%)<br />Events: 1740 (22%)<br />Daily Activity: 1680
+          (21%)<br />Spiral Abyss: 800 (10%)<br />Adventure: 796 (9%)<br />Imaginarium
+          Theater: 620 (7%)<br />Quests: 490 (5%)<br />Other: 131 (1%)<br />
         </td>
       </tr>
     </table>
@@ -12550,48 +12546,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_29_08_2024-08_28_01.png" />
+  <img src="images/showcase\genshin_card_29_08_2024-14_25_29.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_29_08_2024-08_28_03.png" />
+  <img src="images/showcase\genshin_card_29_08_2024-14_25_31.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="images/showcase/genshin_card_29_08_2024-08_28_05.png" />
+  <img src="images/showcase\genshin_card_29_08_2024-14_25_32.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
-  <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_29_08_2024-08_29_31.png" />
+  <summary>showcase\Acheron</summary>
+  <img src="images/showcase\Acheron_29_08_2024-14_26_55.png" />
 </details>
 <details align="center">
-  <summary>Firefly</summary>
-  <img src="images/showcase/Firefly_29_08_2024-08_29_31.png" />
+  <summary>showcase\Firefly</summary>
+  <img src="images/showcase\Firefly_29_08_2024-14_26_56.png" />
 </details>
 <details align="center">
-  <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_29_08_2024-08_29_32.png" />
+  <summary>showcase\Ruan Mei</summary>
+  <img src="images/showcase\Ruan-Mei_29_08_2024-14_26_57.png" />
 </details>
 <details align="center">
-  <summary>Jingliu</summary>
-  <img src="images/showcase/Jingliu_29_08_2024-08_29_33.png" />
+  <summary>showcase\Jingliu</summary>
+  <img src="images/showcase\Jingliu_29_08_2024-14_26_58.png" />
 </details>
 <details align="center">
-  <summary>Kafka</summary>
-  <img src="images/showcase/Kafka_29_08_2024-08_29_34.png" />
+  <summary>showcase\Kafka</summary>
+  <img src="images/showcase\Kafka_29_08_2024-14_26_59.png" />
 </details>
 <details align="center">
-  <summary>Seele</summary>
-  <img src="images/showcase/Seele_29_08_2024-08_29_35.png" />
+  <summary>showcase\Seele</summary>
+  <img src="images/showcase\Seele_29_08_2024-14_27_00.png" />
 </details>
 <details align="center">
-  <summary>Huohuo</summary>
-  <img src="images/showcase/Huohuo_29_08_2024-08_29_36.png" />
+  <summary>showcase\Huohuo</summary>
+  <img src="images/showcase\Huohuo_29_08_2024-14_27_01.png" />
 </details>
 <details align="center">
-  <summary>Robin</summary>
-  <img src="images/showcase/Robin_29_08_2024-08_29_37.png" />
+  <summary>showcase\Robin</summary>
+  <img src="images/showcase\Robin_29_08_2024-14_27_02.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
