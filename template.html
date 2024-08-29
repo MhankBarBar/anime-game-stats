@@ -6,7 +6,7 @@
 <details align="center"><summary>:sleeping: Zenless Zone Zero Details</summary>
 
     <div align="center">
-        <h2><img src="images/icons/zzz_check_in.png" height="20"> Daily Rewards</h2>
+        <h2><img src="../images/icons/zzz_check_in.png" height="20"> Daily Rewards</h2>
         <table>
             <tr>
                 <td>Total Rewards Claimed</td>
@@ -104,7 +104,7 @@
     {%- endif -%}
 
     <div align="center">
-        <h2><img src="images/icons/hsr_check_in.png" height="20"> Daily Rewards</h2>
+        <h2><img src="../images/icons/hsr_check_in.png" height="20"> Daily Rewards</h2>
         <table>
             <tr>
                 <td>Total Rewards Claimed</td>
@@ -136,10 +136,10 @@
     </div>
 
     <div align="center">
-        <h2><img src="images/icons/hsr_diary.png" height="20"> Diary</h2>
+        <h2><img src="../images/icons/hsr_diary.png" height="20"> Diary</h2>
         <table>
             <tr>
-                <td><img src="images/icons/stellar_jade.png" height="18"> Stellar Jade earned</td>
+                <td><img src="../images/icons/stellar_jade.png" height="18"> Stellar Jade earned</td>
                 <td>{{ hsr.diary.data.current_hcoin }} (rate {{ hsr.diary.data.hcoin_rate }})</td>
             </tr>
             <tr>
@@ -276,7 +276,7 @@
     {%- endif -%}
 
     <div align="center">
-        <h2><img src="images/icons/genshin_check_in.png" height="20"> Daily Rewards</h2>
+        <h2><img src="../images/icons/genshin_check_in.png" height="20"> Daily Rewards</h2>
         <table>
             <tr>
                 <td>Total Rewards Claimed</td>
@@ -402,7 +402,7 @@
     {%- endif -%}
 
     <div align="center">
-        <h2><img src="images/icons/genshin_diary.png" height="20"> Diary</h2>
+        <h2><img src="../images/icons/genshin_diary.png" height="20"> Diary</h2>
         <table>
             <tr>
                 <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png" height="18"> Primogems earned</td>
@@ -521,7 +521,7 @@
 {%- for index, res in _enumerate(genshin.showcase, 1) -%}
     <details align="center">
         <summary>Showcase {{ index }}</summary>
-        <img src="{{ res }}">
+        <img src="../{{ res }}">
     </details>
 {%- endfor -%}
 {%- endif -%}
@@ -531,7 +531,7 @@
 {%- for res, name in _zip(hsr.showcase, hsr.showcase_names) -%}
     <details align="center">
         <summary>{{ name }}</summary>
-        <img src="{{ res }}">
+        <img src="../{{ res }}">
     </details>
 {%- endfor -%}
 {%- endif -%}
