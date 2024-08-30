@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 30, 2024 08:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 30, 2024 19:41 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>53</td>
+        <td>54</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1041,7 +1041,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Joy_30_08_2024-08_37_27.png" />
+    <img src="../images/profile/Joy_30_08_2024-19_40_55.png" />
   </div>
   <div align="center">
     <h2>
@@ -1077,7 +1077,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>454</td>
+        <td>455</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -5027,7 +5027,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_30_08_2024-08_36_20.png" />
+    <img src="../images/profile/genshin_profile_30_08_2024-19_39_40.png" />
   </div>
   <div align="center">
     <h2>
@@ -5637,7 +5637,7 @@
           />
           Primogems earned
         </td>
-        <td>8237 (rate 11)</td>
+        <td>8701 (rate 18)</td>
       </tr>
       <tr>
         <td>
@@ -5647,14 +5647,14 @@
           />
           Mora earned
         </td>
-        <td>7570232 (rate 74)</td>
+        <td>7803257 (rate 79)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1980 (25%)<br />Events: 1740 (22%)<br />Daily Activity: 1680
-          (21%)<br />Spiral Abyss: 800 (10%)<br />Adventure: 796 (9%)<br />Imaginarium
-          Theater: 620 (7%)<br />Quests: 490 (5%)<br />Other: 131 (1%)<br />
+          Mail: 2180 (26%)<br />Events: 1920 (23%)<br />Daily Activity: 1740
+          (20%)<br />Spiral Abyss: 800 (9%)<br />Adventure: 815 (9%)<br />Imaginarium
+          Theater: 620 (7%)<br />Quests: 490 (5%)<br />Other: 136 (1%)<br />
         </td>
       </tr>
     </table>
@@ -8763,6 +8763,118 @@
       </table>
     </details>
     <details>
+      <summary><b>Mualani</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Mualani</h3></th>
+          <th><h3 align="center">Surf's Up</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Mualani.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/add942e56d77128b346b04f7beee5aca.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>3</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />2 x Vourukasha's Glow<br />2 x Heart of
+                  Depth<br />1 x Gladiator's Finale<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/7246081d73d3cf4f85fe84b60332b6bf.png"
+                    height="18"
+                  />
+                  Stamen of Khvarena's Origin<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/6e79cdc1575b325cc366c66473b5f180.png"
+                    height="18"
+                  />
+                  Vibrant Pinion<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/00e68ac5750fdb08a57a50b55235279b.png"
+                    height="18"
+                  />
+                  Copper Compass<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/3231c60f609146a144ed92b47b2168ea.png"
+                    height="18"
+                  />
+                  Goblet of Thundering Deep<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/c7fd055848bbab6b4bad274823ed1256.png"
+                    height="18"
+                  />
+                  Gladiator's Triumphus<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Surf's Up</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Traveler</b></summary>
       <br />
       <table>
@@ -10559,118 +10671,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Mualani</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Mualani</h3></th>
-          <th><h3 align="center">Surf's Up</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Mualani.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/add942e56d77128b346b04f7beee5aca.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />2 x Vourukasha's Glow<br />2 x Heart of
-                  Depth<br />1 x Gladiator's Finale<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/7246081d73d3cf4f85fe84b60332b6bf.png"
-                    height="18"
-                  />
-                  Stamen of Khvarena's Origin<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/6e79cdc1575b325cc366c66473b5f180.png"
-                    height="18"
-                  />
-                  Vibrant Pinion<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/00e68ac5750fdb08a57a50b55235279b.png"
-                    height="18"
-                  />
-                  Copper Compass<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/3231c60f609146a144ed92b47b2168ea.png"
-                    height="18"
-                  />
-                  Goblet of Thundering Deep<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/c7fd055848bbab6b4bad274823ed1256.png"
-                    height="18"
-                  />
-                  Gladiator's Triumphus<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Surf's Up</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Candace</b></summary>
       <br />
       <table>
@@ -12282,6 +12282,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Kachina</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Kachina</h3></th>
+          <th><h3 align="center">Beginner's Protector</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Kachina.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/ee99fca4c0cabd8fb249fb90d93efb14.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Beginner's Protector</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Shikanoin Heizou</b></summary>
       <br />
       <table>
@@ -12455,140 +12542,53 @@
         </tr>
       </table>
     </details>
-    <details>
-      <summary><b>Kachina</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Kachina</h3></th>
-          <th><h3 align="center">Beginner's Protector</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Kachina.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/ee99fca4c0cabd8fb249fb90d93efb14.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Beginner's Protector</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
   </div>
 </details>
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_30_08_2024-08_35_31.png" />
+  <img src="../images/showcase/genshin_card_30_08_2024-19_38_48.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_30_08_2024-08_35_33.png" />
+  <img src="../images/showcase/genshin_card_30_08_2024-19_38_50.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_30_08_2024-08_35_35.png" />
+  <img src="../images/showcase/genshin_card_30_08_2024-19_38_51.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_30_08_2024-08_36_57.png" />
+  <img src="../images/showcase/Acheron_30_08_2024-19_40_25.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_30_08_2024-08_36_58.png" />
+  <img src="../images/showcase/Firefly_30_08_2024-19_40_26.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_30_08_2024-08_36_59.png" />
+  <img src="../images/showcase/Ruan-Mei_30_08_2024-19_40_27.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_30_08_2024-08_37_00.png" />
+  <img src="../images/showcase/Jingliu_30_08_2024-19_40_28.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_30_08_2024-08_37_01.png" />
+  <img src="../images/showcase/Kafka_30_08_2024-19_40_29.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="../images/showcase/Seele_30_08_2024-08_37_02.png" />
+  <img src="../images/showcase/Seele_30_08_2024-19_40_29.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_30_08_2024-08_37_02.png" />
+  <img src="../images/showcase/Huohuo_30_08_2024-19_40_30.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_30_08_2024-08_37_03.png" />
+  <img src="../images/showcase/Robin_30_08_2024-19_40_31.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
