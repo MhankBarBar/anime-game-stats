@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 30, 2024 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 31, 2024 08:30 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/86e1f7a5ff283d527bbc019475847174_6873942739037299410.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/6ef3e419022c871257a936b1857ac9d1_7183854527138136141.png"
             height="20"
           />
-          Senior Investigator Logs
+          W-Engine Energy Modules
         </td>
       </tr>
     </table>
@@ -1041,7 +1041,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_30_08_2024-19_40_55.png" />
+    <img src="../images/profile/Joy_31_08_2024-08_29_58.png" />
   </div>
   <div align="center">
     <h2>
@@ -1050,7 +1050,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -1102,7 +1102,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>4807 (rate -31)</td>
+        <td>6122 (rate -13)</td>
       </tr>
       <tr>
         <td>
@@ -1112,14 +1112,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>26 (rate 30)</td>
+        <td>27 (rate 35)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1680 (34%)<br />Daily Activity: 840 (17%)<br />Simulated
-          Universe: 855 (17%)<br />Adventure Rewards: 760 (15%)<br />Forgotten
-          Hall: 560 (11%)<br />Other: 2 (4%)<br />Mail: 110 (2%)<br />
+          Event: 1680 (27%)<br />Simulated Universe: 1200 (19%)<br />Forgotten
+          Hall: 1120 (18%)<br />Daily Activity: 900 (14%)<br />Adventure
+          Rewards: 760 (12%)<br />Mail: 460 (7%)<br />Other: 2 (3%)<br />
         </td>
       </tr>
     </table>
@@ -5027,7 +5027,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_30_08_2024-19_39_40.png" />
+    <img src="../images/profile/genshin_profile_31_08_2024-08_28_52.png" />
   </div>
   <div align="center">
     <h2>
@@ -5037,7 +5037,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -5068,7 +5068,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>930</td>
+        <td>931</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5076,7 +5076,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>480</td>
+        <td>481</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -5100,11 +5100,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2549</td>
+        <td>2551</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1869</td>
+        <td>1870</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -5116,7 +5116,7 @@
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>220</td>
+        <td>221</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -5279,7 +5279,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/7/" width="80" />
+                <img src="https://progress-bar.xyz/8/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5552,11 +5552,6 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
@@ -5566,7 +5561,12 @@
             ,
             height="18"
           />
-          Raiden Shogun (9)<br />
+          Raiden Shogun (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (9)<br />
         </td>
       </tr>
       <tr>
@@ -12547,48 +12547,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_30_08_2024-19_38_48.png" />
+  <img src="../images/showcase/genshin_card_31_08_2024-08_28_04.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_30_08_2024-19_38_50.png" />
+  <img src="../images/showcase/genshin_card_31_08_2024-08_28_06.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_30_08_2024-19_38_51.png" />
+  <img src="../images/showcase/genshin_card_31_08_2024-08_28_07.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_30_08_2024-19_40_25.png" />
+  <img src="../images/showcase/Acheron_31_08_2024-08_29_30.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_30_08_2024-19_40_26.png" />
+  <img src="../images/showcase/Firefly_31_08_2024-08_29_30.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_30_08_2024-19_40_27.png" />
+  <img src="../images/showcase/Ruan-Mei_31_08_2024-08_29_32.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_30_08_2024-19_40_28.png" />
+  <img src="../images/showcase/Jingliu_31_08_2024-08_29_32.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_30_08_2024-19_40_29.png" />
+  <img src="../images/showcase/Kafka_31_08_2024-08_29_33.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="../images/showcase/Seele_30_08_2024-19_40_29.png" />
+  <img src="../images/showcase/Seele_31_08_2024-08_29_34.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_30_08_2024-19_40_30.png" />
+  <img src="../images/showcase/Huohuo_31_08_2024-08_29_35.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_30_08_2024-19_40_31.png" />
+  <img src="../images/showcase/Robin_31_08_2024-08_29_36.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
