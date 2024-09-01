@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 01, 2024 08:50 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 01, 2024 19:39 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1041,7 +1041,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_01_09_2024-08_50_10.png" />
+    <img src="../images/profile/Joy_01_09_2024-19_38_58.png" />
   </div>
   <div align="center">
     <h2>
@@ -5027,7 +5027,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_01_09_2024-08_48_56.png" />
+    <img src="../images/profile/genshin_profile_01_09_2024-19_37_42.png" />
   </div>
   <div align="center">
     <h2>
@@ -5064,19 +5064,19 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>970</td>
+        <td>982</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>932</td>
+        <td>933</td>
       </tr>
       <tr>
         <td>Characters</td>
-        <td>68</td>
+        <td>69</td>
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>481</td>
+        <td>482</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -5100,11 +5100,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2554</td>
+        <td>2561</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1871</td>
+        <td>1874</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -5552,6 +5552,11 @@
             height="18"
           />
           Yelan (12)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
@@ -5561,12 +5566,7 @@
             ,
             height="18"
           />
-          Xiangling (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (9)<br />
+          Xiangling (9)<br />
         </td>
       </tr>
       <tr>
@@ -5637,7 +5637,7 @@
           />
           Primogems earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>2217 (rate -74)</td>
       </tr>
       <tr>
         <td>
@@ -5647,14 +5647,14 @@
           />
           Mora earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>1296799 (rate -84)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
-          (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+          Imaginarium Theater: 1200 (55%)<br />Adventure: 144 (7%)<br />Quests:
+          90 (4%)<br />Events: 60 (2%)<br />Daily Activity: 60 (2%)<br />Spiral
+          Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 663 (30%)<br />
         </td>
       </tr>
     </table>
@@ -12547,48 +12547,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_01_09_2024-08_48_08.png" />
+  <img src="../images/showcase/genshin_card_01_09_2024-19_36_55.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_01_09_2024-08_48_10.png" />
+  <img src="../images/showcase/genshin_card_01_09_2024-19_36_57.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_01_09_2024-08_48_12.png" />
+  <img src="../images/showcase/genshin_card_01_09_2024-19_36_59.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_01_09_2024-08_49_37.png" />
+  <img src="../images/showcase/Acheron_01_09_2024-19_38_26.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_01_09_2024-08_49_38.png" />
+  <img src="../images/showcase/Firefly_01_09_2024-19_38_27.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_01_09_2024-08_49_39.png" />
+  <img src="../images/showcase/Ruan-Mei_01_09_2024-19_38_28.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_01_09_2024-08_49_40.png" />
+  <img src="../images/showcase/Jingliu_01_09_2024-19_38_29.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_01_09_2024-08_49_41.png" />
+  <img src="../images/showcase/Kafka_01_09_2024-19_38_30.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="../images/showcase/Seele_01_09_2024-08_49_42.png" />
+  <img src="../images/showcase/Seele_01_09_2024-19_38_31.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_01_09_2024-08_49_42.png" />
+  <img src="../images/showcase/Huohuo_01_09_2024-19_38_32.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_01_09_2024-08_49_44.png" />
+  <img src="../images/showcase/Robin_01_09_2024-19_38_33.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
