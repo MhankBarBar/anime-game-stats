@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 03, 2024 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 04, 2024 08:37 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>3</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
             height="20"
           />
-          Dennies
+          Crystallized Plating Agents
         </td>
       </tr>
     </table>
@@ -1041,7 +1041,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_03_09_2024-19_41_36.png" />
+    <img src="../images/profile/Joy_04_09_2024-08_37_50.png" />
   </div>
   <div align="center">
     <h2>
@@ -1050,17 +1050,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>3</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
             height="20"
           />
-          Credit
+          Canned Soda
         </td>
       </tr>
     </table>
@@ -5027,7 +5027,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_03_09_2024-19_40_23.png" />
+    <img src="../images/profile/genshin_profile_04_09_2024-08_36_40.png" />
   </div>
   <div align="center">
     <h2>
@@ -5037,17 +5037,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>3</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -5552,6 +5552,11 @@
             height="18"
           />
           Yelan (12)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          Xiangling (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
@@ -5561,12 +5566,7 @@
             ,
             height="18"
           />
-          Bennett (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (9)<br />
+          Bennett (9)<br />
         </td>
       </tr>
       <tr>
@@ -11445,7 +11445,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -12634,48 +12634,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_03_09_2024-19_39_34.png" />
+  <img src="../images/showcase/genshin_card_04_09_2024-08_35_50.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_03_09_2024-19_39_36.png" />
+  <img src="../images/showcase/genshin_card_04_09_2024-08_35_52.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_03_09_2024-19_39_38.png" />
+  <img src="../images/showcase/genshin_card_04_09_2024-08_35_53.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_03_09_2024-19_41_04.png" />
+  <img src="../images/showcase/Acheron_04_09_2024-08_37_20.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_03_09_2024-19_41_05.png" />
+  <img src="../images/showcase/Firefly_04_09_2024-08_37_21.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_03_09_2024-19_41_06.png" />
+  <img src="../images/showcase/Ruan-Mei_04_09_2024-08_37_22.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_03_09_2024-19_41_07.png" />
+  <img src="../images/showcase/Jingliu_04_09_2024-08_37_23.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_03_09_2024-19_41_08.png" />
+  <img src="../images/showcase/Kafka_04_09_2024-08_37_24.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="../images/showcase/Seele_03_09_2024-19_41_09.png" />
+  <img src="../images/showcase/Seele_04_09_2024-08_37_24.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_03_09_2024-19_41_10.png" />
+  <img src="../images/showcase/Huohuo_04_09_2024-08_37_26.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_03_09_2024-19_41_11.png" />
+  <img src="../images/showcase/Robin_04_09_2024-08_37_27.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
