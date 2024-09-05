@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 04, 2024 08:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 05, 2024 08:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
             height="20"
           />
-          Crystallized Plating Agents
+          Polychromes
         </td>
       </tr>
     </table>
@@ -38,11 +38,11 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>58</td>
+        <td>59</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
-        <td>14</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Reputation Knot Inter</td>
@@ -64,75 +64,6 @@
       Characters
     </h2>
     <details open>
-      <summary><b>Zhu Yuan </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Zhu Yuan</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1241.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-s-icon.3e8ac292.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/850c15bb605f5656a5bbc8fa44bca59e.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconEther.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconAttack.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>55</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>0</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Qingyi </b></summary>
       <br />
       <table>
@@ -164,7 +95,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/850c15bb605f5656a5bbc8fa44bca59e.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/430a0b11aa1fc960b3b73f3689d98488.png"
                     height="18"
                   />
                 </td>
@@ -190,7 +121,76 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td>55</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>0</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Zhu Yuan </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Zhu Yuan</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1241.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-s-icon.3e8ac292.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/430a0b11aa1fc960b3b73f3689d98488.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconEther.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconAttack.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>55</td>
               </tr>
               <tr>
                 <td>Mindscape</td>
@@ -233,7 +233,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/78174a043e2831540a081fa431dcdf98.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/6d4dae89af5a9ab5429ce5907c5ab6c0.png"
                     height="18"
                   />
                 </td>
@@ -302,7 +302,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/f7e8a5a1ca9661ce38edddc9da1ac3cf.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/ced906293fe292f0f860392d67ae9abf.png"
                     height="18"
                   />
                 </td>
@@ -371,7 +371,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/28582fd5a8cfb2a7dce83b995bc03361.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/5c6a8943a6e30b6a067e509cb63f405e.png"
                     height="18"
                   />
                 </td>
@@ -440,7 +440,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/f7e8a5a1ca9661ce38edddc9da1ac3cf.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/ced906293fe292f0f860392d67ae9abf.png"
                     height="18"
                   />
                 </td>
@@ -509,7 +509,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/8e0e7cb0faa7532ad33ecc3bb3cb5a27.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/1433f4e1e98f882ab6811918074baabc.png"
                     height="18"
                   />
                 </td>
@@ -578,7 +578,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/8e0e7cb0faa7532ad33ecc3bb3cb5a27.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/1433f4e1e98f882ab6811918074baabc.png"
                     height="18"
                   />
                 </td>
@@ -647,7 +647,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/633cbbb7eacf5ef5d35e365ae66a9449.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/99b76a12567033576aaa8d8c68e09233.png"
                     height="18"
                   />
                 </td>
@@ -677,7 +677,7 @@
               </tr>
               <tr>
                 <td>Mindscape</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -716,7 +716,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/f7e8a5a1ca9661ce38edddc9da1ac3cf.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/ced906293fe292f0f860392d67ae9abf.png"
                     height="18"
                   />
                 </td>
@@ -746,7 +746,145 @@
               </tr>
               <tr>
                 <td>Mindscape</td>
-                <td>1</td>
+                <td>3</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Soldier 11 </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Soldier 11</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1041.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-s-icon.3e8ac292.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/bf3452b1b63b1e456955d8e68801a69b.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconFire.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconAttack.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>0</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Seth Lowell </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Seth Lowell</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1271.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/430a0b11aa1fc960b3b73f3689d98488.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconElectric.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconDefense.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>0</td>
               </tr>
             </table>
           </td>
@@ -785,7 +923,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/28582fd5a8cfb2a7dce83b995bc03361.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/5c6a8943a6e30b6a067e509cb63f405e.png"
                     height="18"
                   />
                 </td>
@@ -854,7 +992,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/28582fd5a8cfb2a7dce83b995bc03361.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/5c6a8943a6e30b6a067e509cb63f405e.png"
                     height="18"
                   />
                 </td>
@@ -923,7 +1061,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/f7e8a5a1ca9661ce38edddc9da1ac3cf.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/ced906293fe292f0f860392d67ae9abf.png"
                     height="18"
                   />
                 </td>
@@ -992,7 +1130,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u19cab/78174a043e2831540a081fa431dcdf98.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/6d4dae89af5a9ab5429ce5907c5ab6c0.png"
                     height="18"
                   />
                 </td>
@@ -1041,7 +1179,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_04_09_2024-08_37_50.png" />
+    <img src="../images/profile/Joy_05_09_2024-08_38_09.png" />
   </div>
   <div align="center">
     <h2>
@@ -1050,17 +1188,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Canned Soda
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -1077,7 +1215,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>457</td>
+        <td>458</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1102,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1655 (rate -72)</td>
+        <td>1715 (rate -71)</td>
       </tr>
       <tr>
         <td>
@@ -1117,8 +1255,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 820 (49%)<br />Forgotten Hall: 640 (38%)<br />Daily Activity:
-          120 (7%)<br />Adventure Rewards: 75 (4%)<br />Other: 0 (2%)<br />Simulated
+          Event: 820 (47%)<br />Forgotten Hall: 640 (37%)<br />Daily Activity:
+          180 (10%)<br />Adventure Rewards: 75 (4%)<br />Other: 0 (2%)<br />Simulated
           Universe: 0 (0%)<br />Mail: 0 (0%)<br />
         </td>
       </tr>
@@ -5027,7 +5165,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_04_09_2024-08_36_40.png" />
+    <img src="../images/profile/genshin_profile_05_09_2024-08_37_01.png" />
   </div>
   <div align="center">
     <h2>
@@ -5037,17 +5175,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
             height="20"
           />
-          Primogem
+          Sweet Madame
         </td>
       </tr>
     </table>
@@ -5064,11 +5202,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>983</td>
+        <td>984</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>935</td>
+        <td>937</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5552,16 +5690,16 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
           Kaedehara Kazuha (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
@@ -5637,7 +5775,7 @@
           />
           Primogems earned
         </td>
-        <td>2432 (rate -72)</td>
+        <td>2517 (rate -71)</td>
       </tr>
       <tr>
         <td>
@@ -5647,14 +5785,14 @@
           />
           Mora earned
         </td>
-        <td>1629625 (rate -79)</td>
+        <td>1684504 (rate -79)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Imaginarium Theater: 1200 (50%)<br />Adventure: 199 (8%)<br />Daily
-          Activity: 180 (7%)<br />Events: 80 (3%)<br />Quests: 90 (3%)<br />Spiral
-          Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 683 (29%)<br />
+          Imaginarium Theater: 1200 (48%)<br />Daily Activity: 240 (9%)<br />Adventure:
+          204 (8%)<br />Events: 80 (3%)<br />Quests: 90 (3%)<br />Mail: 20
+          (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 683 (28%)<br />
         </td>
       </tr>
     </table>
@@ -12634,48 +12772,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_04_09_2024-08_35_50.png" />
+  <img src="../images/showcase/genshin_card_05_09_2024-08_36_11.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_04_09_2024-08_35_52.png" />
+  <img src="../images/showcase/genshin_card_05_09_2024-08_36_13.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_04_09_2024-08_35_53.png" />
+  <img src="../images/showcase/genshin_card_05_09_2024-08_36_15.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_04_09_2024-08_37_20.png" />
+  <img src="../images/showcase/Acheron_05_09_2024-08_37_40.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_04_09_2024-08_37_21.png" />
+  <img src="../images/showcase/Firefly_05_09_2024-08_37_41.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_04_09_2024-08_37_22.png" />
+  <img src="../images/showcase/Ruan-Mei_05_09_2024-08_37_42.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_04_09_2024-08_37_23.png" />
+  <img src="../images/showcase/Jingliu_05_09_2024-08_37_43.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_04_09_2024-08_37_24.png" />
+  <img src="../images/showcase/Kafka_05_09_2024-08_37_44.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="../images/showcase/Seele_04_09_2024-08_37_24.png" />
+  <img src="../images/showcase/Seele_05_09_2024-08_37_45.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_04_09_2024-08_37_26.png" />
+  <img src="../images/showcase/Huohuo_05_09_2024-08_37_46.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_04_09_2024-08_37_27.png" />
+  <img src="../images/showcase/Robin_05_09_2024-08_37_47.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
