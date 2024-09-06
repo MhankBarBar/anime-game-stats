@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 06, 2024 08:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 06, 2024 19:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>60</td>
+        <td>61</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -271,6 +271,75 @@
       </table>
     </details>
     <details>
+      <summary><b>Grace Howard </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Grace Howard</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1181.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-s-icon.3e8ac292.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/5c6a8943a6e30b6a067e509cb63f405e.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconElectric.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconAnomaly.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Nicole Demara </b></summary>
       <br />
       <table>
@@ -333,75 +402,6 @@
               <tr>
                 <td>Mindscape</td>
                 <td>6</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Grace Howard </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Grace Howard</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1181.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-s-icon.3e8ac292.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/5c6a8943a6e30b6a067e509cb63f405e.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconElectric.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconAnomaly.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>45</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>1</td>
               </tr>
             </table>
           </td>
@@ -1179,7 +1179,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_06_09_2024-08_37_38.png" />
+    <img src="../images/profile/Joy_06_09_2024-19_40_27.png" />
   </div>
   <div align="center">
     <h2>
@@ -1215,7 +1215,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>458</td>
+        <td>459</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1240,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1715 (rate -71)</td>
+        <td>2100 (rate -65)</td>
       </tr>
       <tr>
         <td>
@@ -1250,14 +1250,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>10 (rate -62)</td>
+        <td>12 (rate -55)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 820 (47%)<br />Forgotten Hall: 640 (37%)<br />Daily Activity:
-          180 (10%)<br />Adventure Rewards: 75 (4%)<br />Other: 0 (2%)<br />Simulated
-          Universe: 0 (0%)<br />Mail: 0 (0%)<br />
+          Event: 860 (40%)<br />Forgotten Hall: 640 (30%)<br />Simulated
+          Universe: 265 (12%)<br />Daily Activity: 240 (11%)<br />Other: 0
+          (4%)<br />Adventure Rewards: 75 (3%)<br />Mail: 20 (0%)<br />
         </td>
       </tr>
     </table>
@@ -2924,11 +2924,11 @@
                     height="18"
                   />
                   Duran's Tent of Golden Sky<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/5c95c944e857b3b2ce75bc2f1ca7bc09.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/e37a1e43f8d845bebe81370c43ee88a2.png"
                     ,
                     height="18"
                   />
-                  Duran's Mechabeast Bridle<br />
+                  Glamoth's Silent Tombstone<br />
                 </td>
               </tr>
             </table>
@@ -4990,11 +4990,11 @@
                     height="18"
                   />
                   Duran's Tent of Golden Sky<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/e37a1e43f8d845bebe81370c43ee88a2.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/5c95c944e857b3b2ce75bc2f1ca7bc09.png"
                     ,
                     height="18"
                   />
-                  Glamoth's Silent Tombstone<br />
+                  Duran's Mechabeast Bridle<br />
                 </td>
               </tr>
             </table>
@@ -5165,7 +5165,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_06_09_2024-08_36_26.png" />
+    <img src="../images/profile/genshin_profile_06_09_2024-19_39_14.png" />
   </div>
   <div align="center">
     <h2>
@@ -5202,11 +5202,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>989</td>
+        <td>992</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>937</td>
+        <td>938</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5214,7 +5214,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>492</td>
+        <td>494</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -5238,19 +5238,19 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2572</td>
+        <td>2574</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1891</td>
+        <td>1903</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>563</td>
+        <td>570</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>224</td>
+        <td>226</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
@@ -5417,7 +5417,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/23/" width="80" />
+                <img src="https://progress-bar.xyz/26/" width="80" />
               </td>
             </tr>
             <tr>
@@ -5690,21 +5690,21 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
-            ,
-            height="18"
-          />
-          Bennett (9)<br /><img
+          Raiden Shogun (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
-          Xiangling (9)<br />
+          Xiangling (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+            ,
+            height="18"
+          />
+          Bennett (9)<br />
         </td>
       </tr>
       <tr>
@@ -5775,7 +5775,7 @@
           />
           Primogems earned
         </td>
-        <td>3660 (rate -58)</td>
+        <td>4174 (rate -52)</td>
       </tr>
       <tr>
         <td>
@@ -5785,14 +5785,14 @@
           />
           Mora earned
         </td>
-        <td>2352297 (rate -71)</td>
+        <td>2879565 (rate -64)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Imaginarium Theater: 1200 (33%)<br />Adventure: 986 (27%)<br />Daily
-          Activity: 300 (9%)<br />Events: 220 (6%)<br />Quests: 200 (5%)<br />Mail:
-          70 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 684 (19%)<br />
+          Adventure: 1240 (30%)<br />Imaginarium Theater: 1200 (29%)<br />Events:
+          340 (9%)<br />Daily Activity: 360 (8%)<br />Quests: 280 (6%)<br />Mail:
+          70 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 684 (17%)<br />
         </td>
       </tr>
     </table>
@@ -12772,48 +12772,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_06_09_2024-08_35_37.png" />
+  <img src="../images/showcase/genshin_card_06_09_2024-19_38_25.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_06_09_2024-08_35_39.png" />
+  <img src="../images/showcase/genshin_card_06_09_2024-19_38_27.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_06_09_2024-08_35_41.png" />
+  <img src="../images/showcase/genshin_card_06_09_2024-19_38_29.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_06_09_2024-08_37_07.png" />
+  <img src="../images/showcase/Acheron_06_09_2024-19_39_57.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_06_09_2024-08_37_07.png" />
+  <img src="../images/showcase/Firefly_06_09_2024-19_39_58.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_06_09_2024-08_37_08.png" />
+  <img src="../images/showcase/Ruan-Mei_06_09_2024-19_39_59.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_06_09_2024-08_37_09.png" />
+  <img src="../images/showcase/Jingliu_06_09_2024-19_40_00.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_06_09_2024-08_37_10.png" />
+  <img src="../images/showcase/Kafka_06_09_2024-19_40_01.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="../images/showcase/Seele_06_09_2024-08_37_11.png" />
+  <img src="../images/showcase/Seele_06_09_2024-19_40_02.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_06_09_2024-08_37_12.png" />
+  <img src="../images/showcase/Huohuo_06_09_2024-19_40_04.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_06_09_2024-08_37_13.png" />
+  <img src="../images/showcase/Robin_06_09_2024-19_40_05.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
