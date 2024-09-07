@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 07, 2024 13:30 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 07, 2024 19:37 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1179,7 +1179,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_07_09_2024-13_30_50.png" />
+    <img src="../images/profile/Joy_07_09_2024-19_37_48.png" />
   </div>
   <div align="center">
     <h2>
@@ -5165,7 +5165,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_07_09_2024-13_29_26.png" />
+    <img src="../images/profile/genshin_profile_07_09_2024-19_36_40.png" />
   </div>
   <div align="center">
     <h2>
@@ -5690,21 +5690,21 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
             ,
             height="18"
           />
-          Xiangling (9)<br /><img
+          Kaedehara Kazuha (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
           Bennett (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (9)<br />
+          Raiden Shogun (9)<br />
         </td>
       </tr>
       <tr>
@@ -12772,48 +12772,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_07_09_2024-13_28_27.png" />
+  <img src="../images/showcase/genshin_card_07_09_2024-19_35_52.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_07_09_2024-13_28_29.png" />
+  <img src="../images/showcase/genshin_card_07_09_2024-19_35_54.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_07_09_2024-13_28_32.png" />
+  <img src="../images/showcase/genshin_card_07_09_2024-19_35_55.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_07_09_2024-13_30_15.png" />
+  <img src="../images/showcase/Acheron_07_09_2024-19_37_19.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_07_09_2024-13_30_16.png" />
+  <img src="../images/showcase/Firefly_07_09_2024-19_37_20.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_07_09_2024-13_30_17.png" />
+  <img src="../images/showcase/Ruan-Mei_07_09_2024-19_37_21.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_07_09_2024-13_30_18.png" />
+  <img src="../images/showcase/Jingliu_07_09_2024-19_37_22.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_07_09_2024-13_30_20.png" />
+  <img src="../images/showcase/Kafka_07_09_2024-19_37_23.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="../images/showcase/Seele_07_09_2024-13_30_21.png" />
+  <img src="../images/showcase/Seele_07_09_2024-19_37_24.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_07_09_2024-13_30_22.png" />
+  <img src="../images/showcase/Huohuo_07_09_2024-19_37_25.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_07_09_2024-13_30_24.png" />
+  <img src="../images/showcase/Robin_07_09_2024-19_37_26.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
