@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 09, 2024 10:17 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 09, 2024 19:42 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1179,7 +1179,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_09_09_2024-10_17_02.png" />
+    <img src="../images/profile/Joy_09_09_2024-19_42_23.png" />
   </div>
   <div align="center">
     <h2>
@@ -1240,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2220 (rate -63)</td>
+        <td>2280 (rate -62)</td>
       </tr>
       <tr>
         <td>
@@ -1255,9 +1255,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 860 (38%)<br />Forgotten Hall: 640 (28%)<br />Daily Activity:
-          360 (16%)<br />Simulated Universe: 265 (11%)<br />Other: 0 (4%)<br />Adventure
-          Rewards: 75 (3%)<br />Mail: 20 (0%)<br />
+          Event: 860 (37%)<br />Forgotten Hall: 640 (28%)<br />Daily Activity:
+          420 (18%)<br />Simulated Universe: 265 (11%)<br />Adventure Rewards:
+          75 (3%)<br />Other: 0 (3%)<br />Mail: 20 (0%)<br />
         </td>
       </tr>
     </table>
@@ -5165,7 +5165,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_09_09_2024-10_15_45.png" />
+    <img src="../images/profile/genshin_profile_09_09_2024-19_41_11.png" />
   </div>
   <div align="center">
     <h2>
@@ -5690,21 +5690,21 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
-          Xiangling (9)<br />
+          Xiangling (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+            ,
+            height="18"
+          />
+          Bennett (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (9)<br />
         </td>
       </tr>
       <tr>
@@ -5775,7 +5775,7 @@
           />
           Primogems earned
         </td>
-        <td>5681 (rate -35)</td>
+        <td>5901 (rate -33)</td>
       </tr>
       <tr>
         <td>
@@ -5785,14 +5785,14 @@
           />
           Mora earned
         </td>
-        <td>4068854 (rate -49)</td>
+        <td>4143254 (rate -49)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1807 (32%)<br />Imaginarium Theater: 1200 (22%)<br />Events:
-          620 (10%)<br />Daily Activity: 540 (9%)<br />Quests: 460 (8%)<br />Mail:
-          70 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 984 (18%)<br />
+          Adventure: 1807 (31%)<br />Imaginarium Theater: 1200 (21%)<br />Events:
+          690 (11%)<br />Daily Activity: 540 (9%)<br />Quests: 460 (7%)<br />Mail:
+          70 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 1134 (20%)<br />
         </td>
       </tr>
     </table>
@@ -5923,7 +5923,7 @@
       <table>
         <tr>
           <th><h3 align="center">Raiden Shogun</h3></th>
-          <th><h3 align="center">"The Catch"</h3></th>
+          <th><h3 align="center">Primordial Jade Winged-Spear</h3></th>
         </tr>
         <tr>
           <td>
@@ -5937,7 +5937,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/77eaed33b469c55c1a342d8ff716ca54.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/9cc746f9a5ecf956a9d8b3b58583e23b.png"
                 height="250"
               />
             </p>
@@ -6010,19 +6010,19 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>"The Catch"</td>
+                <td>Primordial Jade Winged-Spear</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★</td>
+                <td>★★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>90</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>5</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -12772,48 +12772,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_09_09_2024-10_14_53.png" />
+  <img src="../images/showcase/genshin_card_09_09_2024-19_40_21.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_09_09_2024-10_14_55.png" />
+  <img src="../images/showcase/genshin_card_09_09_2024-19_40_23.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_09_09_2024-10_14_57.png" />
+  <img src="../images/showcase/genshin_card_09_09_2024-19_40_25.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_09_09_2024-10_16_28.png" />
+  <img src="../images/showcase/Acheron_09_09_2024-19_41_51.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_09_09_2024-10_16_28.png" />
+  <img src="../images/showcase/Firefly_09_09_2024-19_41_52.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_09_09_2024-10_16_29.png" />
+  <img src="../images/showcase/Ruan-Mei_09_09_2024-19_41_53.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_09_09_2024-10_16_30.png" />
+  <img src="../images/showcase/Jingliu_09_09_2024-19_41_55.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_09_09_2024-10_16_31.png" />
+  <img src="../images/showcase/Kafka_09_09_2024-19_41_56.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="../images/showcase/Seele_09_09_2024-10_16_32.png" />
+  <img src="../images/showcase/Seele_09_09_2024-19_41_56.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_09_09_2024-10_16_33.png" />
+  <img src="../images/showcase/Huohuo_09_09_2024-19_41_58.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_09_09_2024-10_16_34.png" />
+  <img src="../images/showcase/Robin_09_09_2024-19_41_59.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
