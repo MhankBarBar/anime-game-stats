@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 10, 2024 08:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 10, 2024 19:42 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1178,6 +1178,10 @@
     Honkai Star Rail Details
   </summary>
   <div align="center">
+    <h2>Profile</h2>
+    <img src="../images/profile/Joy_10_09_2024-19_42_41.png" />
+  </div>
+  <div align="center">
     <h2>
       <img src="../images/icons/hsr_check_in.png" height="20" /> Daily Rewards
     </h2>
@@ -1211,15 +1215,15 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>462</td>
+        <td>463</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>39</td>
+        <td>40</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>533</td>
+        <td>535</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1236,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2280 (rate -62)</td>
+        <td>4776 (rate -21)</td>
       </tr>
       <tr>
         <td>
@@ -1246,14 +1250,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>12 (rate -55)</td>
+        <td>16 (rate -40)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 860 (37%)<br />Forgotten Hall: 640 (28%)<br />Daily Activity:
-          420 (18%)<br />Simulated Universe: 265 (11%)<br />Adventure Rewards:
-          75 (3%)<br />Other: 0 (3%)<br />Mail: 20 (0%)<br />
+          Event: 2290 (47%)<br />Simulated Universe: 630 (13%)<br />Forgotten
+          Hall: 640 (13%)<br />Mail: 620 (12%)<br />Daily Activity: 480 (10%)<br />Other:
+          1 (3%)<br />Adventure Rewards: 115 (2%)<br />
         </td>
       </tr>
     </table>
@@ -3282,6 +3286,117 @@
       </table>
     </details>
     <details>
+      <summary><b>March 7th </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>March 7th</h3></th>
+          <th><h3>Swordplay</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/0ec86d65f270e290dbbae1c288751266.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/34da05716d5724ef4a7166bd85c6533f.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>5</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/7e9670d4f7e550cd92f279f933ccd504.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/4ee2f8237a05f7b04b17b5e005bd54f4.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Coarse Leather Gloves<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/a5e7e102334ec13602852fc4179f0f5f.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wind-Hunting Shawl<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/5998812eb3e4035be0942b15772d6845.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Rivets Riding Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/233224482c2e63bc617f9d0389edb418.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan Laser Stadium<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/aad598184f7cceec31202a70a6dcdb08.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan's Arclight Race Track<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Swordplay</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>2</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Guinaifen </b></summary>
       <br />
       <table>
@@ -3943,75 +4058,6 @@
       </table>
     </details>
     <details>
-      <summary><b>March 7th </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>March 7th</h3></th>
-          <th><h3></h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/0ec86d65f270e290dbbae1c288751266.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center"><img src="" /></p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>3</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Xueyi </b></summary>
       <br />
       <table>
@@ -4352,7 +4398,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -4492,7 +4538,7 @@
       <table>
         <tr>
           <th><h3>Sushang</h3></th>
-          <th><h3>Swordplay</h3></th>
+          <th><h3></h3></th>
         </tr>
         <tr>
           <td>
@@ -4503,11 +4549,7 @@
             </p>
           </td>
           <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/34da05716d5724ef4a7166bd85c6533f.png"
-              />
-            </p>
+            <p align="center"><img src="" /></p>
           </td>
         </tr>
         <tr>
@@ -4544,15 +4586,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Swordplay</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -5152,6 +5194,75 @@
         </tr>
       </table>
     </details>
+    <details>
+      <summary><b>Moze </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Moze</h3></th>
+          <th><h3></h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/b10458f39c11957d473e26f789b444e6.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center"><img src="" /></p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
   </div>
 </details>
 <details align="center">
@@ -5161,7 +5272,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_10_09_2024-08_38_29.png" />
+    <img src="../images/profile/genshin_profile_10_09_2024-19_41_37.png" />
   </div>
   <div align="center">
     <h2>
@@ -5686,16 +5797,16 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
-            ,
-            height="18"
-          />
-          Xiangling (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
           Raiden Shogun (9)<br /><img
+            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (9)<br /><img
             src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
@@ -5771,7 +5882,7 @@
           />
           Primogems earned
         </td>
-        <td>5901 (rate -33)</td>
+        <td>6090 (rate -31)</td>
       </tr>
       <tr>
         <td>
@@ -5781,14 +5892,14 @@
           />
           Mora earned
         </td>
-        <td>4143254 (rate -49)</td>
+        <td>4454071 (rate -45)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1807 (31%)<br />Imaginarium Theater: 1200 (21%)<br />Events:
-          690 (11%)<br />Daily Activity: 540 (9%)<br />Quests: 460 (7%)<br />Mail:
-          70 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 1134 (20%)<br />
+          Adventure: 1816 (30%)<br />Imaginarium Theater: 1200 (20%)<br />Events:
+          690 (12%)<br />Daily Activity: 600 (9%)<br />Quests: 520 (8%)<br />Mail:
+          70 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 1194 (20%)<br />
         </td>
       </tr>
     </table>
@@ -12768,15 +12879,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_10_09_2024-08_37_38.png" />
+  <img src="../images/showcase/genshin_card_10_09_2024-19_40_51.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_10_09_2024-08_37_40.png" />
+  <img src="../images/showcase/genshin_card_10_09_2024-19_40_53.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_10_09_2024-08_37_42.png" />
+  <img src="../images/showcase/genshin_card_10_09_2024-19_40_54.png" />
+</details>
+<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
+<details align="center">
+  <summary>Acheron</summary>
+  <img src="../images/showcase/Acheron_10_09_2024-19_42_14.png" />
+</details>
+<details align="center">
+  <summary>Firefly</summary>
+  <img src="../images/showcase/Firefly_10_09_2024-19_42_15.png" />
+</details>
+<details align="center">
+  <summary>Ruan Mei</summary>
+  <img src="../images/showcase/Ruan-Mei_10_09_2024-19_42_16.png" />
+</details>
+<details align="center">
+  <summary>Jingliu</summary>
+  <img src="../images/showcase/Jingliu_10_09_2024-19_42_17.png" />
+</details>
+<details align="center">
+  <summary>Kafka</summary>
+  <img src="../images/showcase/Kafka_10_09_2024-19_42_18.png" />
+</details>
+<details align="center">
+  <summary>Seele</summary>
+  <img src="../images/showcase/Seele_10_09_2024-19_42_19.png" />
+</details>
+<details align="center">
+  <summary>Huohuo</summary>
+  <img src="../images/showcase/Huohuo_10_09_2024-19_42_20.png" />
+</details>
+<details align="center">
+  <summary>Robin</summary>
+  <img src="../images/showcase/Robin_10_09_2024-19_42_21.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
