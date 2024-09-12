@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 10, 2024 19:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 12, 2024 09:25 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Crystallized Plating Agents
         </td>
       </tr>
     </table>
@@ -1179,7 +1179,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_10_09_2024-19_42_41.png" />
+    <img src="../images/profile/Joy_12_09_2024-09_25_28.png" />
   </div>
   <div align="center">
     <h2>
@@ -1188,17 +1188,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -1215,7 +1215,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>463</td>
+        <td>465</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1223,11 +1223,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>535</td>
+        <td>545</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>799</td>
+        <td>834</td>
       </tr>
     </table>
   </div>
@@ -1240,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>4776 (rate -21)</td>
+        <td>5982 (rate -2)</td>
       </tr>
       <tr>
         <td>
@@ -1250,14 +1250,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>16 (rate -40)</td>
+        <td>19 (rate -29)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 2290 (47%)<br />Simulated Universe: 630 (13%)<br />Forgotten
-          Hall: 640 (13%)<br />Mail: 620 (12%)<br />Daily Activity: 480 (10%)<br />Other:
-          1 (3%)<br />Adventure Rewards: 115 (2%)<br />
+          Event: 2330 (38%)<br />Adventure Rewards: 1140 (19%)<br />Mail: 700
+          (11%)<br />Simulated Universe: 630 (10%)<br />Forgotten Hall: 640
+          (10%)<br />Daily Activity: 540 (9%)<br />Other: 2 (3%)<br />
         </td>
       </tr>
     </table>
@@ -5236,7 +5236,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>0</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -5272,7 +5272,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_10_09_2024-19_41_37.png" />
+    <img src="../images/profile/genshin_profile_12_09_2024-09_24_13.png" />
   </div>
   <div align="center">
     <h2>
@@ -5282,17 +5282,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
             height="20"
           />
-          Mora
+          Fried Radish Balls
         </td>
       </tr>
     </table>
@@ -5309,11 +5309,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1008</td>
+        <td>1009</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>941</td>
+        <td>944</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5344,16 +5344,20 @@
         <td>271</td>
       </tr>
       <tr>
+        <td>Pyroculi</td>
+        <td>107</td>
+      </tr>
+      <tr>
         <td>Common Chests Opened</td>
-        <td>2585</td>
+        <td>2587</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1934</td>
+        <td>1939</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>581</td>
+        <td>582</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
@@ -5792,33 +5796,33 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/7c2ca1e8dbd21233781ab930785dee37.png"
             ,
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/c92d13d2d0a877da9f56db5611c234d3.png"
             ,
             height="18"
           />
           Kaedehara Kazuha (9)<br /><img
-            src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/6432ce4c32bca6ac93192514495f09cb.png"
             ,
             height="18"
           />
-          Bennett (9)<br />
+          Xiangling (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/5f715c580fa2a2f761d29ecb77904184.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (9)<br />
         </td>
       </tr>
       <tr>
         <td>Most Defeats</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_u9b0pg/6e20c038670156b12000bc7570ff6cc7.png"
             ,
             height="18"
           />
@@ -5829,7 +5833,7 @@
         <td>Strongest Single Strike</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_u9b0pg/1ec7ddab5a51de33f450a5d4a55bc42f.png"
             ,
             height="18"
           />
@@ -5840,7 +5844,7 @@
         <td>Most Damage Taken</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_u9b0pg/3098cb1a891b80cd129c02319f42bd97.png"
             ,
             height="18"
           />
@@ -5851,7 +5855,7 @@
         <td>Elemental Bursts Unleashed</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_u9b0pg/6f0ee9442f8474bf3d29144a3a898acb.png"
             ,
             height="18"
           />
@@ -5862,7 +5866,7 @@
         <td>Elemental Skills Cast</td>
         <td>
           <img
-            src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_u9b0pg/636a9bd8ed2dbfca6580a2e6fae29cfb.png"
             ,
             height="18"
           />
@@ -5882,7 +5886,7 @@
           />
           Primogems earned
         </td>
-        <td>6090 (rate -31)</td>
+        <td>6150 (rate -30)</td>
       </tr>
       <tr>
         <td>
@@ -5892,13 +5896,13 @@
           />
           Mora earned
         </td>
-        <td>4454071 (rate -45)</td>
+        <td>4508546 (rate -44)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
           Adventure: 1816 (30%)<br />Imaginarium Theater: 1200 (20%)<br />Events:
-          690 (12%)<br />Daily Activity: 600 (9%)<br />Quests: 520 (8%)<br />Mail:
+          690 (11%)<br />Daily Activity: 660 (10%)<br />Quests: 520 (8%)<br />Mail:
           70 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 1194 (20%)<br />
         </td>
       </tr>
@@ -5925,7 +5929,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Nahida_Card.png"
                 heigt="250"
               />
             </p>
@@ -6036,7 +6040,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Shougun_Card.png"
                 heigt="250"
               />
             </p>
@@ -6148,7 +6152,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Yelan_Card.png"
                 heigt="250"
               />
             </p>
@@ -6260,7 +6264,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Yae_Card.png"
                 heigt="250"
               />
             </p>
@@ -6371,7 +6375,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Hutao_Card.png"
                 heigt="250"
               />
             </p>
@@ -6483,7 +6487,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Kokomi_Card.png"
                 heigt="250"
               />
             </p>
@@ -6594,7 +6598,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Shenhe_Card.png"
                 heigt="250"
               />
             </p>
@@ -6706,7 +6710,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Furina_Card.png"
                 heigt="250"
               />
             </p>
@@ -6818,7 +6822,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Ayaka_Card.png"
                 heigt="250"
               />
             </p>
@@ -6930,7 +6934,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Kazuha_Card.png"
                 heigt="250"
               />
             </p>
@@ -7042,7 +7046,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Yoimiya.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Yoimiya_Card.png"
                 heigt="250"
               />
             </p>
@@ -7154,7 +7158,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Nilou_Card.png"
                 heigt="250"
               />
             </p>
@@ -7266,7 +7270,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Wanderer.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Wanderer_Card.png"
                 heigt="250"
               />
             </p>
@@ -7378,7 +7382,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Baizhuer_Card.png"
                 heigt="250"
               />
             </p>
@@ -7490,7 +7494,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Navia_Card.png"
                 heigt="250"
               />
             </p>
@@ -7602,7 +7606,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Liuyun.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Liuyun_Card.png"
                 heigt="250"
               />
             </p>
@@ -7711,7 +7715,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Clorinde.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Clorinde_Card.png"
                 heigt="250"
               />
             </p>
@@ -7823,7 +7827,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Xiangling_Card.png"
                 heigt="250"
               />
             </p>
@@ -7935,7 +7939,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Bennett_Card.png"
                 heigt="250"
               />
             </p>
@@ -8047,7 +8051,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Feiyan.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Feiyan_Card.png"
                 heigt="250"
               />
             </p>
@@ -8152,7 +8156,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Mualani.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Mualani_Card.png"
                 heigt="250"
               />
             </p>
@@ -8188,7 +8192,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -8264,7 +8268,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Diluc_Card.png"
                 heigt="250"
               />
             </p>
@@ -8372,7 +8376,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Qiqi.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Qiqi_Card.png"
                 heigt="250"
               />
             </p>
@@ -8477,7 +8481,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Mona.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Mona_Card.png"
                 heigt="250"
               />
             </p>
@@ -8586,7 +8590,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Keqing.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Keqing_Card.png"
                 heigt="250"
               />
             </p>
@@ -8699,7 +8703,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Barbara.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Barbara_Card.png"
                 heigt="250"
               />
             </p>
@@ -8799,7 +8803,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Xingqiu_Card.png"
                 heigt="250"
               />
             </p>
@@ -8911,7 +8915,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Ningguang.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Ningguang_Card.png"
                 heigt="250"
               />
             </p>
@@ -9019,7 +9023,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Rosaria_Card.png"
                 heigt="250"
               />
             </p>
@@ -9131,7 +9135,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_PlayerGirl.png"
+                src="https://enka.network/ui/UI_AvatarIcon_PlayerGirl_Card.png"
                 heigt="250"
               />
             </p>
@@ -9235,7 +9239,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Itto.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Itto_Card.png"
                 heigt="250"
               />
             </p>
@@ -9322,7 +9326,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Dehya.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Dehya_Card.png"
                 heigt="250"
               />
             </p>
@@ -9430,7 +9434,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Lisa_Card.png"
                 heigt="250"
               />
             </p>
@@ -9517,7 +9521,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Kaeya.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Kaeya_Card.png"
                 heigt="250"
               />
             </p>
@@ -9604,7 +9608,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Ambor.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Ambor_Card.png"
                 heigt="250"
               />
             </p>
@@ -9716,7 +9720,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Beidou.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Beidou_Card.png"
                 heigt="250"
               />
             </p>
@@ -9803,7 +9807,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Fischl.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Fischl_Card.png"
                 heigt="250"
               />
             </p>
@@ -9907,7 +9911,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Noel.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Noel_Card.png"
                 heigt="250"
               />
             </p>
@@ -9994,7 +9998,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Diona.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Diona_Card.png"
                 heigt="250"
               />
             </p>
@@ -10098,7 +10102,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Sucrose_Card.png"
                 heigt="250"
               />
             </p>
@@ -10210,7 +10214,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Sayu.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Sayu_Card.png"
                 heigt="250"
               />
             </p>
@@ -10323,7 +10327,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Sara.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Sara_Card.png"
                 heigt="250"
               />
             </p>
@@ -10436,7 +10440,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Shinobu_Card.png"
                 heigt="250"
               />
             </p>
@@ -10547,7 +10551,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Layla.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Layla_Card.png"
                 heigt="250"
               />
             </p>
@@ -10640,7 +10644,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Faruzan.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Faruzan_Card.png"
                 heigt="250"
               />
             </p>
@@ -10753,7 +10757,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Yaoyao.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Yaoyao_Card.png"
                 heigt="250"
               />
             </p>
@@ -10840,7 +10844,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Linette.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Linette_Card.png"
                 heigt="250"
               />
             </p>
@@ -10927,7 +10931,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Candace.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Candace_Card.png"
                 heigt="250"
               />
             </p>
@@ -11014,7 +11018,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Chevreuse.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Chevreuse_Card.png"
                 heigt="250"
               />
             </p>
@@ -11101,7 +11105,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Aloy.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Aloy_Card.png"
                 heigt="250"
               />
             </p>
@@ -11188,7 +11192,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Chongyun.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Chongyun_Card.png"
                 heigt="250"
               />
             </p>
@@ -11281,7 +11285,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Xinyan.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Xinyan_Card.png"
                 heigt="250"
               />
             </p>
@@ -11368,7 +11372,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Collei.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Collei_Card.png"
                 heigt="250"
               />
             </p>
@@ -11455,7 +11459,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Dori.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Dori_Card.png"
                 heigt="250"
               />
             </p>
@@ -11567,7 +11571,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Charlotte.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Charlotte_Card.png"
                 heigt="250"
               />
             </p>
@@ -11654,7 +11658,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Qin.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Qin_Card.png"
                 heigt="250"
               />
             </p>
@@ -11690,7 +11694,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -11741,7 +11745,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Freminet.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Freminet_Card.png"
                 heigt="250"
               />
             </p>
@@ -11817,6 +11821,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Kachina</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Kachina</h3></th>
+          <th><h3 align="center">Beginner's Protector</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Kachina_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/a57baa22ba75def672e3339f9295a41a.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>21</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>5</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Beginner's Protector</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Yun Jin</b></summary>
       <br />
       <table>
@@ -11828,7 +11919,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Yunjin.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Yunjin_Card.png"
                 heigt="250"
               />
             </p>
@@ -11929,7 +12020,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Mika.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Mika_Card.png"
                 heigt="250"
               />
             </p>
@@ -12016,7 +12107,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Kaveh.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Kaveh_Card.png"
                 heigt="250"
               />
             </p>
@@ -12103,7 +12194,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Gorou.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Gorou_Card.png"
                 heigt="250"
               />
             </p>
@@ -12190,7 +12281,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Momoka.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Momoka_Card.png"
                 heigt="250"
               />
             </p>
@@ -12277,7 +12368,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Tohma.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Tohma_Card.png"
                 heigt="250"
               />
             </p>
@@ -12364,7 +12455,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Razor.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Razor_Card.png"
                 heigt="250"
               />
             </p>
@@ -12440,93 +12531,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Kachina</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Kachina</h3></th>
-          <th><h3 align="center">Beginner's Protector</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Kachina.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/a57baa22ba75def672e3339f9295a41a.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>5</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Beginner's Protector</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Tighnari</b></summary>
       <br />
       <table>
@@ -12538,7 +12542,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Tighnari.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Tighnari_Card.png"
                 heigt="250"
               />
             </p>
@@ -12625,7 +12629,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Gaming.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Gaming_Card.png"
                 heigt="250"
               />
             </p>
@@ -12712,7 +12716,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Heizo.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Heizo_Card.png"
                 heigt="250"
               />
             </p>
@@ -12799,7 +12803,7 @@
           <td>
             <p align="center">
               <img
-                src="https://enka.network/ui/UI_AvatarIcon_Sethos.png"
+                src="https://enka.network/ui/UI_AvatarIcon_Sethos_Card.png"
                 heigt="250"
               />
             </p>
@@ -12879,48 +12883,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_10_09_2024-19_40_51.png" />
+  <img src="../images/showcase/genshin_card_12_09_2024-09_23_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_10_09_2024-19_40_53.png" />
+  <img src="../images/showcase/genshin_card_12_09_2024-09_23_26.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_10_09_2024-19_40_54.png" />
+  <img src="../images/showcase/genshin_card_12_09_2024-09_23_28.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_10_09_2024-19_42_14.png" />
+  <img src="../images/showcase/Acheron_12_09_2024-09_24_55.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_10_09_2024-19_42_15.png" />
+  <img src="../images/showcase/Firefly_12_09_2024-09_24_55.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_10_09_2024-19_42_16.png" />
+  <img src="../images/showcase/Ruan-Mei_12_09_2024-09_24_56.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_10_09_2024-19_42_17.png" />
+  <img src="../images/showcase/Jingliu_12_09_2024-09_24_57.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_10_09_2024-19_42_18.png" />
+  <img src="../images/showcase/Kafka_12_09_2024-09_24_58.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="../images/showcase/Seele_10_09_2024-19_42_19.png" />
+  <img src="../images/showcase/Seele_12_09_2024-09_24_59.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_10_09_2024-19_42_20.png" />
+  <img src="../images/showcase/Huohuo_12_09_2024-09_25_00.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_10_09_2024-19_42_21.png" />
+  <img src="../images/showcase/Robin_12_09_2024-09_25_01.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
