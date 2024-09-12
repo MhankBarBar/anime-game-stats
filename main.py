@@ -224,6 +224,7 @@ class AnimeGame(genshin.Client):
             genshin=_genshin,
             hsr=_hsr,
             zzz=_zzz,
+            lang=self.args.lang,
             _int=int,
             _enumerate=enumerate,
             _zip=zip,
