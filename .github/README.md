@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 12, 2024 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 13, 2024 09:43 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
             height="20"
           />
-          Crystallized Plating Agents
+          Polychromes
         </td>
       </tr>
     </table>
@@ -1179,7 +1179,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_12_09_2024-19_41_38.png" />
+    <img src="../images/profile/Joy_13_09_2024-09_43_30.png" />
   </div>
   <div align="center">
     <h2>
@@ -1188,17 +1188,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Condensed Aether
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -1215,7 +1215,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>465</td>
+        <td>466</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1271,15 +1271,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>The Big Sleep (X)</td>
+        <td>The Big Sleep (XI)</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>4</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>30</td>
+        <td>33</td>
       </tr>
     </table>
   </div>
@@ -5278,17 +5278,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fried Radish Balls
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -5797,21 +5797,21 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/c92d13d2d0a877da9f56db5611c234d3.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/6432ce4c32bca6ac93192514495f09cb.png"
-            ,
-            height="18"
-          />
-          Xiangling (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/5f715c580fa2a2f761d29ecb77904184.png"
             ,
             height="18"
           />
-          Raiden Shogun (9)<br />
+          Raiden Shogun (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/46bb4b3c9c7171fb9978cf03a3a14148.png"
+            ,
+            height="18"
+          />
+          Bennett (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/6432ce4c32bca6ac93192514495f09cb.png"
+            ,
+            height="18"
+          />
+          Xiangling (9)<br />
         </td>
       </tr>
       <tr>
@@ -12879,48 +12879,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_12_09_2024-19_39_26.png" />
+  <img src="../images/showcase/genshin_card_13_09_2024-09_41_25.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_12_09_2024-19_39_29.png" />
+  <img src="../images/showcase/genshin_card_13_09_2024-09_41_27.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_12_09_2024-19_39_31.png" />
+  <img src="../images/showcase/genshin_card_13_09_2024-09_41_29.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_12_09_2024-19_40_59.png" />
+  <img src="../images/showcase/Acheron_13_09_2024-09_42_58.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_12_09_2024-19_41_00.png" />
+  <img src="../images/showcase/Firefly_13_09_2024-09_42_59.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_12_09_2024-19_41_01.png" />
+  <img src="../images/showcase/Ruan-Mei_13_09_2024-09_43_00.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_12_09_2024-19_41_02.png" />
+  <img src="../images/showcase/Jingliu_13_09_2024-09_43_01.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_12_09_2024-19_41_03.png" />
+  <img src="../images/showcase/Kafka_13_09_2024-09_43_02.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="../images/showcase/Seele_12_09_2024-19_41_04.png" />
+  <img src="../images/showcase/Seele_13_09_2024-09_43_03.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_12_09_2024-19_41_05.png" />
+  <img src="../images/showcase/Huohuo_13_09_2024-09_43_04.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_12_09_2024-19_41_06.png" />
+  <img src="../images/showcase/Robin_13_09_2024-09_43_05.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
