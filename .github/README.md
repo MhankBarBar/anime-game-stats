@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 14, 2024 08:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 14, 2024 11:27 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1179,7 +1179,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_14_09_2024-08_37_07.png" />
+    <img src="../images/profile/Joy_14_09_2024-11_27_21.png" />
   </div>
   <div align="center">
     <h2>
@@ -1215,15 +1215,15 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>466</td>
+        <td>467</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>40</td>
+        <td>41</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>545</td>
+        <td>547</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1250,7 +1250,7 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>20 (rate -25)</td>
+        <td>21 (rate -22)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -1852,7 +1852,7 @@
       <table>
         <tr>
           <th><h3>Seele</h3></th>
-          <th><h3>Cruising in the Stellar Sea</h3></th>
+          <th><h3>Only Silence Remains</h3></th>
         </tr>
         <tr>
           <td>
@@ -1865,7 +1865,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/dc5515a2ad72d3704637e0855729c1f9.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/6011cd15dd41779b4c120e5075f28cd1.png"
               />
             </p>
           </td>
@@ -1942,11 +1942,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Cruising in the Stellar Sea</td>
+                <td>Only Silence Remains</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2518,7 +2518,7 @@
       <table>
         <tr>
           <th><h3>Dr. Ratio</h3></th>
-          <th><h3>Only Silence Remains</h3></th>
+          <th><h3>Subscribe for More!</h3></th>
         </tr>
         <tr>
           <td>
@@ -2531,7 +2531,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/6011cd15dd41779b4c120e5075f28cd1.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/2a186cd6716d4b86280c1716dbd76b18.png"
               />
             </p>
           </td>
@@ -2608,11 +2608,122 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Only Silence Remains</td>
+                <td>Subscribe for More!</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Feixiao </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Feixiao</h3></th>
+          <th><h3>Cruising in the Stellar Sea</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/0a2376cdb8455822569421cb4a73b317.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/dc5515a2ad72d3704637e0855729c1f9.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/415286a00763537c71e9ad11bff72903.png"
+                    ,
+                    height="18"
+                  />
+                  Valorous Mask of Northern Skies<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/efc60e9a0135530f0b165c1de63f199a.png"
+                    ,
+                    height="18"
+                  />
+                  Valorous Bracelet of Grappling Hooks<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/9915ed9271a6eec22ca9c90a83bdf907.png"
+                    ,
+                    height="18"
+                  />
+                  Valorous Plate of Soaring Flight<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/12896dffa5540225f62dc63800f104d4.png"
+                    ,
+                    height="18"
+                  />
+                  Valorous Greaves of Pursuing Hunt<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/eab751ee0e853720de1d0c13f61beeed.png"
+                    ,
+                    height="18"
+                  />
+                  Duran's Tent of Golden Sky<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/1de1172c855c9178e29cf5eb6736dfa9.png"
+                    ,
+                    height="18"
+                  />
+                  Duran's Mechabeast Bridle<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Cruising in the Stellar Sea</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -5000,40 +5111,7 @@
               </tr>
               <tr>
                 <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/415286a00763537c71e9ad11bff72903.png"
-                    ,
-                    height="18"
-                  />
-                  Valorous Mask of Northern Skies<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/efc60e9a0135530f0b165c1de63f199a.png"
-                    ,
-                    height="18"
-                  />
-                  Valorous Bracelet of Grappling Hooks<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/12896dffa5540225f62dc63800f104d4.png"
-                    ,
-                    height="18"
-                  />
-                  Valorous Greaves of Pursuing Hunt<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/eab751ee0e853720de1d0c13f61beeed.png"
-                    ,
-                    height="18"
-                  />
-                  Duran's Tent of Golden Sky<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/1de1172c855c9178e29cf5eb6736dfa9.png"
-                    ,
-                    height="18"
-                  />
-                  Duran's Mechabeast Bridle<br />
-                </td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -5797,21 +5875,21 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/46bb4b3c9c7171fb9978cf03a3a14148.png"
-            ,
-            height="18"
-          />
-          Bennett (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/5f715c580fa2a2f761d29ecb77904184.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/6432ce4c32bca6ac93192514495f09cb.png"
             ,
             height="18"
           />
-          Xiangling (9)<br />
+          Xiangling (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/c92d13d2d0a877da9f56db5611c234d3.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/46bb4b3c9c7171fb9978cf03a3a14148.png"
+            ,
+            height="18"
+          />
+          Bennett (9)<br />
         </td>
       </tr>
       <tr>
@@ -12879,48 +12957,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_14_09_2024-08_35_16.png" />
+  <img src="../images/showcase/genshin_card_14_09_2024-11_25_21.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_14_09_2024-08_35_18.png" />
+  <img src="../images/showcase/genshin_card_14_09_2024-11_25_23.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_14_09_2024-08_35_20.png" />
+  <img src="../images/showcase/genshin_card_14_09_2024-11_25_26.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_14_09_2024-08_36_41.png" />
+  <img src="../images/showcase/Acheron_14_09_2024-11_26_54.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_14_09_2024-08_36_42.png" />
+  <img src="../images/showcase/Firefly_14_09_2024-11_26_55.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_14_09_2024-08_36_43.png" />
+  <img src="../images/showcase/Ruan-Mei_14_09_2024-11_26_56.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_14_09_2024-08_36_43.png" />
+  <img src="../images/showcase/Jingliu_14_09_2024-11_26_57.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_14_09_2024-08_36_44.png" />
+  <img src="../images/showcase/Kafka_14_09_2024-11_26_58.png" />
 </details>
 <details align="center">
-  <summary>Seele</summary>
-  <img src="../images/showcase/Seele_14_09_2024-08_36_45.png" />
+  <summary>Feixiao</summary>
+  <img src="../images/showcase/Feixiao_14_09_2024-11_26_59.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_14_09_2024-08_36_46.png" />
+  <img src="../images/showcase/Huohuo_14_09_2024-11_27_00.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_14_09_2024-08_36_47.png" />
+  <img src="../images/showcase/Robin_14_09_2024-11_27_01.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
