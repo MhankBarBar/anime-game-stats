@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 14, 2024 11:27 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 14, 2024 19:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1179,7 +1179,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_14_09_2024-11_27_21.png" />
+    <img src="../images/profile/Joy_14_09_2024-19_38_54.png" />
   </div>
   <div align="center">
     <h2>
@@ -1223,7 +1223,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>547</td>
+        <td>549</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1240,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>6417 (rate 4)</td>
+        <td>6897 (rate 12)</td>
       </tr>
       <tr>
         <td>
@@ -1250,14 +1250,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>21 (rate -22)</td>
+        <td>24 (rate -11)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 2330 (36%)<br />Adventure Rewards: 1355 (21%)<br />Forgotten
-          Hall: 720 (11%)<br />Mail: 720 (11%)<br />Daily Activity: 660 (10%)<br />Simulated
-          Universe: 630 (9%)<br />Other: 2 (2%)<br />
+          Event: 2330 (33%)<br />Adventure Rewards: 1375 (19%)<br />Forgotten
+          Hall: 1120 (16%)<br />Daily Activity: 720 (10%)<br />Mail: 720
+          (10%)<br />Simulated Universe: 630 (9%)<br />Other: 2 (3%)<br />
         </td>
       </tr>
     </table>
@@ -1271,15 +1271,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>The Big Sleep (XI)</td>
+        <td>The Big Sleep (XII)</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>6</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>33</td>
+        <td>36</td>
       </tr>
     </table>
   </div>
@@ -3167,7 +3167,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
             </table>
           </td>
@@ -5875,11 +5875,6 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/6432ce4c32bca6ac93192514495f09cb.png"
-            ,
-            height="18"
-          />
-          Xiangling (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/c92d13d2d0a877da9f56db5611c234d3.png"
             ,
             height="18"
@@ -5889,7 +5884,12 @@
             ,
             height="18"
           />
-          Bennett (9)<br />
+          Bennett (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/6432ce4c32bca6ac93192514495f09cb.png"
+            ,
+            height="18"
+          />
+          Xiangling (9)<br />
         </td>
       </tr>
       <tr>
@@ -5960,7 +5960,7 @@
           />
           Primogems earned
         </td>
-        <td>6493 (rate -26)</td>
+        <td>6563 (rate -25)</td>
       </tr>
       <tr>
         <td>
@@ -5970,14 +5970,14 @@
           />
           Mora earned
         </td>
-        <td>4789681 (rate -41)</td>
+        <td>4862602 (rate -40)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1921 (30%)<br />Imaginarium Theater: 1200 (18%)<br />Daily
-          Activity: 780 (12%)<br />Events: 690 (10%)<br />Quests: 520 (8%)<br />Mail:
-          130 (2%)<br />Spiral Abyss: 0 (0%)<br />Other: 1252 (20%)<br />
+          Adventure: 1931 (30%)<br />Imaginarium Theater: 1200 (19%)<br />Daily
+          Activity: 840 (13%)<br />Events: 690 (10%)<br />Quests: 520 (7%)<br />Mail:
+          130 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 1252 (20%)<br />
         </td>
       </tr>
     </table>
@@ -11895,6 +11895,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Kirara</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Kirara</h3></th>
+          <th><h3 align="center">Dull Blade</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Momoka_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/df605cd64a227bb132f486ad5dd00771.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>21</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>8</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>4</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td>Phantom in Boots</td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Dull Blade</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Kachina</b></summary>
       <br />
       <table>
@@ -11942,7 +12029,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -12325,93 +12412,6 @@
               <tr>
                 <td>Name</td>
                 <td>Hunter's Bow</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Kirara</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Kirara</h3></th>
-          <th><h3 align="center">Dull Blade</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Momoka_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/df605cd64a227bb132f486ad5dd00771.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>7</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>4</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td>Phantom in Boots</td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Dull Blade</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -12957,48 +12957,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_14_09_2024-11_25_21.png" />
+  <img src="../images/showcase/genshin_card_14_09_2024-19_37_03.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_14_09_2024-11_25_23.png" />
+  <img src="../images/showcase/genshin_card_14_09_2024-19_37_05.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_14_09_2024-11_25_26.png" />
+  <img src="../images/showcase/genshin_card_14_09_2024-19_37_07.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_14_09_2024-11_26_54.png" />
+  <img src="../images/showcase/Acheron_14_09_2024-19_38_25.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_14_09_2024-11_26_55.png" />
-</details>
-<details align="center">
-  <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_14_09_2024-11_26_56.png" />
-</details>
-<details align="center">
-  <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_14_09_2024-11_26_57.png" />
-</details>
-<details align="center">
-  <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_14_09_2024-11_26_58.png" />
+  <img src="../images/showcase/Firefly_14_09_2024-19_38_26.png" />
 </details>
 <details align="center">
   <summary>Feixiao</summary>
-  <img src="../images/showcase/Feixiao_14_09_2024-11_26_59.png" />
+  <img src="../images/showcase/Feixiao_14_09_2024-19_38_27.png" />
+</details>
+<details align="center">
+  <summary>Ruan Mei</summary>
+  <img src="../images/showcase/Ruan-Mei_14_09_2024-19_38_28.png" />
+</details>
+<details align="center">
+  <summary>Kafka</summary>
+  <img src="../images/showcase/Kafka_14_09_2024-19_38_29.png" />
+</details>
+<details align="center">
+  <summary>Jingliu</summary>
+  <img src="../images/showcase/Jingliu_14_09_2024-19_38_30.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_14_09_2024-11_27_00.png" />
+  <img src="../images/showcase/Huohuo_14_09_2024-19_38_31.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_14_09_2024-11_27_01.png" />
+  <img src="../images/showcase/Robin_14_09_2024-19_38_32.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
