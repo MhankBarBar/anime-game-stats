@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 15, 2024 08:47 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 15, 2024 19:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1178,10 +1178,6 @@
     Honkai Star Rail Details
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="../images/profile/Joy_15_09_2024-08_47_11.png" />
-  </div>
-  <div align="center">
     <h2>
       <img src="../images/icons/hsr_check_in.png" height="20" /> Daily Rewards
     </h2>
@@ -1240,7 +1236,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>6897 (rate 12)</td>
+        <td>6962 (rate 13)</td>
       </tr>
       <tr>
         <td>
@@ -1250,14 +1246,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>24 (rate -11)</td>
+        <td>25 (rate -7)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 2330 (33%)<br />Adventure Rewards: 1375 (19%)<br />Forgotten
-          Hall: 1120 (16%)<br />Daily Activity: 720 (10%)<br />Mail: 720
-          (10%)<br />Simulated Universe: 630 (9%)<br />Other: 2 (3%)<br />
+          Event: 2330 (33%)<br />Adventure Rewards: 1380 (19%)<br />Forgotten
+          Hall: 1120 (16%)<br />Daily Activity: 780 (11%)<br />Mail: 720
+          (10%)<br />Simulated Universe: 630 (9%)<br />Other: 2 (2%)<br />
         </td>
       </tr>
     </table>
@@ -3291,7 +3287,7 @@
       <table>
         <tr>
           <th><h3>Gallagher</h3></th>
-          <th><h3>Perfect Timing</h3></th>
+          <th><h3>Quid Pro Quo</h3></th>
         </tr>
         <tr>
           <td>
@@ -3304,7 +3300,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/822663a2db83fcc1a2bd5f1471adee84.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/76b3e1ae0f698e1b922e83e5841568e4.png"
               />
             </p>
           </td>
@@ -3337,21 +3333,21 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/f50de4f3c823f6330629ea1c617e6f29.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/66fcab2b9944e827c3f9bf56d87c2f5d.png"
                     ,
                     height="18"
                   />
-                  Thief's Myriad-Faced Mask<br /><img
+                  Messenger's Holovisor<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/59bdbc50d98a81c7d53d1f3b4eee967d.png"
                     ,
                     height="18"
                   />
                   Thief's Gloves With Prints<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/93d495f3bdb989ff6ad8c60911531afc.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/3f7aefef6f10d3531c80146934a129b2.png"
                     ,
                     height="18"
                   />
-                  Thief's Steel Grappling Hook<br /><img
+                  Messenger's Secret Satchel<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/f1c0c23382b17aad7f2bea88b8ecac6b.png"
                     ,
                     height="18"
@@ -3363,11 +3359,11 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/cb50d99e8dc21dda2c479cb61a38b09d.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/466357ba643bd17e87a494619fa12b71.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
+                  Insumousu's Whalefall Ship<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ceab26aada481755546842f9c516ab60.png"
                     ,
                     height="18"
@@ -3381,15 +3377,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Perfect Timing</td>
+                <td>Quid Pro Quo</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -5880,11 +5876,11 @@
             height="18"
           />
           Bennett (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/6432ce4c32bca6ac93192514495f09cb.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/c92d13d2d0a877da9f56db5611c234d3.png"
             ,
             height="18"
           />
-          Xiangling (9)<br /><img
+          Kaedehara Kazuha (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/5f715c580fa2a2f761d29ecb77904184.png"
             ,
             height="18"
@@ -5960,7 +5956,7 @@
           />
           Primogems earned
         </td>
-        <td>6563 (rate -25)</td>
+        <td>6623 (rate -25)</td>
       </tr>
       <tr>
         <td>
@@ -5970,14 +5966,14 @@
           />
           Mora earned
         </td>
-        <td>4862602 (rate -40)</td>
+        <td>4977126 (rate -38)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
           Adventure: 1931 (30%)<br />Imaginarium Theater: 1200 (19%)<br />Daily
-          Activity: 840 (13%)<br />Events: 690 (10%)<br />Quests: 520 (7%)<br />Mail:
-          130 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 1252 (20%)<br />
+          Activity: 900 (14%)<br />Events: 690 (10%)<br />Quests: 520 (7%)<br />Mail:
+          130 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 1252 (19%)<br />
         </td>
       </tr>
     </table>
@@ -12957,48 +12953,15 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_15_09_2024-08_45_18.png" />
+  <img src="../images/showcase/genshin_card_15_09_2024-19_37_31.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_15_09_2024-08_45_20.png" />
+  <img src="../images/showcase/genshin_card_15_09_2024-19_37_32.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_15_09_2024-08_45_22.png" />
-</details>
-<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
-<details align="center">
-  <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_15_09_2024-08_46_41.png" />
-</details>
-<details align="center">
-  <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_15_09_2024-08_46_42.png" />
-</details>
-<details align="center">
-  <summary>Feixiao</summary>
-  <img src="../images/showcase/Feixiao_15_09_2024-08_46_43.png" />
-</details>
-<details align="center">
-  <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_15_09_2024-08_46_44.png" />
-</details>
-<details align="center">
-  <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_15_09_2024-08_46_45.png" />
-</details>
-<details align="center">
-  <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_15_09_2024-08_46_46.png" />
-</details>
-<details align="center">
-  <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_15_09_2024-08_46_47.png" />
-</details>
-<details align="center">
-  <summary>Robin</summary>
-  <img src="../images/showcase/Robin_15_09_2024-08_46_48.png" />
+  <img src="../images/showcase/genshin_card_15_09_2024-19_37_34.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
