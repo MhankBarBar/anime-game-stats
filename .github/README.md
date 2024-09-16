@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 15, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 16, 2024 08:44 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          1 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Bangboo Algorithm Modules
         </td>
       </tr>
     </table>
@@ -1178,23 +1178,27 @@
     Honkai Star Rail Details
   </summary>
   <div align="center">
+    <h2>Profile</h2>
+    <img src="../images/profile/Joy_16_09_2024-08_44_20.png" />
+  </div>
+  <div align="center">
     <h2>
       <img src="../images/icons/hsr_check_in.png" height="20" /> Daily Rewards
     </h2>
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Energy Drink (sugar-free)
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1211,7 +1215,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>468</td>
+        <td>469</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -5352,17 +5356,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -5383,7 +5387,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>946</td>
+        <td>947</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5871,21 +5875,21 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/46bb4b3c9c7171fb9978cf03a3a14148.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/5f715c580fa2a2f761d29ecb77904184.png"
             ,
             height="18"
           />
-          Bennett (9)<br /><img
+          Raiden Shogun (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/c92d13d2d0a877da9f56db5611c234d3.png"
             ,
             height="18"
           />
           Kaedehara Kazuha (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/5f715c580fa2a2f761d29ecb77904184.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/46bb4b3c9c7171fb9978cf03a3a14148.png"
             ,
             height="18"
           />
-          Raiden Shogun (9)<br />
+          Bennett (9)<br />
         </td>
       </tr>
       <tr>
@@ -12953,15 +12957,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_15_09_2024-19_37_31.png" />
+  <img src="../images/showcase/genshin_card_16_09_2024-08_42_27.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_15_09_2024-19_37_32.png" />
+  <img src="../images/showcase/genshin_card_16_09_2024-08_42_29.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_15_09_2024-19_37_34.png" />
+  <img src="../images/showcase/genshin_card_16_09_2024-08_42_31.png" />
+</details>
+<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
+<details align="center">
+  <summary>Acheron</summary>
+  <img src="../images/showcase/Acheron_16_09_2024-08_43_51.png" />
+</details>
+<details align="center">
+  <summary>Firefly</summary>
+  <img src="../images/showcase/Firefly_16_09_2024-08_43_51.png" />
+</details>
+<details align="center">
+  <summary>Feixiao</summary>
+  <img src="../images/showcase/Feixiao_16_09_2024-08_43_52.png" />
+</details>
+<details align="center">
+  <summary>Ruan Mei</summary>
+  <img src="../images/showcase/Ruan-Mei_16_09_2024-08_43_53.png" />
+</details>
+<details align="center">
+  <summary>Kafka</summary>
+  <img src="../images/showcase/Kafka_16_09_2024-08_43_54.png" />
+</details>
+<details align="center">
+  <summary>Jingliu</summary>
+  <img src="../images/showcase/Jingliu_16_09_2024-08_43_55.png" />
+</details>
+<details align="center">
+  <summary>Huohuo</summary>
+  <img src="../images/showcase/Huohuo_16_09_2024-08_43_56.png" />
+</details>
+<details align="center">
+  <summary>Robin</summary>
+  <img src="../images/showcase/Robin_16_09_2024-08_43_57.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
