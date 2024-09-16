@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 16, 2024 08:44 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 16, 2024 19:43 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1179,7 +1179,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_16_09_2024-08_44_20.png" />
+    <img src="../images/profile/Joy_16_09_2024-19_43_18.png" />
   </div>
   <div align="center">
     <h2>
@@ -1240,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>6962 (rate 13)</td>
+        <td>7812 (rate 27)</td>
       </tr>
       <tr>
         <td>
@@ -1250,14 +1250,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>25 (rate -7)</td>
+        <td>29 (rate 7)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 2330 (33%)<br />Adventure Rewards: 1380 (19%)<br />Forgotten
-          Hall: 1120 (16%)<br />Daily Activity: 780 (11%)<br />Mail: 720
-          (10%)<br />Simulated Universe: 630 (9%)<br />Other: 2 (2%)<br />
+          Event: 2330 (29%)<br />Forgotten Hall: 1680 (21%)<br />Adventure
+          Rewards: 1385 (17%)<br />Daily Activity: 840 (10%)<br />Simulated
+          Universe: 855 (10%)<br />Mail: 720 (9%)<br />Other: 2 (4%)<br />
         </td>
       </tr>
     </table>
@@ -4509,7 +4509,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -5314,7 +5314,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -5387,7 +5387,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>947</td>
+        <td>948</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5423,11 +5423,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2592</td>
+        <td>2593</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>1945</td>
+        <td>1950</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -5875,21 +5875,21 @@
             height="18"
           />
           Yelan (12)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/5f715c580fa2a2f761d29ecb77904184.png"
-            ,
-            height="18"
-          />
-          Raiden Shogun (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/c92d13d2d0a877da9f56db5611c234d3.png"
             ,
             height="18"
           />
           Kaedehara Kazuha (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/46bb4b3c9c7171fb9978cf03a3a14148.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/5f715c580fa2a2f761d29ecb77904184.png"
             ,
             height="18"
           />
-          Bennett (9)<br />
+          Raiden Shogun (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/6432ce4c32bca6ac93192514495f09cb.png"
+            ,
+            height="18"
+          />
+          Xiangling (9)<br />
         </td>
       </tr>
       <tr>
@@ -5960,7 +5960,7 @@
           />
           Primogems earned
         </td>
-        <td>6623 (rate -25)</td>
+        <td>6710 (rate -24)</td>
       </tr>
       <tr>
         <td>
@@ -5970,13 +5970,13 @@
           />
           Mora earned
         </td>
-        <td>4977126 (rate -38)</td>
+        <td>5047830 (rate -37)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1931 (30%)<br />Imaginarium Theater: 1200 (19%)<br />Daily
-          Activity: 900 (14%)<br />Events: 690 (10%)<br />Quests: 520 (7%)<br />Mail:
+          Adventure: 1958 (30%)<br />Imaginarium Theater: 1200 (18%)<br />Daily
+          Activity: 960 (15%)<br />Events: 690 (10%)<br />Quests: 520 (7%)<br />Mail:
           130 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 1252 (19%)<br />
         </td>
       </tr>
@@ -12957,48 +12957,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_16_09_2024-08_42_27.png" />
+  <img src="../images/showcase/genshin_card_16_09_2024-19_41_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_16_09_2024-08_42_29.png" />
+  <img src="../images/showcase/genshin_card_16_09_2024-19_41_26.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_16_09_2024-08_42_31.png" />
+  <img src="../images/showcase/genshin_card_16_09_2024-19_41_28.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_16_09_2024-08_43_51.png" />
+  <img src="../images/showcase/Acheron_16_09_2024-19_42_46.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_16_09_2024-08_43_51.png" />
+  <img src="../images/showcase/Firefly_16_09_2024-19_42_47.png" />
 </details>
 <details align="center">
   <summary>Feixiao</summary>
-  <img src="../images/showcase/Feixiao_16_09_2024-08_43_52.png" />
+  <img src="../images/showcase/Feixiao_16_09_2024-19_42_48.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_16_09_2024-08_43_53.png" />
+  <img src="../images/showcase/Ruan-Mei_16_09_2024-19_42_49.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_16_09_2024-08_43_54.png" />
+  <img src="../images/showcase/Kafka_16_09_2024-19_42_50.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_16_09_2024-08_43_55.png" />
+  <img src="../images/showcase/Jingliu_16_09_2024-19_42_51.png" />
 </details>
 <details align="center">
   <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_16_09_2024-08_43_56.png" />
+  <img src="../images/showcase/Huohuo_16_09_2024-19_42_52.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_16_09_2024-08_43_57.png" />
+  <img src="../images/showcase/Robin_16_09_2024-19_42_53.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
