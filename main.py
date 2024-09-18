@@ -122,17 +122,17 @@ class AnimeGame(genshin.Client):
     def _get_character_showcase(self, game: genshin.Game, uid: int) -> Optional[List[str]]:
         logger.info("Getting character showcase")
         url = f"{MBB_API}/{'genshin' if game == GENSHIN else 'hsr'}_card?uid={uid}"
-        res = requests.get(url).json()
-        if res["status"] == 200:
-            return save_images(res["result"])
+        res = requests.get(url)
+        if res.status_code == 200:
+            return save_images(res.json()["result"])
         return None
 
     def _get_user_profile(self, game: genshin.Game, uid: int) -> Optional[str]:
         logger.info("Getting user profile")
         url = f"{MBB_API}/{'genshin' if game == GENSHIN else 'hsr'}_profile?uid={uid}"
-        res = requests.get(url).json()
-        if res["status"] == 200:
-            return save_images(res["result"], _type="profile")
+        res = requests.get(url)
+        if res.status_code == 200:
+            return save_images(res.json()["result"], _type="profile")
         return None
 
     async def get_genshin_res(self) -> GenshinRes | None:
