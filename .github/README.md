@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 17, 2024 19:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 18, 2024 22:24 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -1178,27 +1178,23 @@
     Honkai Star Rail Details
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="../images/profile/Joy_17_09_2024-19_42_05.png" />
-  </div>
-  <div align="center">
     <h2>
       <img src="../images/icons/hsr_check_in.png" height="20" /> Daily Rewards
     </h2>
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -1215,19 +1211,19 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>470</td>
+        <td>471</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>41</td>
+        <td>42</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>549</td>
+        <td>556</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>834</td>
+        <td>835</td>
       </tr>
     </table>
   </div>
@@ -1240,7 +1236,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>7877 (rate 28)</td>
+        <td>9207 (rate 50)</td>
       </tr>
       <tr>
         <td>
@@ -1250,14 +1246,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>31 (rate 14)</td>
+        <td>34 (rate 25)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 2330 (29%)<br />Forgotten Hall: 1680 (21%)<br />Adventure
-          Rewards: 1390 (17%)<br />Daily Activity: 900 (11%)<br />Simulated
-          Universe: 855 (10%)<br />Mail: 720 (9%)<br />Other: 2 (3%)<br />
+          Event: 3420 (37%)<br />Forgotten Hall: 1680 (18%)<br />Adventure
+          Rewards: 1570 (17%)<br />Daily Activity: 960 (10%)<br />Simulated
+          Universe: 855 (9%)<br />Mail: 720 (7%)<br />Other: 2 (2%)<br />
         </td>
       </tr>
     </table>
@@ -2513,6 +2509,117 @@
       </table>
     </details>
     <details>
+      <summary><b>Black Swan </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Black Swan</h3></th>
+          <th><h3>Eyes of the Prey</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/477f80ca2ff7fa8841b80917e2e49c28.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ae97f34027c589f5bf1f9a0b06443300.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/559bcf73ff2fe588185f4afd02a24083.png"
+                    ,
+                    height="18"
+                  />
+                  Prisoner's Sealed Muzzle<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/94c3c3cd6ba8af8503d8ed7963f2ff06.png"
+                    ,
+                    height="18"
+                  />
+                  Prisoner's Leadstone Shackles<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/05c58dbb119501ce672d39c5a461135a.png"
+                    ,
+                    height="18"
+                  />
+                  Prisoner's Repressive Straitjacket<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/8f982283f4c287b6739c1d26f626abf5.png"
+                    ,
+                    height="18"
+                  />
+                  Prisoner's Restrictive Fetters<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/9fcaccce73c820aeeaab9779a8d6dd5d.png"
+                    ,
+                    height="18"
+                  />
+                  The IPC's Mega HQ<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/7a795332c5f8957a111600709f6488b6.png"
+                    ,
+                    height="18"
+                  />
+                  The IPC's Trade Route<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Eyes of the Prey</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Dr. Ratio </b></summary>
       <br />
       <table>
@@ -3035,11 +3142,11 @@
                     height="18"
                   />
                   Duran's Tent of Golden Sky<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/b3b4345d22539973a84da51577bfce47.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/1de1172c855c9178e29cf5eb6736dfa9.png"
                     ,
                     height="18"
                   />
-                  Glamoth's Silent Tombstone<br />
+                  Duran's Mechabeast Bridle<br />
                 </td>
               </tr>
             </table>
@@ -3442,7 +3549,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -3513,7 +3620,7 @@
       <table>
         <tr>
           <th><h3>Guinaifen</h3></th>
-          <th><h3>Eyes of the Prey</h3></th>
+          <th><h3></h3></th>
         </tr>
         <tr>
           <td>
@@ -3524,11 +3631,7 @@
             </p>
           </td>
           <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ae97f34027c589f5bf1f9a0b06443300.png"
-              />
-            </p>
+            <p align="center"><img src="" /></p>
           </td>
         </tr>
         <tr>
@@ -3603,15 +3706,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Eyes of the Prey</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -3685,11 +3788,11 @@
                     height="18"
                   />
                   Messenger's Secret Satchel<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/260d3e62cab6de9facebcef3a04ab901.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/5998812eb3e4035be0942b15772d6845.png"
                     ,
                     height="18"
                   />
-                  Messenger's Par-kool Sneakers<br />
+                  Musketeer's Rivets Riding Boots<br />
                 </td>
               </tr>
               <tr>
@@ -5356,17 +5459,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -5383,15 +5486,15 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1010</td>
+        <td>1011</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>948</td>
+        <td>950</td>
       </tr>
       <tr>
         <td>Characters</td>
-        <td>69</td>
+        <td>70</td>
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
@@ -5423,7 +5526,7 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2593</td>
+        <td>2595</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
@@ -5439,7 +5542,7 @@
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>233</td>
+        <td>234</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -5868,27 +5971,84 @@
       </tr>
       <tr>
         <td>Most Played Characters</td>
-        <td></td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/cdbc7ab50e0fb634067028e3f9a6f6dd.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/4b36416517c72e3109e93b0ecb7eb36d.png"
+            ,
+            height="18"
+          />
+          Mualani (12)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/437aff9f8d8754d762b56c952e51024d.png"
+            ,
+            height="18"
+          />
+          Xiangling (12)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/c1800c9d8805b7c9e3ffc6350fbf1f9c.png"
+            ,
+            height="18"
+          />
+          Furina (12)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Defeats</td>
-        <td></td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ube8qg/ed9ec3e3a8802b4c31ef7f40a62226cb.png"
+            ,
+            height="18"
+          />
+          Clorinde (60)<br />
+        </td>
       </tr>
       <tr>
         <td>Strongest Single Strike</td>
-        <td></td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ube8qg/9c0c93882293fe9d58af1600cb530ae0.png"
+            ,
+            height="18"
+          />
+          Mualani (737582)<br />
+        </td>
       </tr>
       <tr>
         <td>Most Damage Taken</td>
-        <td></td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ube8qg/92f17b790fd59dc79cf78506ac863bca.png"
+            ,
+            height="18"
+          />
+          Furina (33400)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Bursts Unleashed</td>
-        <td></td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ube8qg/829da5a789286ce310a7c6d3014e3935.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (13)<br />
+        </td>
       </tr>
       <tr>
         <td>Elemental Skills Cast</td>
-        <td></td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ube8qg/ed9ec3e3a8802b4c31ef7f40a62226cb.png"
+            ,
+            height="18"
+          />
+          Clorinde (29)<br />
+        </td>
       </tr>
     </table>
   </div>
@@ -5903,7 +6063,7 @@
           />
           Primogems earned
         </td>
-        <td>7572 (rate -14)</td>
+        <td>7784 (rate -11)</td>
       </tr>
       <tr>
         <td>
@@ -5913,14 +6073,14 @@
           />
           Mora earned
         </td>
-        <td>6167158 (rate -24)</td>
+        <td>6620554 (rate -18)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1960 (26%)<br />Imaginarium Theater: 1200 (16%)<br />Daily
-          Activity: 1020 (14%)<br />Spiral Abyss: 800 (11%)<br />Events: 690
-          (9%)<br />Quests: 520 (6%)<br />Mail: 130 (1%)<br />Other: 1252
+          Adventure: 1972 (26%)<br />Imaginarium Theater: 1200 (16%)<br />Daily
+          Activity: 1080 (14%)<br />Spiral Abyss: 800 (11%)<br />Events: 690
+          (8%)<br />Quests: 580 (7%)<br />Mail: 150 (1%)<br />Other: 1312
           (17%)<br />
         </td>
       </tr>
@@ -6610,7 +6770,7 @@
       <table>
         <tr>
           <th><h3 align="center">Shenhe</h3></th>
-          <th><h3 align="center">Favonius Lance</h3></th>
+          <th><h3 align="center">"The Catch"</h3></th>
         </tr>
         <tr>
           <td>
@@ -6624,7 +6784,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/51bed2bd145c8dcc650ad934d9001031.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/51f32c6cee2f877b59d57d123cf458cc.png"
                 height="250"
               />
             </p>
@@ -6660,15 +6820,15 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />3 x Gladiator's Finale<br />2 x Shimenawa's
-                  Reminiscence<br />
+                  Artifacts<br />2 x Shimenawa's Reminiscence<br />2 x
+                  Gladiator's Finale<br />1 x Unfinished Reverie<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/adc93b0bac1f0dfe55c97bd9e504bbe8.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/5bb27a5e7fecee561658296729c8fdff.png"
                     height="18"
                   />
-                  Gladiator's Nostalgia<br /><img
+                  Entangling Bloom<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/0d70c950eebbcc339f3327e76e551fda.png"
                     height="18"
                   />
@@ -6681,10 +6841,10 @@
                     height="18"
                   />
                   Hopeful Heart<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/f55319d8fd632949ea608871e189420a.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/f785fa8ceb59a462c226323c42b5f18a.png"
                     height="18"
                   />
-                  Capricious Visage<br />
+                  Crownless Crown<br />
                 </td>
               </tr>
               <tr>
@@ -6697,7 +6857,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Favonius Lance</td>
+                <td>"The Catch"</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -8218,31 +8378,31 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Vourukasha's Glow<br />2 x Heart of
-                  Depth<br />1 x Gladiator's Finale<br />
+                  Artifacts<br />4 x Obsidian Codex<br />1 x Marechaussee
+                  Hunter<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/4f4ef4b4477055fb4ca94b1c0c75b114.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/ffde0f8d254b7d375f61bbd0347c0a0a.png"
                     height="18"
                   />
-                  Stamen of Khvarena's Origin<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/754214614c61f0f8acd4d60ef0c9268d.png"
+                  Reckoning of the Xenogenic<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/3e8b54cbb68798528ac8e9137fe3dc64.png"
                     height="18"
                   />
-                  Gust of Nostalgia<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/dea3bb3dcf5fa89c8fb05707fe383ad1.png"
+                  Root of the Spirit-Marrow<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/f527979a513fda458b563504ca4a9393.png"
                     height="18"
                   />
-                  Ancient Abscission<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/7cf43471c99742dd7423e48736c94274.png"
+                  Myths of the Night Realm<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/1bde22d969f93c641d8e2322a534c725.png"
                     height="18"
                   />
-                  Goblet of Thundering Deep<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/c4aa5c673acea4ae8ada35657bca90bd.png"
+                  Forgotten Vessel<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/fbcea93fd8031f611f3163693f92cc4e.png"
                     height="18"
                   />
-                  Gladiator's Triumphus<br />
+                  Crown of the Saints<br />
                 </td>
               </tr>
               <tr>
@@ -8652,16 +8812,15 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Shimenawa's Reminiscence<br />1 x Deepwood
-                  Memories<br />2 x Gladiator's Finale<br />1 x Crimson Witch of
-                  Flames<br />
+                  Artifacts<br />3 x Gladiator's Finale<br />1 x Deepwood
+                  Memories<br />1 x Crimson Witch of Flames<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/5bb27a5e7fecee561658296729c8fdff.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/adc93b0bac1f0dfe55c97bd9e504bbe8.png"
                     height="18"
                   />
-                  Entangling Bloom<br /><img
+                  Gladiator's Nostalgia<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/f6b4e65f18c050d1636be741a0b782dc.png"
                     height="18"
                   />
@@ -8765,19 +8924,27 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Blizzard Strayer<br />1 x Ocean-Hued
-                  Clam<br />
+                  Artifacts<br />2 x Vourukasha's Glow<br />1 x Heart of
+                  Depth<br />1 x Gladiator's Finale<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/31d22feed7144cf8fc6c555a935b212e.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/4f4ef4b4477055fb4ca94b1c0c75b114.png"
                     height="18"
                   />
-                  Frozen Homeland's Demise<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/2585e14da031ef08098c6195c05570a5.png"
+                  Stamen of Khvarena's Origin<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/754214614c61f0f8acd4d60ef0c9268d.png"
                     height="18"
                   />
-                  Crown of Watatsumi<br />
+                  Gust of Nostalgia<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/dea3bb3dcf5fa89c8fb05707fe383ad1.png"
+                    height="18"
+                  />
+                  Ancient Abscission<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/c4aa5c673acea4ae8ada35657bca90bd.png"
+                    height="18"
+                  />
+                  Gladiator's Triumphus<br />
                 </td>
               </tr>
               <tr>
@@ -9239,6 +9406,118 @@
               <tr>
                 <td>Refinement</td>
                 <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Kinich</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Kinich</h3></th>
+          <th><h3 align="center">Earth Shaker</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Kinich_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/ed560680ef9a0c826df87d6d942c0906.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>79</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />4 x Obsidian Codex<br />1 x Wanderer's
+                  Troupe<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/ffde0f8d254b7d375f61bbd0347c0a0a.png"
+                    height="18"
+                  />
+                  Reckoning of the Xenogenic<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/3e8b54cbb68798528ac8e9137fe3dc64.png"
+                    height="18"
+                  />
+                  Root of the Spirit-Marrow<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/17132eb80c87f8de9a151bd19a40e789.png"
+                    height="18"
+                  />
+                  Concert's Final Hour<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/77f727569c8f4f8c957a665eaf192a62.png"
+                    height="18"
+                  />
+                  Pre-Banquet of the Contenders<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/fbcea93fd8031f611f3163693f92cc4e.png"
+                    height="18"
+                  />
+                  Crown of the Saints<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Earth Shaker</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -10934,118 +11213,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Kinich</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Kinich</h3></th>
-          <th><h3 align="center">Earth Shaker</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Kinich_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/ed560680ef9a0c826df87d6d942c0906.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />4 x Obsidian Codex<br />1 x Wanderer's
-                  Troupe<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/ffde0f8d254b7d375f61bbd0347c0a0a.png"
-                    height="18"
-                  />
-                  Reckoning of the Xenogenic<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/3e8b54cbb68798528ac8e9137fe3dc64.png"
-                    height="18"
-                  />
-                  Root of the Spirit-Marrow<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/17132eb80c87f8de9a151bd19a40e789.png"
-                    height="18"
-                  />
-                  Concert's Final Hour<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/77f727569c8f4f8c957a665eaf192a62.png"
-                    height="18"
-                  />
-                  Pre-Banquet of the Contenders<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/fbcea93fd8031f611f3163693f92cc4e.png"
-                    height="18"
-                  />
-                  Crown of the Saints<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Earth Shaker</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Candace</b></summary>
       <br />
       <table>
@@ -11820,7 +11987,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>6</td>
+                <td>7</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -12081,7 +12248,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>6</td>
+                <td>7</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -13005,52 +13172,6 @@
       </table>
     </details>
   </div>
-</details>
-<h2 align="center">My Genshin Impact Character Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_17_09_2024-19_40_09.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_17_09_2024-19_40_10.png" />
-</details>
-<details align="center">
-  <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_17_09_2024-19_40_12.png" />
-</details>
-<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
-<details align="center">
-  <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_17_09_2024-19_41_34.png" />
-</details>
-<details align="center">
-  <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_17_09_2024-19_41_35.png" />
-</details>
-<details align="center">
-  <summary>Feixiao</summary>
-  <img src="../images/showcase/Feixiao_17_09_2024-19_41_36.png" />
-</details>
-<details align="center">
-  <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_17_09_2024-19_41_36.png" />
-</details>
-<details align="center">
-  <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_17_09_2024-19_41_37.png" />
-</details>
-<details align="center">
-  <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_17_09_2024-19_41_38.png" />
-</details>
-<details align="center">
-  <summary>Huohuo</summary>
-  <img src="../images/showcase/Huohuo_17_09_2024-19_41_39.png" />
-</details>
-<details align="center">
-  <summary>Robin</summary>
-  <img src="../images/showcase/Robin_17_09_2024-19_41_41.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
