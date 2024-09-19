@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 19, 2024 08:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 19, 2024 19:39 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>67</td>
+        <td>68</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -64,75 +64,6 @@
       Characters
     </h2>
     <details open>
-      <summary><b>Qingyi </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Qingyi</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1251.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-s-icon.3e8ac292.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/430a0b11aa1fc960b3b73f3689d98488.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconElectric.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconStun.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>55</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>0</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Zhu Yuan </b></summary>
       <br />
       <table>
@@ -184,6 +115,75 @@
                 <td>
                   <img
                     src="https://api.hakush.in/zzz/UI/IconAttack.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>56</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>0</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Qingyi </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Qingyi</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1251.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-s-icon.3e8ac292.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_ua57cb/430a0b11aa1fc960b3b73f3689d98488.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconElectric.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconStun.webp"
                     height="18"
                   />
                 </td>
@@ -884,7 +884,7 @@
               </tr>
               <tr>
                 <td>Mindscape</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -1211,7 +1211,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>471</td>
+        <td>472</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1219,7 +1219,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>556</td>
+        <td>558</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1236,7 +1236,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>9207 (rate 50)</td>
+        <td>9802 (rate 60)</td>
       </tr>
       <tr>
         <td>
@@ -1251,9 +1251,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 3420 (37%)<br />Forgotten Hall: 1680 (18%)<br />Adventure
-          Rewards: 1570 (17%)<br />Daily Activity: 960 (10%)<br />Simulated
-          Universe: 855 (9%)<br />Mail: 720 (7%)<br />Other: 2 (2%)<br />
+          Event: 3650 (37%)<br />Forgotten Hall: 1920 (19%)<br />Adventure
+          Rewards: 1635 (16%)<br />Daily Activity: 1020 (10%)<br />Simulated
+          Universe: 855 (8%)<br />Mail: 720 (7%)<br />Other: 2 (3%)<br />
         </td>
       </tr>
     </table>
@@ -5490,7 +5490,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>950</td>
+        <td>951</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5973,26 +5973,26 @@
         <td>Most Played Characters</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/35f587d48804909eaf75a89ce1f64945.png"
-            ,
-            height="18"
-          />
-          Kaedehara Kazuha (12)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/804b2ec93e5239f942acadd29e08a389.png"
-            ,
-            height="18"
-          />
-          Clorinde (12)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/ba398c4e64025ee8e9e98f419b972b03.png"
-            ,
-            height="18"
-          />
-          Baizhu (12)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/cdbc7ab50e0fb634067028e3f9a6f6dd.png"
             ,
             height="18"
           />
-          Raiden Shogun (12)<br />
+          Raiden Shogun (12)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/4b36416517c72e3109e93b0ecb7eb36d.png"
+            ,
+            height="18"
+          />
+          Mualani (12)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/437aff9f8d8754d762b56c952e51024d.png"
+            ,
+            height="18"
+          />
+          Xiangling (12)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/c1800c9d8805b7c9e3ffc6350fbf1f9c.png"
+            ,
+            height="18"
+          />
+          Furina (12)<br />
         </td>
       </tr>
       <tr>
@@ -6063,7 +6063,7 @@
           />
           Primogems earned
         </td>
-        <td>7784 (rate -11)</td>
+        <td>7844 (rate -11)</td>
       </tr>
       <tr>
         <td>
@@ -6073,13 +6073,13 @@
           />
           Mora earned
         </td>
-        <td>6620554 (rate -18)</td>
+        <td>6683292 (rate -17)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
           Adventure: 1972 (26%)<br />Imaginarium Theater: 1200 (16%)<br />Daily
-          Activity: 1080 (14%)<br />Spiral Abyss: 800 (11%)<br />Events: 690
+          Activity: 1140 (15%)<br />Spiral Abyss: 800 (10%)<br />Events: 690
           (8%)<br />Quests: 580 (7%)<br />Mail: 150 (1%)<br />Other: 1312
           (17%)<br />
         </td>
