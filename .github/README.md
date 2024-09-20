@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 20, 2024 08:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 20, 2024 19:39 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>68</td>
+        <td>69</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1211,7 +1211,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>472</td>
+        <td>473</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1236,7 +1236,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>9802 (rate 60)</td>
+        <td>9897 (rate 61)</td>
       </tr>
       <tr>
         <td>
@@ -1251,9 +1251,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 3650 (37%)<br />Forgotten Hall: 1920 (19%)<br />Adventure
-          Rewards: 1635 (16%)<br />Daily Activity: 1020 (10%)<br />Simulated
-          Universe: 855 (8%)<br />Mail: 720 (7%)<br />Other: 2 (3%)<br />
+          Event: 3650 (36%)<br />Forgotten Hall: 1920 (19%)<br />Adventure
+          Rewards: 1650 (16%)<br />Daily Activity: 1080 (10%)<br />Simulated
+          Universe: 855 (8%)<br />Mail: 740 (7%)<br />Other: 2 (4%)<br />
         </td>
       </tr>
     </table>
@@ -3607,7 +3607,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
             </table>
           </td>
@@ -5490,7 +5490,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>951</td>
+        <td>952</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5526,7 +5526,7 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>2595</td>
+        <td>2596</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
@@ -5542,7 +5542,7 @@
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
-        <td>234</td>
+        <td>235</td>
       </tr>
       <tr>
         <td>Domains Unlocked</td>
@@ -5973,6 +5973,11 @@
         <td>Most Played Characters</td>
         <td>
           <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/ba398c4e64025ee8e9e98f419b972b03.png"
+            ,
+            height="18"
+          />
+          Baizhu (12)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/cdbc7ab50e0fb634067028e3f9a6f6dd.png"
             ,
             height="18"
@@ -5987,12 +5992,7 @@
             ,
             height="18"
           />
-          Xiangling (12)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/c1800c9d8805b7c9e3ffc6350fbf1f9c.png"
-            ,
-            height="18"
-          />
-          Furina (12)<br />
+          Xiangling (12)<br />
         </td>
       </tr>
       <tr>
@@ -6063,7 +6063,7 @@
           />
           Primogems earned
         </td>
-        <td>7844 (rate -11)</td>
+        <td>7912 (rate -10)</td>
       </tr>
       <tr>
         <td>
@@ -6073,14 +6073,14 @@
           />
           Mora earned
         </td>
-        <td>6722067 (rate -17)</td>
+        <td>6844943 (rate -15)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1972 (26%)<br />Imaginarium Theater: 1200 (16%)<br />Daily
-          Activity: 1140 (15%)<br />Spiral Abyss: 800 (10%)<br />Events: 690
-          (8%)<br />Quests: 580 (7%)<br />Mail: 150 (1%)<br />Other: 1312
+          Adventure: 1979 (26%)<br />Daily Activity: 1200 (16%)<br />Imaginarium
+          Theater: 1200 (15%)<br />Spiral Abyss: 800 (10%)<br />Events: 690
+          (8%)<br />Quests: 580 (7%)<br />Mail: 150 (1%)<br />Other: 1313
           (17%)<br />
         </td>
       </tr>
