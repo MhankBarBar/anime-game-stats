@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 21, 2024 08:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 21, 2024 19:36 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1211,7 +1211,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>473</td>
+        <td>474</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1236,7 +1236,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>9897 (rate 61)</td>
+        <td>9962 (rate 62)</td>
       </tr>
       <tr>
         <td>
@@ -1252,8 +1252,8 @@
         <td>Categories</td>
         <td>
           Event: 3650 (36%)<br />Forgotten Hall: 1920 (19%)<br />Adventure
-          Rewards: 1650 (16%)<br />Daily Activity: 1080 (10%)<br />Simulated
-          Universe: 855 (8%)<br />Mail: 740 (7%)<br />Other: 2 (4%)<br />
+          Rewards: 1655 (16%)<br />Daily Activity: 1140 (11%)<br />Simulated
+          Universe: 855 (8%)<br />Mail: 740 (7%)<br />Other: 2 (3%)<br />
         </td>
       </tr>
     </table>
@@ -5973,6 +5973,11 @@
         <td>Most Played Characters</td>
         <td>
           <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/35f587d48804909eaf75a89ce1f64945.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (12)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/804b2ec93e5239f942acadd29e08a389.png"
             ,
             height="18"
@@ -5987,12 +5992,7 @@
             ,
             height="18"
           />
-          Raiden Shogun (12)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/4b36416517c72e3109e93b0ecb7eb36d.png"
-            ,
-            height="18"
-          />
-          Mualani (12)<br />
+          Raiden Shogun (12)<br />
         </td>
       </tr>
       <tr>
