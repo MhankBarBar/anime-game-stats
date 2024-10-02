@@ -387,7 +387,7 @@
                 <td>Total Stars</td>
                 <td>{{ genshin.abyss.total_stars }}</td>
             </tr>
-            {%- for field, characters in genshin.abyss.ranks.as_dict(lang=lang).items() -%}
+            {%- for field, characters in genshin.abyss.ranks.dict().items() -%}
             <tr>
                 <td>{{ field }}</td>
                 <td>

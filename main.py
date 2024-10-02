@@ -138,8 +138,8 @@ class AnimeGame(genshin.Client):
     async def get_genshin_res(self) -> GenshinRes | None:
         logger.info("Executing get_genshin_res")
         try:
-            user = await self.get_full_genshin_user(0)
-            abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
+            user = await self.get_genshin_user(0)
+            abyss = await self.get_spiral_abyss(0, previous=True)
             diary = await self.get_genshin_diary()
             reward, reward_info = await self._claim_daily()
             showcase = None
