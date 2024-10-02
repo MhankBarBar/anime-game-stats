@@ -292,7 +292,7 @@
     <div align="center">
         <h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp" height="20"> Stats</h2>
         <table>
-            {%- for field, value in genshin.user.stats.as_dict(lang=lang).items() -%}
+            {%- for field, value in genshin.user.stats.dict().items() -%}
             <tr>
                 <td>{{ field.title() }}</td>
                 <td>{{ value }}</td>
