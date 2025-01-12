@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 12, 2025 12:21 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 12, 2025 19:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>770 (rate -85)</td>
+        <td>1150 (rate -78)</td>
       </tr>
       <tr>
         <td>
@@ -1468,13 +1468,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>6 (rate -76)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 720 (93%)<br />Mail: 50 (6%)<br />Other: 0 (1%)<br />Daily
-          Activity: 0 (0%)<br />Event: 0 (0%)<br />Adventure Rewards: 0 (0%)<br />Simulated
+          Forgotten Hall: 720 (62%)<br />Event: 350 (30%)<br />Mail: 50 (4%)<br />Adventure
+          Rewards: 30 (2%)<br />Other: 0 (2%)<br />Daily Activity: 0 (0%)<br />Simulated
           Universe: 0 (0%)<br />
         </td>
       </tr>
@@ -5934,7 +5934,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1033</td>
+        <td>1034</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6403,7 +6403,7 @@
           />
           Primogems earned
         </td>
-        <td>1250 (rate -76)</td>
+        <td>1290 (rate -75)</td>
       </tr>
       <tr>
         <td>
@@ -6413,12 +6413,12 @@
           />
           Mora earned
         </td>
-        <td>68475 (rate -98)</td>
+        <td>109475 (rate -97)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 660 (53%)<br />Events: 460 (37%)<br />Adventure: 70 (6%)<br />Daily
+          Mail: 700 (55%)<br />Events: 460 (36%)<br />Adventure: 70 (5%)<br />Daily
           Activity: 60 (4%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater:
           0 (0%)<br />Quests: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
