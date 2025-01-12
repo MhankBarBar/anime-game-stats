@@ -1,5 +1,6 @@
 import argparse
 import asyncio
+import functools
 import logging
 import os
 import pathlib
@@ -20,7 +21,7 @@ load_dotenv()
 
 # Constants
 MBB_API = "https://api.mhankbarbar.me"
-DEFAULT_TEMPLATE_PATH = "template.html"
+DEFAULT_TEMPLATE_PATH = "templates/template.html"
 DEFAULT_OUTPUT_PATH = "stats.html"
 GENSHIN = genshin.Game.GENSHIN
 HSR = genshin.Game.STARRAIL
@@ -78,6 +79,16 @@ def clear_images() -> None:
     for x in ("showcase", "profile"):
         if os.path.exists(f"images/{x}"):
             shutil.rmtree(f"images/{x}")
+
+def handle_error(func):
+    @functools.wraps(func)
+    async def wrapper(*args, **kwargs):
+        try:
+            return await func(*args, **kwargs)
+        except Exception as e:
+            logger.error(f"Error in {func.__name__}: {e}")
+            return None
+    return wrapper
 
 
 def save_images(urls: List[str] | str, _type: str = "showcase") -> List[str] | str:
@@ -139,8 +150,8 @@ class AnimeGame(genshin.Client):
         logger.info("Executing get_genshin_res")
         try:
             user = await self.get_genshin_user(0)
-            abyss = await self.get_spiral_abyss(0, previous=True)
-            diary = await self.get_genshin_diary()
+            abyss = await handle_error(self.get_spiral_abyss)(0, previous=True)
+            diary = await handle_error(self.get_genshin_diary)()
             reward, reward_info = await self._claim_daily()
             showcase = None
             profile = None
@@ -165,9 +176,9 @@ class AnimeGame(genshin.Client):
         logger.info("Executing get_hsr_res")
         try:
             user = await self.get_starrail_user(0)
-            diary = await self.get_starrail_diary()
-            forgotten_hall = await self.get_starrail_challenge()
-            characters = await self.get_starrail_characters()
+            diary = await handle_error(self.get_starrail_diary)()
+            forgotten_hall = await handle_error(self.get_starrail_challenge)()
+            characters = await handle_error(self.get_starrail_characters)()
             reward, reward_info = await self._claim_daily(HSR)
             showcase = None
             profile = None

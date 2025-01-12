@@ -1,10 +1,17 @@
 from time import sleep
 from typing import List
+from dotenv import load_dotenv
 
+import asyncio
 import bs4
 import genshin
+import logging
 import requests
+import os
 
+load_dotenv()
+
+logger = logging.getLogger("AnimeGameStats")
 
 def _get_file_path(game: genshin.Game) -> str:
     match game:
@@ -56,9 +63,8 @@ class GetCodes:
         for code in active_codes:
             try:
                 await client.redeem_code(code, game=game)
-            except (genshin.RedemptionClaimed, genshin.RedemptionInvalid, genshin.GenshinException,
-                    genshin.RedemptionException, genshin.InvalidCookies):
-                pass
+            except Exception as e:
+                logger.error(f"Error redeeming code {code}: {e}")
             finally:
                 with open(file, "a") as f:
                     f.write(f"{code}\n")
@@ -96,3 +102,21 @@ class GetCodes:
                 codes.append(li.strong.text.strip())
 
         return codes
+
+if __name__ == "__main__":
+    logger = logging.getLogger(__name__)
+    logging.basicConfig(level=logging.DEBUG)
+    g = GetCodes()
+    cookies = os.getenv("COOKIES")
+    print(cookies)
+    client = genshin.Client(cookies=cookies)
+    games = [
+        genshin.Game.GENSHIN,
+        genshin.Game.STARRAIL,
+        genshin.Game.ZZZ
+    ]
+    for game in games:
+        codes = g.get_codes(game)
+        print(f"Redeeming {game.name} codes: {codes}")
+        asyncio.run(g.redeem_codes(client, game))
+    print("Done")
