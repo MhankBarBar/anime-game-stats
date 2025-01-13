@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 13, 2025 08:45 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 13, 2025 19:43 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -5934,7 +5934,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1034</td>
+        <td>1035</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5970,7 +5970,7 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>2601</td>
+        <td>2602</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
@@ -5986,7 +5986,7 @@
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
-        <td>236</td>
+        <td>237</td>
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
@@ -6157,7 +6157,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/30/" width="80" />
+                <img src="https://progress-bar.xyz/31/" width="80" />
               </td>
             </tr>
             <tr>
@@ -6403,7 +6403,7 @@
           />
           Primogems earned
         </td>
-        <td>1290 (rate -75)</td>
+        <td>1637 (rate -68)</td>
       </tr>
       <tr>
         <td>
@@ -6413,14 +6413,14 @@
           />
           Mora earned
         </td>
-        <td>109475 (rate -97)</td>
+        <td>205242 (rate -96)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 700 (55%)<br />Events: 460 (36%)<br />Adventure: 70 (5%)<br />Daily
-          Activity: 60 (4%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater:
-          0 (0%)<br />Quests: 0 (0%)<br />Other: 0 (0%)<br />
+          Events: 740 (46%)<br />Mail: 700 (43%)<br />Daily Activity: 120
+          (7%)<br />Adventure: 77 (4%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -7526,7 +7526,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Constellation</td>
