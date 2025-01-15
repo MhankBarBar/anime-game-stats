@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 15, 2025 08:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 15, 2025 19:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,15 +1429,15 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>547</td>
+        <td>548</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>44</td>
+        <td>45</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>594</td>
+        <td>596</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1856 (rate -66)</td>
+        <td>2546 (rate -53)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>6 (rate -76)</td>
+        <td>24 (rate -7)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 720 (38%)<br />Adventure Rewards: 355 (19%)<br />Event:
-          350 (18%)<br />Mail: 350 (18%)<br />Daily Activity: 80 (4%)<br />Other:
-          1 (3%)<br />Simulated Universe: 0 (0%)<br />
+          Mail: 950 (37%)<br />Forgotten Hall: 720 (28%)<br />Event: 370
+          (14%)<br />Adventure Rewards: 365 (14%)<br />Daily Activity: 140
+          (5%)<br />Other: 1 (2%)<br />Simulated Universe: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -3164,6 +3164,117 @@
               <tr>
                 <td>Level</td>
                 <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Lingsha </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Lingsha</h3></th>
+          <th><h3>What Is Real?</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/5a8e33939141ce0b03c3f1cd6b1ee00d.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/d92be1ae35d44e212ed91ba40e13a20b.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/398e381318115934400eac25b92e9bb7.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Homing Helm<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/39141b04cf3bf60aac0f8b168b514e4d.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Crushing Wristguard<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/667590c5a591793945eb541561177463.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Silvery Armor<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/736d3f835cd585297c1c32b98eeeeb8c.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Skywalk Greaves<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/1d68f0becab3a02830e3542ba13e1398.png"
+                    ,
+                    height="18"
+                  />
+                  Forge's Lotus Lantern Wick<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/81a934164bab2fd384adfaea7320beda.png"
+                    ,
+                    height="18"
+                  />
+                  Forge's Heavenly Flamewheel Silk<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>What Is Real?</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -5861,7 +5972,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Relics</td>
