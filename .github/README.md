@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 16, 2025 08:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 16, 2025 19:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>548</td>
+        <td>549</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1437,11 +1437,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>620</td>
+        <td>632</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>913</td>
+        <td>936</td>
       </tr>
       <tr>
         <td>Sticker Pass Dreamscape</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>4165 (rate -23)</td>
+        <td>4724 (rate -13)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>25 (rate -3)</td>
+        <td>26 (rate 0)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1600 (38%)<br />Mail: 1000 (24%)<br />Forgotten
-          Hall: 800 (19%)<br />Event: 600 (14%)<br />Daily Activity: 140 (3%)<br />Other:
-          25 (2%)<br />Simulated Universe: 0 (0%)<br />
+          Adventure Rewards: 2015 (42%)<br />Mail: 1020 (21%)<br />Forgotten
+          Hall: 800 (16%)<br />Event: 720 (15%)<br />Other: 29 (4%)<br />Daily
+          Activity: 140 (2%)<br />Simulated Universe: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6536,16 +6536,6 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/d9f1b468d6a7970ba34d203aa78066e5.png"
-            ,
-            height="18"
-          />
-          Neuvillette (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/4ece8d24d83982c5ad1acd6a7f6e2bbc.png"
-            ,
-            height="18"
-          />
-          Furina (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/b46b1d13b7b08e47f46bad9b23375768.png"
             ,
             height="18"
@@ -6555,7 +6545,17 @@
             ,
             height="18"
           />
-          Zhongli (9)<br />
+          Zhongli (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/1580153dac822f23556f5dfe543191eb.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/6655ad797922bb0f151f80cbb0611cbc.png"
+            ,
+            height="18"
+          />
+          Kinich (9)<br />
         </td>
       </tr>
       <tr>
