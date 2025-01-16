@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 15, 2025 19:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 16, 2025 08:37 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Canned Soda
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -1437,11 +1437,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>596</td>
+        <td>620</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>853</td>
+        <td>913</td>
       </tr>
       <tr>
         <td>Sticker Pass Dreamscape</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2546 (rate -53)</td>
+        <td>4165 (rate -23)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>24 (rate -7)</td>
+        <td>25 (rate -3)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 950 (37%)<br />Forgotten Hall: 720 (28%)<br />Event: 370
-          (14%)<br />Adventure Rewards: 365 (14%)<br />Daily Activity: 140
-          (5%)<br />Other: 1 (2%)<br />Simulated Universe: 0 (0%)<br />
+          Adventure Rewards: 1600 (38%)<br />Mail: 1000 (24%)<br />Forgotten
+          Hall: 800 (19%)<br />Event: 600 (14%)<br />Daily Activity: 140 (3%)<br />Other:
+          25 (2%)<br />Simulated Universe: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -1489,15 +1489,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>Troopship Mayhem (XI)</td>
+        <td>Troopship Mayhem (XII)</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>5</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>33</td>
+        <td>36</td>
       </tr>
     </table>
   </div>
@@ -6014,17 +6014,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
             height="20"
           />
-          Primogem
+          Sweet Madame
         </td>
       </tr>
     </table>
@@ -6045,7 +6045,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1035</td>
+        <td>1036</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6053,7 +6053,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>11-3</td>
+        <td>9-3</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -6077,15 +6077,15 @@
       </tr>
       <tr>
         <td>Pyroculi</td>
-        <td>107</td>
+        <td>109</td>
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>2602</td>
+        <td>2603</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1965</td>
+        <td>1966</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
@@ -6101,7 +6101,7 @@
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>511</td>
+        <td>514</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -6504,6 +6504,118 @@
     </table>
   </div>
   <div align="center">
+    <h2>
+      <img
+        src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+        height="20"
+      />
+      Spiral Abyss
+    </h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>102</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <td>Total Wins</td>
+        <td>9</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>11-3</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>most_played</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/d9f1b468d6a7970ba34d203aa78066e5.png"
+            ,
+            height="18"
+          />
+          Neuvillette (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/4ece8d24d83982c5ad1acd6a7f6e2bbc.png"
+            ,
+            height="18"
+          />
+          Furina (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/b46b1d13b7b08e47f46bad9b23375768.png"
+            ,
+            height="18"
+          />
+          Yelan (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/b8e711c3d8975cddb892bf93dec0ae5e.png"
+            ,
+            height="18"
+          />
+          Zhongli (9)<br />
+        </td>
+      </tr>
+      <tr>
+        <td>most_kills</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ua4fih/f80b129427a9e614842d044d00c871ea.png"
+            ,
+            height="18"
+          />
+          Neuvillette (38)<br />
+        </td>
+      </tr>
+      <tr>
+        <td>strongest_strike</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ua4fih/9b387750caaf8519e18f18edcc5009dc.png"
+            ,
+            height="18"
+          />
+          Kinich (129565)<br />
+        </td>
+      </tr>
+      <tr>
+        <td>most_damage_taken</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ua4fih/9b387750caaf8519e18f18edcc5009dc.png"
+            ,
+            height="18"
+          />
+          Kinich (21951)<br />
+        </td>
+      </tr>
+      <tr>
+        <td>most_bursts_used</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ua4fih/43eeb24e34b667af2a4532310bd18142.png"
+            ,
+            height="18"
+          />
+          Xilonen (10)<br />
+        </td>
+      </tr>
+      <tr>
+        <td>most_skills_used</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ua4fih/43eeb24e34b667af2a4532310bd18142.png"
+            ,
+            height="18"
+          />
+          Xilonen (15)<br />
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
     <h2><img src="../images/icons/genshin_diary.png" height="20" /> Diary</h2>
     <table>
       <tr>
@@ -6514,7 +6626,7 @@
           />
           Primogems earned
         </td>
-        <td>1637 (rate -68)</td>
+        <td>1870 (rate -64)</td>
       </tr>
       <tr>
         <td>
@@ -6524,14 +6636,14 @@
           />
           Mora earned
         </td>
-        <td>205242 (rate -96)</td>
+        <td>253658 (rate -95)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 740 (46%)<br />Mail: 700 (43%)<br />Daily Activity: 120
-          (7%)<br />Adventure: 77 (4%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 0 (0%)<br />
+          Events: 900 (48%)<br />Mail: 720 (38%)<br />Daily Activity: 150
+          (8%)<br />Adventure: 99 (5%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
     </table>
