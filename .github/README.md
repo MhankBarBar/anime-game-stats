@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 18, 2025 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 19, 2025 08:44 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>5759 (rate 5)</td>
+        <td>6164 (rate 12)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>28 (rate 7)</td>
+        <td>30 (rate 15)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2685 (46%)<br />Mail: 1180 (20%)<br />Event: 790
-          (13%)<br />Forgotten Hall: 800 (13%)<br />Daily Activity: 260 (4%)<br />Other:
-          44 (4%)<br />Simulated Universe: 0 (0%)<br />
+          Adventure Rewards: 2685 (43%)<br />Mail: 1180 (19%)<br />Event: 790
+          (12%)<br />Forgotten Hall: 800 (12%)<br />Daily Activity: 320 (5%)<br />Simulated
+          Universe: 345 (5%)<br />Other: 44 (4%)<br />
         </td>
       </tr>
     </table>
@@ -6014,17 +6014,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6045,7 +6045,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1036</td>
+        <td>1037</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6536,26 +6536,26 @@
         <td>most_played</td>
         <td>
           <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/be72cdcda248009ca07071275f07be94.png"
+            ,
+            height="18"
+          />
+          Xiangling (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/b8e711c3d8975cddb892bf93dec0ae5e.png"
+            ,
+            height="18"
+          />
+          Zhongli (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/1580153dac822f23556f5dfe543191eb.png"
             ,
             height="18"
           />
           Kaedehara Kazuha (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/6655ad797922bb0f151f80cbb0611cbc.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/b46b1d13b7b08e47f46bad9b23375768.png"
             ,
             height="18"
           />
-          Kinich (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/bd4a4fc44cdc78e69d7bbfbf8d486aa0.png"
-            ,
-            height="18"
-          />
-          Xilonen (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4fih/be72cdcda248009ca07071275f07be94.png"
-            ,
-            height="18"
-          />
-          Xiangling (9)<br />
+          Yelan (9)<br />
         </td>
       </tr>
       <tr>
@@ -6636,7 +6636,7 @@
           />
           Mora earned
         </td>
-        <td>253658 (rate -95)</td>
+        <td>262658 (rate -94)</td>
       </tr>
       <tr>
         <td>Categories</td>
