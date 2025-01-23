@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 23, 2025 08:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 23, 2025 19:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -6045,7 +6045,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1038</td>
+        <td>1039</td>
       </tr>
       <tr>
         <td>Characters</td>
