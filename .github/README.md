@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 23, 2025 19:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 24, 2025 08:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>22</td>
+        <td>23</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          10000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/19/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_155303366567207389.png"
             height="20"
           />
-          Condensed Aether
+          Credit
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>553</td>
+        <td>554</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>7875 (rate 43)</td>
+        <td>8625 (rate 57)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>32 (rate 23)</td>
+        <td>35 (rate 34)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 3595 (45%)<br />Forgotten Hall: 1360 (17%)<br />Mail:
-          1240 (15%)<br />Event: 850 (10%)<br />Daily Activity: 440 (5%)<br />Simulated
-          Universe: 345 (4%)<br />Other: 45 (4%)<br />
+          Adventure Rewards: 3725 (43%)<br />Event: 1410 (16%)<br />Forgotten
+          Hall: 1360 (15%)<br />Mail: 1240 (14%)<br />Daily Activity: 500
+          (5%)<br />Simulated Universe: 345 (4%)<br />Other: 45 (3%)<br />
         </td>
       </tr>
     </table>
@@ -5972,7 +5972,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>4</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -6014,17 +6014,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fried Radish Balls
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6053,7 +6053,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>9-3</td>
+        <td>11-3</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -6626,7 +6626,7 @@
           />
           Primogems earned
         </td>
-        <td>1940 (rate -62)</td>
+        <td>2640 (rate -49)</td>
       </tr>
       <tr>
         <td>
@@ -6636,14 +6636,14 @@
           />
           Mora earned
         </td>
-        <td>387021 (rate -92)</td>
+        <td>903496 (rate -82)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 900 (47%)<br />Mail: 720 (37%)<br />Daily Activity: 210
-          (10%)<br />Adventure: 109 (5%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 1 (1%)<br />
+          Events: 900 (35%)<br />Mail: 740 (28%)<br />Spiral Abyss: 600 (22%)<br />Daily
+          Activity: 270 (10%)<br />Adventure: 109 (4%)<br />Imaginarium Theater:
+          0 (0%)<br />Quests: 0 (0%)<br />Other: 21 (1%)<br />
         </td>
       </tr>
     </table>
@@ -7615,6 +7615,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Arlecchino</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Arlecchino</h3></th>
+          <th><h3 align="center">Crimson Moon's Semblance</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Arlecchino_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub1ajh/6b894de6e420cfca97101ced133079ed.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Crimson Moon's Semblance</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Xianyun</b></summary>
       <br />
       <table>
@@ -8316,7 +8403,7 @@
       <table>
         <tr>
           <th><h3 align="center">Hu Tao</h3></th>
-          <th><h3 align="center">Primordial Jade Winged-Spear</h3></th>
+          <th><h3 align="center">Staff of Homa</h3></th>
         </tr>
         <tr>
           <td>
@@ -8330,7 +8417,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub1ajh/d3b57632aae99ae865f9ce6eeee0c1fe.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub1ajh/dc1c962e58c2926b23b5706d642d0a68.png"
                 height="250"
               />
             </p>
@@ -8378,7 +8465,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Primordial Jade Winged-Spear</td>
+                <td>Staff of Homa</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -8826,93 +8913,6 @@
               <tr>
                 <td>Refinement</td>
                 <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Arlecchino</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Arlecchino</h3></th>
-          <th><h3 align="center">Staff of Homa</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Arlecchino_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub1ajh/dc1c962e58c2926b23b5706d642d0a68.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>80</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Staff of Homa</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>90</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
               </tr>
             </table>
           </td>
@@ -9695,7 +9695,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
