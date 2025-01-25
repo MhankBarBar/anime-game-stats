@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 25, 2025 08:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 25, 2025 19:35 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -6041,11 +6041,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1029</td>
+        <td>1031</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1040</td>
+        <td>1041</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6085,23 +6085,23 @@
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1966</td>
+        <td>1971</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>584</td>
+        <td>585</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
-        <td>233</td>
+        <td>235</td>
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
-        <td>237</td>
+        <td>239</td>
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>514</td>
+        <td>515</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -6282,7 +6282,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/67/" width="80" />
+                <img src="https://progress-bar.xyz/71/" width="80" />
               </td>
             </tr>
             <tr>
@@ -7690,7 +7690,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Refinement</td>
