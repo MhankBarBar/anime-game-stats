@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 25, 2025 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 26, 2025 08:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/86e1f7a5ff283d527bbc019475847174_6873942739037299410.png"
             height="20"
           />
-          Bangboo Algorithm Modules
+          Senior Investigator Logs
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/19/5ec24224c0e731d65270c6f2310e84a4_1327294036092457046.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>554</td>
+        <td>555</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>8625 (rate 57)</td>
+        <td>8725 (rate 59)</td>
       </tr>
       <tr>
         <td>
@@ -1473,9 +1473,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 3725 (43%)<br />Event: 1410 (16%)<br />Forgotten
-          Hall: 1360 (15%)<br />Mail: 1240 (14%)<br />Daily Activity: 500
-          (5%)<br />Simulated Universe: 345 (4%)<br />Other: 45 (3%)<br />
+          Adventure Rewards: 3725 (42%)<br />Event: 1410 (16%)<br />Forgotten
+          Hall: 1360 (15%)<br />Mail: 1280 (14%)<br />Daily Activity: 560
+          (6%)<br />Other: 45 (4%)<br />Simulated Universe: 345 (3%)<br />
         </td>
       </tr>
     </table>
@@ -6014,17 +6014,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          5 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6626,7 +6626,7 @@
           />
           Primogems earned
         </td>
-        <td>2730 (rate -47)</td>
+        <td>3180 (rate -38)</td>
       </tr>
       <tr>
         <td>
@@ -6636,14 +6636,14 @@
           />
           Mora earned
         </td>
-        <td>1095971 (rate -78)</td>
+        <td>1286874 (rate -74)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 930 (35%)<br />Mail: 740 (28%)<br />Spiral Abyss: 600 (21%)<br />Daily
-          Activity: 330 (12%)<br />Adventure: 109 (3%)<br />Imaginarium Theater:
-          0 (0%)<br />Quests: 0 (0%)<br />Other: 21 (1%)<br />
+          Mail: 1040 (33%)<br />Events: 930 (30%)<br />Spiral Abyss: 600
+          (18%)<br />Daily Activity: 390 (12%)<br />Adventure: 179 (5%)<br />Quests:
+          20 (1%)<br />Imaginarium Theater: 0 (0%)<br />Other: 21 (1%)<br />
         </td>
       </tr>
     </table>
@@ -7690,7 +7690,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Refinement</td>
