@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 27, 2025 19:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 28, 2025 08:37 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/6ef3e419022c871257a936b1857ac9d1_7183854527138136141.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
             height="20"
           />
-          W-Engine Energy Modules
+          Dennies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/19/6b6ff68f20a7d6d647ca02a7fe5e7a6a_6821519863151223655.png"
             height="20"
           />
-          Stellar Jade
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>555</td>
+        <td>556</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>8725 (rate 59)</td>
+        <td>9350 (rate 70)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>35 (rate 34)</td>
+        <td>36 (rate 38)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 3725 (42%)<br />Event: 1410 (16%)<br />Forgotten
-          Hall: 1360 (15%)<br />Mail: 1280 (14%)<br />Daily Activity: 560
-          (6%)<br />Other: 45 (4%)<br />Simulated Universe: 345 (3%)<br />
+          Adventure Rewards: 3725 (39%)<br />Event: 1510 (16%)<br />Forgotten
+          Hall: 1360 (14%)<br />Mail: 1300 (13%)<br />Simulated Universe: 690
+          (7%)<br />Daily Activity: 620 (6%)<br />Other: 145 (5%)<br />
         </td>
       </tr>
     </table>
@@ -6014,17 +6014,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -6045,7 +6045,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1041</td>
+        <td>1042</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6085,7 +6085,7 @@
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1971</td>
+        <td>1973</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
@@ -6101,7 +6101,7 @@
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>515</td>
+        <td>516</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -6282,7 +6282,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/71/" width="80" />
+                <img src="https://progress-bar.xyz/73/" width="80" />
               </td>
             </tr>
             <tr>
@@ -6626,7 +6626,7 @@
           />
           Primogems earned
         </td>
-        <td>3180 (rate -38)</td>
+        <td>3205 (rate -38)</td>
       </tr>
       <tr>
         <td>
@@ -6636,13 +6636,13 @@
           />
           Mora earned
         </td>
-        <td>1286874 (rate -74)</td>
+        <td>1304280 (rate -74)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1040 (33%)<br />Events: 930 (30%)<br />Spiral Abyss: 600
-          (18%)<br />Daily Activity: 390 (12%)<br />Adventure: 179 (5%)<br />Quests:
+          Mail: 1040 (33%)<br />Events: 930 (29%)<br />Spiral Abyss: 600
+          (18%)<br />Daily Activity: 390 (12%)<br />Adventure: 204 (6%)<br />Quests:
           20 (1%)<br />Imaginarium Theater: 0 (0%)<br />Other: 21 (1%)<br />
         </td>
       </tr>
