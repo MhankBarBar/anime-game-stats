@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 29, 2025 19:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 30, 2025 08:36 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/5dc8f83551ad36b7c1ec57f2e4f223d1_6882324669759105258.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
             height="20"
           />
-          Ether Plating Agents
+          Dennies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/19/6425584a05316b3391818d90c8fd1905_7367765898506383889.png"
             height="20"
           />
-          Stellar Jade
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -1429,15 +1429,15 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>557</td>
+        <td>558</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>45</td>
+        <td>46</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>642</td>
+        <td>644</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>9410 (rate 72)</td>
+        <td>10371 (rate 89)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>36 (rate 38)</td>
+        <td>41 (rate 57)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 3725 (39%)<br />Event: 1510 (16%)<br />Forgotten
-          Hall: 1360 (14%)<br />Mail: 1300 (13%)<br />Daily Activity: 680
-          (7%)<br />Simulated Universe: 690 (7%)<br />Other: 145 (4%)<br />
+          Adventure Rewards: 3805 (36%)<br />Event: 1860 (17%)<br />Forgotten
+          Hall: 1520 (14%)<br />Mail: 1320 (12%)<br />Simulated Universe: 980
+          (9%)<br />Daily Activity: 740 (7%)<br />Other: 146 (5%)<br />
         </td>
       </tr>
     </table>
@@ -2292,7 +2292,7 @@
       <table>
         <tr>
           <th><h3>Himeko</h3></th>
-          <th><h3>Night on the Milky Way</h3></th>
+          <th><h3>After the Charmony Fall</h3></th>
         </tr>
         <tr>
           <td>
@@ -2305,7 +2305,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/b6e742f9b1279ec555de1e398f5c33fc.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/b253c8a439d42548f1803d0a3f5c1dd2.png"
               />
             </p>
           </td>
@@ -2338,26 +2338,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/439dc6797bfbe16d077d55593192a108.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/ed9fac297fad12a74eeb4a50d6d66780.png"
                     ,
                     height="18"
                   />
-                  Grand Duke's Crown of Netherflame<br /><img
+                  Musketeer's Wild Wheat Felt Hat<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/3fd437742e94552dd938a109d493928c.png"
                     ,
                     height="18"
                   />
                   Grand Duke's Gloves of Fieryfur<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/a3d8837d1bc38a6d8257c32b8a246019.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/a888cf3c40ed12d07b4d187d0e6bc656.png"
                     ,
                     height="18"
                   />
-                  Grand Duke's Robe of Grace<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/a2b36f2ca6a9a9c6a5a6f6eb3e8676e6.png"
+                  Musketeer's Wind-Hunting Shawl<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/845a5ed26f43ac6111d64ce3bfdc6e6f.png"
                     ,
                     height="18"
                   />
-                  Grand Duke's Ceremonial Boots<br />
+                  Musketeer's Rivets Riding Boots<br />
                 </td>
               </tr>
               <tr>
@@ -2382,11 +2382,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Night on the Milky Way</td>
+                <td>After the Charmony Fall</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2502,6 +2502,117 @@
               <tr>
                 <td>Superimpose</td>
                 <td>2</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>The Herta </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>The Herta</h3></th>
+          <th><h3>Night on the Milky Way</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/5f16a32011d671c7526fa036761cdd86.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/b6e742f9b1279ec555de1e398f5c33fc.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/55cc65aea4c5bdc5798b95d81619480c.png"
+                    ,
+                    height="18"
+                  />
+                  Scholar's Silver-Rimmed Monocle<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/ba773f8a3389d92abfe93c5623e634ea.png"
+                    ,
+                    height="18"
+                  />
+                  Scholar's Auxiliary Knuckle<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/b3889c5f294edce6874e70444a9271c1.png"
+                    ,
+                    height="18"
+                  />
+                  Scholar's Tweed Jacket<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/012787662ddf8d7b2fdfff6d7faa3bce.png"
+                    ,
+                    height="18"
+                  />
+                  Scholar's Felt Snowboots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/494ac5837a8d498a5dd9e8eae30f90ad.png"
+                    ,
+                    height="18"
+                  />
+                  Izumo's Magatsu no Morokami<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/ffd7eb9dc17826d9d8fc07d2603de88e.png"
+                    ,
+                    height="18"
+                  />
+                  Izumo's Blades of Origin and End<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Night on the Milky Way</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -4767,26 +4878,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/ed9fac297fad12a74eeb4a50d6d66780.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/439dc6797bfbe16d077d55593192a108.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/fda88e32fe511423f6bc36ef0629f484.png"
+                  Grand Duke's Crown of Netherflame<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/3fd437742e94552dd938a109d493928c.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/a888cf3c40ed12d07b4d187d0e6bc656.png"
+                  Grand Duke's Gloves of Fieryfur<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/a3d8837d1bc38a6d8257c32b8a246019.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/845a5ed26f43ac6111d64ce3bfdc6e6f.png"
+                  Grand Duke's Robe of Grace<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u812xc/a2b36f2ca6a9a9c6a5a6f6eb3e8676e6.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  Grand Duke's Ceremonial Boots<br />
                 </td>
               </tr>
               <tr>
@@ -4815,7 +4926,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -6014,17 +6125,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
             height="20"
           />
-          Primogem
+          Fisherman's Toast
         </td>
       </tr>
     </table>
