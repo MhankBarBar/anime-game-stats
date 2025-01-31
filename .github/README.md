@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jan 30, 2025 19:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jan 31, 2025 08:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,7 +11,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          20 x
           <img
-            src="https://act.hoyoverse.com/event-static/2023/10/19/6425584a05316b3391818d90c8fd1905_7367765898506383889.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Lost Gold Fragment
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -6125,17 +6125,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fisherman's Toast
+          Adventurer's Experience
         </td>
       </tr>
     </table>
