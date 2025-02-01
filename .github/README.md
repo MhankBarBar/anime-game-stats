@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 01, 2025 08:43 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 01, 2025 19:36 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>560</td>
+        <td>561</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>110 (rate -98)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>10 (rate -75)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 0 (0%)<br />Event: 0 (0%)<br />Adventure Rewards: 0
-          (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
-          0 (0%)<br />Other: 0 (0%)<br />
+          Daily Activity: 60 (54%)<br />Event: 50 (45%)<br />Other: 0 (1%)<br />Adventure
+          Rewards: 0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0
+          (0%)<br />Mail: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6156,7 +6156,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1046</td>
+        <td>1047</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6606,7 +6606,7 @@
       </tr>
       <tr>
         <td>Items</td>
-        <td>1414</td>
+        <td>1415</td>
       </tr>
       <tr>
         <td>Visitors</td>
@@ -6737,7 +6737,7 @@
           />
           Primogems earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>490 (rate -86)</td>
       </tr>
       <tr>
         <td>
@@ -6747,14 +6747,14 @@
           />
           Mora earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>18150 (rate -99)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
-          (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+          Mail: 300 (62%)<br />Events: 170 (34%)<br />Daily Activity: 20 (4%)<br />Spiral
+          Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
+          0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
