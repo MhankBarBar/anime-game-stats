@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 15, 2025 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 16, 2025 08:47 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          1 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Bangboo Algorithm Modules
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Energy Drink (sugar-free)
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>569</td>
+        <td>570</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2930 (rate -72)</td>
+        <td>3335 (rate -68)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>13 (rate -68)</td>
+        <td>14 (rate -65)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 800 (27%)<br />Event: 750 (25%)<br />Daily Activity:
-          540 (18%)<br />Mail: 390 (13%)<br />Simulated Universe: 365 (12%)<br />Other:
-          0 (3%)<br />Adventure Rewards: 85 (2%)<br />
+          Forgotten Hall: 800 (23%)<br />Event: 750 (22%)<br />Simulated
+          Universe: 710 (21%)<br />Daily Activity: 600 (17%)<br />Mail: 390
+          (11%)<br />Other: 0 (4%)<br />Adventure Rewards: 85 (2%)<br />
         </td>
       </tr>
     </table>
@@ -6125,17 +6125,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -6164,7 +6164,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>11-3</td>
+        <td>9-3</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -6625,15 +6625,15 @@
     <table>
       <tr>
         <td>Season</td>
-        <td>102</td>
+        <td>103</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>12</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Total Wins</td>
-        <td>9</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Max Floor</td>
@@ -6647,59 +6647,59 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/e15cfb95b3d861622952747cfeb0f885.png"
-            ,
-            height="18"
-          />
-          Xiangling (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/1130939faedf9b9441361750d35bb47e.png"
             ,
             height="18"
           />
-          Zhongli (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/d82349d58ca86f734ae256b3f3336e07.png"
+          Zhongli (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/f14f8b4731ec9fe35960313b22f132b9.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (9)<br /><img
+          Arlecchino (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/e15cfb95b3d861622952747cfeb0f885.png"
+            ,
+            height="18"
+          />
+          Xiangling (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/08c8fc7eb74ce00f5ebf081caf6a9c54.png"
             ,
             height="18"
           />
-          Yelan (9)<br />
+          Yelan (8)<br />
         </td>
       </tr>
       <tr>
         <td>most_kills</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/006870772e580576e19fe61c80b41e46.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/beb9e6feafaf2e94e81ad088e5117ef2.png"
             ,
             height="18"
           />
-          Neuvillette (38)<br />
+          Arlecchino (37)<br />
         </td>
       </tr>
       <tr>
         <td>strongest_strike</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/c25165facb81c42e11093fa7834d20b1.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/5eb371f6a67148d38205a2802589de7f.png"
             ,
             height="18"
           />
-          Kinich (129565)<br />
+          Mualani (202101)<br />
         </td>
       </tr>
       <tr>
         <td>most_damage_taken</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/c25165facb81c42e11093fa7834d20b1.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/beb9e6feafaf2e94e81ad088e5117ef2.png"
             ,
             height="18"
           />
-          Kinich (21951)<br />
+          Arlecchino (25921)<br />
         </td>
       </tr>
       <tr>
@@ -6710,18 +6710,18 @@
             ,
             height="18"
           />
-          Xilonen (10)<br />
+          Xilonen (18)<br />
         </td>
       </tr>
       <tr>
         <td>most_skills_used</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/0b35363f3dd67d696b8b20510212d56f.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/ac5bd5720a2f89f96027b9f0bc75570b.png"
             ,
             height="18"
           />
-          Xilonen (15)<br />
+          Xingqiu (23)<br />
         </td>
       </tr>
     </table>
