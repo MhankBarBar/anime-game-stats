@@ -1,4 +1,4 @@
-genshin==1.7.4
+genshin @ git+https://github.com/thesadru/genshin.py
 Jinja2
 pydantic
 python-dotenv
