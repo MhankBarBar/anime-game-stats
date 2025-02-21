@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 17, 2025 19:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 21, 2025 10:33 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
             height="20"
           />
-          Official Investigator Logs
+          Crystallized Plating Agents
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Condensed Aether
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>571</td>
+        <td>572</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1437,7 +1437,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>650</td>
+        <td>652</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3395 (rate -68)</td>
+        <td>4265 (rate -59)</td>
       </tr>
       <tr>
         <td>
@@ -1473,10 +1473,31 @@
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 800 (23%)<br />Event: 750 (22%)<br />Simulated
-          Universe: 710 (20%)<br />Daily Activity: 660 (19%)<br />Mail: 390
-          (11%)<br />Other: 0 (3%)<br />Adventure Rewards: 85 (2%)<br />
+          Forgotten Hall: 1600 (37%)<br />Event: 750 (17%)<br />Daily Activity:
+          720 (16%)<br />Simulated Universe: 710 (16%)<br />Mail: 390 (9%)<br />Other:
+          0 (3%)<br />Adventure Rewards: 95 (2%)<br />
         </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
+    <h2>Memory of Chaos</h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>1021</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>Strife of Creation (XII)</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>7</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>36</td>
       </tr>
     </table>
   </div>
@@ -2382,20 +2403,20 @@
       <table>
         <tr>
           <th><h3>Trailblazer</h3></th>
-          <th><h3>Memories of the Past</h3></th>
+          <th><h3>Victory In a Blink</h3></th>
         </tr>
         <tr>
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/f6eeeee85b2721fa3d725f8fc1eaf174.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/821573c88e0c2b05996f54efb1ea22ab.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/c33a95f6f8641a63317c1571d70b800d.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/bd0ad9ec601c21780586303eda7a3856.png"
               />
             </p>
           </td>
@@ -2411,7 +2432,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
                     height="18"
                   />
                 </td>
@@ -2428,42 +2449,42 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/54405b0019227be379e5d19c2d31d453.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/1e3f2f377eeeb19809f1fa445e617849.png"
                     ,
                     height="18"
                   />
-                  Watchmaker's Telescoping Lens<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/ff5dde18f1b7ff859e3ae6cd5ca532e3.png"
+                  Hero's Wreath of Championship<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/dc1dd5a362c5cb1b464b512534948b9d.png"
                     ,
                     height="18"
                   />
-                  Watchmaker's Fortuitous Wristwatch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/cf534f2eac94b68a8538453b8e8d6e9c.png"
+                  Hero's Gilded Bracers<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/381d28327a16121b6d3a3b05f5e2c18f.png"
                     ,
                     height="18"
                   />
-                  Watchmaker's Illusory Formal Suit<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/6ba55c4493be99ccb280342f84af13f4.png"
+                  Hero's Gallant Golden Armor<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/ad8e6d47418379e9c4cdbd814788eca4.png"
                     ,
                     height="18"
                   />
-                  Watchmaker's Dream-Concealing Dress Shoes<br />
+                  Hero's Firechasing Shinguard<br />
                 </td>
               </tr>
               <tr>
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/44f240f195945e9c8bec0f8f6c21f408.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/5845fcba12560388d7a7e0dcb3439014.png"
                     ,
                     height="18"
                   />
-                  Talia's Nailscrap Town<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/d9e1d5f5ffd627f7492ec4d53b8a310f.png"
+                  Lushaka's Waterscape<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/ac3e95579dc2ccb03cc937bbc5ffcdd0.png"
                     ,
                     height="18"
                   />
-                  Talia's Exposed Electric Wire<br />
+                  Lushaka's Twinlanes<br />
                 </td>
               </tr>
             </table>
@@ -2472,15 +2493,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Memories of the Past</td>
+                <td>Victory In a Blink</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -6104,12 +6125,12 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          8000 x
           <img
             src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
@@ -6626,11 +6647,16 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/a3b4e20ced7e3c44f3f973cb9b2cea38.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/f14f8b4731ec9fe35960313b22f132b9.png"
             ,
             height="18"
           />
-          Xilonen (8)<br /><img
+          Arlecchino (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/e15cfb95b3d861622952747cfeb0f885.png"
+            ,
+            height="18"
+          />
+          Xiangling (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/08c8fc7eb74ce00f5ebf081caf6a9c54.png"
             ,
             height="18"
@@ -6640,12 +6666,7 @@
             ,
             height="18"
           />
-          Zhongli (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/f14f8b4731ec9fe35960313b22f132b9.png"
-            ,
-            height="18"
-          />
-          Arlecchino (8)<br />
+          Zhongli (8)<br />
         </td>
       </tr>
       <tr>
