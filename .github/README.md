@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 27, 2025 19:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 28, 2025 08:43 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/5dc8f83551ad36b7c1ec57f2e4f223d1_6882324669759105258.png"
             height="20"
           />
-          Dennies
+          Ether Plating Agents
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
             height="20"
           />
-          Lost Crystal
+          Traveler's Guide
         </td>
       </tr>
     </table>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>6158 (rate -42)</td>
+        <td>6218 (rate -41)</td>
       </tr>
       <tr>
         <td>
@@ -1473,8 +1473,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 1800 (29%)<br />Forgotten Hall: 1600 (25%)<br />Mail:
-          1010 (16%)<br />Daily Activity: 900 (14%)<br />Event: 750 (12%)<br />Other:
+          Simulated Universe: 1800 (28%)<br />Forgotten Hall: 1600 (25%)<br />Mail:
+          1010 (16%)<br />Daily Activity: 960 (15%)<br />Event: 750 (12%)<br />Other:
           3 (3%)<br />Adventure Rewards: 95 (1%)<br />
         </td>
       </tr>
@@ -6125,17 +6125,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          Adventurer's Experience
+          Hero's Wit
         </td>
       </tr>
     </table>
@@ -6647,26 +6647,26 @@
         <td>most_played</td>
         <td>
           <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/08c8fc7eb74ce00f5ebf081caf6a9c54.png"
+            ,
+            height="18"
+          />
+          Yelan (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/a3b4e20ced7e3c44f3f973cb9b2cea38.png"
             ,
             height="18"
           />
           Xilonen (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/e15cfb95b3d861622952747cfeb0f885.png"
+            ,
+            height="18"
+          />
+          Xiangling (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/1130939faedf9b9441361750d35bb47e.png"
             ,
             height="18"
           />
-          Zhongli (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/f14f8b4731ec9fe35960313b22f132b9.png"
-            ,
-            height="18"
-          />
-          Arlecchino (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/08c8fc7eb74ce00f5ebf081caf6a9c54.png"
-            ,
-            height="18"
-          />
-          Yelan (8)<br />
+          Zhongli (8)<br />
         </td>
       </tr>
       <tr>
