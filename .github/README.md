@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 01, 2025 08:49 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 01, 2025 19:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>576</td>
+        <td>577</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1437,7 +1437,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>652</td>
+        <td>653</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -6647,11 +6647,6 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/a3b4e20ced7e3c44f3f973cb9b2cea38.png"
-            ,
-            height="18"
-          />
-          Xilonen (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/e15cfb95b3d861622952747cfeb0f885.png"
             ,
             height="18"
@@ -6666,7 +6661,12 @@
             ,
             height="18"
           />
-          Zhongli (8)<br />
+          Zhongli (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/f14f8b4731ec9fe35960313b22f132b9.png"
+            ,
+            height="18"
+          />
+          Arlecchino (8)<br />
         </td>
       </tr>
       <tr>
