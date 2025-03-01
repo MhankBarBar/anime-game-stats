@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 28, 2025 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 01, 2025 08:49 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/5dc8f83551ad36b7c1ec57f2e4f223d1_6882324669759105258.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Ether Plating Agents
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Traveler's Guide
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>6218 (rate -41)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>20 (rate -51)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 1800 (28%)<br />Forgotten Hall: 1600 (25%)<br />Mail:
-          1010 (16%)<br />Daily Activity: 960 (15%)<br />Event: 750 (12%)<br />Other:
-          3 (3%)<br />Adventure Rewards: 95 (1%)<br />
+          Daily Activity: 0 (0%)<br />Event: 0 (0%)<br />Adventure Rewards: 0
+          (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
+          0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6125,17 +6125,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Hero's Wit
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6647,11 +6647,6 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/1130939faedf9b9441361750d35bb47e.png"
-            ,
-            height="18"
-          />
-          Zhongli (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/a3b4e20ced7e3c44f3f973cb9b2cea38.png"
             ,
             height="18"
@@ -6666,7 +6661,12 @@
             ,
             height="18"
           />
-          Yelan (8)<br />
+          Yelan (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/1130939faedf9b9441361750d35bb47e.png"
+            ,
+            height="18"
+          />
+          Zhongli (8)<br />
         </td>
       </tr>
       <tr>
@@ -6737,7 +6737,7 @@
           />
           Primogems earned
         </td>
-        <td>2020 (rate -45)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>
@@ -6747,14 +6747,14 @@
           />
           Mora earned
         </td>
-        <td>286300 (rate -84)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1680 (84%)<br />Events: 300 (15%)<br />Daily Activity: 40
-          (1%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
-          0 (0%)<br />Adventure: 0 (0%)<br />Other: 0 (0%)<br />
+          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
+          (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
+          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
