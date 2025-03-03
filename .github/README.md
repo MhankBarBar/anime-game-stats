@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 03, 2025 08:46 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 03, 2025 19:42 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>578</td>
+        <td>579</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1468,7 +1468,7 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>13 (rate -35)</td>
+        <td>14 (rate -30)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -6647,11 +6647,11 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/a3b4e20ced7e3c44f3f973cb9b2cea38.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/e15cfb95b3d861622952747cfeb0f885.png"
             ,
             height="18"
           />
-          Xilonen (8)<br /><img
+          Xiangling (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/1130939faedf9b9441361750d35bb47e.png"
             ,
             height="18"
@@ -6662,11 +6662,11 @@
             height="18"
           />
           Arlecchino (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/e15cfb95b3d861622952747cfeb0f885.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/a3b4e20ced7e3c44f3f973cb9b2cea38.png"
             ,
             height="18"
           />
-          Xiangling (8)<br />
+          Xilonen (8)<br />
         </td>
       </tr>
       <tr>
