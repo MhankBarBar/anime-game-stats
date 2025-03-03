@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 02, 2025 19:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 03, 2025 08:46 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          3000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Dennies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Condensed Aether
+          Credit
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>577</td>
+        <td>578</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>160 (rate -97)</td>
+        <td>496 (rate -92)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>2 (rate -90)</td>
+        <td>13 (rate -35)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 60 (37%)<br />Event: 50 (31%)<br />Mail: 50 (31%)<br />Other:
-          0 (1%)<br />Adventure Rewards: 0 (0%)<br />Simulated Universe: 0
-          (0%)<br />Forgotten Hall: 0 (0%)<br />
+          Simulated Universe: 270 (54%)<br />Daily Activity: 120 (24%)<br />Event:
+          50 (10%)<br />Mail: 50 (10%)<br />Adventure Rewards: 5 (1%)<br />Other:
+          1 (1%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6125,17 +6125,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -6647,16 +6647,11 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/e15cfb95b3d861622952747cfeb0f885.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/a3b4e20ced7e3c44f3f973cb9b2cea38.png"
             ,
             height="18"
           />
-          Xiangling (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/08c8fc7eb74ce00f5ebf081caf6a9c54.png"
-            ,
-            height="18"
-          />
-          Yelan (8)<br /><img
+          Xilonen (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/1130939faedf9b9441361750d35bb47e.png"
             ,
             height="18"
@@ -6666,7 +6661,12 @@
             ,
             height="18"
           />
-          Arlecchino (8)<br />
+          Arlecchino (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/e15cfb95b3d861622952747cfeb0f885.png"
+            ,
+            height="18"
+          />
+          Xiangling (8)<br />
         </td>
       </tr>
       <tr>
