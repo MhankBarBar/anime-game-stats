@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 04, 2025 19:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 05, 2025 08:45 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
             height="20"
           />
-          Crystallized Plating Agents
+          Polychromes
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Canned Soda
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>579</td>
+        <td>580</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>496 (rate -92)</td>
+        <td>1521 (rate -75)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>14 (rate -30)</td>
+        <td>17 (rate -15)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 270 (54%)<br />Daily Activity: 120 (24%)<br />Event:
-          50 (10%)<br />Mail: 50 (10%)<br />Adventure Rewards: 5 (1%)<br />Other:
-          1 (1%)<br />Forgotten Hall: 0 (0%)<br />
+          Simulated Universe: 675 (44%)<br />Forgotten Hall: 560 (36%)<br />Daily
+          Activity: 180 (11%)<br />Event: 50 (3%)<br />Mail: 50 (3%)<br />Other:
+          1 (3%)<br />Adventure Rewards: 5 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6125,17 +6125,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
             height="20"
           />
-          Primogem
+          Sweet Madame
         </td>
       </tr>
     </table>
@@ -6652,21 +6652,21 @@
             height="18"
           />
           Zhongli (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/e15cfb95b3d861622952747cfeb0f885.png"
-            ,
-            height="18"
-          />
-          Xiangling (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/08c8fc7eb74ce00f5ebf081caf6a9c54.png"
-            ,
-            height="18"
-          />
-          Yelan (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/f14f8b4731ec9fe35960313b22f132b9.png"
             ,
             height="18"
           />
-          Arlecchino (8)<br />
+          Arlecchino (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/a3b4e20ced7e3c44f3f973cb9b2cea38.png"
+            ,
+            height="18"
+          />
+          Xilonen (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/e15cfb95b3d861622952747cfeb0f885.png"
+            ,
+            height="18"
+          />
+          Xiangling (8)<br />
         </td>
       </tr>
       <tr>
