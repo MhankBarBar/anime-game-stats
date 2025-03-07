@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 07, 2025 08:45 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 07, 2025 19:41 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>580</td>
+        <td>581</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1437,7 +1437,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>653</td>
+        <td>654</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1521 (rate -75)</td>
+        <td>1946 (rate -68)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>17 (rate -15)</td>
+        <td>20 (rate 0)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 675 (44%)<br />Forgotten Hall: 560 (36%)<br />Daily
-          Activity: 180 (11%)<br />Event: 50 (3%)<br />Mail: 50 (3%)<br />Other:
-          1 (3%)<br />Adventure Rewards: 5 (0%)<br />
+          Simulated Universe: 675 (34%)<br />Forgotten Hall: 560 (28%)<br />Event:
+          390 (20%)<br />Daily Activity: 240 (12%)<br />Mail: 70 (3%)<br />Other:
+          1 (3%)<br />Adventure Rewards: 10 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6647,16 +6647,11 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e76d6bdb8f4aeea019df7856ef9eca3f.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1b277d9a90936da66f13918e3c9b828c.png"
             ,
             height="18"
           />
-          Yelan (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7c047dce3a1be70baa30f28111222e38.png"
-            ,
-            height="18"
-          />
-          Xilonen (8)<br /><img
+          Arlecchino (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png"
             ,
             height="18"
@@ -6666,7 +6661,12 @@
             ,
             height="18"
           />
-          Zhongli (8)<br />
+          Zhongli (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7c047dce3a1be70baa30f28111222e38.png"
+            ,
+            height="18"
+          />
+          Xilonen (8)<br />
         </td>
       </tr>
       <tr>
