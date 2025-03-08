@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 07, 2025 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 08, 2025 08:18 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          1 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Bangboo Algorithm Modules
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -6125,17 +6125,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6652,21 +6652,21 @@
             height="18"
           />
           Arlecchino (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7c047dce3a1be70baa30f28111222e38.png"
+            ,
+            height="18"
+          />
+          Xilonen (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png"
             ,
             height="18"
           />
           Xiangling (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9dcda1d9e45a4f9e59266480ee2fc0c8.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e76d6bdb8f4aeea019df7856ef9eca3f.png"
             ,
             height="18"
           />
-          Zhongli (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7c047dce3a1be70baa30f28111222e38.png"
-            ,
-            height="18"
-          />
-          Xilonen (8)<br />
+          Yelan (8)<br />
         </td>
       </tr>
       <tr>
