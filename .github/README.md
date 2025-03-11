@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 11, 2025 08:45 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 11, 2025 19:44 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -6652,6 +6652,11 @@
             height="18"
           />
           Xilonen (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png"
+            ,
+            height="18"
+          />
+          Xiangling (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e76d6bdb8f4aeea019df7856ef9eca3f.png"
             ,
             height="18"
@@ -6661,12 +6666,7 @@
             ,
             height="18"
           />
-          Zhongli (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png"
-            ,
-            height="18"
-          />
-          Xiangling (8)<br />
+          Zhongli (8)<br />
         </td>
       </tr>
       <tr>
