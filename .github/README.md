@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 13, 2025 19:44 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 14, 2025 08:44 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>13</td>
+        <td>14</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Polychromes
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>13</td>
+        <td>14</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Stellar Jade
+          Credit
         </td>
       </tr>
     </table>
@@ -1429,15 +1429,15 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>583</td>
+        <td>584</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>46</td>
+        <td>47</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>656</td>
+        <td>658</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2406 (rate -61)</td>
+        <td>2866 (rate -53)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>20 (rate 0)</td>
+        <td>23 (rate 15)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 780 (32%)<br />Simulated Universe: 675 (28%)<br />Forgotten
-          Hall: 560 (23%)<br />Daily Activity: 300 (12%)<br />Other: 1 (3%)<br />Mail:
-          70 (2%)<br />Adventure Rewards: 20 (0%)<br />
+          Event: 1120 (39%)<br />Simulated Universe: 675 (23%)<br />Forgotten
+          Hall: 560 (19%)<br />Daily Activity: 360 (12%)<br />Mail: 90 (3%)<br />Adventure
+          Rewards: 60 (2%)<br />Other: 1 (2%)<br />
         </td>
       </tr>
     </table>
@@ -2502,6 +2502,117 @@
               <tr>
                 <td>Superimpose</td>
                 <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Tribbie </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Tribbie</h3></th>
+          <th><h3>Dance! Dance! Dance!</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/22c92a0001750e3d2fffdba2e823a29e.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/dd6f5f405b4604cbd3de57fb1279daa9.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/66936212b907f1897e967ed4d44f1c4d.png"
+                    ,
+                    height="18"
+                  />
+                  Poet's Dill Wreath<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/0b227895e246037f929b712fbb541ccb.png"
+                    ,
+                    height="18"
+                  />
+                  Poet's Gilded Bracelet<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/d8896b402d3a799b3196284887b73b42.png"
+                    ,
+                    height="18"
+                  />
+                  Poet's Star-Studded Skirt<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/562dbd91d9ba676622cc0c10dadbfa97.png"
+                    ,
+                    height="18"
+                  />
+                  Poet's Silver-Studded Shoes<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/0adb6bbe8bdcf91dc532f26757023aa4.png"
+                    ,
+                    height="18"
+                  />
+                  Aidonia's Deceased Gravestones<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/bd905954234d64fa65902f59cb0751ec.png"
+                    ,
+                    height="18"
+                  />
+                  Aidonia's Deathward Bone Chains<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Dance! Dance! Dance!</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -4393,7 +4504,7 @@
       <table>
         <tr>
           <th><h3>Tingyun</h3></th>
-          <th><h3>Dance! Dance! Dance!</h3></th>
+          <th><h3></h3></th>
         </tr>
         <tr>
           <td>
@@ -4404,11 +4515,7 @@
             </p>
           </td>
           <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uac61c/dd6f5f405b4604cbd3de57fb1279daa9.png"
-              />
-            </p>
+            <p align="center"><img src="" /></p>
           </td>
         </tr>
         <tr>
@@ -4483,15 +4590,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Dance! Dance! Dance!</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -4544,7 +4651,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -6125,17 +6232,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>13</td>
+        <td>14</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
@@ -6647,26 +6754,26 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e76d6bdb8f4aeea019df7856ef9eca3f.png"
-            ,
-            height="18"
-          />
-          Yelan (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1b277d9a90936da66f13918e3c9b828c.png"
             ,
             height="18"
           />
           Arlecchino (8)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9dcda1d9e45a4f9e59266480ee2fc0c8.png"
-            ,
-            height="18"
-          />
-          Zhongli (8)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7c047dce3a1be70baa30f28111222e38.png"
             ,
             height="18"
           />
-          Xilonen (8)<br />
+          Xilonen (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png"
+            ,
+            height="18"
+          />
+          Xiangling (8)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9dcda1d9e45a4f9e59266480ee2fc0c8.png"
+            ,
+            height="18"
+          />
+          Zhongli (8)<br />
         </td>
       </tr>
       <tr>
