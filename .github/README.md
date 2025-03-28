@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 27, 2025 19:45 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 28, 2025 08:47 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/5dc8f83551ad36b7c1ec57f2e4f223d1_6882324669759105258.png"
             height="20"
           />
-          Dennies
+          Ether Plating Agents
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
             height="20"
           />
-          Lost Crystal
+          Traveler's Guide
         </td>
       </tr>
     </table>
@@ -6232,17 +6232,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          Adventurer's Experience
+          Hero's Wit
         </td>
       </tr>
     </table>
