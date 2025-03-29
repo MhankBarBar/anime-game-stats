@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 29, 2025 08:46 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 29, 2025 19:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>590</td>
+        <td>591</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>6112 (rate -1)</td>
+        <td>6472 (rate 4)</td>
       </tr>
       <tr>
         <td>
@@ -1473,9 +1473,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 1745 (28%)<br />Event: 1620 (26%)<br />Forgotten
-          Hall: 1600 (26%)<br />Daily Activity: 660 (10%)<br />Adventure
-          Rewards: 325 (5%)<br />Other: 2 (3%)<br />Mail: 160 (2%)<br />
+          Simulated Universe: 1745 (26%)<br />Event: 1620 (25%)<br />Forgotten
+          Hall: 1600 (24%)<br />Daily Activity: 720 (11%)<br />Mail: 460 (7%)<br />Adventure
+          Rewards: 325 (5%)<br />Other: 2 (2%)<br />
         </td>
       </tr>
     </table>
@@ -6263,7 +6263,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1054</td>
+        <td>1055</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6742,7 +6742,7 @@
           />
           Mora earned
         </td>
-        <td>1097440 (rate 283)</td>
+        <td>1102440 (rate 285)</td>
       </tr>
       <tr>
         <td>Categories</td>
