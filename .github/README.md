@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Mar 30, 2025 19:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Mar 31, 2025 08:53 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,7 +11,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -1402,7 +1402,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -1477,27 +1477,6 @@
           Hall: 1600 (24%)<br />Daily Activity: 720 (11%)<br />Mail: 460 (7%)<br />Adventure
           Rewards: 325 (5%)<br />Other: 2 (2%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1021</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>Strife of Creation (XII)</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>7</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>36</td>
       </tr>
     </table>
   </div>
@@ -6232,7 +6211,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -6732,7 +6711,7 @@
           />
           Primogems earned
         </td>
-        <td>2557 (rate 26)</td>
+        <td>2617 (rate 29)</td>
       </tr>
       <tr>
         <td>
@@ -6742,14 +6721,14 @@
           />
           Mora earned
         </td>
-        <td>1115831 (rate 289)</td>
+        <td>1181613 (rate 312)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1350 (53%)<br />Events: 520 (20%)<br />Spiral Abyss: 500
-          (19%)<br />Daily Activity: 130 (5%)<br />Adventure: 5 (1%)<br />Imaginarium
-          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 52 (2%)<br />
+          Mail: 1350 (52%)<br />Events: 520 (20%)<br />Spiral Abyss: 500
+          (19%)<br />Daily Activity: 190 (7%)<br />Adventure: 5 (1%)<br />Imaginarium
+          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 52 (1%)<br />
         </td>
       </tr>
     </table>
@@ -7768,7 +7747,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Constellation</td>
