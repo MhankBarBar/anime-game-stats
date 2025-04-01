@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 01, 2025 09:00 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 01, 2025 19:47 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -6263,7 +6263,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1057</td>
+        <td>1058</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6742,7 +6742,7 @@
           />
           Mora earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>641 (rate -99)</td>
       </tr>
       <tr>
         <td>Categories</td>
