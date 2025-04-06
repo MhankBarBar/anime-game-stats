@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 05, 2025 19:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 06, 2025 08:54 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Polychromes
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>595</td>
+        <td>596</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>867 (rate -88)</td>
+        <td>1092 (rate -84)</td>
       </tr>
       <tr>
         <td>
@@ -1473,9 +1473,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 745 (85%)<br />Daily Activity: 120 (13%)<br />Other:
-          2 (2%)<br />Event: 0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten
-          Hall: 0 (0%)<br />Mail: 0 (0%)<br />
+          Adventure Rewards: 750 (68%)<br />Daily Activity: 180 (16%)<br />Mail:
+          120 (10%)<br />Event: 40 (3%)<br />Other: 2 (3%)<br />Simulated
+          Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6232,17 +6232,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Sweet Madame
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6263,7 +6263,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1060</td>
+        <td>1061</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6732,7 +6732,7 @@
           />
           Primogems earned
         </td>
-        <td>70 (rate -97)</td>
+        <td>131 (rate -95)</td>
       </tr>
       <tr>
         <td>
@@ -6742,14 +6742,14 @@
           />
           Mora earned
         </td>
-        <td>59450 (rate -95)</td>
+        <td>100587 (rate -91)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 60 (86%)<br />Adventure: 10 (14%)<br />Events: 0
-          (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+          Daily Activity: 100 (77%)<br />Mail: 20 (15%)<br />Adventure: 10
+          (7%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
     </table>
