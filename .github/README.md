@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 09, 2025 08:49 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 09, 2025 19:47 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,15 +1429,15 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>598</td>
+        <td>599</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>47</td>
+        <td>48</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>675</td>
+        <td>678</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1497 (rate -79)</td>
+        <td>2662 (rate -63)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>7 (rate -75)</td>
+        <td>17 (rate -41)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 750 (50%)<br />Simulated Universe: 345 (23%)<br />Daily
-          Activity: 240 (16%)<br />Mail: 120 (8%)<br />Event: 40 (2%)<br />Other:
-          2 (1%)<br />Forgotten Hall: 0 (0%)<br />
+          Adventure Rewards: 775 (29%)<br />Mail: 720 (27%)<br />Event: 440
+          (16%)<br />Simulated Universe: 345 (12%)<br />Daily Activity: 300
+          (11%)<br />Forgotten Hall: 80 (3%)<br />Other: 2 (2%)<br />
         </td>
       </tr>
     </table>
@@ -1489,15 +1489,15 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>Out of Home (XI)</td>
+        <td>Out of Home (XII)</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>4</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Total Stars</td>
-        <td>33</td>
+        <td>36</td>
       </tr>
     </table>
   </div>
@@ -2494,6 +2494,117 @@
               <tr>
                 <td>Name</td>
                 <td>Victory In a Blink</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Castorice </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Castorice</h3></th>
+          <th><h3>Post-Op Conversation</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/984cbf7c3571a91b1877f507bf17bc90.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/f7939cd072851700a730119d5941da1f.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/f8d163eb127b51220426a5df31307782.png"
+                    ,
+                    height="18"
+                  />
+                  Poet's Dill Wreath<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/6bd62b0256d7abda0b53f99928602f55.png"
+                    ,
+                    height="18"
+                  />
+                  Poet's Gilded Bracelet<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/00d4c1fa9a873096f6cdc29716fcd3b0.png"
+                    ,
+                    height="18"
+                  />
+                  Poet's Star-Studded Skirt<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/29341f54d8fe283acf8992f5fa20f71f.png"
+                    ,
+                    height="18"
+                  />
+                  Poet's Silver-Studded Shoes<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/fb9a09cc103b4cc4eee8c56092862fd6.png"
+                    ,
+                    height="18"
+                  />
+                  Aidonia's Deceased Gravestones<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/b2ac6ff7bef93761155548bf9f4f624b.png"
+                    ,
+                    height="18"
+                  />
+                  Aidonia's Deathward Bone Chains<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Post-Op Conversation</td>
               </tr>
               <tr>
                 <td>Level</td>
