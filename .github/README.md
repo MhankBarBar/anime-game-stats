@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 09, 2025 19:47 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 10, 2025 08:49 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -6343,17 +6343,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -6370,11 +6370,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1032</td>
+        <td>1034</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1064</td>
+        <td>1065</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6843,7 +6843,7 @@
           />
           Primogems earned
         </td>
-        <td>141 (rate -94)</td>
+        <td>151 (rate -94)</td>
       </tr>
       <tr>
         <td>
@@ -6853,13 +6853,13 @@
           />
           Mora earned
         </td>
-        <td>124655 (rate -89)</td>
+        <td>125285 (rate -89)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 110 (78%)<br />Mail: 20 (14%)<br />Adventure: 10
-          (7%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+          Daily Activity: 110 (73%)<br />Adventure: 20 (13%)<br />Mail: 20
+          (13%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
           Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
