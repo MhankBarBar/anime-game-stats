@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 11, 2025 08:49 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 11, 2025 19:45 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>600</td>
+        <td>601</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1437,7 +1437,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>678</td>
+        <td>681</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2832 (rate -61)</td>
+        <td>3862 (rate -46)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>19 (rate -34)</td>
+        <td>25 (rate -13)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 830 (29%)<br />Adventure Rewards: 775 (27%)<br />Event: 440
-          (15%)<br />Daily Activity: 360 (12%)<br />Simulated Universe: 345
-          (12%)<br />Other: 2 (3%)<br />Forgotten Hall: 80 (2%)<br />
+          Event: 940 (24%)<br />Mail: 830 (21%)<br />Adventure Rewards: 790
+          (20%)<br />Simulated Universe: 800 (20%)<br />Daily Activity: 420
+          (10%)<br />Other: 2 (3%)<br />Forgotten Hall: 80 (2%)<br />
         </td>
       </tr>
     </table>
@@ -2514,7 +2514,7 @@
       <table>
         <tr>
           <th><h3>Castorice</h3></th>
-          <th><h3>Post-Op Conversation</h3></th>
+          <th><h3>Make Farewells More Beautiful</h3></th>
         </tr>
         <tr>
           <td>
@@ -2527,7 +2527,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/f7939cd072851700a730119d5941da1f.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/91ae559001f52f6106ac9c6f40a42b67.png"
               />
             </p>
           </td>
@@ -2604,7 +2604,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Post-Op Conversation</td>
+                <td>Make Farewells More Beautiful</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2612,7 +2612,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
