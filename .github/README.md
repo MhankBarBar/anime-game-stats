@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 12, 2025 08:46 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 12, 2025 19:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>601</td>
+        <td>602</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1468,7 +1468,7 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>25 (rate -13)</td>
+        <td>27 (rate -6)</td>
       </tr>
       <tr>
         <td>Categories</td>
