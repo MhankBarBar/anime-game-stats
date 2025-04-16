@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 16, 2025 08:52 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 16, 2025 19:47 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>603</td>
+        <td>604</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1468,7 +1468,7 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>29 (rate 0)</td>
+        <td>31 (rate 6)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -6374,7 +6374,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1067</td>
+        <td>1068</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6382,7 +6382,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>-</td>
+        <td>8-3</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -6865,16 +6865,16 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a024f0f2e06e99d67f112cd12eef4af.png"
-            ,
-            height="18"
-          />
-          Furina (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9dcda1d9e45a4f9e59266480ee2fc0c8.png"
             ,
             height="18"
           />
           Zhongli (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7d56eb845d4f982757a942a97f88b958.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/23aa979c8e86b7006a62039b9dd81c5b.png"
             ,
             height="18"
