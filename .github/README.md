@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 15, 2025 19:46 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 16, 2025 08:52 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          1 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Bangboo Algorithm Modules
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Energy Drink (sugar-free)
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -6343,17 +6343,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -6374,7 +6374,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1066</td>
+        <td>1067</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6382,7 +6382,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>11-3</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -6833,6 +6833,118 @@
     </table>
   </div>
   <div align="center">
+    <h2>
+      <img
+        src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+        height="20"
+      />
+      Spiral Abyss
+    </h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>105</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>9</td>
+      </tr>
+      <tr>
+        <td>Total Wins</td>
+        <td>9</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>11-3</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>26</td>
+      </tr>
+      <tr>
+        <td>most_played</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a024f0f2e06e99d67f112cd12eef4af.png"
+            ,
+            height="18"
+          />
+          Furina (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9dcda1d9e45a4f9e59266480ee2fc0c8.png"
+            ,
+            height="18"
+          />
+          Zhongli (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/23aa979c8e86b7006a62039b9dd81c5b.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b30987d539b299dc89004d72274f5e89.png"
+            ,
+            height="18"
+          />
+          Neuvillette (9)<br />
+        </td>
+      </tr>
+      <tr>
+        <td>most_kills</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/ecc17cb83ca92fc24f7a39d7605364e3.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (24)<br />
+        </td>
+      </tr>
+      <tr>
+        <td>strongest_strike</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/ecc17cb83ca92fc24f7a39d7605364e3.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (166070)<br />
+        </td>
+      </tr>
+      <tr>
+        <td>most_damage_taken</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/5ff8490c210ffaf5953efed4c8672962.png"
+            ,
+            height="18"
+          />
+          Neuvillette (111081)<br />
+        </td>
+      </tr>
+      <tr>
+        <td>most_bursts_used</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/cba1d6c6811a1e599725d8f24b6b7458.png"
+            ,
+            height="18"
+          />
+          Kaedehara Kazuha (9)<br />
+        </td>
+      </tr>
+      <tr>
+        <td>most_skills_used</td>
+        <td>
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f727/5ff8490c210ffaf5953efed4c8672962.png"
+            ,
+            height="18"
+          />
+          Neuvillette (41)<br />
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
     <h2><img src="../images/icons/genshin_diary.png" height="20" /> Diary</h2>
     <table>
       <tr>
@@ -6843,7 +6955,7 @@
           />
           Primogems earned
         </td>
-        <td>653 (rate -75)</td>
+        <td>753 (rate -71)</td>
       </tr>
       <tr>
         <td>
@@ -6853,13 +6965,13 @@
           />
           Mora earned
         </td>
-        <td>185760 (rate -85)</td>
+        <td>267736 (rate -78)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 420 (64%)<br />Daily Activity: 170 (26%)<br />Mail: 40 (6%)<br />Adventure:
-          20 (3%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
+          Events: 460 (62%)<br />Daily Activity: 230 (30%)<br />Mail: 40 (5%)<br />Adventure:
+          20 (2%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
           0 (0%)<br />Other: 3 (1%)<br />
         </td>
       </tr>
