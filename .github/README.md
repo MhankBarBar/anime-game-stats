@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 17, 2025 19:46 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 18, 2025 08:48 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -6343,17 +6343,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -6370,11 +6370,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1034</td>
+        <td>1036</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1068</td>
+        <td>1070</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6382,7 +6382,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>10-3</td>
+        <td>11-3</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -6410,11 +6410,11 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>2603</td>
+        <td>2605</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1974</td>
+        <td>1976</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
@@ -6955,7 +6955,7 @@
           />
           Primogems earned
         </td>
-        <td>1213 (rate -54)</td>
+        <td>1378 (rate -48)</td>
       </tr>
       <tr>
         <td>
@@ -6965,13 +6965,13 @@
           />
           Mora earned
         </td>
-        <td>576726 (rate -53)</td>
+        <td>770376 (rate -38)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 460 (38%)<br />Spiral Abyss: 400 (33%)<br />Daily Activity:
-          290 (24%)<br />Mail: 40 (3%)<br />Adventure: 20 (1%)<br />Imaginarium
+          Spiral Abyss: 500 (37%)<br />Events: 460 (34%)<br />Daily Activity:
+          350 (25%)<br />Mail: 40 (2%)<br />Adventure: 25 (1%)<br />Imaginarium
           Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 3 (1%)<br />
         </td>
       </tr>
@@ -9039,7 +9039,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
