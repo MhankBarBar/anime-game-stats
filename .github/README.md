@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 18, 2025 19:44 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 19, 2025 08:46 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          3000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Dennies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>604</td>
+        <td>605</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1437,11 +1437,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>682</td>
+        <td>686</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>1004</td>
+        <td>1007</td>
       </tr>
       <tr>
         <td>Sticker Pass Dreamscape</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>5197 (rate -28)</td>
+        <td>6123 (rate -15)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>31 (rate 6)</td>
+        <td>37 (rate 27)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1320 (25%)<br />Forgotten Hall: 880 (16%)<br />Mail: 850
-          (16%)<br />Adventure Rewards: 805 (15%)<br />Simulated Universe: 800
-          (15%)<br />Daily Activity: 540 (10%)<br />Other: 2 (3%)<br />
+          Adventure Rewards: 1590 (25%)<br />Event: 1400 (22%)<br />Forgotten
+          Hall: 880 (14%)<br />Simulated Universe: 800 (13%)<br />Mail: 850
+          (13%)<br />Daily Activity: 600 (9%)<br />Other: 3 (4%)<br />
         </td>
       </tr>
     </table>
@@ -6343,17 +6343,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
             height="20"
           />
-          Primogem
+          Fisherman's Toast
         </td>
       </tr>
     </table>
