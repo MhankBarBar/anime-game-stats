@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 20, 2025 08:57 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 20, 2025 19:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -6370,11 +6370,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1038</td>
+        <td>1040</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1071</td>
+        <td>1072</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6406,31 +6406,31 @@
       </tr>
       <tr>
         <td>Pyroculi</td>
-        <td>111</td>
+        <td>114</td>
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>2609</td>
+        <td>2612</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1982</td>
+        <td>1984</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>588</td>
+        <td>589</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
-        <td>235</td>
+        <td>236</td>
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
-        <td>241</td>
+        <td>242</td>
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>522</td>
+        <td>526</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -6597,7 +6597,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/32/" width="80" />
+                <img src="https://progress-bar.xyz/33/" width="80" />
               </td>
             </tr>
             <tr>
@@ -6955,7 +6955,7 @@
           />
           Primogems earned
         </td>
-        <td>1718 (rate -36)</td>
+        <td>1890 (rate -29)</td>
       </tr>
       <tr>
         <td>
@@ -6965,14 +6965,14 @@
           />
           Mora earned
         </td>
-        <td>1157091 (rate -6)</td>
+        <td>1286299 (rate 3)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Spiral Abyss: 500 (30%)<br />Daily Activity: 470 (28%)<br />Events:
-          460 (26%)<br />Adventure: 132 (7%)<br />Quests: 90 (5%)<br />Mail: 60
-          (3%)<br />Imaginarium Theater: 0 (0%)<br />Other: 6 (1%)<br />
+          Daily Activity: 530 (29%)<br />Spiral Abyss: 500 (26%)<br />Events:
+          460 (24%)<br />Adventure: 213 (11%)<br />Quests: 120 (6%)<br />Mail:
+          60 (3%)<br />Imaginarium Theater: 0 (0%)<br />Other: 7 (1%)<br />
         </td>
       </tr>
     </table>
