@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 19, 2025 19:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 20, 2025 08:57 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3000 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
             height="20"
           />
-          Dennies
+          Polychromes
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Credit
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -6343,17 +6343,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fisherman's Toast
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6370,7 +6370,7 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1036</td>
+        <td>1038</td>
       </tr>
       <tr>
         <td>Days_Active</td>
@@ -6406,19 +6406,19 @@
       </tr>
       <tr>
         <td>Pyroculi</td>
-        <td>109</td>
+        <td>111</td>
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>2607</td>
+        <td>2609</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1976</td>
+        <td>1982</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>585</td>
+        <td>588</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
@@ -6426,11 +6426,11 @@
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
-        <td>239</td>
+        <td>241</td>
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>520</td>
+        <td>522</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -6597,7 +6597,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/31/" width="80" />
+                <img src="https://progress-bar.xyz/32/" width="80" />
               </td>
             </tr>
             <tr>
@@ -6955,7 +6955,7 @@
           />
           Primogems earned
         </td>
-        <td>1541 (rate -42)</td>
+        <td>1718 (rate -36)</td>
       </tr>
       <tr>
         <td>
@@ -6965,14 +6965,14 @@
           />
           Mora earned
         </td>
-        <td>907320 (rate -27)</td>
+        <td>1157091 (rate -6)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Spiral Abyss: 500 (33%)<br />Events: 460 (30%)<br />Daily Activity:
-          410 (27%)<br />Quests: 60 (3%)<br />Adventure: 48 (3%)<br />Mail: 60
-          (3%)<br />Imaginarium Theater: 0 (0%)<br />Other: 3 (1%)<br />
+          Spiral Abyss: 500 (30%)<br />Daily Activity: 470 (28%)<br />Events:
+          460 (26%)<br />Adventure: 132 (7%)<br />Quests: 90 (5%)<br />Mail: 60
+          (3%)<br />Imaginarium Theater: 0 (0%)<br />Other: 6 (1%)<br />
         </td>
       </tr>
     </table>
@@ -8165,7 +8165,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>6</td>
+                <td>7</td>
               </tr>
               <tr>
                 <td>Constellation</td>
