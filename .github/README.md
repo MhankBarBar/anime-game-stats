@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 20, 2025 19:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 21, 2025 08:56 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
             height="20"
           />
-          Polychromes
+          Crystallized Plating Agents
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>605</td>
+        <td>606</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -6343,17 +6343,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
@@ -6370,11 +6370,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1040</td>
+        <td>1041</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1072</td>
+        <td>1073</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6406,7 +6406,7 @@
       </tr>
       <tr>
         <td>Pyroculi</td>
-        <td>114</td>
+        <td>116</td>
       </tr>
       <tr>
         <td>Common_Chests</td>
@@ -6414,7 +6414,7 @@
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1984</td>
+        <td>1987</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
@@ -6426,11 +6426,11 @@
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
-        <td>242</td>
+        <td>243</td>
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>526</td>
+        <td>530</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -6453,6 +6453,7 @@
     </h2>
     <table>
       <tr>
+        <th>Ancient Sacred Mountain</th>
         <th>Natlan</th>
         <th>Sea of Bygone Eras</th>
         <th>Chenyu Vale: Upper Vale</th>
@@ -6470,6 +6471,9 @@
         <th>Chenyu Vale</th>
       </tr>
       <tr>
+        <td>
+          <p align="center"><img src="" width="180" /></p>
+        </td>
         <td>
           <p align="center">
             <img
@@ -6597,7 +6601,21 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/33/" width="80" />
+                <img src="https://progress-bar.xyz/3/" width="80" />
+              </td>
+            </tr>
+            <tr>
+              <td>TypeUnknow</td>
+              <td>0</td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <table>
+            <tr>
+              <td>Explored</td>
+              <td>
+                <img src="https://progress-bar.xyz/34/" width="80" />
               </td>
             </tr>
             <tr>
