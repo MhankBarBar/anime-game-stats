@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 21, 2025 08:56 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 21, 2025 19:45 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -6426,11 +6426,11 @@
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
-        <td>243</td>
+        <td>244</td>
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>530</td>
+        <td>531</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -6601,7 +6601,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/3/" width="80" />
+                <img src="https://progress-bar.xyz/5/" width="80" />
               </td>
             </tr>
             <tr>
@@ -6973,7 +6973,7 @@
           />
           Primogems earned
         </td>
-        <td>1890 (rate -29)</td>
+        <td>2020 (rate -24)</td>
       </tr>
       <tr>
         <td>
@@ -6983,14 +6983,14 @@
           />
           Mora earned
         </td>
-        <td>1286299 (rate 3)</td>
+        <td>1372628 (rate 10)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 530 (29%)<br />Spiral Abyss: 500 (26%)<br />Events:
-          460 (24%)<br />Adventure: 213 (11%)<br />Quests: 120 (6%)<br />Mail:
-          60 (3%)<br />Imaginarium Theater: 0 (0%)<br />Other: 7 (1%)<br />
+          Daily Activity: 570 (29%)<br />Spiral Abyss: 500 (25%)<br />Events:
+          460 (23%)<br />Adventure: 263 (13%)<br />Quests: 160 (7%)<br />Mail:
+          60 (2%)<br />Imaginarium Theater: 0 (0%)<br />Other: 7 (1%)<br />
         </td>
       </tr>
     </table>
