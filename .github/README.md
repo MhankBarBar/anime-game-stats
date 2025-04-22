@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 21, 2025 19:45 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 22, 2025 08:51 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Crystallized Plating Agents
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -6343,17 +6343,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          5 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6406,7 +6406,7 @@
       </tr>
       <tr>
         <td>Pyroculi</td>
-        <td>116</td>
+        <td>117</td>
       </tr>
       <tr>
         <td>Common_Chests</td>
@@ -6414,15 +6414,15 @@
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1987</td>
+        <td>1989</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>589</td>
+        <td>590</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
-        <td>236</td>
+        <td>238</td>
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
@@ -6430,7 +6430,7 @@
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>531</td>
+        <td>532</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -6601,7 +6601,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/5/" width="80" />
+                <img src="https://progress-bar.xyz/10/" width="80" />
               </td>
             </tr>
             <tr>
@@ -6973,7 +6973,7 @@
           />
           Primogems earned
         </td>
-        <td>2020 (rate -24)</td>
+        <td>2095 (rate -22)</td>
       </tr>
       <tr>
         <td>
@@ -6983,13 +6983,13 @@
           />
           Mora earned
         </td>
-        <td>1372628 (rate 10)</td>
+        <td>1407864 (rate 13)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 570 (29%)<br />Spiral Abyss: 500 (25%)<br />Events:
-          460 (23%)<br />Adventure: 263 (13%)<br />Quests: 160 (7%)<br />Mail:
+          Daily Activity: 590 (29%)<br />Spiral Abyss: 500 (24%)<br />Events:
+          460 (22%)<br />Adventure: 318 (15%)<br />Quests: 160 (7%)<br />Mail:
           60 (2%)<br />Imaginarium Theater: 0 (0%)<br />Other: 7 (1%)<br />
         </td>
       </tr>
