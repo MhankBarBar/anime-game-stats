@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 22, 2025 08:51 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 22, 2025 19:46 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -6370,11 +6370,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1041</td>
+        <td>1043</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1073</td>
+        <td>1074</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6406,15 +6406,15 @@
       </tr>
       <tr>
         <td>Pyroculi</td>
-        <td>117</td>
+        <td>118</td>
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>2612</td>
+        <td>2614</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1989</td>
+        <td>1995</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
@@ -6422,7 +6422,7 @@
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
-        <td>238</td>
+        <td>239</td>
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
@@ -6430,7 +6430,7 @@
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>532</td>
+        <td>535</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -6601,7 +6601,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/10/" width="80" />
+                <img src="https://progress-bar.xyz/21/" width="80" />
               </td>
             </tr>
             <tr>
@@ -6615,7 +6615,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/34/" width="80" />
+                <img src="https://progress-bar.xyz/35/" width="80" />
               </td>
             </tr>
             <tr>
@@ -6973,7 +6973,7 @@
           />
           Primogems earned
         </td>
-        <td>2095 (rate -22)</td>
+        <td>2234 (rate -16)</td>
       </tr>
       <tr>
         <td>
@@ -6983,13 +6983,13 @@
           />
           Mora earned
         </td>
-        <td>1407864 (rate 13)</td>
+        <td>1502237 (rate 20)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 590 (29%)<br />Spiral Abyss: 500 (24%)<br />Events:
-          460 (22%)<br />Adventure: 318 (15%)<br />Quests: 160 (7%)<br />Mail:
+          Daily Activity: 630 (29%)<br />Spiral Abyss: 500 (23%)<br />Events:
+          460 (21%)<br />Adventure: 377 (16%)<br />Quests: 200 (8%)<br />Mail:
           60 (2%)<br />Imaginarium Theater: 0 (0%)<br />Other: 7 (1%)<br />
         </td>
       </tr>
