@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 23, 2025 08:52 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 23, 2025 19:48 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -6370,7 +6370,7 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1045</td>
+        <td>1046</td>
       </tr>
       <tr>
         <td>Days_Active</td>
@@ -6378,7 +6378,7 @@
       </tr>
       <tr>
         <td>Characters</td>
-        <td>74</td>
+        <td>75</td>
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
@@ -6406,31 +6406,31 @@
       </tr>
       <tr>
         <td>Pyroculi</td>
-        <td>122</td>
+        <td>126</td>
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>2620</td>
+        <td>2623</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>2003</td>
+        <td>2004</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>594</td>
+        <td>596</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
-        <td>243</td>
-      </tr>
-      <tr>
-        <td>Remarkable_Chests</td>
         <td>244</td>
       </tr>
       <tr>
+        <td>Remarkable_Chests</td>
+        <td>245</td>
+      </tr>
+      <tr>
         <td>Unlocked_Waypoints</td>
-        <td>541</td>
+        <td>546</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -6601,7 +6601,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/45/" width="80" />
+                <img src="https://progress-bar.xyz/46/" width="80" />
               </td>
             </tr>
             <tr>
@@ -6615,7 +6615,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/38/" width="80" />
+                <img src="https://progress-bar.xyz/40/" width="80" />
               </td>
             </tr>
             <tr>
@@ -6973,7 +6973,7 @@
           />
           Primogems earned
         </td>
-        <td>2358 (rate -12)</td>
+        <td>2782 (rate 3)</td>
       </tr>
       <tr>
         <td>
@@ -6983,14 +6983,14 @@
           />
           Mora earned
         </td>
-        <td>1551540 (rate 24)</td>
+        <td>1856671 (rate 49)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 650 (28%)<br />Spiral Abyss: 500 (22%)<br />Adventure:
-          476 (20%)<br />Events: 460 (19%)<br />Quests: 200 (8%)<br />Mail: 60
-          (2%)<br />Imaginarium Theater: 0 (0%)<br />Other: 12 (1%)<br />
+          Daily Activity: 710 (26%)<br />Adventure: 635 (23%)<br />Spiral Abyss:
+          500 (18%)<br />Events: 460 (16%)<br />Quests: 400 (14%)<br />Mail: 60
+          (2%)<br />Imaginarium Theater: 0 (0%)<br />Other: 17 (1%)<br />
         </td>
       </tr>
     </table>
@@ -10213,6 +10213,93 @@
               <tr>
                 <td>Level</td>
                 <td>80</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Venti</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Venti</h3></th>
+          <th><h3 align="center">Sacrificial Bow</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Venti_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4a03625fdbc739dca379573871a4c2ca.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Sacrificial Bow</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Refinement</td>
