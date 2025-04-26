@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 25, 2025 19:47 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 26, 2025 08:48 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/86e1f7a5ff283d527bbc019475847174_6873942739037299410.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/6ef3e419022c871257a936b1857ac9d1_7183854527138136141.png"
             height="20"
           />
-          Senior Investigator Logs
+          W-Engine Energy Modules
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          10000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/19/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_155303366567207389.png"
             height="20"
           />
-          Disposable Kinetic Arm
+          Credit
         </td>
       </tr>
     </table>
@@ -6343,17 +6343,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
             height="20"
           />
-          Hero's Wit
+          Almond Tofu
         </td>
       </tr>
     </table>
@@ -6973,7 +6973,7 @@
           />
           Primogems earned
         </td>
-        <td>3322 (rate 23)</td>
+        <td>3622 (rate 34)</td>
       </tr>
       <tr>
         <td>
@@ -6983,14 +6983,14 @@
           />
           Mora earned
         </td>
-        <td>2107824 (rate 69)</td>
+        <td>2159552 (rate 73)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 880 (27%)<br />Daily Activity: 830 (25%)<br />Adventure: 635
-          (19%)<br />Spiral Abyss: 500 (15%)<br />Quests: 400 (12%)<br />Mail:
-          60 (1%)<br />Imaginarium Theater: 0 (0%)<br />Other: 17 (1%)<br />
+          Events: 880 (25%)<br />Daily Activity: 830 (23%)<br />Adventure: 635
+          (18%)<br />Spiral Abyss: 500 (13%)<br />Quests: 400 (11%)<br />Mail:
+          360 (9%)<br />Imaginarium Theater: 0 (0%)<br />Other: 17 (1%)<br />
         </td>
       </tr>
     </table>
