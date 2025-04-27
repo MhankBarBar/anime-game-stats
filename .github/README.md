@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 26, 2025 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 27, 2025 08:57 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/6ef3e419022c871257a936b1857ac9d1_7183854527138136141.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
             height="20"
           />
-          W-Engine Energy Modules
+          Dennies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          10000 x
+          20 x
           <img
-            src="https://act.hoyoverse.com/event-static/2023/10/19/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_155303366567207389.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
             height="20"
           />
-          Credit
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -6343,17 +6343,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Almond Tofu
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6983,7 +6983,7 @@
           />
           Mora earned
         </td>
-        <td>2218940 (rate 78)</td>
+        <td>2221898 (rate 78)</td>
       </tr>
       <tr>
         <td>Categories</td>
