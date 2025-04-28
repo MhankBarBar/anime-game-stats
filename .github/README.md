@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 27, 2025 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 28, 2025 08:56 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/5dc8f83551ad36b7c1ec57f2e4f223d1_6882324669759105258.png"
             height="20"
           />
-          Dennies
+          Ether Plating Agents
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/19/5ec24224c0e731d65270c6f2310e84a4_1327294036092457046.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>607</td>
+        <td>608</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>7368 (rate 1)</td>
+        <td>9408 (rate 29)</td>
       </tr>
       <tr>
         <td>
@@ -1473,9 +1473,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2595 (35%)<br />Event: 1560 (21%)<br />Forgotten
-          Hall: 880 (11%)<br />Mail: 870 (11%)<br />Simulated Universe: 800
-          (10%)<br />Daily Activity: 660 (8%)<br />Other: 3 (4%)<br />
+          Event: 3520 (37%)<br />Adventure Rewards: 2595 (27%)<br />Forgotten
+          Hall: 880 (9%)<br />Mail: 890 (9%)<br />Simulated Universe: 800
+          (8%)<br />Daily Activity: 720 (7%)<br />Other: 3 (3%)<br />
         </td>
       </tr>
     </table>
@@ -1724,7 +1724,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -2390,7 +2390,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -4495,7 +4495,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -4931,7 +4931,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -6343,17 +6343,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          Adventurer's Experience
+          Hero's Wit
         </td>
       </tr>
     </table>
@@ -6374,7 +6374,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1078</td>
+        <td>1079</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6973,7 +6973,7 @@
           />
           Primogems earned
         </td>
-        <td>3682 (rate 36)</td>
+        <td>3742 (rate 39)</td>
       </tr>
       <tr>
         <td>
@@ -6983,13 +6983,13 @@
           />
           Mora earned
         </td>
-        <td>2221898 (rate 78)</td>
+        <td>2277301 (rate 83)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 890 (25%)<br />Events: 880 (24%)<br />Adventure: 635
-          (18%)<br />Spiral Abyss: 500 (13%)<br />Quests: 400 (10%)<br />Mail:
+          Daily Activity: 950 (26%)<br />Events: 880 (24%)<br />Adventure: 635
+          (17%)<br />Spiral Abyss: 500 (13%)<br />Quests: 400 (10%)<br />Mail:
           360 (9%)<br />Imaginarium Theater: 0 (0%)<br />Other: 17 (1%)<br />
         </td>
       </tr>
