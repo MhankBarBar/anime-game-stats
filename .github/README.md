@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 28, 2025 19:56 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 29, 2025 08:53 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/5dc8f83551ad36b7c1ec57f2e4f223d1_6882324669759105258.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
             height="20"
           />
-          Ether Plating Agents
+          Dennies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          20 x
           <img
-            src="https://act.hoyoverse.com/event-static/2023/10/19/5ec24224c0e731d65270c6f2310e84a4_1327294036092457046.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
             height="20"
           />
-          Adventure Log
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -6343,17 +6343,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Hero's Wit
+          Mora
         </td>
       </tr>
     </table>
@@ -6374,7 +6374,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1079</td>
+        <td>1080</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6973,7 +6973,7 @@
           />
           Primogems earned
         </td>
-        <td>3742 (rate 39)</td>
+        <td>3802 (rate 41)</td>
       </tr>
       <tr>
         <td>
@@ -6983,13 +6983,13 @@
           />
           Mora earned
         </td>
-        <td>2277301 (rate 83)</td>
+        <td>2332146 (rate 87)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 950 (26%)<br />Events: 880 (24%)<br />Adventure: 635
-          (17%)<br />Spiral Abyss: 500 (13%)<br />Quests: 400 (10%)<br />Mail:
+          Daily Activity: 1010 (27%)<br />Events: 880 (24%)<br />Adventure: 635
+          (16%)<br />Spiral Abyss: 500 (13%)<br />Quests: 400 (10%)<br />Mail:
           360 (9%)<br />Imaginarium Theater: 0 (0%)<br />Other: 17 (1%)<br />
         </td>
       </tr>
