@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 29, 2025 19:50 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 30, 2025 08:53 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,7 +11,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/19/6b6ff68f20a7d6d647ca02a7fe5e7a6a_6821519863151223655.png"
             height="20"
           />
-          Stellar Jade
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -6343,7 +6343,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -6983,7 +6983,7 @@
           />
           Mora earned
         </td>
-        <td>2390182 (rate 92)</td>
+        <td>2392104 (rate 92)</td>
       </tr>
       <tr>
         <td>Categories</td>
