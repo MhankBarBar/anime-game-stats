@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 01, 2025 09:02 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 01, 2025 19:46 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,15 +1429,15 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>609</td>
+        <td>610</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>48</td>
+        <td>49</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>693</td>
+        <td>694</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>305 (rate -97)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>15 (rate -59)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 0 (0%)<br />Event: 0 (0%)<br />Adventure Rewards: 0
-          (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
-          0 (0%)<br />Other: 0 (0%)<br />
+          Event: 140 (45%)<br />Mail: 70 (22%)<br />Daily Activity: 60 (19%)<br />Adventure
+          Rewards: 35 (11%)<br />Other: 0 (3%)<br />Simulated Universe: 0
+          (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -2613,6 +2613,117 @@
               <tr>
                 <td>Superimpose</td>
                 <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Anaxa </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Anaxa</h3></th>
+          <th><h3>The Great Cosmic Enterprise</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/ebf98b8eb3afbd6e2e904017876f8db5.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/cd2a843a17c0aeffb4689b11c871adef.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/f1d8ddab04895c35b03e5a0a650eeacc.png"
+                    ,
+                    height="18"
+                  />
+                  Pioneer's Heatproof Shell<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/cb436ea51491a64b221f294eb185a611.png"
+                    ,
+                    height="18"
+                  />
+                  Pioneer's Lacuna Compass<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/d3e184380f29b00615e0b2e96100abed.png"
+                    ,
+                    height="18"
+                  />
+                  Pioneer's Sealed Lead Apron<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/1fbccb1fd44a88cad9a7f8ce23c169fe.png"
+                    ,
+                    height="18"
+                  />
+                  Pioneer's Starfaring Anchor<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/c7273e1d87e25040650eb974d2bf8447.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan Laser Stadium<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/678b115c792be36d52f4d35374616ae8.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan's Arclight Race Track<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>The Great Cosmic Enterprise</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -6374,11 +6485,11 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1081</td>
+        <td>1082</td>
       </tr>
       <tr>
         <td>Characters</td>
-        <td>75</td>
+        <td>76</td>
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
@@ -9662,7 +9773,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -12747,6 +12858,93 @@
       </table>
     </details>
     <details>
+      <summary><b>Ororon</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Ororon</h3></th>
+          <th><h3 align="center">Hunter's Bow</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Olorun_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c75ade4a5acb5eb9aaefbed318bf75ff.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Hunter's Bow</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Sethos</b></summary>
       <br />
       <table>
@@ -13146,7 +13344,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
