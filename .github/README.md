@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 17, 2025 08:53 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 17, 2025 19:42 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -7009,11 +7009,11 @@
             height="18"
           />
           Arlecchino (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/23aa979c8e86b7006a62039b9dd81c5b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a024f0f2e06e99d67f112cd12eef4af.png"
             ,
             height="18"
           />
-          Raiden Shogun (9)<br />
+          Furina (9)<br />
         </td>
       </tr>
       <tr>
