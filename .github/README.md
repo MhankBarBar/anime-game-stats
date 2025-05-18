@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 17, 2025 19:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 18, 2025 09:02 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -1429,7 +1429,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>617</td>
+        <td>618</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2560 (rate -76)</td>
+        <td>2640 (rate -75)</td>
       </tr>
       <tr>
         <td>
@@ -1473,9 +1473,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 800 (31%)<br />Event: 460 (17%)<br />Mail: 450
-          (17%)<br />Simulated Universe: 425 (16%)<br />Daily Activity: 360
-          (14%)<br />Other: 0 (3%)<br />Adventure Rewards: 65 (2%)<br />
+          Forgotten Hall: 800 (30%)<br />Event: 460 (17%)<br />Mail: 470
+          (17%)<br />Simulated Universe: 425 (16%)<br />Daily Activity: 420
+          (15%)<br />Other: 0 (3%)<br />Adventure Rewards: 65 (2%)<br />
         </td>
       </tr>
     </table>
@@ -6454,17 +6454,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -6485,7 +6485,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1084</td>
+        <td>1085</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6493,7 +6493,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>-</td>
+        <td>8-3</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -7004,16 +7004,16 @@
             height="18"
           />
           Kaedehara Kazuha (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1b277d9a90936da66f13918e3c9b828c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/23aa979c8e86b7006a62039b9dd81c5b.png"
             ,
             height="18"
           />
-          Arlecchino (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a024f0f2e06e99d67f112cd12eef4af.png"
+          Raiden Shogun (9)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/823e31bf43f378bd66c394985a323da8.png"
             ,
             height="18"
           />
-          Furina (9)<br />
+          Nahida (9)<br />
         </td>
       </tr>
       <tr>
@@ -7084,7 +7084,7 @@
           />
           Primogems earned
         </td>
-        <td>1035 (rate -73)</td>
+        <td>1385 (rate -64)</td>
       </tr>
       <tr>
         <td>
@@ -7094,13 +7094,13 @@
           />
           Mora earned
         </td>
-        <td>339629 (rate -85)</td>
+        <td>395629 (rate -83)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 430 (42%)<br />Events: 420 (40%)<br />Daily Activity: 180
-          (17%)<br />Adventure: 5 (1%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+          Mail: 780 (57%)<br />Events: 420 (30%)<br />Daily Activity: 180
+          (12%)<br />Adventure: 5 (1%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
           Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
