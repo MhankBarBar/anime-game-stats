@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 19, 2025 19:50 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 20, 2025 08:57 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3000 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
             height="20"
           />
-          Dennies
+          Polychromes
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Credit
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -6454,17 +6454,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fisherman's Toast
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6481,7 +6481,7 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1046</td>
+        <td>1049</td>
       </tr>
       <tr>
         <td>Days_Active</td>
@@ -6545,7 +6545,7 @@
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
-        <td>61</td>
+        <td>62</td>
       </tr>
       <tr>
         <td>Max_Friendship_Characters</td>
@@ -7084,7 +7084,7 @@
           />
           Primogems earned
         </td>
-        <td>1405 (rate -63)</td>
+        <td>1525 (rate -60)</td>
       </tr>
       <tr>
         <td>
@@ -7094,14 +7094,14 @@
           />
           Mora earned
         </td>
-        <td>395629 (rate -83)</td>
+        <td>597804 (rate -75)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 800 (57%)<br />Events: 420 (30%)<br />Daily Activity: 180
-          (12%)<br />Adventure: 5 (1%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 0 (0%)<br />
+          Mail: 800 (53%)<br />Events: 420 (28%)<br />Daily Activity: 240
+          (15%)<br />Quests: 60 (3%)<br />Adventure: 5 (1%)<br />Spiral Abyss: 0
+          (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
