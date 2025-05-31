@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 30, 2025 19:49 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 31, 2025 08:54 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,7 +11,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -1402,7 +1402,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -6454,7 +6454,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -6485,7 +6485,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1088</td>
+        <td>1089</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -7084,7 +7084,7 @@
           />
           Primogems earned
         </td>
-        <td>1591 (rate -58)</td>
+        <td>1631 (rate -57)</td>
       </tr>
       <tr>
         <td>
@@ -7094,12 +7094,12 @@
           />
           Mora earned
         </td>
-        <td>616743 (rate -74)</td>
+        <td>633743 (rate -73)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 800 (51%)<br />Events: 460 (29%)<br />Daily Activity: 250
+          Mail: 800 (50%)<br />Events: 500 (30%)<br />Daily Activity: 250
           (15%)<br />Quests: 60 (3%)<br />Adventure: 20 (1%)<br />Spiral Abyss:
           0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 1 (1%)<br />
         </td>
