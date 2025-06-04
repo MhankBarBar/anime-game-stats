@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 03, 2025 19:51 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 04, 2025 08:59 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>3</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
             height="20"
           />
-          Dennies
+          Crystallized Plating Agents
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>3</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
             height="20"
           />
-          Credit
+          Canned Soda
         </td>
       </tr>
     </table>
@@ -6454,17 +6454,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>3</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -6485,7 +6485,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1089</td>
+        <td>1090</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -7094,7 +7094,7 @@
           />
           Mora earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>21348 (rate -96)</td>
       </tr>
       <tr>
         <td>Categories</td>
