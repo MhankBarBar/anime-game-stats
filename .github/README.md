@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 04, 2025 08:59 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 04, 2025 19:51 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -6485,7 +6485,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1090</td>
+        <td>1091</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -7084,7 +7084,7 @@
           />
           Primogems earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>20 (rate -98)</td>
       </tr>
       <tr>
         <td>
@@ -7099,9 +7099,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
-          (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+          Mail: 20 (100%)<br />Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral
+          Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
+          0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
