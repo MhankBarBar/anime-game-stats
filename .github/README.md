@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 11, 2025 19:51 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 12, 2025 08:58 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/18/9c3085e9abec0272f623338bf8ee6c58_105284454118290029.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/18/a3cdd8c37c84f83a6d8490c75d80c6c1_5682144751981068481.png"
             height="20"
           />
-          Polychromes
+          W-Engine Energy Modules
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Lost Gold Fragment
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -1437,7 +1437,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>697</td>
+        <td>700</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>600 (rate -86)</td>
+        <td>2435 (rate -44)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>15 (rate -25)</td>
+        <td>19 (rate -5)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 340 (56%)<br />Mail: 140 (23%)<br />Daily Activity: 120
-          (20%)<br />Other: 0 (1%)<br />Adventure Rewards: 0 (0%)<br />Simulated
-          Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
+          Event: 1360 (55%)<br />Forgotten Hall: 800 (32%)<br />Mail: 140
+          (5%)<br />Daily Activity: 120 (4%)<br />Other: 0 (4%)<br />Adventure
+          Rewards: 15 (0%)<br />Simulated Universe: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6454,17 +6454,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
             height="20"
           />
-          Primogem
+          Fried Radish Balls
         </td>
       </tr>
     </table>
