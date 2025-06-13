@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 12, 2025 19:50 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 13, 2025 09:00 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/18/a3cdd8c37c84f83a6d8490c75d80c6c1_5682144751981068481.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
             height="20"
           />
-          W-Engine Energy Modules
+          Polychromes
         </td>
       </tr>
     </table>
@@ -1402,17 +1402,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Condensed Aether
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -6454,17 +6454,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fried Radish Balls
+          Adventurer's Experience
         </td>
       </tr>
     </table>
