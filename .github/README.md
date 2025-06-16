@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 16, 2025 09:03 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 16, 2025 19:52 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1429,15 +1429,15 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>625</td>
+        <td>626</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>49</td>
+        <td>50</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>700</td>
+        <td>703</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1458,7 +1458,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2435 (rate -44)</td>
+        <td>2815 (rate -35)</td>
       </tr>
       <tr>
         <td>
@@ -1468,14 +1468,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>19 (rate -5)</td>
+        <td>22 (rate 10)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1360 (55%)<br />Forgotten Hall: 800 (32%)<br />Mail: 140
-          (5%)<br />Daily Activity: 120 (4%)<br />Other: 0 (4%)<br />Adventure
-          Rewards: 15 (0%)<br />Simulated Universe: 0 (0%)<br />
+          Event: 1640 (58%)<br />Forgotten Hall: 800 (28%)<br />Daily Activity:
+          180 (6%)<br />Mail: 160 (5%)<br />Other: 0 (2%)<br />Adventure
+          Rewards: 35 (1%)<br />Simulated Universe: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -2613,6 +2613,113 @@
               <tr>
                 <td>Superimpose</td>
                 <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Cipher </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Cipher</h3></th>
+          <th><h3></h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/ba27b6cf64408b3082d13b50aed45e59.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center"><img src="" /></p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/cdb77d3fc6a91281209dcb94b37a6e15.png"
+                    ,
+                    height="18"
+                  />
+                  Pioneer's Heatproof Shell<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/080a67a0fd9dad463a8b5c8eafb0bd1f.png"
+                    ,
+                    height="18"
+                  />
+                  Pioneer's Lacuna Compass<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/22360f9ba291f0b6172620be317201de.png"
+                    ,
+                    height="18"
+                  />
+                  Pioneer's Sealed Lead Apron<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/b846776b19ff85a2032a9115fb9bd851.png"
+                    ,
+                    height="18"
+                  />
+                  Pioneer's Starfaring Anchor<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/424a72184aaee9e21f0ac94c7e754392.png"
+                    ,
+                    height="18"
+                  />
+                  Lushaka's Waterscape<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u272bd/6f4ab157c4c04241fcec26cc991d4940.png"
+                    ,
+                    height="18"
+                  />
+                  Lushaka's Twinlanes<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -5783,7 +5890,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Relics</td>
